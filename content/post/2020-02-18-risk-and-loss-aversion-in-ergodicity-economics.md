@@ -3,7 +3,7 @@ title: 'Risk and loss aversion in ergodicity economics'
 author: jasonacollins
 date: 2020-02-18 09:00:00+00:00
 lastmod: 2020-02-18 09:00:00+00:00
-draft: true
+draft: false
 comments: true
 slug: risk-and-loss-aversion-in-ergodicity-economics
 ---

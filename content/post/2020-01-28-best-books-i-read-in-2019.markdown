@@ -2,7 +2,7 @@
 title: 'Best books I read in 2019'
 author: jasonacollins
 date: 2020-01-28 09:00:00+00:00
-draft: true
+draft: false
 comments: true
 slug: best-books-i-read-in-2019
 ---

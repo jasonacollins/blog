@@ -1,9 +1,9 @@
 ---
-title: 'The limits of behavioural science: coronavirus edition'
+title: "The limits of behavioural science: coronavirus edition"
 author: jasonacollins
 date: 2020-04-07 09:00:00+00:00
 lastmod: 2020-04-07 09:00:00+00:00
-draft: true
+draft: false
 comments: true
 slug: 2020-04-07-the-limits-of-behavioural-science-coronavirus-edition
 ---

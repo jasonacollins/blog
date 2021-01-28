@@ -3,7 +3,7 @@ title: "Aren't we smart, fellow behavioural scientists"
 author: jasonacollins
 date: 2020-06-12 09:00:08+00:00
 lastmod: 2020-06-17 09:00:08+00:00
-draft: true
+draft: false
 comments: true
 slug: arent-we-smart-fellow-behavioural-scientists
 ---

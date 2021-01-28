@@ -2,7 +2,7 @@
 title: 'The next decade of behavioural science: a call for intellectual diversity'
 author: jasonacollins
 date: 2019-11-14 09:00:00+00:00
-draft: true
+draft: false
 comments: true
 slug: the-next-decade-of-behavioural-science-a-call-for-intellectual-diversity
 ---

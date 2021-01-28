@@ -1,5 +1,5 @@
 ---
-title: 'Ergodicity economics: a primer'
+title: "Ergodicity economics: a primer"
 author: jasonacollins
 date: 2020-01-22 09:00:00+00:00
 lastmod: 2020-12-24 09:00:00+00:00
