@@ -1,0 +1,5273 @@
+<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2017-08-28T21:41:52+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/best-books-i-read-in-2020/</loc>
+    <lastmod>2021-01-06T09:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2021-01-06T09:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2021-01-06T09:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ergodicity-economics-a-primer/</loc>
+    <lastmod>2020-12-24T09:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-case-against-loss-aversion/</loc>
+    <lastmod>2019-12-05T09:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/what-can-we-infer-about-someone-who-rejects-a-5050-bet-to-win-110-or-lose-100-the-rabin-paradox-explored/</loc>
+    <lastmod>2019-11-06T01:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/my-latest-article-at-behavioral-scientist-principles-for-the-application-of-human-intelligence/</loc>
+    <lastmod>2019-10-09T09:05:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/kahneman-and-tverskys-debatable-loss-aversion-assumption/</loc>
+    <lastmod>2019-09-10T09:00:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/david-leiser-and-yhonatan-shemeshs-how-we-misunderstand-economics-and-why-it-matters-the-psychology-of-bias-distortion-and-conspiracy/</loc>
+    <lastmod>2019-08-05T09:00:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/nick-chaters-the-mind-is-flat-the-illusion-of-mental-depth-and-the-improvised-mind/</loc>
+    <lastmod>2019-05-13T09:00:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/debating-the-conjunction-fallacy/</loc>
+    <lastmod>2019-05-09T09:00:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/three-algorithmic-views-of-human-judgment-and-the-need-to-consider-more-than-algorithms/</loc>
+    <lastmod>2019-04-30T09:00:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/gigerenzer-versus-kahneman-and-tversky-the-1996-face-off/</loc>
+    <lastmod>2019-04-01T08:00:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/barry-schwartzs-the-paradox-of-choice-why-more-is-less/</loc>
+    <lastmod>2019-02-25T08:00:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/gary-kleins-sources-of-power-how-people-make-decisions/</loc>
+    <lastmod>2019-01-17T08:00:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-review-of-2018-and-some-thoughts-on-2019/</loc>
+    <lastmod>2019-01-14T08:00:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/carol-dwecks-mindset-changing-the-way-you-think-to-fulfil-your-potential/</loc>
+    <lastmod>2019-01-10T08:00:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/books-i-read-in-2018/</loc>
+    <lastmod>2019-01-03T08:00:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/gary-klein-on-heuristics-and-biases-confirmation-bias-and-explaining-everything/</loc>
+    <lastmod>2018-12-27T11:00:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/in-contrast-to-less-is-more-claims-ignoring-information-is-rarely-if-ever-optimal/</loc>
+    <lastmod>2018-12-20T08:00:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/my-latest-in-behavioral-scientist-simple-heuristics-that-make-algorithms-smart/</loc>
+    <lastmod>2018-12-14T08:00:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-problem-in-the-world-or-a-problem-in-the-model/</loc>
+    <lastmod>2018-12-07T08:00:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-rhetoric-of-irrationality/</loc>
+    <lastmod>2018-11-30T08:00:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/genoeconomics-and-designer-babies-the-rise-of-the-polygenic-score/</loc>
+    <lastmod>2018-11-23T08:00:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/how-happy-is-a-paraplegic-a-year-after-losing-the-use-of-their-legs/</loc>
+    <lastmod>2018-11-16T08:00:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/how-likely-is-likely/</loc>
+    <lastmod>2018-11-09T08:00:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/avoiding-trite-lists-of-biases-and-pictures-of-human-brains-on-powerpoint-slides/</loc>
+    <lastmod>2018-11-01T08:00:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/chris-vosss-never-split-the-difference-negotiating-as-if-your-life-depended-on-it/</loc>
+    <lastmod>2018-10-25T08:00:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/me-on-rationally-speaking-plus-some-additional-thoughts/</loc>
+    <lastmod>2018-10-18T08:00:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/an-evolutionary-projection-of-global-fertility-and-population-my-new-paper-with-lionel-page-in-evolution-human-behavior/</loc>
+    <lastmod>2018-10-11T08:00:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-paradox-of-trust/</loc>
+    <lastmod>2018-10-04T09:00:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/nudging-and-the-problem-of-context-dependent-preferences/</loc>
+    <lastmod>2018-09-28T09:00:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market/</loc>
+    <lastmod>2018-09-26T09:00:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/do-nudges-diminish-autonomy/</loc>
+    <lastmod>2018-09-19T09:00:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-new-useless-class/</loc>
+    <lastmod>2018-09-12T09:00:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/has-the-behavioural-economics-pendulum-swung-too-far/</loc>
+    <lastmod>2018-09-05T09:00:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-three-faces-of-overconfidence/</loc>
+    <lastmod>2018-08-29T09:00:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/concern-about-the-tyranny-of-choice-or-condescension-towards-others-preferences/</loc>
+    <lastmod>2018-08-24T09:00:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/gerd-gigerenzers-gut-feelings-short-cuts-to-better-decision-making/</loc>
+    <lastmod>2018-08-22T09:00:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/gerd-gigerenzers-rationality-for-mortals-how-people-cope-with-uncertainty/</loc>
+    <lastmod>2018-08-15T09:00:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-difference-between-knowing-the-name-of-something-and-knowing-something/</loc>
+    <lastmod>2018-08-08T09:00:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/michael-mauboussins-think-twice-harnessing-the-power-of-counterintuition/</loc>
+    <lastmod>2018-08-01T09:00:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/robert-sapolskys-why-zebras-dont-get-ulcers/</loc>
+    <lastmod>2018-07-25T09:00:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tom-griffiths-on-gigerenzer-versus-kahneman-and-tversky-plus-a-neat-explanation-on-why-the-availability-heuristic-can-be-optimal/</loc>
+    <lastmod>2018-07-18T09:00:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/opposing-biases/</loc>
+    <lastmod>2018-07-11T09:00:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hypotheticals-versus-the-real-world-the-trolley-problem/</loc>
+    <lastmod>2018-07-04T09:00:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/explaining-the-hot-hand-fallacy-fallacy/</loc>
+    <lastmod>2018-06-27T18:00:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/wealth-and-genes/</loc>
+    <lastmod>2018-06-21T09:00:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/is-the-marshmallow-test-just-a-measure-of-affluence/</loc>
+    <lastmod>2018-06-13T09:00:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/does-a-moral-reminder-decrease-cheating/</loc>
+    <lastmod>2018-06-07T09:00:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-marshmallow-test-held-up-ok/</loc>
+    <lastmod>2018-05-31T09:00:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/teacher-expectations-and-self-fulfilling-prophesies/</loc>
+    <lastmod>2018-05-24T09:00:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/bankers-are-more-honest-than-the-rest-of-us/</loc>
+    <lastmod>2018-05-16T09:00:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/noise/</loc>
+    <lastmod>2018-05-09T09:00:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/behavioural-economics-underrated-or-overrated/</loc>
+    <lastmod>2018-05-02T09:00:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/my-blogroll/</loc>
+    <lastmod>2018-04-26T21:00:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/thorstein-veblens-the-theory-of-the-leisure-class/</loc>
+    <lastmod>2018-04-25T09:00:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/how-i-focus-and-live/</loc>
+    <lastmod>2018-04-19T09:00:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/michael-mauboussins-more-than-you-know-finding-financial-wisdom-in-unconventional-places/</loc>
+    <lastmod>2018-04-12T09:00:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/susan-cains-quiet-the-power-of-introverts-in-a-world-that-cant-stop-talking/</loc>
+    <lastmod>2018-04-05T09:00:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/cass-sunstein-and-reid-hasties-wiser-getting-beyond-groupthink-to-make-groups-smarter/</loc>
+    <lastmod>2018-03-28T08:00:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/some-podcast-recommendations/</loc>
+    <lastmod>2018-03-21T08:00:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/people-should-use-their-judgment-except-theyre-often-lousy-at-it/</loc>
+    <lastmod>2018-03-14T08:00:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/mike-walsh-interviews-me-on-algorithm-aversion/</loc>
+    <lastmod>2018-03-07T08:00:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/philip-tetlock-on-messing-with-the-algorithm/</loc>
+    <lastmod>2018-02-28T08:00:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/michael-lewiss-the-undoing-project-a-friendship-that-changed-the-world/</loc>
+    <lastmod>2018-02-21T08:00:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/angela-duckworths-grit-the-power-of-passion-and-perseverance/</loc>
+    <lastmod>2018-02-14T08:00:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/dealing-with-algorithm-aversion/</loc>
+    <lastmod>2018-02-07T08:00:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/dan-arielys-payoff-the-hidden-logic-that-shapes-our-motivations/</loc>
+    <lastmod>2018-01-31T08:00:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ai-in-medicine-outperforming-humans-since-the-1970s/</loc>
+    <lastmod>2018-01-24T08:00:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/is-there-a-backfire-effect/</loc>
+    <lastmod>2018-01-17T08:00:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/benartzi-and-lehrers-the-smarter-screen-surprising-ways-to-influence-and-improve-online-behaviour/</loc>
+    <lastmod>2018-01-10T08:00:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/best-books-i-read-in-2017/</loc>
+    <lastmod>2018-01-03T08:00:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/paul-ormerod-on-thalers-misbehaving/</loc>
+    <lastmod>2017-11-20T08:00:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/unchanging-humans/</loc>
+    <lastmod>2017-11-16T08:00:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/getting-the-right-human-machine-mix/</loc>
+    <lastmod>2017-11-13T08:00:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/courseras-data-science-specialisation-a-review/</loc>
+    <lastmod>2017-11-08T08:00:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/perrows-normal-accidents-living-with-high-risk-technologies/</loc>
+    <lastmod>2017-11-02T08:00:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-benefit-of-doing-nothing/</loc>
+    <lastmod>2017-10-09T08:00:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/alters-irresistible-why-we-cant-stop-checking-scrolling-clicking-and-watching/</loc>
+    <lastmod>2017-10-05T08:00:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/rats-in-a-casino/</loc>
+    <lastmod>2017-10-03T08:00:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ips-foolproof-why-safety-can-be-dangerous-and-how-danger-makes-us-safe/</loc>
+    <lastmod>2017-09-28T09:00:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/does-presuming-you-can-take-a-persons-organs-save-lives/</loc>
+    <lastmod>2017-08-30T09:00:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/oneils-weapons-of-math-destruction-how-big-data-increases-inequality-and-threatens-democracy/</loc>
+    <lastmod>2017-08-22T09:00:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/is-it-irrational/</loc>
+    <lastmod>2017-08-15T21:13:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/kasparovs-deep-thinking-where-machine-intelligence-ends-and-human-creativity-begins/</loc>
+    <lastmod>2017-07-19T09:00:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/humans-vs-algorithms/</loc>
+    <lastmod>2017-07-13T22:00:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-effect-is-too-large-heuristic/</loc>
+    <lastmod>2017-07-06T09:00:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-critical-behavioural-economics-and-behavioural-science-reading-list/</loc>
+    <lastmod>2020-02-12T11:40:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/behavioral-scientist-is-live/</loc>
+    <lastmod>2017-06-23T12:07:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/simple-heuristics-that-make-us-smart/</loc>
+    <lastmod>2017-03-13T08:00:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/domingoss-the-master-algorithm-how-the-quest-for-the-ultimate-learning-machine-will-remake-our-world/</loc>
+    <lastmod>2017-02-27T08:00:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/courseras-executive-data-science-specialisation-a-review/</loc>
+    <lastmod>2017-01-23T08:00:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/christian-and-griffithss-algorithms-to-live-by-the-computer-science-of-human-decisions/</loc>
+    <lastmod>2017-01-20T08:00:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/best-books-i-read-in-2016/</loc>
+    <lastmod>2017-01-17T08:00:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/newports-so-good-they-cant-ignore-you-why-skills-trump-passion-in-the-quest-for-work-you-love/</loc>
+    <lastmod>2016-11-30T08:00:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/rosenzweigs-left-brain-right-stuff-how-leaders-make-winning-decisions/</loc>
+    <lastmod>2016-11-25T08:00:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-illusion-of-the-illusion-of-control/</loc>
+    <lastmod>2016-11-21T08:00:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/overconfident-about-overconfidence/</loc>
+    <lastmod>2020-06-17T09:00:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/henrichs-the-secret-of-our-success-how-culture-is-driving-human-evolution-domesticating-our-species-and-making-us-smarter/</loc>
+    <lastmod>2016-11-14T08:00:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/joness-hive-mind-how-your-nations-iq-matters-so-much-more-than-your-own/</loc>
+    <lastmod>2016-11-04T08:00:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/mandelbrot-and-hudsons-the-misbehaviour-of-markets-a-fractal-view-of-risk-ruin-and-reward/</loc>
+    <lastmod>2016-10-12T08:00:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/why-prediction-is-pointless/</loc>
+    <lastmod>2016-09-27T09:00:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/rosenzweigs-the-halo-effect-and-the-eight-other-business-delusions-that-deceive-managers/</loc>
+    <lastmod>2016-09-21T09:00:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tetlock-and-gardners-superforecasting-the-art-and-science-of-prediction/</loc>
+    <lastmod>2016-09-12T09:00:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know/</loc>
+    <lastmod>2016-08-25T09:00:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/bias-in-the-world-bank/</loc>
+    <lastmod>2016-07-25T09:00:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/kaufmanns-shall-the-religious-inherit-the-earth-demography-and-politics-in-the-twenty-first-century/</loc>
+    <lastmod>2016-07-22T09:00:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/three-podcasts/</loc>
+    <lastmod>2016-07-20T09:00:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/lasts-what-to-expect-when-no-ones-expecting-americas-coming-demographic-disaster/</loc>
+    <lastmod>2016-07-18T09:00:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/baumeister-and-tierneys-willpower-rediscovering-the-greatest-human-strength/</loc>
+    <lastmod>2016-07-15T09:00:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-behavioural-economics-guide-2016-with-an-intro-by-gerd-gigerenzer/</loc>
+    <lastmod>2016-07-04T09:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/re-reading-kahnemans-thinking-fast-and-slow/</loc>
+    <lastmod>2016-06-29T09:00:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/levines-is-behavioural-economics-doomed/</loc>
+    <lastmod>2016-06-23T09:00:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/replicating-anchoring-effects/</loc>
+    <lastmod>2016-05-27T09:00:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/saint-pauls-the-tyranny-of-utility-behavioral-social-science-and-the-rise-of-paternalism/</loc>
+    <lastmod>2016-05-26T09:00:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/bad-behavioural-science-failures-bias-and-fairy-tales/</loc>
+    <lastmod>2016-05-11T09:00:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/evolutionary-biology-in-economics-a-review/</loc>
+    <lastmod>2016-05-10T09:00:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/arielys-the-honest-truth-about-dishonesty/</loc>
+    <lastmod>2016-04-22T09:00:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-macrogenoeconomics-of-comparative-development/</loc>
+    <lastmod>2016-04-20T09:00:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/failure-to-replicate-ego-depletion-edition/</loc>
+    <lastmod>2016-04-15T09:00:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/notes-on-a-few-books/</loc>
+    <lastmod>2016-04-13T09:00:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/masels-bypass-wall-street-a-biologists-guide-to-the-rat-race/</loc>
+    <lastmod>2016-04-06T09:00:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/gottschalls-the-storytelling-animal/</loc>
+    <lastmod>2016-04-01T08:00:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/my-first-biology-publication/</loc>
+    <lastmod>2016-03-31T09:24:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/gigerenzer-on-system-one-and-system-two/</loc>
+    <lastmod>2016-03-17T08:00:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/kays-other-peoples-money/</loc>
+    <lastmod>2016-03-08T08:00:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/thiels-zero-to-one/</loc>
+    <lastmod>2016-02-15T08:00:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/kenrick-and-griskeviciuss-the-rational-animal/</loc>
+    <lastmod>2016-02-08T08:00:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/best-books-i-read-in-2015/</loc>
+    <lastmod>2016-01-18T08:00:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/phd-thesis-passed/</loc>
+    <lastmod>2015-11-16T08:00:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/evonomics-is-live/</loc>
+    <lastmod>2015-10-12T08:00:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/economics-and-biology-of-contests-conference-2016/</loc>
+    <lastmod>2015-10-06T08:00:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/another-msix-reading-list/</loc>
+    <lastmod>2015-07-31T06:00:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/please-not-another-bias-an-evolutionary-take-on-behavioural-economics/</loc>
+    <lastmod>2015-07-30T06:00:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-106/</loc>
+    <lastmod>2015-07-03T09:00:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/sam-bowles-on-the-death-of-homo-economicus/</loc>
+    <lastmod>2015-07-02T09:00:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-grumpy-take-on-behavioural-economics/</loc>
+    <lastmod>2015-06-30T09:00:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-105/</loc>
+    <lastmod>2015-06-26T09:00:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/we-have-no-idea/</loc>
+    <lastmod>2015-06-24T09:00:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/please-experiment-on-us/</loc>
+    <lastmod>2015-06-23T09:00:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-evolutionary-foundations-of-economics/</loc>
+    <lastmod>2015-06-22T09:00:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-104/</loc>
+    <lastmod>2015-06-19T09:00:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-human-factor-in-accidents/</loc>
+    <lastmod>2015-06-17T09:00:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/marketing-science-ideas-xchange-msix-2015/</loc>
+    <lastmod>2015-06-15T09:00:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-103/</loc>
+    <lastmod>2015-06-12T09:00:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-winner-effect-in-humans/</loc>
+    <lastmod>2015-06-11T09:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/family-friendly-backfires/</loc>
+    <lastmod>2015-06-09T09:00:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-102/</loc>
+    <lastmod>2015-06-05T09:00:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/merton-on-retirement-incomes/</loc>
+    <lastmod>2015-06-04T09:00:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/measurement-error-in-23andme/</loc>
+    <lastmod>2015-06-02T09:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ration-information-and-avoid-news/</loc>
+    <lastmod>2015-06-01T09:00:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-101/</loc>
+    <lastmod>2015-05-29T09:00:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/fifty-years-of-twin-studies/</loc>
+    <lastmod>2015-05-28T09:00:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/conspicuous-consumption-and-economic-growth-2/</loc>
+    <lastmod>2015-05-26T09:00:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-100/</loc>
+    <lastmod>2015-05-16T22:43:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-99/</loc>
+    <lastmod>2015-05-01T09:00:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/bad-nudges-organ-donation-edition/</loc>
+    <lastmod>2015-04-27T09:00:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-98/</loc>
+    <lastmod>2015-04-24T09:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/returns-to-self-control-unemployment-edition/</loc>
+    <lastmod>2015-04-15T09:00:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/uncertainty-and-understanding-behaviour/</loc>
+    <lastmod>2015-04-13T09:00:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-97/</loc>
+    <lastmod>2015-04-10T11:33:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/predicting-replication/</loc>
+    <lastmod>2015-04-09T14:00:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-96/</loc>
+    <lastmod>2015-04-03T08:00:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-law-of-laws-leverage/</loc>
+    <lastmod>2015-04-02T08:00:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-gender-reading-gap-and-love-of-learning/</loc>
+    <lastmod>2015-03-30T08:00:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-95/</loc>
+    <lastmod>2015-03-27T08:00:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/an-evolutionary-perspective-on-behavioural-economics/</loc>
+    <lastmod>2015-03-25T08:00:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-gell-mann-amnesia-effect/</loc>
+    <lastmod>2015-03-23T10:15:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-94/</loc>
+    <lastmod>2015-03-20T08:00:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-93/</loc>
+    <lastmod>2015-03-13T08:00:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-patience-of-economists/</loc>
+    <lastmod>2015-03-12T08:00:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-other-gender-gap/</loc>
+    <lastmod>2015-03-10T08:00:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-92/</loc>
+    <lastmod>2015-03-06T08:00:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/overcoming-implicit-bias/</loc>
+    <lastmod>2015-03-04T08:00:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/introducing-evonomics/</loc>
+    <lastmod>2015-03-02T08:00:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-91/</loc>
+    <lastmod>2015-02-27T08:00:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/accepting-heritability/</loc>
+    <lastmod>2015-02-25T08:00:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/wisdom-from-tolstoy/</loc>
+    <lastmod>2015-02-23T08:00:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-90/</loc>
+    <lastmod>2015-02-20T08:00:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/moving-a-nation-from-good-to-great/</loc>
+    <lastmod>2015-02-18T08:00:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/good-to-great-for-nations/</loc>
+    <lastmod>2015-02-16T08:00:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-89/</loc>
+    <lastmod>2015-02-13T08:00:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/charts-that-dont-seem-quite-right-organ-donation-edition/</loc>
+    <lastmod>2015-02-11T08:00:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-death-of-defaults/</loc>
+    <lastmod>2015-02-09T08:00:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-88/</loc>
+    <lastmod>2015-02-06T08:00:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/obesity-is-not-a-public-health-problem/</loc>
+    <lastmod>2015-02-05T08:00:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/durants-the-paleo-manifesto/</loc>
+    <lastmod>2015-02-04T08:00:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/nudging-for-freedom/</loc>
+    <lastmod>2015-02-02T08:00:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-87/</loc>
+    <lastmod>2015-01-30T08:00:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/manzis-uncontrolled/</loc>
+    <lastmod>2015-01-28T08:00:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/manzi-on-the-abortion-crime-hypothesis/</loc>
+    <lastmod>2015-01-26T08:00:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-86/</loc>
+    <lastmod>2015-01-23T08:00:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/grade-inflation-and-the-dunning-kruger-effect/</loc>
+    <lastmod>2015-01-21T08:00:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-benefits-of-cognitive-limits/</loc>
+    <lastmod>2015-01-19T08:00:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-85/</loc>
+    <lastmod>2015-01-16T08:00:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/that-chart-doesnt-match-your-headline-fertility-edition/</loc>
+    <lastmod>2015-01-14T08:00:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/bad-statistics-cancer-edition/</loc>
+    <lastmod>2015-01-12T08:00:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-84/</loc>
+    <lastmod>2015-01-09T08:00:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-blogs-i-read/</loc>
+    <lastmod>2015-01-08T08:00:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/self-evident-but-unexplored-how-genetic-effects-vary-over-time/</loc>
+    <lastmod>2015-01-05T08:00:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-83/</loc>
+    <lastmod>2015-01-02T08:00:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/best-books-i-read-in-2014/</loc>
+    <lastmod>2014-12-30T08:00:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/complexity-and-the-art-of-public-policy/</loc>
+    <lastmod>2014-12-29T08:00:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-82/</loc>
+    <lastmod>2014-12-27T08:00:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-81/</loc>
+    <lastmod>2014-12-19T08:00:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/complexity-versus-chaos/</loc>
+    <lastmod>2014-12-18T08:00:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/more-praise-of-mathematics/</loc>
+    <lastmod>2014-12-16T08:00:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-80/</loc>
+    <lastmod>2014-12-12T08:00:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/my-year/</loc>
+    <lastmod>2014-12-11T08:00:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/we-need-more-complicated-mathematical-models-in-economics/</loc>
+    <lastmod>2014-12-08T08:00:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-79/</loc>
+    <lastmod>2014-12-06T08:00:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-unrealistic-assumptions-of-biology/</loc>
+    <lastmod>2014-12-04T08:00:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-power-of-heuristics/</loc>
+    <lastmod>2014-12-02T08:00:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-78/</loc>
+    <lastmod>2014-11-28T08:00:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/four-perspectives-on-human-decision-making/</loc>
+    <lastmod>2014-11-25T08:40:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-77/</loc>
+    <lastmod>2014-11-22T08:00:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/genetics-and-education-policy/</loc>
+    <lastmod>2014-11-19T08:00:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-beauty-of-self-interest/</loc>
+    <lastmod>2014-11-18T08:05:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/e-o-wilsons-the-social-conquest-of-earth/</loc>
+    <lastmod>2014-11-17T08:19:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-76/</loc>
+    <lastmod>2014-11-14T08:25:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ignorance-feels-so-much-like-expertise/</loc>
+    <lastmod>2014-11-12T08:02:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-75/</loc>
+    <lastmod>2014-11-07T08:37:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/genome-wide-association-studies-and-socioeconomic-outcomes/</loc>
+    <lastmod>2014-11-04T08:31:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-74/</loc>
+    <lastmod>2014-10-31T09:15:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/improving-behavioural-economics/</loc>
+    <lastmod>2014-10-29T09:39:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/an-updated-economics-and-evolutionary-biology-reading-list-and-a-collection-of-book-reviews/</loc>
+    <lastmod>2014-10-27T10:05:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-73/</loc>
+    <lastmod>2014-10-25T08:07:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/finding-taxis-on-rainy-days/</loc>
+    <lastmod>2014-10-23T10:17:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-72/</loc>
+    <lastmod>2014-10-19T08:19:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-invisible-hand-of-jupiter/</loc>
+    <lastmod>2014-10-14T08:17:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/lazy-analysis-inequality-edition/</loc>
+    <lastmod>2014-10-11T06:00:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-71/</loc>
+    <lastmod>2014-10-10T08:43:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-70/</loc>
+    <lastmod>2014-10-04T08:44:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tamed-by-an-influx-of-women/</loc>
+    <lastmod>2014-10-02T09:43:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-genetic-basis-of-social-mobility/</loc>
+    <lastmod>2014-09-30T09:03:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-69/</loc>
+    <lastmod>2014-09-27T09:50:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/kahnemans-optimistic-view-of-the-mind/</loc>
+    <lastmod>2014-09-24T11:22:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-68/</loc>
+    <lastmod>2014-09-19T21:59:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/scarcity-of-time-money-friends-and-bandwidth/</loc>
+    <lastmod>2014-09-18T09:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-67/</loc>
+    <lastmod>2014-09-12T09:33:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/nudging-citizens-to-be-risk-savvy/</loc>
+    <lastmod>2014-09-10T09:12:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-66/</loc>
+    <lastmod>2014-09-05T10:02:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-biology-of-boom-and-bust/</loc>
+    <lastmod>2014-09-04T09:47:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-65/</loc>
+    <lastmod>2014-08-31T09:46:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/twin-studies-stand-up-to-the-critique-again/</loc>
+    <lastmod>2014-08-28T11:37:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-64/</loc>
+    <lastmod>2014-08-22T10:44:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-63/</loc>
+    <lastmod>2014-08-16T23:03:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/shaping-the-brain-and-humans-as-complex-systems/</loc>
+    <lastmod>2014-08-12T10:30:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-62/</loc>
+    <lastmod>2014-08-08T11:00:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/not-the-jam-study-again/</loc>
+    <lastmod>2014-08-06T09:00:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-61/</loc>
+    <lastmod>2014-08-01T13:44:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/an-msix-reading-list/</loc>
+    <lastmod>2014-07-31T03:28:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/gigerenzer-versus-nudge/</loc>
+    <lastmod>2014-07-29T13:37:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-60/</loc>
+    <lastmod>2014-07-25T13:49:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/our-visual-system-predicts-the-future/</loc>
+    <lastmod>2014-07-24T13:25:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-59/</loc>
+    <lastmod>2014-07-18T03:15:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-wisdom-of-crowds-of-people-who-dont-believe-in-the-wisdom-of-crowds/</loc>
+    <lastmod>2014-07-17T13:01:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-behaviour-genetics-to-eugenics-to-nazi-manoeuvre/</loc>
+    <lastmod>2014-07-16T13:04:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/msix-marketing-science-ideas-xchange/</loc>
+    <lastmod>2014-07-11T03:44:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-58/</loc>
+    <lastmod>2014-07-07T13:21:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/genes-and-socioeconomic-aggregates/</loc>
+    <lastmod>2014-06-24T13:18:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/is-poverty-genetic/</loc>
+    <lastmod>2014-06-20T13:55:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-benefit-of-uncertainty/</loc>
+    <lastmod>2014-06-15T13:32:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-57/</loc>
+    <lastmod>2014-06-09T13:03:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-56/</loc>
+    <lastmod>2014-05-19T13:14:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/doubling-down/</loc>
+    <lastmod>2014-05-13T13:23:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-55/</loc>
+    <lastmod>2014-05-11T13:36:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/becker-on-evolution-and-economics/</loc>
+    <lastmod>2014-05-06T13:30:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-new-bell-curve/</loc>
+    <lastmod>2014-05-05T13:25:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-54/</loc>
+    <lastmod>2014-05-03T13:16:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-53/</loc>
+    <lastmod>2014-04-18T13:56:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/humbling-wingnuts/</loc>
+    <lastmod>2014-04-11T13:42:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-magic-of-commerce/</loc>
+    <lastmod>2014-04-09T13:32:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ignore-the-sunk-costs/</loc>
+    <lastmod>2014-04-07T13:23:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-52/</loc>
+    <lastmod>2014-04-06T13:20:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-51/</loc>
+    <lastmod>2014-03-11T13:18:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-50/</loc>
+    <lastmod>2014-02-10T13:03:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/cooperation-and-conflict-in-the-family-conference-wrap/</loc>
+    <lastmod>2014-02-09T01:01:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-49/</loc>
+    <lastmod>2014-02-01T23:19:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-48/</loc>
+    <lastmod>2014-01-27T03:32:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-47/</loc>
+    <lastmod>2014-01-19T02:22:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-interplay-of-genetic-and-cultural-evolution/</loc>
+    <lastmod>2014-01-15T13:53:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/doing-cultural-evolution-right/</loc>
+    <lastmod>2014-01-13T13:52:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-46/</loc>
+    <lastmod>2014-01-10T13:55:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-origin-of-the-phrase-sneaky-fcker/</loc>
+    <lastmod>2014-01-08T13:58:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-45/</loc>
+    <lastmod>2014-01-04T13:44:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/most-read-posts-of-2013/</loc>
+    <lastmod>2014-01-01T13:42:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/best-books-i-read-in-2013/</loc>
+    <lastmod>2013-12-23T13:33:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-44/</loc>
+    <lastmod>2013-12-20T13:58:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-benefits-of-math-skills-to-forager-farmers/</loc>
+    <lastmod>2013-12-18T13:33:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-43/</loc>
+    <lastmod>2013-12-15T13:13:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-theoretical-ambition-of-behavioural-science/</loc>
+    <lastmod>2013-12-11T13:54:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-42/</loc>
+    <lastmod>2013-12-08T13:18:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/neoclassical-theory-won-because-it-backed-the-right-horse/</loc>
+    <lastmod>2013-12-02T13:45:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/natural-selection-and-savings/</loc>
+    <lastmod>2013-11-29T13:56:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/sexual-selection-on-the-american-frontier/</loc>
+    <lastmod>2013-11-27T13:09:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/conspicuous-consumption-as-a-handicap/</loc>
+    <lastmod>2013-11-25T12:11:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/an-evolutionary-explanation-of-consumption/</loc>
+    <lastmod>2013-11-22T12:52:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/does-mathematical-training-increase-our-risk-tolerance/</loc>
+    <lastmod>2013-11-20T13:31:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/cross-country-variation-in-time-preference/</loc>
+    <lastmod>2013-11-18T13:27:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-41/</loc>
+    <lastmod>2013-11-15T13:44:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/why-isnt-economics-evolutionary/</loc>
+    <lastmod>2013-11-13T13:48:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/nelson-and-winters-an-evolutionary-theory-of-economic-change/</loc>
+    <lastmod>2013-11-11T13:24:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-40/</loc>
+    <lastmod>2013-11-08T13:33:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/is-intelligence-at-the-root-of-cooperation/</loc>
+    <lastmod>2013-11-06T13:50:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/thaler-and-sunsteins-nudge/</loc>
+    <lastmod>2013-11-04T13:34:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-39/</loc>
+    <lastmod>2013-11-01T01:45:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/behavioural-economics-versus-behavioural-science/</loc>
+    <lastmod>2013-10-30T13:22:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/six-signs-youre-reading-good-criticism-of-economics/</loc>
+    <lastmod>2013-10-28T13:48:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-38/</loc>
+    <lastmod>2013-10-25T13:17:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/warfare-and-the-transition-to-agriculture/</loc>
+    <lastmod>2013-10-24T13:38:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/life-expectancy-and-the-dawn-of-agriculture/</loc>
+    <lastmod>2013-10-21T13:17:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-37/</loc>
+    <lastmod>2013-10-18T13:15:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/in-praise-of-malcolm-gladwell/</loc>
+    <lastmod>2013-10-14T13:44:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-36/</loc>
+    <lastmod>2013-10-11T23:34:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-35/</loc>
+    <lastmod>2013-10-04T13:03:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/defending-economics-from-the-anthropologists/</loc>
+    <lastmod>2013-09-30T13:18:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-34/</loc>
+    <lastmod>2013-09-27T13:54:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/silvers-the-signal-and-the-noise/</loc>
+    <lastmod>2013-09-25T12:09:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/arielys-upside-irrationality/</loc>
+    <lastmod>2013-09-23T12:33:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/week-links-2/</loc>
+    <lastmod>2013-09-20T12:20:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/evolutionary-economics/</loc>
+    <lastmod>2013-09-18T12:48:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-33/</loc>
+    <lastmod>2013-09-13T12:18:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/design-principles-efficacy-groups/</loc>
+    <lastmod>2013-09-11T12:06:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/monkeys-respond-malthusian-limit/</loc>
+    <lastmod>2013-09-09T12:18:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/week-links/</loc>
+    <lastmod>2013-09-06T08:36:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/galors-unified-growth-theory/</loc>
+    <lastmod>2013-09-04T12:17:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/arielys-predictably-irrational/</loc>
+    <lastmod>2013-09-02T12:49:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-32/</loc>
+    <lastmod>2013-08-30T12:13:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/economic-cosmology-equilibrium/</loc>
+    <lastmod>2013-08-29T12:05:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/economic-cosmology-the-invisible-hand/</loc>
+    <lastmod>2013-08-26T12:05:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-31/</loc>
+    <lastmod>2013-08-23T12:14:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/economic-cosmology-the-rational-egotistical-individual/</loc>
+    <lastmod>2013-08-20T12:14:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-30/</loc>
+    <lastmod>2013-08-16T12:42:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/four-reasons-why-evolutionary-theory-might-not-add-value-to-economics/</loc>
+    <lastmod>2013-08-12T12:58:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-29/</loc>
+    <lastmod>2013-08-09T12:16:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-love-principle/</loc>
+    <lastmod>2013-08-07T12:51:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/an-economic-theory-of-greed-love-groups-and-networks/</loc>
+    <lastmod>2013-08-05T12:23:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-28/</loc>
+    <lastmod>2013-08-02T12:31:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-intergenerational-transmission-of-economic-development/</loc>
+    <lastmod>2013-07-31T12:00:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-deep-roots-of-economic-development/</loc>
+    <lastmod>2013-07-29T12:07:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-27/</loc>
+    <lastmod>2013-07-26T12:00:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/social-darwinism-is-back/</loc>
+    <lastmod>2013-07-24T12:05:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-26/</loc>
+    <lastmod>2013-07-19T12:00:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/darwins-conjecture-generalising-darwinism/</loc>
+    <lastmod>2013-07-18T12:16:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/genetic-diversity-economic-development-and-policy/</loc>
+    <lastmod>2013-07-15T12:44:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-25/</loc>
+    <lastmod>2013-07-12T12:01:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/observations-on-happiness-biases-and-preferences/</loc>
+    <lastmod>2013-07-11T12:51:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/grandparents-affect-social-mobility/</loc>
+    <lastmod>2013-07-09T12:55:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-24/</loc>
+    <lastmod>2013-07-05T12:45:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/economic-growth-and-evolution-parental-preference-for-quality-and-quantity-of-offspring/</loc>
+    <lastmod>2013-07-04T12:02:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/population-technological-progress-and-the-evolution-of-innovative-potential/</loc>
+    <lastmod>2013-07-02T12:12:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-23/</loc>
+    <lastmod>2013-06-28T12:10:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/accelerating-adaptive-evolution-in-humans/</loc>
+    <lastmod>2013-06-26T12:38:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/more-people-means-more-ideas-and-mutations/</loc>
+    <lastmod>2013-06-24T12:17:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-22/</loc>
+    <lastmod>2013-06-21T12:40:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/when-your-neighbour-wins-the-lottery/</loc>
+    <lastmod>2013-06-19T12:10:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/height-through-the-millennia/</loc>
+    <lastmod>2013-06-17T12:19:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-21/</loc>
+    <lastmod>2013-06-14T12:33:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/world-economic-history-in-two-diagrams/</loc>
+    <lastmod>2013-06-12T12:24:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/genetics-and-the-increase-in-obesity/</loc>
+    <lastmod>2013-06-10T12:17:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-20/</loc>
+    <lastmod>2013-06-07T12:45:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/paleo-hypotheses/</loc>
+    <lastmod>2013-06-05T12:11:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zuks-paleofantasy/</loc>
+    <lastmod>2013-06-03T12:22:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-19/</loc>
+    <lastmod>2013-05-31T12:44:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/modelling-versus-theory/</loc>
+    <lastmod>2013-05-28T12:46:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-18/</loc>
+    <lastmod>2013-05-24T12:46:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-science-of-intentional-change/</loc>
+    <lastmod>2013-05-22T12:39:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/sexual-selection-and-entrepreneurship/</loc>
+    <lastmod>2013-05-20T12:33:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-17/</loc>
+    <lastmod>2013-05-17T12:18:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/iq-is-an-artificial-construct/</loc>
+    <lastmod>2013-05-15T12:09:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-iq-barrier/</loc>
+    <lastmod>2013-05-13T12:16:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-16/</loc>
+    <lastmod>2013-05-10T12:53:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/cluelessness/</loc>
+    <lastmod>2013-05-08T12:24:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/impatience-and-aggregate-risk/</loc>
+    <lastmod>2013-05-06T12:52:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-15/</loc>
+    <lastmod>2013-05-03T12:03:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/selection-during-pregnancy/</loc>
+    <lastmod>2013-05-02T11:39:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hwang-and-horowitts-the-rainforest/</loc>
+    <lastmod>2013-04-30T12:59:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-14/</loc>
+    <lastmod>2013-04-26T12:11:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/altruists-and-the-knowledge-problem/</loc>
+    <lastmod>2013-04-25T12:59:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/deep-rationality-the-evolutionary-economics-of-decision-making/</loc>
+    <lastmod>2013-04-22T10:56:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-13/</loc>
+    <lastmod>2013-04-19T10:21:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/evolution-of-time-preference-by-natural-selection/</loc>
+    <lastmod>2013-04-18T13:11:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-unified-behavioural-theory-of-economic-activity/</loc>
+    <lastmod>2013-04-15T12:28:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-12/</loc>
+    <lastmod>2013-04-12T22:44:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/evolutionary-psychology-fertility-and-economic-ambition/</loc>
+    <lastmod>2013-04-10T12:16:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-evolution-of-happiness/</loc>
+    <lastmod>2013-04-08T11:22:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-11/</loc>
+    <lastmod>2013-04-06T00:26:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/economics-from-a-biological-viewpoint/</loc>
+    <lastmod>2013-04-01T12:16:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-10/</loc>
+    <lastmod>2013-03-29T13:53:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/using-the-malthusian-model-to-measure-technology/</loc>
+    <lastmod>2013-03-27T13:08:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-success-of-the-productive/</loc>
+    <lastmod>2013-03-25T13:29:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-9/</loc>
+    <lastmod>2013-03-22T13:30:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/cooperation-and-conflict-in-the-family-conference/</loc>
+    <lastmod>2013-03-20T12:50:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/business-adaptation/</loc>
+    <lastmod>2013-03-18T12:59:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-8/</loc>
+    <lastmod>2013-03-15T12:32:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/genetic-distance-and-income-differences-evidence-from-china/</loc>
+    <lastmod>2013-03-13T13:40:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/why-i-blog/</loc>
+    <lastmod>2013-03-11T13:08:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-7/</loc>
+    <lastmod>2013-03-08T13:36:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/is-genetic-diversity-a-proxy-for-phenotypic-diversity/</loc>
+    <lastmod>2013-03-06T13:46:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/victorian-naturalists/</loc>
+    <lastmod>2013-03-04T10:31:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-6/</loc>
+    <lastmod>2013-03-01T13:31:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/publishing-on-genetic-diversity-and-economic-growth/</loc>
+    <lastmod>2020-06-17T09:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/flynns-are-we-getting-smarter/</loc>
+    <lastmod>2013-02-25T13:38:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-5/</loc>
+    <lastmod>2013-02-22T13:58:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/does-genetic-diversity-increase-conflict/</loc>
+    <lastmod>2013-02-21T13:55:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/fisher-on-the-evolution-of-time-preference/</loc>
+    <lastmod>2013-02-18T13:36:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-4/</loc>
+    <lastmod>2013-02-15T13:55:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/social-mobility-across-the-generations/</loc>
+    <lastmod>2013-02-14T13:56:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/does-genetic-diversity-increase-innovation/</loc>
+    <lastmod>2013-02-12T12:42:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-3/</loc>
+    <lastmod>2013-02-08T13:36:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/</loc>
+    <lastmod>2013-02-07T13:33:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-model-of-the-quantity-quality-trade-off/</loc>
+    <lastmod>2013-02-05T13:30:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/there-is-no-quantity-quality-trade-off/</loc>
+    <lastmod>2013-02-04T12:01:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links-2/</loc>
+    <lastmod>2013-02-01T12:05:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/fertility-is-going-to-go-up/</loc>
+    <lastmod>2013-01-31T10:09:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/spontaneous-order/</loc>
+    <lastmod>2013-01-29T11:40:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-week-of-links/</loc>
+    <lastmod>2013-01-25T12:33:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/updating-maddison/</loc>
+    <lastmod>2013-01-23T12:44:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/james-crow-on-the-quality-of-people/</loc>
+    <lastmod>2013-01-21T12:46:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-benefits-of-chinese-eugenics/</loc>
+    <lastmod>2013-01-18T12:04:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/evolution-the-human-sciences-and-liberty-meeting/</loc>
+    <lastmod>2013-01-16T13:28:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/is-poverty-in-our-genes-from-the-comments/</loc>
+    <lastmod>2013-01-15T09:30:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/o-ring-and-foolproof-sectors/</loc>
+    <lastmod>2013-01-14T09:41:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/kremers-o-ring-theory-of-economic-development/</loc>
+    <lastmod>2013-01-11T07:37:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/consensus-in-biology-and-economics/</loc>
+    <lastmod>2013-01-09T11:36:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/who-will-invade-economics/</loc>
+    <lastmod>2013-01-06T04:27:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/is-poverty-in-our-genes/</loc>
+    <lastmod>2013-01-03T08:23:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-best-books-i-read-in-2012/</loc>
+    <lastmod>2012-12-28T08:07:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-rationale-of-the-family/</loc>
+    <lastmod>2012-12-22T12:49:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/exploring-genes/</loc>
+    <lastmod>2012-12-19T10:20:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-bright-tax/</loc>
+    <lastmod>2012-12-17T09:05:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/krugman-on-gould-and-maynard-smith/</loc>
+    <lastmod>2012-12-14T08:24:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/failure-to-respond-as-a-measure-of-conscientiousness-and-iq/</loc>
+    <lastmod>2012-12-12T10:06:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/religion-personality-and-fertility/</loc>
+    <lastmod>2012-12-10T10:05:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-flood-of-new-genetic-variation/</loc>
+    <lastmod>2012-12-07T08:14:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/positive-eugenics/</loc>
+    <lastmod>2012-12-04T09:54:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-rate-of-selection-against-violent-behaviour/</loc>
+    <lastmod>2012-11-29T10:09:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/boyd-and-richersons-group-selection/</loc>
+    <lastmod>2012-11-26T05:27:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/is-genetic-diversity-good-or-bad/</loc>
+    <lastmod>2012-11-24T07:48:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/genoeconomics-at-the-aea-annual-meeting/</loc>
+    <lastmod>2012-11-22T07:28:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/sexual-selection-and-inequality/</loc>
+    <lastmod>2012-11-19T10:59:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-decline-in-intelligence/</loc>
+    <lastmod>2012-11-16T05:46:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/critique-of-conspicuous-consumption-and-economic-growth/</loc>
+    <lastmod>2012-11-13T08:05:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/genes-economics-and-happiness/</loc>
+    <lastmod>2012-11-07T12:47:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/boyd-and-richersons-the-origin-and-evolution-of-cultures/</loc>
+    <lastmod>2012-11-05T07:16:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/using-neuroeconomics-in-economics/</loc>
+    <lastmod>2012-10-31T12:23:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/deriving-the-demand-for-children/</loc>
+    <lastmod>2012-10-29T12:48:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/genetics-without-genes/</loc>
+    <lastmod>2012-10-25T07:39:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/long-term-social-mobility-is-low/</loc>
+    <lastmod>2012-10-23T08:53:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/trivers-on-romneys-sons-and-obamas-daughters/</loc>
+    <lastmod>2012-10-19T06:14:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/nobel-prizes-and-marriage-markets/</loc>
+    <lastmod>2012-10-16T10:45:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/genetic-diversity-and-economic-development-ashraf-and-galor-respond/</loc>
+    <lastmod>2012-10-13T10:50:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/harvard-academics-on-genetic-diversity-and-economic-development/</loc>
+    <lastmod>2012-10-10T11:13:56+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-benefits-of-competition/</loc>
+    <lastmod>2012-10-08T10:41:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ayn-rand-and-altruism/</loc>
+    <lastmod>2012-10-04T13:17:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/cooperation-is-intuitive/</loc>
+    <lastmod>2012-10-03T11:41:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/inequality-and-declining-fertility/</loc>
+    <lastmod>2012-10-01T09:51:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/haidts-group-selection/</loc>
+    <lastmod>2012-09-28T11:48:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/haidts-the-righteous-mind/</loc>
+    <lastmod>2012-09-26T08:46:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/socioeconomic-status-versus-fitness/</loc>
+    <lastmod>2012-09-24T09:52:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/videos-for-the-biological-basis-of-preferences-and-behavior-conference/</loc>
+    <lastmod>2012-09-21T10:57:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/kellys-what-technology-wants/</loc>
+    <lastmod>2012-09-19T13:03:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/agriculture-and-population-growth/</loc>
+    <lastmod>2012-09-17T11:14:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/henrich-on-markets-trust-and-monogamy/</loc>
+    <lastmod>2012-09-14T08:32:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/genetic-diversity-and-economic-development/</loc>
+    <lastmod>2012-09-12T10:34:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/age-dependent-evolution/</loc>
+    <lastmod>2012-09-10T11:54:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/genoeconomics-and-the-encode-project/</loc>
+    <lastmod>2012-09-07T10:48:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/australia-new-zealand-workshop-on-experimental-economics-2012/</loc>
+    <lastmod>2012-09-05T11:32:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/economy-iq-feedback/</loc>
+    <lastmod>2012-09-03T10:58:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/does-equality-increase-conspicuous-consumption/</loc>
+    <lastmod>2012-08-30T12:44:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hunter-gatherer-workouts/</loc>
+    <lastmod>2012-08-28T09:41:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/keeping-economists-honest/</loc>
+    <lastmod>2012-08-27T08:37:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/not-quite-paleo/</loc>
+    <lastmod>2012-08-24T08:47:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-intelligent-inheriting-the-earth/</loc>
+    <lastmod>2012-08-22T13:10:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/recent-selection-for-height/</loc>
+    <lastmod>2012-08-20T10:46:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ongoing-selection-against-violent-behaviour/</loc>
+    <lastmod>2012-08-18T10:17:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/models-without-data/</loc>
+    <lastmod>2012-08-16T10:21:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-stigler-diet/</loc>
+    <lastmod>2012-08-14T09:01:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/sexual-selection-conspicuous-consumption-and-economic-growth/</loc>
+    <lastmod>2012-08-10T09:49:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/cliodynamics-and-complexity/</loc>
+    <lastmod>2012-08-06T10:14:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/unz-on-the-genetics-of-iq/</loc>
+    <lastmod>2012-08-04T09:45:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-evolution-of-cornets/</loc>
+    <lastmod>2012-07-31T09:47:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ormerods-why-most-things-fail/</loc>
+    <lastmod>2012-07-28T09:18:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/selective-sweeps-in-humans/</loc>
+    <lastmod>2012-07-24T12:52:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/eugenics-versus-economics/</loc>
+    <lastmod>2012-07-22T12:09:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/groups-kin-and-self-interest/</loc>
+    <lastmod>2012-07-19T11:20:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/simons-models-of-my-life/</loc>
+    <lastmod>2012-07-16T11:39:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/what-is-multilevel-selection/</loc>
+    <lastmod>2012-07-14T08:45:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/labelling-cultural-group-selection/</loc>
+    <lastmod>2012-07-12T11:41:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-origins-of-savings-behaviour/</loc>
+    <lastmod>2012-07-10T09:53:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/charity-as-conspicuous-consumption/</loc>
+    <lastmod>2012-07-08T07:26:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/conspicuous-consumption-and-poverty-traps/</loc>
+    <lastmod>2012-07-07T02:35:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/is-biology-easier-than-physics/</loc>
+    <lastmod>2012-07-05T13:03:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-lipstick-effect/</loc>
+    <lastmod>2012-07-01T11:56:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/inequality-persistence-circa-5000-bce/</loc>
+    <lastmod>2012-06-28T14:22:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-deep-roots-of-development/</loc>
+    <lastmod>2012-06-25T09:24:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/pinker-takes-on-group-selection/</loc>
+    <lastmod>2012-06-22T13:40:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/population-connectivity-and-innovation/</loc>
+    <lastmod>2012-06-21T13:23:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/europeans-and-economic-growth/</loc>
+    <lastmod>2012-06-19T10:37:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/evolutionary-science-as-the-new-classics/</loc>
+    <lastmod>2012-06-17T11:27:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/evolutionary-policy-making/</loc>
+    <lastmod>2012-06-16T07:22:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/some-perspectives-on-elinor-ostrom/</loc>
+    <lastmod>2012-06-13T12:35:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/franks-passions-within-reason/</loc>
+    <lastmod>2012-06-11T13:17:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/economists-on-autopilot/</loc>
+    <lastmod>2012-06-08T10:19:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/economists-are-different/</loc>
+    <lastmod>2012-06-06T10:37:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hayek-planning-and-eugenics/</loc>
+    <lastmod>2012-06-04T11:53:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-critique-of-behavioura-economics-from-1988/</loc>
+    <lastmod>2012-06-03T12:37:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/shrinking-brains-and-intelligence/</loc>
+    <lastmod>2012-06-01T12:14:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-consequences-of-shrinking-brains/</loc>
+    <lastmod>2012-05-30T13:25:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/eugenics-and-regression-to-the-mean/</loc>
+    <lastmod>2012-05-28T12:20:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/conflict-and-social-evolution/</loc>
+    <lastmod>2012-05-26T10:12:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/markets-and-morals/</loc>
+    <lastmod>2012-05-24T13:33:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/seabrights-the-war-of-the-sexes/</loc>
+    <lastmod>2012-05-22T11:46:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/institutions-are-endogenous/</loc>
+    <lastmod>2012-05-20T11:53:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/entanglement/</loc>
+    <lastmod>2012-05-19T12:49:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/could-this-critique-apply-to-economics/</loc>
+    <lastmod>2012-05-18T12:21:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/chimps-1-humans-0/</loc>
+    <lastmod>2012-05-16T10:34:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/while-we-wait-for-the-genoeconomics-revolution/</loc>
+    <lastmod>2012-05-15T12:14:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/maladaptive-ideas/</loc>
+    <lastmod>2012-05-14T12:48:40+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-genetic-architecture-of-economic-and-political-preferences/</loc>
+    <lastmod>2012-05-11T09:06:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/game-theory-and-the-peacocks-tail/</loc>
+    <lastmod>2012-05-09T12:19:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/rubins-darwinian-politics/</loc>
+    <lastmod>2012-05-07T14:13:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-biological-basis-of-preferences-and-behaviour-conference/</loc>
+    <lastmod>2012-05-06T15:55:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/iq-as-a-necessary-but-not-sufficient-condition-for-genius/</loc>
+    <lastmod>2012-05-03T21:08:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/gandolfi-gandolfi-and-barashs-economics-as-an-evolutionary-science/</loc>
+    <lastmod>2012-05-02T14:19:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/consilience-conference-afterthoughts/</loc>
+    <lastmod>2012-04-30T15:43:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/group-selection-and-the-social-sciences/</loc>
+    <lastmod>2012-04-27T11:46:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/conspicuous-consumption-and-economic-growth/</loc>
+    <lastmod>2012-04-24T13:25:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-recent-evolution-of-musical-talent/</loc>
+    <lastmod>2012-04-22T12:09:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/why-do-we-work-less/</loc>
+    <lastmod>2012-04-20T12:32:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/selfish-herding/</loc>
+    <lastmod>2012-04-18T12:39:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ridleys-the-rational-optimist/</loc>
+    <lastmod>2012-04-16T11:22:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/beinhockers-the-origin-of-wealth/</loc>
+    <lastmod>2012-04-11T10:32:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-three-stages-of-evolutionary-economics/</loc>
+    <lastmod>2012-04-09T12:46:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/saads-the-evolutionary-bases-of-consumption/</loc>
+    <lastmod>2012-04-05T10:35:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-return-of-group-selection/</loc>
+    <lastmod>2012-04-03T11:16:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/an-economics-and-evolutionary-biology-reading-list/</loc>
+    <lastmod>2012-04-01T03:45:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/teaching-evolution-in-economics/</loc>
+    <lastmod>2012-03-28T10:45:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/bowles-and-gintiss-a-cooperative-species/</loc>
+    <lastmod>2012-03-26T09:33:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/education-income-and-children/</loc>
+    <lastmod>2012-03-21T12:26:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-political-implications-of-group-selection/</loc>
+    <lastmod>2012-03-19T12:41:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/subsidise-the-rich-for-the-good-of-our-species/</loc>
+    <lastmod>2012-03-16T13:05:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/are-children-normal-goods/</loc>
+    <lastmod>2012-03-14T12:36:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/new-books-on-the-evolution-of-cooperation/</loc>
+    <lastmod>2012-03-12T09:25:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/male-income-and-reproductive-success/</loc>
+    <lastmod>2012-03-09T09:50:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-eugenics-of-contraception/</loc>
+    <lastmod>2012-03-07T12:30:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/immigration-externalities/</loc>
+    <lastmod>2012-03-05T12:10:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/why-do-married-men-earn-more/</loc>
+    <lastmod>2012-02-29T12:21:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/kahneman-on-the-price-of-freedom/</loc>
+    <lastmod>2012-02-28T12:48:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/foresight-by-h-g-wells/</loc>
+    <lastmod>2012-02-24T12:46:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/parental-income-and-sat-scores/</loc>
+    <lastmod>2012-02-22T12:52:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/evolutionary-strategies/</loc>
+    <lastmod>2012-02-21T12:32:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/harfords-adapt-why-success-always-starts-with-failure/</loc>
+    <lastmod>2012-02-17T09:43:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/quantifying-children/</loc>
+    <lastmod>2012-02-15T12:32:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/population-genetics-and-economic-growth/</loc>
+    <lastmod>2012-02-13T12:25:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/risk-aversion-is-not-irrational/</loc>
+    <lastmod>2012-02-09T12:36:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/trivers-on-biology-in-economics/</loc>
+    <lastmod>2012-02-07T09:29:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/triverss-the-folly-of-fools/</loc>
+    <lastmod>2012-02-03T09:08:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/strength-by-outbreeding/</loc>
+    <lastmod>2012-02-02T12:46:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/payment-for-winning-the-genetic-lottery/</loc>
+    <lastmod>2012-01-31T12:08:06+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/absolute-improvement/</loc>
+    <lastmod>2012-01-29T04:42:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/franks-luxury-fever/</loc>
+    <lastmod>2012-01-27T22:05:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/excess-males/</loc>
+    <lastmod>2012-01-24T12:07:38+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/consilience-conference/</loc>
+    <lastmod>2012-01-21T12:20:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/economic-mobility-and-reproductive-success/</loc>
+    <lastmod>2012-01-20T12:25:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-mating-reservation-wage/</loc>
+    <lastmod>2012-01-19T12:36:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/kahnemans-thinking-fast-and-slow/</loc>
+    <lastmod>2012-01-18T12:33:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/crime-abortion-and-genes/</loc>
+    <lastmod>2012-01-16T12:58:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/evolution-and-education-policy/</loc>
+    <lastmod>2012-01-13T12:31:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/dysgenics-and-war/</loc>
+    <lastmod>2012-01-11T12:43:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/status-signalling-and-the-handicap-principle/</loc>
+    <lastmod>2012-01-09T12:35:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/intelligence-and-assortive-mating/</loc>
+    <lastmod>2012-01-06T12:32:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/garons-beyond-our-means/</loc>
+    <lastmod>2012-01-04T12:29:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-nobel-prize-for-biology/</loc>
+    <lastmod>2012-01-02T12:16:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/not-so-irrational/</loc>
+    <lastmod>2011-12-30T12:28:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/best-books-i-read-in-2011/</loc>
+    <lastmod>2011-12-27T09:56:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/iq-externalities/</loc>
+    <lastmod>2011-12-22T08:38:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/zimbardos-the-lucifer-effect/</loc>
+    <lastmod>2011-12-19T09:40:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-perfection-of-man/</loc>
+    <lastmod>2011-12-18T12:37:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/genoeconomics-molecular-genetics-and-economics/</loc>
+    <lastmod>2011-12-16T12:15:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-use-of-heritability-in-policy-development/</loc>
+    <lastmod>2011-12-13T09:58:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-passion-for-equality/</loc>
+    <lastmod>2011-12-11T13:44:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/human-evolution-goes-on/</loc>
+    <lastmod>2011-12-07T13:59:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/dubreuils-human-evolution-and-the-origins-of-hierarchies/</loc>
+    <lastmod>2011-12-05T13:51:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/an-evolutionary-occupy/</loc>
+    <lastmod>2011-12-03T02:23:11+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/fukuyamas-the-origins-of-political-order/</loc>
+    <lastmod>2011-11-19T07:48:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/two-articles-on-genetics-and-economics/</loc>
+    <lastmod>2011-11-18T00:54:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/intelligence-changes/</loc>
+    <lastmod>2011-11-15T04:29:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/monkey-inequality/</loc>
+    <lastmod>2011-11-12T10:00:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/malthus-and-the-feast/</loc>
+    <lastmod>2011-11-10T13:41:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-iq-taboo/</loc>
+    <lastmod>2011-11-06T10:09:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/is-loss-aversion-a-bias/</loc>
+    <lastmod>2011-11-05T12:26:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/take-the-evolutionary-economics-pill/</loc>
+    <lastmod>2011-11-01T13:19:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/cost-effective-crime-fighting/</loc>
+    <lastmod>2011-10-27T03:45:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/variation-in-reproductive-success/</loc>
+    <lastmod>2011-10-21T22:32:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/two-perspectives-on-sex-differences/</loc>
+    <lastmod>2011-10-20T13:34:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/whitfield-on-the-darwin-economy/</loc>
+    <lastmod>2011-10-17T12:40:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/is-darwin-or-smith-the-father-of-economics/</loc>
+    <lastmod>2011-10-10T12:40:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/franks-the-darwin-economy/</loc>
+    <lastmod>2011-10-07T14:07:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hunting-gathering-and-comparative-advantage/</loc>
+    <lastmod>2011-10-06T10:54:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/beauty-as-a-fitness-indicator/</loc>
+    <lastmod>2011-10-01T11:35:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/is-it-human-nature-to-riot/</loc>
+    <lastmod>2011-09-30T10:26:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/markets-and-family-values/</loc>
+    <lastmod>2011-09-29T10:12:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/disease-and-liberalisation/</loc>
+    <lastmod>2011-09-28T08:58:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/human-nature-and-property-rights/</loc>
+    <lastmod>2011-09-27T07:17:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/pinker-on-violence/</loc>
+    <lastmod>2011-09-25T06:50:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/brooks-on-hunter-gatherers-and-egalitarianism/</loc>
+    <lastmod>2011-09-24T04:43:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hamermeshs-beauty-pays/</loc>
+    <lastmod>2011-09-20T11:30:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/human-nature-and-libertarianism/</loc>
+    <lastmod>2011-09-17T10:37:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/what-economics-misses/</loc>
+    <lastmod>2011-09-14T12:49:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/happiness-is-not-the-objective/</loc>
+    <lastmod>2011-09-12T08:16:49+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/male-incentives/</loc>
+    <lastmod>2011-09-10T02:26:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/using-evolutionary-theory-to-shape-neighbourhoods/</loc>
+    <lastmod>2011-09-08T04:45:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-genetic-and-social-lottery/</loc>
+    <lastmod>2011-09-07T07:17:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/do-economists-satisfice/</loc>
+    <lastmod>2011-09-01T04:38:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-end-of-women/</loc>
+    <lastmod>2011-08-29T13:43:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elite-envy/</loc>
+    <lastmod>2011-08-28T03:58:41+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/sports-team-ownership-as-conspicuous-consumption/</loc>
+    <lastmod>2011-08-27T05:44:36+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/underestimating-heritability/</loc>
+    <lastmod>2011-08-25T12:44:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/does-epigenetics-matter/</loc>
+    <lastmod>2011-08-23T10:45:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/economics-is-a-branch-of-ecology/</loc>
+    <lastmod>2011-08-20T10:35:30+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/economists-1-biologists-0/</loc>
+    <lastmod>2011-08-18T11:36:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/envy-has-its-benefits/</loc>
+    <lastmod>2011-08-17T04:31:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/low-social-mobility-equals-success/</loc>
+    <lastmod>2011-08-16T12:10:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/more-people-more-ideas-in-the-long-run/</loc>
+    <lastmod>2011-08-15T12:14:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-gender-gap/</loc>
+    <lastmod>2011-08-11T14:51:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/keynes-and-the-solved-economic-problem/</loc>
+    <lastmod>2011-08-09T13:09:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/iq-and-policy-in-a-crisis/</loc>
+    <lastmod>2011-08-08T07:51:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/health-trade-offs/</loc>
+    <lastmod>2011-08-04T09:12:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/darwin-on-female-preferences/</loc>
+    <lastmod>2011-08-03T12:22:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-costs-of-polygamy/</loc>
+    <lastmod>2011-08-01T13:19:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/free-sterilisation/</loc>
+    <lastmod>2011-07-31T08:08:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/return-to-equilibrium/</loc>
+    <lastmod>2011-07-30T04:19:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/only-economists-are-rational/</loc>
+    <lastmod>2011-07-25T09:09:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/is-everyone-the-same/</loc>
+    <lastmod>2011-07-24T08:34:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/brooks-on-evolution-and-obesity/</loc>
+    <lastmod>2011-07-19T09:15:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/fukuyamas-biological-approach/</loc>
+    <lastmod>2011-07-18T08:48:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-growth-of-atheism/</loc>
+    <lastmod>2011-07-16T05:39:35+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/clark-on-the-remnants-of-rural-idiocy/</loc>
+    <lastmod>2011-07-11T10:23:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/jones-on-iq-and-productivity/</loc>
+    <lastmod>2011-07-10T10:50:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/darwin-and-marx/</loc>
+    <lastmod>2011-07-05T16:17:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/wrong-predictions/</loc>
+    <lastmod>2011-07-04T16:59:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/galbraith-on-evolution-and-the-invisible-hand/</loc>
+    <lastmod>2011-06-30T16:02:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/wilson-and-pinker-on-evolutionary-psychology/</loc>
+    <lastmod>2011-06-27T06:07:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/defending-stephen-jay-gould/</loc>
+    <lastmod>2011-06-26T11:25:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/galton-trivia/</loc>
+    <lastmod>2011-06-24T07:41:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/genetic-thresholds/</loc>
+    <lastmod>2011-06-23T10:35:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/crime-and-biology/</loc>
+    <lastmod>2011-06-22T08:04:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ferguson-on-malthus-again/</loc>
+    <lastmod>2011-06-21T08:48:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/fergusons-civilization-the-west-and-the-rest/</loc>
+    <lastmod>2011-06-20T06:46:51+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/heritability-political-views-and-personality/</loc>
+    <lastmod>2011-06-17T10:39:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/diversity-and-consumerism/</loc>
+    <lastmod>2011-06-17T07:16:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-evolution-of-conscientiousness/</loc>
+    <lastmod>2011-06-16T08:15:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/millers-spent-sex-evolution-and-consumer-behavior/</loc>
+    <lastmod>2011-06-15T07:58:28+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ferguson-on-malthus/</loc>
+    <lastmod>2011-06-14T07:53:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/evolution-and-obesity/</loc>
+    <lastmod>2011-06-10T07:51:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/maslows-hierarchy/</loc>
+    <lastmod>2011-06-09T07:54:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/brookss-sex-genes-rock-n-roll/</loc>
+    <lastmod>2011-06-08T07:54:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/modelling-populations/</loc>
+    <lastmod>2011-06-07T08:06:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/natural-selection-and-the-collapse-of-economic-growth/</loc>
+    <lastmod>2011-06-06T09:33:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/natural-selection-and-economic-growth/</loc>
+    <lastmod>2011-06-02T19:02:10+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/project-mayhem-and-women/</loc>
+    <lastmod>2011-06-01T13:22:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/was-it-better-for-our-paleolithic-ancestors/</loc>
+    <lastmod>2011-05-31T07:32:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/coyle-on-happiness/</loc>
+    <lastmod>2011-05-30T09:12:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/dangerous-ideas/</loc>
+    <lastmod>2011-05-27T09:17:12+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-heritability-of-feminism/</loc>
+    <lastmod>2011-05-26T11:04:23+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-benefit-to-being-right/</loc>
+    <lastmod>2011-05-25T09:03:52+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/veblens-the-theory-of-the-leisure-class-part-iii/</loc>
+    <lastmod>2011-05-24T07:11:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/starve-the-judges/</loc>
+    <lastmod>2011-05-23T08:19:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-simon-ehrlich-bet/</loc>
+    <lastmod>2011-05-20T07:25:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/evolutionary-psychology-and-the-left/</loc>
+    <lastmod>2011-05-19T10:12:17+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/ultimate-population-limits/</loc>
+    <lastmod>2011-05-18T08:39:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/happiness-adjusts/</loc>
+    <lastmod>2011-05-17T07:51:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/veblens-the-theory-of-the-leisure-class-part-ii/</loc>
+    <lastmod>2011-05-16T07:54:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/heritability-of-religion-and-fertility/</loc>
+    <lastmod>2011-05-13T09:19:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/population-and-the-tragedy-of-the-commons/</loc>
+    <lastmod>2011-05-12T09:32:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/veblens-the-theory-of-the-leisure-class/</loc>
+    <lastmod>2011-05-11T05:40:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/trust-and-education/</loc>
+    <lastmod>2011-05-10T07:41:39+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/caplans-selfish-reasons-to-have-more-kids/</loc>
+    <lastmod>2011-05-09T09:06:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/libertarians-and-fertility/</loc>
+    <lastmod>2011-05-06T07:13:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/would-julian-simon-worry/</loc>
+    <lastmod>2011-05-05T06:14:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/fogel-and-supersized-humans/</loc>
+    <lastmod>2011-05-03T13:05:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-winning-immigration-policy/</loc>
+    <lastmod>2011-05-02T08:29:31+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/rotten-kids-and-altruism/</loc>
+    <lastmod>2011-04-29T08:46:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/morriss-why-the-west-rules-for-now-part-ii/</loc>
+    <lastmod>2011-04-28T10:26:27+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/morriss-why-the-west-rules-for-now/</loc>
+    <lastmod>2011-04-27T10:57:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/genetically-testing-similarity/</loc>
+    <lastmod>2011-04-23T13:25:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/in-the-company-of-a-stranger/</loc>
+    <lastmod>2011-04-21T16:16:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/consumption-and-fitness/</loc>
+    <lastmod>2011-04-19T06:30:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/social-decision-making-bridging-economics-and-biology/</loc>
+    <lastmod>2011-04-18T14:08:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/jones-on-iq-and-immigration/</loc>
+    <lastmod>2011-04-14T08:47:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/what-can-evolutionary-biology-offer-economics/</loc>
+    <lastmod>2011-04-13T12:28:29+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/lehrer-on-measurement/</loc>
+    <lastmod>2011-04-12T08:38:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/evolution-and-the-invisible-hand/</loc>
+    <lastmod>2011-04-11T08:24:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/wilson-on-economics-and-evolution/</loc>
+    <lastmod>2011-04-08T09:59:44+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-evolution-institute/</loc>
+    <lastmod>2011-04-06T10:35:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/measurement-nihilism/</loc>
+    <lastmod>2011-04-04T09:53:22+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-heritability-debate-again/</loc>
+    <lastmod>2011-04-01T09:06:16+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/micromotives-and-macrobehavior/</loc>
+    <lastmod>2011-03-30T10:46:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/income-and-iq/</loc>
+    <lastmod>2011-03-28T12:49:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/evolution-and-irrationality/</loc>
+    <lastmod>2011-03-25T12:41:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/economists-and-biology/</loc>
+    <lastmod>2011-03-22T11:31:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/gladwells-outliers/</loc>
+    <lastmod>2011-03-21T12:59:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/diamond-on-biological-differences/</loc>
+    <lastmod>2011-03-13T01:56:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/unskilled-and-unaware/</loc>
+    <lastmod>2011-03-07T13:45:04+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/crisis-in-human-genetics/</loc>
+    <lastmod>2011-03-04T12:18:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/genetic-distance-and-economic-development/</loc>
+    <lastmod>2011-03-02T10:23:55+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/trade-and-natural-selection/</loc>
+    <lastmod>2011-02-22T13:45:08+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/janet-brownes-charles-darwin-voyaging/</loc>
+    <lastmod>2011-02-19T01:19:02+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/kling-on-patterns-of-sustainable-specialisation-and-trade/</loc>
+    <lastmod>2011-02-15T11:31:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/crime-and-selection-of-aggressive-males/</loc>
+    <lastmod>2011-02-12T08:00:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/banking-as-an-ecosystem/</loc>
+    <lastmod>2011-02-08T12:12:59+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/evolutionary-economics-and-group-selection/</loc>
+    <lastmod>2011-02-07T12:43:45+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/what-is-the-objective/</loc>
+    <lastmod>2011-01-29T03:16:48+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/why-do-rich-parents-bother/</loc>
+    <lastmod>2011-01-25T14:07:05+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/is-aid-really-so-complex/</loc>
+    <lastmod>2011-01-20T13:29:03+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/delong-on-the-pace-of-evolution/</loc>
+    <lastmod>2011-01-18T14:11:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-speed-of-cities-afterthoughts/</loc>
+    <lastmod>2011-01-14T12:32:25+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-speed-of-cities-part-ii/</loc>
+    <lastmod>2011-01-12T11:44:14+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-speed-of-cities/</loc>
+    <lastmod>2011-01-10T12:47:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/clark-on-violence/</loc>
+    <lastmod>2011-01-06T07:28:53+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/more-on-violence/</loc>
+    <lastmod>2011-01-05T07:06:43+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/selection-for-aggression/</loc>
+    <lastmod>2011-01-04T13:26:09+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/world-population-500bc/</loc>
+    <lastmod>2011-01-01T02:00:42+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/top-10-books-in-2010/</loc>
+    <lastmod>2010-12-31T01:46:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/trading-fish/</loc>
+    <lastmod>2010-12-28T04:53:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/a-wasteful-christmas/</loc>
+    <lastmod>2010-12-23T07:00:24+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/benefits-from-immigration/</loc>
+    <lastmod>2010-12-20T12:58:58+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/climate-change-and-peak-oil/</loc>
+    <lastmod>2010-12-16T13:23:34+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/fitness-spreading/</loc>
+    <lastmod>2010-12-12T03:23:15+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-evolution-of-technology/</loc>
+    <lastmod>2010-12-09T13:20:50+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post-crisis-economics/</loc>
+    <lastmod>2010-12-05T08:45:47+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/coal-and-the-industrial-revolution/</loc>
+    <lastmod>2010-12-02T11:11:19+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/company-charity-part-ii/</loc>
+    <lastmod>2010-11-26T13:08:32+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/company-charity/</loc>
+    <lastmod>2010-11-25T10:52:57+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/better-school-performance-leads-to-more-children/</loc>
+    <lastmod>2010-11-06T12:50:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/procrastination/</loc>
+    <lastmod>2010-10-20T06:36:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-value-of-a-species/</loc>
+    <lastmod>2010-10-06T05:23:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/there-is-but-one-social-science/</loc>
+    <lastmod>2010-09-25T17:28:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-short-wingman-do-humans-use-visual-illusions-to-attract-a-mate/</loc>
+    <lastmod>2010-09-23T06:01:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/economics-versus-history-is-this-the-right-debate/</loc>
+    <lastmod>2010-09-14T05:53:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/education-in-the-developing-world/</loc>
+    <lastmod>2010-09-12T05:08:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/sports-stars-born-early-in-the-year/</loc>
+    <lastmod>2010-09-12T01:06:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/should-we-tax-education/</loc>
+    <lastmod>2010-09-11T03:58:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-2010-australian-election-betting-market/</loc>
+    <lastmod>2010-09-06T05:31:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/patience-and-iq/</loc>
+    <lastmod>2010-08-27T20:20:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/the-predictive-power-of-marshmallows/</loc>
+    <lastmod>2010-08-22T02:11:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/its-a-risky-business-attracting-a-mate/</loc>
+    <lastmod>2010-08-09T05:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>

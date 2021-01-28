@@ -5,7 +5,7 @@ date: 2020-06-12 09:00:08+00:00
 lastmod: 2020-06-17 09:00:08+00:00
 draft: true
 comments: true
-slug: arent-we-so-smart-fellow-behavioural-scientists
+slug: arent-we-smart-fellow-behavioural-scientists
 ---
 
 Below is the text of my presentation at [Nudgsestock on 12 June 2020](https://www.nudgestock.co.uk/).
@@ -16,15 +16,15 @@ Over the past decade or two, behavioural scientists have had a great ride. There
 
 But recently, the wind seems to have changed. We're told that [behavioural economics is itself biased](https://www.bloomberg.com/news/articles/2020-01-13/behavioral-economics-latest-bias-seeing-bias-wherever-it-looks).
 
-/img/2020-06-12-arent-we-so-smart-fellow-behavioural-scientists/kochkodin.jpg
+![](/img/2020-06-12-arent-we-smart-fellow-behavioural-scientists/kochkodin.jpg)
 
 "[Don't trust the psychologists on coronavirus](https://unherd.com/2020/03/dont-trust-the-psychologists-on-coronavirus/) - Many of the responses to Covid-19 come from a deeply-flawed discipline".
 
-/img/2020-06-12-arent-we-so-smart-fellow-behavioural-scientists/ritchie.jpg
+![](/img/2020-06-12-arent-we-smart-fellow-behavioural-scientists/ritchie.jpg)
 
 ["Nudgeboy"](https://twitter.com/nntaleb/status/1233755916119543809) has become a pejorative.
 
-/img/2020-06-12-arent-we-so-smart-fellow-behavioural-scientists/taleb.jpg
+![](/img/2020-06-12-arent-we-smart-fellow-behavioural-scientists/taleb.jpg)
 
 I believe this challenge is deserved.
 
@@ -144,7 +144,7 @@ There's good evidence from the lab that we suffer from probability neglect - in 
 
 Here's a recent example by Nudge author Cass Sunstein that hasn't aged particularly well: [The Cognitive Bias That Makes Us Panic About Coronavirus](https://www.bloomberg.com/opinion/articles/2020-02-28/coronavirus-panic-caused-by-probability-neglect), with the subtitle: Feeling anxious? Blame "probability neglect."
 
-/img/2020-06-12-arent-we-so-smart-fellow-behavioural-scientists/sunstein_probability_neglect.jpg)
+![](/img/2020-06-12-arent-we-smart-fellow-behavioural-scientists/sunstein_probability_neglect.jpg)
 
 The opening paragraph of the article reads:
 
@@ -160,11 +160,11 @@ Sunstein, of course, was not exactly Robinson Crusoe in claiming that we were ov
 
 But by late March, without skipping a beat, he was noting that ["This Time the Numbers Show We Can't Be Too Careful"](https://www.bloomberg.com/opinion/articles/2020-03-26/coronavirus-lockdowns-look-smart-under-cost-benefit-scrutiny). No mention of the allegation of a misperception of risk less than four weeks earlier.
 
-/img/2020-06-12-arent-we-so-smart-fellow-behavioural-scientists/sunstein_cba.jpg
+![](/img/2020-06-12-arent-we-smart-fellow-behavioural-scientists/sunstein_cba.jpg)
 
 Of course, one of the weaknesses of applied behavioural science is that you can tell a story no matter what the observed behaviour. Six weeks later Sunstein was writing "How to Make Coronavirus Restrictions Easier to Swallow", giving guidance  on how to stop an under-reaction.
 
-/img/2020-06-12-arent-we-so-smart-fellow-behavioural-scientists/sunstein_nudge.jpg
+![](/img/2020-06-12-arent-we-smart-fellow-behavioural-scientists/sunstein_nudge.jpg)
 
 As Sunstein wrote:
 
@@ -208,7 +208,7 @@ Power companies often want to limit their customers' electricity demand for envi
 
 One of the favourite tricks to do this is to provide a comparison of that person or household's power consumption with their neighbours. People have a desire to conform, and look to cues to inform their decisions. If shown that their power usage is above their neighbours, they tend to reduce their use.
 
-/img/2020-06-12-arent-we-so-smart-fellow-behavioural-scientists/power.jpg
+![](/img/2020-06-12-arent-we-smart-fellow-behavioural-scientists/power.jpg)
 Source: [Opower, Allcott and Kessler (2019) AEJ: Applied Economics](https://doi.org/10.1257/app.20170328)
 
 What is this person or household's objective? If it were purely financial, success! They have saved on their power bill. Their reduction in use also happens to align with the environmental or peak demand reduction objectives of the nudger.

@@ -1,0 +1,758 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>What can we infer about someone who rejects a 50:50 bet to win $110 or lose $100? The Rabin paradox explored - Jason Collins blog</title>
+  <meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+<meta name="author" content="Jason Collins" /><meta name="description" content="Consider the following claim:
+ We don&amp;rsquo;t need loss aversion to explain a person&amp;rsquo;s decision to reject a 50:50 bet to win $110 or lose $100. That just simple risk aversion as in expected utility theory.
+ Risk aversion is the concept that we prefer certainty to a gamble with the same expected value. For example, a risk averse person would prefer $100 for certain over a 50-50 gamble between $0 and $200, which has an expected value of $100." />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.80.0 with theme even" />
+
+
+<link rel="canonical" href="http://localhost:1313/what-can-we-infer-about-someone-who-rejects-a-5050-bet-to-win-110-or-lose-100-the-rabin-paradox-explored/" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+<link href="/sass/main.min.96885b9e1f30bb9d3bf77a154dcabdb6f91894c19fc72577699bb8ca529e60fb.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
+
+
+<meta property="og:title" content="What can we infer about someone who rejects a 50:50 bet to win $110 or lose $100? The Rabin paradox explored" />
+<meta property="og:description" content="Consider the following claim:
+ We don&rsquo;t need loss aversion to explain a person&rsquo;s decision to reject a 50:50 bet to win $110 or lose $100. That just simple risk aversion as in expected utility theory.
+ Risk aversion is the concept that we prefer certainty to a gamble with the same expected value. For example, a risk averse person would prefer $100 for certain over a 50-50 gamble between $0 and $200, which has an expected value of $100." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/what-can-we-infer-about-someone-who-rejects-a-5050-bet-to-win-110-or-lose-100-the-rabin-paradox-explored/" />
+<meta property="article:published_time" content="2019-11-06T01:00:00+00:00" />
+<meta property="article:modified_time" content="2019-11-06T01:00:00+00:00" />
+<meta itemprop="name" content="What can we infer about someone who rejects a 50:50 bet to win $110 or lose $100? The Rabin paradox explored">
+<meta itemprop="description" content="Consider the following claim:
+ We don&rsquo;t need loss aversion to explain a person&rsquo;s decision to reject a 50:50 bet to win $110 or lose $100. That just simple risk aversion as in expected utility theory.
+ Risk aversion is the concept that we prefer certainty to a gamble with the same expected value. For example, a risk averse person would prefer $100 for certain over a 50-50 gamble between $0 and $200, which has an expected value of $100.">
+<meta itemprop="datePublished" content="2019-11-06T01:00:00+00:00" />
+<meta itemprop="dateModified" content="2019-11-06T01:00:00+00:00" />
+<meta itemprop="wordCount" content="4771">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="What can we infer about someone who rejects a 50:50 bet to win $110 or lose $100? The Rabin paradox explored"/>
+<meta name="twitter:description" content="Consider the following claim:
+ We don&rsquo;t need loss aversion to explain a person&rsquo;s decision to reject a 50:50 bet to win $110 or lose $100. That just simple risk aversion as in expected utility theory.
+ Risk aversion is the concept that we prefer certainty to a gamble with the same expected value. For example, a risk averse person would prefer $100 for certain over a 50-50 gamble between $0 and $200, which has an expected value of $100."/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="/" class="logo">Jason Collins blog</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <a href="/">
+        <li class="mobile-menu-item">Home</li>
+      </a><a href="/post/">
+        <li class="mobile-menu-item">Posts</li>
+      </a><a href="/about/">
+        <li class="mobile-menu-item">About</li>
+      </a>
+  </ul>
+
+  
+
+
+</nav>
+
+  <div class="container" id="mobile-panel">
+    <header id="header" class="header">
+        <div class="logo-wrapper">
+  <a href="/" class="logo">Jason Collins blog</a>
+</div>
+
+
+
+
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    <li class="menu-item">
+        <a class="menu-item-link" href="/">Home</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/post/">Posts</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/about/">About</a>
+      </li>
+  </ul>
+</nav>
+
+    </header>
+
+    <main id="main" class="main">
+      <div class="content-wrapper">
+        <div id="content" class="content">
+          <article class="post">
+    
+    <header class="post-header">
+      <h1 class="post-title">What can we infer about someone who rejects a 50:50 bet to win $110 or lose $100? The Rabin paradox explored</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> 6 November 2019 </span>
+        
+        
+      </div>
+    </header>
+
+    
+    <div class="post-content">
+      <p>Consider the following claim:</p>
+<blockquote>
+<p>We don&rsquo;t need loss aversion to explain a person&rsquo;s decision to reject a 50:50 bet to win $110 or lose $100. That just simple risk aversion as in expected utility theory.</p>
+</blockquote>
+<p>Risk aversion is the concept that we prefer certainty to a gamble with the same expected value. For example, a risk averse person would prefer $100 for certain over a 50-50 gamble between $0 and $200, which has an expected value of $100. The higher their risk aversion, the less they would value the 50:50 bet. They would also be willing to reject some positive expected value bets.</p>
+<p>Loss aversion is the concept that losses loom larger than gains. If the loss is weighted more heavily that the gain - it is often said that losses hurt twice as much as gains bring us joy - then this could also explain the decision to reject a 50:50 bet of the type above. Loss aversion is distinct from risk aversion as its full force applies to the first dollar either side of the reference point from which the person is assessing the change (and at which point risk aversion should be negligible).</p>
+<p>So, do we need loss aversion to explain the rejection of this bet, or does risk aversion suffice?</p>
+<p>One typical response to the above claim is loosely based on the Rabin Paradox, which comes from a paper published in 2000 by Matthew Rabin:</p>
+<blockquote>
+<p>An expected utility maximiser who rejects this bet is exhibiting a level of risk aversion that would lead them to reject bets that no one in their right mind would reject. It can&rsquo;t be the case that this is simply risk aversion.</p>
+</blockquote>
+<p>For the remainder of this post I am going to pull apart Rabin&rsquo;s argument from his justifiably famous paper <a href="https://doi.org/10.1111/1468-0262.00158">Risk Aversion and Expected-Utility Theory: A Calibration Theorem</a> (<a href="http://dklevine.com/archive/refs47667.pdf">pdf</a>). A more more readable version of this argument was also published in 2001 in <a href="https://www.aeaweb.org/articles?id=10.1257/jep.15.1.219">an article by Rabin and Richard Thaler</a>.</p>
+<p>To understand Rabin&rsquo;s point, I have worked through the math in his paper. You can see my  mathematical workings in an Appendix at the bottom of this post. There were quite a few minor errors in the paper - and some major errors in the formulas - but I believe I&rsquo;ve captured the crux of the argument. (I&rsquo;d be grateful for some second opinions on this).</p>
+<p>I started working through these two articles with an impression that Rabin&rsquo;s argument was a fatal blow to the idea that expected utility theory accurately describes the rejection of bets such as that above. I would have been comfortable making the above response. However, after playing with the numbers and developing a better understanding of the paper, I would say that the above response is not strictly true. Rabin&rsquo;s paper makes an important point, but it is far from a fatal blow by itself. (That fatal blow does come, just not solely from here.)</p>
+<p>##Describing Rabin&rsquo;s argument</p>
+<p>Rabin&rsquo;s argument starts with a simple bet: suppose you are offered a 50:50 bet to win $110 or lose $100, and you turn it down. Suppose further that you would reject this bet no matter what your wealth (this is an assumption we will turn to in more detail later). What can you infer about your response to other bets?</p>
+<p>This depends on what decision making model you are using.</p>
+<p>For an expected utility maximiser - someone who maximises the probability weighted subjective value of these bets - we can infer that they will turn down any 50:50 bet of losing $1,000 and gaining any amount of money. For example, they would reject a 50:50 bet to lose $1,000, win one billion dollars.</p>
+<p>On its face value, that is ridiculous, and that is the crux of Rabin&rsquo;s argument. Rejection of the low value bet to win $110 and lose $100 would lead to absurd responses to higher value bets. This leads Rabin to argue that risk aversion or the diminishing value of money has nothing to do with rejection of the low value bets.</p>
+<p>The intuition behind Rabin&rsquo;s argument is relatively simple. Suppose we have someone that rejects a 50:50 bet for gain $11, lose $10. They are an expected utility maximiser with a weakly concave utility curve: that is, they are risk neutral or risk averse at all levels of wealth.</p>
+<p>From this, we can infer that they weight the average of each dollar between their current wealth (W) and their wealth if they win the bet (W+11) only 10/11 as much as they weight the average dollar of the last $10 of their current wealth (between W-10 and W). We can also say that they therefore weight their W+11th dollar at most 10/11 as much as their W-10th dollar (relying on the weak concavity here).</p>
+<p>Suppose their wealth is now W+21. We have assumed that they will reject the bet at all levels of wealth, so they will also reject at this wealth. Iterating the previous calculations, we can say that they will weight their W+32nd dollar only 10/11 as much as their W+11th dollar. This means they value their W+32nd dollar only (10/11)<sup>2</sup> as much as their W-10th dollar.</p>
+<p>Keep iterating in this way and you end up with some ridiculous results. You value the 210th dollar above your current wealth only 40% as much as your last current dollar of your wealth [reducing by a constant factor of 10/11 every $21 - (10/11)<sup>10</sup>]. Or you value the 900th dollar above your current wealth at only 2% of your last current dollar [(10/11)<sup>40</sup>]. This is an absurd rate of discounting.</p>
+<p>Those numbers are from the 2001 Rabin and Thaler paper. In his 2000 paper, Rabin gives figures of 3/20 for the 220th and 1/2000 for the 880th dollar, effectively calculating (10/11)<sup>20</sup> and (10/11)<sup>80</sup>, which is a reduction by a factor of 10/11 every 11 dollars. This degree of discounting could be justified and reflects the equations provided in the Appendix to his paper, but it requires a slightly different intuition than the one relating to the comparison between every 21st dollar. If instead you note that the $11 above a reference point are valued less than the $10 below, you only need iterate up $11 to get another discount of 10/11, as the next $11 is valued at most as much as the previous $10.</p>
+<p>Regardless of whether you use the numbers from the 2000 or 2001 paper, taking this iteration to the extreme, it doesn&rsquo;t take long for additional money to have effectively zero value. Hence the result, reject the 50:50 win $110, lose $100 and you&rsquo;ll reject the win any amount, lose $1,000 bet.</p>
+<p>##What is the utility curve of this person?</p>
+<p>This argument sounds compelling, but we need to examine the assumption that you will reject the bet at all levels of wealth.</p>
+<p>If someone rejects the bet at all levels of wealth, what is the least risk averse they could be? They would be close to indifferent to the bet at all levels of wealth. If that was the case across the whole utility curve, their absolute level of risk aversion is constant.</p>
+<p>The equation used to represent utility with constant absolute risk aversion is <a href="https://en.wikipedia.org/wiki/Exponential_utility">exponential utility</a> (with a&gt;0). A feature of the exponential utility function is that, for a risk averse person, utility caps out at a maximum. Beyond a certain level of wealth, they gain no additional utility - hence Rabin&rsquo;s ability to define bets where they reject infinite gains.</p>
+<p>The need for utility to cap out is also apparent from the fact that someone might reject a bet that involves the potential for infinite gain.  The utility of infinite wealth cannot be infinite, as any bet involving that the potential for infinite utility would be accepted.</p>
+<p>In the 2000 paper, Rabin brings the constant absolute risk aversion function into his argument more explicitly when he examines what proportion of their portfolio a person with an exponential utility function would invest in stocks (under some particular return assumptions). There he shows a ridiculous level of risk aversion and states that &ldquo;While it is widely believed that investors are too cautious in their investment behavior, no one believes they are this risk averse.&rdquo;</p>
+<p>However, this effective (or explicit) assumption of constant absolute risk aversion is not particularly well grounded. Most empirical evidence is that people exhibit decreasing absolute risk aversion, not constant. Exponential utility functions are used more for mathematical tractability than for realistically reflecting the decision making processes that people use.</p>
+<p>Yet, under Rabin&rsquo;s assumption of rejecting the bet at all levels of wealth, constant absolute risk aversion and a utility function such as the exponential is the most accommodating assumption we can make. While Rabin states that &ldquo;no one believes they are this risk averse&rdquo;, it&rsquo;s not clear that anyone believes Rabin&rsquo;s underlying assumption either.</p>
+<p>This ultimately means that the ridiculous implications for rejecting low-value bets is the result of Rabin&rsquo;s unrealistic assumption of rejecting the bet no matter what their wealth.</p>
+<p>##Relaxing the &ldquo;all levels of wealth&rdquo; assumption</p>
+<p>Rabin is, of course, aware that the assumption of rejecting the bet at all levels of wealth is a weakness, so he provides a further example that applies to someone who only rejects this bet for all levels of wealth below $300,000.</p>
+<p>This generates less extreme, but still clearly problematic bets that the bettor can be inferred to also reject.</p>
+<p>For example, consider someone who rejects the 50:50 bet to win $110, lose $100 when they have $290,000 of wealth, and who would also reject that bet up to a wealth of $300,000. As for the previous example, each time you iterate up $110, each dollar in that $110 is valued at most 10/11 of the previous $110. It takes 90 iterations of $110 to cover that $10,000, meaning that a dollar around wealth $300,000 will be valued only (10/11)<sup>90</sup> (0.02%) of a dollar at wealth $290,000. Each dollar above $300,000 is not discounted any further, but by then the damage has already been done, with that money of almost no utility.</p>
+<p>For instance, this person will reject a bet of gain $718,190, lose $1,000. Again, this person would be out of their mind.</p>
+<p>You might now ask whether a person with a wealth of $290,000 to $300,000 actually rejects bets of this nature? If not, isn&rsquo;t this just another unjustifiable assumption designed to generate a ridiculous result?</p>
+<p>It is possible to make this scenario more realistic. Rabin doesn&rsquo;t mention this in his paper (nor do Rabin and Thaler), but we can generate the same result at much lower levels of wealth. All we need to find is someone who will reject that bet over a range of $10,000, and still have enough wealth to bear the loss - say someone who will reject that bet up to a wealth of $11,000. That person will also reject a win $718,190 lose $1,000 bet.</p>
+<p>Rejection of the win $110, lose $100 bet over that range does not seem as unrealistic, and I could imagine a person with that preference existing. If we empirically tested this, we would also need to examine liquid wealth and cash flow, but the example does provide a sense that we could find some people whose rejection of low value bets would generate absurd results under expected utility maximisation.</p>
+<p>##The log utility function</p>
+<p>Let&rsquo;s compare Rabin&rsquo;s example utility function with a more commonly assumed utility function, that of log utility. Log utility has decreasing absolute risk aversion (and constant relative risk aversion), so is both more empirically defensible and does not generate utility that asymptotes to a maximum like the exponential utility function.</p>
+<p>A person with log utility would reject the 50:50 bet to win $110, lose $100 up to a wealth of $1,100. Beyond that, they would accept the bet. So, for log utility we should see most people accept this bet.</p>
+<p>A person with log utility will reject some quite unbalanced bets: such as a 50:50 bet to win $1 million, lose $90,900, but only up to a wealth of $100,000, beyond which they would accept. Rejection only occurs when a loss is near ruinous.</p>
+<p>The result is that log utility does not generate the types of rejected bets that Rabin labels as ridiculous, but would also fail to provide much of an explanation for the rejection of low-value bets with positive expected value.</p>
+<p>##The empirical evidence</p>
+<p>Do people actually turn down 50:50 bets of win $110, lose $100? Surprisingly, I couldn&rsquo;t find an example of this bet (if someone knows a paper that directly tests this, let me know).</p>
+<p>Most examinations of loss aversion examine symmetric 50:50 bets where the potential gain and the loss are the same. They compare a bet centred around 0 (e.g. gain $100 or lose $100) and a similar bet in a gain frame (e.g. gain $100 or gain $300, or take $200 for certain). If more people reject the first bet than the latter, then this is evidence of loss aversion.</p>
+<p>It makes sense that this is the experimental approach. If the bet is not symmetric, it becomes hard to tease out loss aversion from risk aversion.</p>
+<p>However, there is a pattern in the literature that people often reject risky bets with a positive expected value in the ranges explored by Rabin. We don&rsquo;t know a lot about their wealth (or liquidity), but Rabin&rsquo;s illustrative numbers for rejected bets don&rsquo;t seem completely unrealistic. It&rsquo;s the range of wealth over which the rejection occurs that is questionable.</p>
+<p>Rather than me floundering around on this point, there are papers that explicitly ask whether we can observe a set of bets for a group of experimental subjects and map a curve to those choices that resembles expected utility.</p>
+<p>For instance, <a href="https://doi.org/10.1257/000282802762024700">Holt and Laury&rsquo;s 2002 AER paper</a> (<a href="https://econweb.ucsd.edu/~jandreon/Econ264/papers/Holt%20Laury%20AER%202002.pdf">pdf</a>) examined a set of hypothetical and incentivised bets over a range of stakes (finding among other things that hypothetical predictions of their response to incentivised high-stakes bets were not very accurate). They found that if you are flexible about the form of the expected utility function that is used, rejection of small gambles does not result in absurd conclusions on large gambles. The pattern of bets could be made consistent with expected utility, assuming you correctly parameterise the equation. Over subsequent years there was some back and forth on whether this finding was robust [see <a href="https://doi.org/10.1257/0002828054201378">here</a> (<a href="http://pdfs.semanticscholar.org/924d/fb5180d98767b630e3ae468da0c166a0890a.pdf?_ga=2.18923384.1759154274.1571603876-1728413697.1571603876">pdf</a>) and <a href="https://doi.org/10.1257/0002828054201459">here</a> (<a href="http://home.cerge-ei.cz/ortmann/trentocourse/Holt_Laury_Incentive_Effects_AER_2005.pdf">pdf</a>)], but the basic result seemed to hold.</p>
+<p>The utility curve that best matched Holt and Laury&rsquo;s experimental findings had increasing relative risk aversion, and decreasing absolute risk aversion. By having decreasing absolute risk aversion, the absurd implications of Rabin&rsquo;s paper are avoided.</p>
+<p>Papers such as this suggest that while Rabin&rsquo;s paper makes an important point, its underlying assumptions are not consistent with empirical evidence. It is possible to have an expected utility maximiser reject low value bets without generating ridiculous outcomes.</p>
+<p>So what can you infer about our bettor who has rejected the win $110, lose $100 bet?</p>
+<p>From the argument above, I would say not much. We could craft a utility function to accommodate this bet without leading to ridiculous consequences. I personally feel this defence is laboured (that&rsquo;s a subject for another day), but the bet is not in itself fatal to the argument that they are an expected utility maximiser.</p>
+<p>My other posts on loss aversion can be found here:</p>
+<ol>
+<li><a href="https://jasoncollins.blog/2019/09/10/kahneman-and-tverskys-debatable-loss-aversion-assumption/">Kahneman and Tversky&rsquo;s debatable loss aversion assumption</a></li>
+<li><a href="https://jasoncollins.blog/2019/11/06/what-can-we-infer-about-someone-who-rejects-a-5050-bet-to-win-110-or-lose-100-the-rabin-paradox-explored/">What can we infer about someone who rejects a 50:50 bet to win $110 or lose $100? The Rabin paradox explored</a> (this post)</li>
+<li><a href="https://jasoncollins.blog/2019/12/05/the-case-against-loss-aversion/">The case against loss aversion</a></li>
+<li><a href="https://jasoncollins.blog/2020/01/22/ergodicity-economics-a-primer/">Ergodicity economics - a primer</a></li>
+</ol>
+<p>&ndash;</p>
+<p>##Appendix</p>
+<h3 id="the-utility-of-a-gain">The utility of a gain</h3>
+<p>Let&rsquo;s suppose someone will reject a 50:50 bet with gain <em>g</em> and loss <em>l</em> for any level of wealth. What utility will they get from a gain of <em>x</em>? Rabin  defines an upper bound of the utility of gaining <em>x</em> to be:</p>
+<p>$$U(w+x)-U(w)\leq\sum_{i=0}^{k^{**}(x)}\left(\frac{l}{g}\right)^ir(w)$$</p>
+<p>$$k^{**}(x)=int\left(\frac{x}{g}\right)$$</p>
+<p>$$r(w)=U(w)-U(w-l)$$</p>
+<p>This formula effectively breaks down $x$ into $g$ size components, successively discounting each additional $g$ at $\frac{l}{g}$ of the previous $g$.</p>
+<p>You need $k^{**}(x)+1$ lots of $g$ to cover $x$. For instance, if $x$ was 32 and we had a 50:50 bet for win $11, lose $10, $\left(\frac{32}{11}\right)=2$. You need 2+1 lots of 11 to fully cover 32. It actually covers a touch more than 32, hence the calculation being for an upper bound.</p>
+<p>In the paper, Rabin defines $k^{**}(x)=int\left(\left(\frac{x}{g}\right)+1\right)$ This seems to better capture the required number of $g$ to fully cover $x$, but the iterations in the above formula start at $i=0$. The calculations I run below with my version of the formula replicate Rabin&rsquo;s, supporting the suggestion that the addition of 1 in the paper is an error.</p>
+<p>$r(w)$ is shorthand for the amount of utility sacrificed from losing the gamble (i.e. losing $l$). We know that the utility of the gain $g$ is less than this, as the bet is rejected. If we let $r(w)=1$, the equation can be thought of as giving you the maximum utility you could get from the gain  of $x$ relative to the utility of the loss of $l$.</p>
+<p>Putting this together, the upper bound of the utility of the possible gain $x$ is therefore less than, first, the upper bound of the relative utility from the first $11, $\left(\frac{10}{11}\right)^0r(w)=r(w)$, the upper bound of utility from the next $11, $\left(\frac{10}{11}\right)^1r(w)$, and the upper bound of the utility from the remaining $10 - taking a conservative approach this is calculated as though it were a full $11: $\left(\frac{10}{11}\right)^2r(w)$.</p>
+<h3 id="the-utility-of-a-loss">The utility of a loss</h3>
+<p>Rabin also gives us a lower bound of the utility of a loss of $x$ for this person who will reject a 50:50 bet with gain $g$ and loss $l$ for any level of wealth:</p>
+<p>$$U(w)-U(w-x)\geq{2}\sum_{i=1}^{k^{*}(x)}\left(\frac{g}{l}\right)^{i-1}{r(w)}$$</p>
+<p>$$k^{*}(x)=int\left(\frac{x}{2l}\right)$$</p>
+<p>The intuition behind $k^{*}(x)$ comes from Rabin&rsquo;s desire to provide a relatively uncomplicated proof for the proposition. Effectively, the utility scales down with each step of $g$ by at least $\frac{g}{l}$. Since Rabin wants to express this in terms of losses, he defines $2l\geq{g}\geq{l}$. He can thereby say that utility scales down by at least $\frac{g}{l}$ every 2 lots of $l$.</p>
+<p>Othewrwise, the intuition for this loss formula is the same as that for the gain. The summation starts at $i=1$ as this formula is providing a lower bound, so does not require the final iteration to fully cover $x$. The formula is also multiplied by 2 as each iteration covers two lots of $l$, whereby r(w) is for a single span of $l$.</p>
+<h3 id="running-some-numbers">Running some numbers</h3>
+<p>The below code implements the above two formulas as a function, calculating the potential utility gain for a win of $G$ or a loss of $L$ for a person who rejects a 50:50 bet win $g$, lose $l$ at all levels of wealth. It then states whether we know the person will reject a win $G$, lose $L$ bet - we can&rsquo;t state they will accept as we have upper and lower bounds of the utility change from the gain and loss.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="n">Rabin_bet</span> <span class="o">&lt;-</span> <span class="nf">function</span><span class="p">(</span><span class="n">g</span><span class="p">,</span> <span class="n">l</span><span class="p">,</span> <span class="n">G</span><span class="p">,</span> <span class="n">L</span><span class="p">){</span>
+
+  <span class="n">k_2star</span> <span class="o">&lt;-</span> <span class="nf">as.integer</span><span class="p">(</span><span class="n">G</span><span class="o">/</span><span class="n">g</span><span class="p">)</span>
+  <span class="n">k_star</span> <span class="o">&lt;-</span> <span class="nf">as.integer</span><span class="p">(</span><span class="n">L</span><span class="o">/</span><span class="p">(</span><span class="m">2</span><span class="o">*</span><span class="n">l</span><span class="p">))</span>
+
+  <span class="n">U_gain</span> <span class="o">&lt;-</span> <span class="m">0</span>
+  <span class="nf">for </span><span class="p">(</span><span class="n">i</span> <span class="n">in</span> <span class="m">0</span><span class="o">:</span><span class="n">k_2star</span><span class="p">)</span> <span class="p">{</span>
+    <span class="n">U_step</span> <span class="o">&lt;-</span> <span class="p">(</span><span class="n">l</span><span class="o">/</span><span class="n">g</span><span class="p">)</span><span class="n">^i</span>
+    <span class="n">U_gain</span> <span class="o">&lt;-</span> <span class="n">U_gain</span> <span class="o">+</span> <span class="n">U_step</span>
+  <span class="p">}</span>
+
+  <span class="n">U_loss</span> <span class="o">&lt;-</span> <span class="m">0</span>
+  <span class="nf">for </span><span class="p">(</span><span class="n">i</span> <span class="n">in</span> <span class="m">1</span><span class="o">:</span><span class="n">k_star</span><span class="p">)</span> <span class="p">{</span>
+    <span class="n">U_step</span> <span class="o">&lt;-</span> <span class="m">2</span><span class="o">*</span><span class="p">(</span><span class="n">g</span><span class="o">/</span><span class="n">l</span><span class="p">)</span><span class="nf">^</span><span class="p">(</span><span class="n">i</span><span class="m">-1</span><span class="p">)</span>
+    <span class="n">U_loss</span> <span class="o">&lt;-</span> <span class="n">U_loss</span> <span class="o">+</span> <span class="n">U_step</span>
+  <span class="p">}</span>
+
+  <span class="nf">ifelse</span><span class="p">(</span><span class="n">U_gain</span> <span class="o">&lt;</span> <span class="n">U_loss</span><span class="p">,</span>
+         <span class="nf">print</span><span class="p">(</span><span class="s">&#34;REJECT&#34;</span><span class="p">),</span>
+         <span class="nf">print</span><span class="p">(</span><span class="s">&#34;CANNOT CONFIRM REJECT&#34;</span><span class="p">)</span>
+         <span class="p">)</span>
+  <span class="nf">print</span><span class="p">(</span><span class="nf">paste0</span><span class="p">(</span><span class="s">&#34;Max U from gain =&#34;</span><span class="p">,</span> <span class="n">U_gain</span><span class="p">))</span>
+  <span class="nf">print</span><span class="p">(</span><span class="nf">paste0</span><span class="p">(</span><span class="s">&#34;Min U from loss =&#34;</span><span class="p">,</span> <span class="n">U_loss</span><span class="p">))</span>
+<span class="p">}</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>Take a person who will reject a 50:50 bet to win $110, lose $100. Taking the table from the paper, they would reject a win $1,000,000,000, lose $1,000 bet.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="nf">Rabin_bet</span><span class="p">(</span><span class="m">110</span><span class="p">,</span> <span class="m">100</span><span class="p">,</span> <span class="m">1000000000</span><span class="p">,</span> <span class="m">1000</span><span class="p">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">[1] &#34;REJECT&#34;
+[1] &#34;Max U from gain =11&#34;
+[1] &#34;Min U from loss =12.2102&#34;
+</code></pre></td></tr></table>
+</div>
+</div><h2 id="relaxing-the-wealth-assumption">Relaxing the wealth assumption</h2>
+<p>In the Appendix of his paper, Rabin defines his proof where the bet is rejected over a range of wealth $w\in(\bar w, \underline{w})$. In that case, relative utility for each additional gain of size $g$ is $\frac{l}{g}$ of the previous $g$ until $\bar w$. Beyond that point, each additional gain of $g$ gives constant utility until $x$ is reached. The formula for the upper bound on the utility gain is:</p>
+<p>$$U(w+x)-U(w)\leq
+\begin{cases}
+&amp;\sum_{i=0}^{k^{**}(x)}\left(\frac{l}{g}\right)^ir(w) &amp; if&amp;\quad x\leq{\bar w}-w\<br>
+\<br>
+&amp;\sum_{i=0}^{k^{**}(\bar w)}\left(\frac{l}{g}\right)^{i}r(w)+\left[\frac{x-(\bar w-w)}{g}\right]\left(\frac{l}{g}\right)^{k^{**}(\bar w)}r(w) &amp; if&amp;\quad x\geq{\bar w}-w
+\end{cases}$$</p>
+<p>The first term of the equation where $x\geq\bar w-w$ involves iterated discounting as per the situation where the bet is rejected for all levels of wealth, but here the iteration is only up to wealth $\bar w$. The second term of that equation captures the gain beyond $\bar w$ disounted at a constant rate.</p>
+<p>There is an error in Rabin&rsquo;s formula in the paper. Rather than the term $\left[\frac{x-(\bar w-w)}{g}\right]$ in the second equation, Rabin has it as $[x-\bar w]$. As for the previous equations, we need to know the number of iterations of the gain, not total dollars, and we need this between $\bar w$ and $ w+x$.</p>
+<p>When Rabin provides the examples in Table II of the paper, from the numbers he provides I believe he actually uses a formula of the type $int\left[\frac{x-(w-\underline w)}{g}+1\right]$, which reflects a desire to calculate the upper-bound utility across the stretch above $\bar w$ in a similar manner to below, although this is not strictly necessary given the discount is constant across this range. I have implemented as per my formula, which means that bets are still rejected $g$ higher than for Rabin (which given their scale is not material).</p>
+<p>Similarly, for the loss:</p>
+<!-- & placed in equations where want alignment -->
+<p>$$U(w)-U(w-x)\geq
+\begin{cases}
+&amp;{2}\sum_{i=1}^{k^{*}(x)}\left(\frac{g}{l}\right)^{i-1}{r(w)} &amp; if&amp;\quad {w-\underline w+2l}\geq{x}\geq{2l}\<br>
+\<br>
+&amp;{2}\sum_{i=1}^{k^{*}(w-\underline w+2l)}\left(\frac{g}{l}\right)^{i-1}{r(w)}+\[6pt]
+&amp;\quad\left[\frac{x-(w-\underline w+l)}{2l}\right]\left(\frac{g}{l}\right)^{k^{*}(w-\underline w+2l)}{r(w)} &amp; if&amp;\quad x\geq{w-\underline w+2l}
+\end{cases}$$</p>
+<p>There is a similar error here, with Rabin using the term $\left[x-(w-\underline w+l)\right]$ rather than $\left[\frac{x-(w-\underline w+l)}{2l}\right]$. We can&rsquo;t determine how this was implemented by Rabin as his examples do not examine behaviour below a lower bound $\underline w$.</p>
+<h3 id="running-some-more-numbers">Running some more numbers</h3>
+<p>The below R code implements the above two formulas as a function, calculating the potential utility gain for a win of $G$ or a loss of $L$ for a person who rejects a 50:50 bet win $g$, lose $l$ at wealth $w\in(\bar w, \underline{w})$. It then states whether we know the person will reject a win $G$, lose $L$ bet - as before, we can&rsquo;t state they will accept as we have upper and lower bounds of the utility change from the gain and loss.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span><span class="lnt">38
+</span><span class="lnt">39
+</span><span class="lnt">40
+</span><span class="lnt">41
+</span><span class="lnt">42
+</span><span class="lnt">43
+</span><span class="lnt">44
+</span><span class="lnt">45
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="n">Rabin_bet_general</span> <span class="o">&lt;-</span> <span class="nf">function</span><span class="p">(</span><span class="n">g</span><span class="p">,</span> <span class="n">l</span><span class="p">,</span> <span class="n">G</span><span class="p">,</span> <span class="n">L</span><span class="p">,</span> <span class="n">w</span><span class="p">,</span> <span class="n">w_max</span><span class="p">,</span> <span class="n">w_min</span><span class="p">){</span>
+
+  <span class="nf">ifelse</span><span class="p">(</span>
+    <span class="n">G</span> <span class="o">&lt;=</span> <span class="p">(</span><span class="n">w_max</span><span class="o">-</span><span class="n">w</span><span class="p">),</span>
+    <span class="n">k_2star</span> <span class="o">&lt;-</span> <span class="nf">as.integer</span><span class="p">(</span><span class="n">G</span><span class="o">/</span><span class="n">g</span><span class="p">),</span>
+    <span class="n">k_2star</span> <span class="o">&lt;-</span> <span class="nf">as.integer</span><span class="p">((</span><span class="n">w_max</span><span class="o">-</span><span class="n">w</span><span class="p">)</span><span class="o">/</span><span class="n">g</span><span class="p">)</span>
+  <span class="p">)</span>
+
+   <span class="nf">ifelse</span><span class="p">(</span>
+    <span class="n">w</span><span class="o">-</span><span class="n">w_min</span><span class="m">+2</span><span class="o">*</span><span class="n">l</span> <span class="o">&gt;=</span> <span class="n">L</span><span class="p">,</span>
+    <span class="n">k_star</span> <span class="o">&lt;-</span> <span class="nf">as.integer</span><span class="p">(</span><span class="n">L</span><span class="o">/</span><span class="p">(</span><span class="m">2</span><span class="o">*</span><span class="n">l</span><span class="p">)),</span>
+    <span class="n">k_star</span> <span class="o">&lt;-</span> <span class="nf">as.integer</span><span class="p">((</span><span class="n">w</span><span class="o">-</span><span class="n">w_min</span><span class="m">+2</span><span class="o">*</span><span class="n">l</span><span class="p">)</span><span class="o">/</span><span class="p">(</span><span class="m">2</span><span class="o">*</span><span class="n">l</span><span class="p">))</span>
+  <span class="p">)</span>
+
+  <span class="n">U_gain</span> <span class="o">&lt;-</span> <span class="m">0</span>
+  <span class="nf">for </span><span class="p">(</span><span class="n">i</span> <span class="n">in</span> <span class="m">0</span><span class="o">:</span><span class="n">k_2star</span><span class="p">)</span> <span class="p">{</span>
+    <span class="n">U_step</span> <span class="o">&lt;-</span> <span class="p">(</span><span class="n">l</span><span class="o">/</span><span class="n">g</span><span class="p">)</span><span class="n">^i</span>
+    <span class="n">U_gain</span> <span class="o">&lt;-</span> <span class="n">U_gain</span> <span class="o">+</span> <span class="n">U_step</span>
+  <span class="p">}</span>
+
+  <span class="nf">ifelse</span><span class="p">(</span>
+    <span class="n">G</span> <span class="o">&lt;=</span> <span class="p">(</span><span class="n">w_max</span><span class="o">-</span><span class="n">w</span><span class="p">),</span>
+    <span class="n">U_gain</span> <span class="o">&lt;-</span> <span class="n">U_gain</span><span class="p">,</span>
+    <span class="n">U_gain</span> <span class="o">&lt;-</span> <span class="n">U_gain</span> <span class="o">+</span> <span class="p">((</span><span class="n">G</span><span class="o">-</span><span class="p">(</span><span class="n">w_max</span><span class="o">-</span><span class="n">w</span><span class="p">))</span><span class="o">/</span><span class="n">g</span><span class="p">)</span><span class="o">*</span><span class="p">(</span><span class="n">l</span><span class="o">/</span><span class="n">g</span><span class="p">)</span><span class="n">^k_2star</span>
+  <span class="p">)</span>
+
+  <span class="n">U_loss</span> <span class="o">&lt;-</span> <span class="m">0</span>
+  <span class="nf">for </span><span class="p">(</span><span class="n">i</span> <span class="n">in</span> <span class="m">1</span><span class="o">:</span><span class="n">k_star</span><span class="p">)</span> <span class="p">{</span>
+    <span class="n">U_step</span> <span class="o">&lt;-</span> <span class="m">2</span><span class="o">*</span><span class="p">(</span><span class="n">g</span><span class="o">/</span><span class="n">l</span><span class="p">)</span><span class="nf">^</span><span class="p">(</span><span class="n">i</span><span class="m">-1</span><span class="p">)</span>
+    <span class="n">U_loss</span> <span class="o">&lt;-</span> <span class="n">U_loss</span> <span class="o">+</span> <span class="n">U_step</span>
+  <span class="p">}</span>
+
+  <span class="nf">ifelse</span><span class="p">(</span>
+    <span class="n">w</span><span class="o">-</span><span class="n">w_min</span><span class="m">+2</span><span class="o">*</span><span class="n">l</span> <span class="o">&gt;=</span> <span class="n">L</span><span class="p">,</span>
+    <span class="n">U_loss</span> <span class="o">&lt;-</span> <span class="n">U_loss</span><span class="p">,</span>
+    <span class="n">U_loss</span> <span class="o">&lt;-</span> <span class="n">U_loss</span> <span class="o">+</span> <span class="p">((</span><span class="n">L</span><span class="o">-</span><span class="p">(</span><span class="n">w</span><span class="o">-</span><span class="n">w_min</span><span class="o">+</span><span class="n">l</span><span class="p">))</span><span class="o">/</span><span class="p">(</span><span class="m">2</span><span class="o">*</span><span class="n">l</span><span class="p">))</span><span class="o">*</span><span class="p">(</span><span class="n">g</span><span class="o">/</span><span class="n">l</span><span class="p">)</span><span class="n">^k_star</span>
+  <span class="p">)</span>
+
+  <span class="nf">ifelse</span><span class="p">(</span><span class="n">U_gain</span> <span class="o">&lt;</span> <span class="n">U_loss</span><span class="p">,</span>
+         <span class="nf">print</span><span class="p">(</span><span class="s">&#34;REJECT&#34;</span><span class="p">),</span>
+         <span class="nf">print</span><span class="p">(</span><span class="s">&#34;CANNOT CONFIRM REJECT&#34;</span><span class="p">)</span>
+         <span class="p">)</span>
+  <span class="nf">print</span><span class="p">(</span><span class="nf">paste0</span><span class="p">(</span><span class="s">&#34;Max U from gain =&#34;</span><span class="p">,</span> <span class="n">U_gain</span><span class="p">))</span>
+  <span class="nf">print</span><span class="p">(</span><span class="nf">paste0</span><span class="p">(</span><span class="s">&#34;Min U from loss =&#34;</span><span class="p">,</span> <span class="n">U_loss</span><span class="p">))</span>
+<span class="p">}</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>Imagine someone who turns down the win $110, lose $100 bet with a wealth of $290,000, but who would only reject this bet up to $300,000. They will reject a win $718,190, lose $1000 bet.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="nf">Rabin_bet_general</span><span class="p">(</span><span class="m">110</span><span class="p">,</span> <span class="m">100</span><span class="p">,</span> <span class="m">718190</span><span class="p">,</span> <span class="m">1000</span><span class="p">,</span> <span class="m">290000</span><span class="p">,</span> <span class="m">300000</span><span class="p">,</span> <span class="m">0</span><span class="p">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">[1] &#34;REJECT&#34;
+[1] &#34;Max U from gain =12.2098745626936&#34;
+[1] &#34;Min U from loss =12.2102&#34;
+</code></pre></td></tr></table>
+</div>
+</div><p>The nature of Rabin&rsquo;s calculation means that we can scale this calculation to anywhere on the wealth curve. We need only say that someone who rejects this bet over (roughly) a range of $10,000 plus the size of the potential loss will exhibit the same decisions. For example a person with $10,000 wealth who would reject the bet up to $20,000 wealth would also reject the win $718,190, lose $1000 bet.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="nf">Rabin_bet_general</span><span class="p">(</span><span class="m">110</span><span class="p">,</span> <span class="m">100</span><span class="p">,</span> <span class="m">718190</span><span class="p">,</span> <span class="m">1000</span><span class="p">,</span> <span class="m">10000</span><span class="p">,</span> <span class="m">20000</span><span class="p">,</span> <span class="m">0</span><span class="p">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">[1] &#34;REJECT&#34;
+[1] &#34;Max U from gain =12.2098745626936&#34;
+[1] &#34;Min U from loss =12.2102&#34;
+</code></pre></td></tr></table>
+</div>
+</div><h3 id="comparison-with-log-utility">Comparison with log utility</h3>
+<p>The below is an example with log utility, which is $U(W)=ln(W)$. This function determines whether someone of wealth $w$ will reject of accepta 50:50 bet for gain $g$ and loss $l$.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="n">log_utility</span> <span class="o">&lt;-</span> <span class="nf">function</span><span class="p">(</span><span class="n">g</span><span class="p">,</span> <span class="n">l</span><span class="p">,</span> <span class="n">w</span><span class="p">){</span>
+  <span class="n">log_gain</span> <span class="o">&lt;-</span> <span class="nf">log</span><span class="p">(</span><span class="n">w</span><span class="o">+</span><span class="n">g</span><span class="p">)</span>
+  <span class="n">log_loss</span> <span class="o">&lt;-</span> <span class="nf">log</span><span class="p">(</span><span class="n">w</span><span class="o">-</span><span class="n">l</span><span class="p">)</span>
+  <span class="n">EU_bet</span> <span class="o">&lt;-</span> <span class="m">0.5</span><span class="o">*</span><span class="n">log_gain</span> <span class="o">+</span> <span class="m">0.5</span><span class="o">*</span><span class="n">log_loss</span>
+  <span class="n">EU_certain</span> <span class="o">&lt;-</span> <span class="nf">log</span><span class="p">(</span><span class="n">w</span><span class="p">)</span>
+
+  <span class="nf">if</span><span class="p">(</span><span class="n">EU_certain</span> <span class="o">==</span> <span class="n">EU_bet</span><span class="p">){</span>
+    <span class="nf">print</span><span class="p">(</span><span class="s">&#34;INDIFFERENT&#34;</span><span class="p">)</span>
+  <span class="p">}</span> <span class="n">else</span> <span class="nf">if</span><span class="p">(</span><span class="n">EU_certain</span> <span class="o">&gt;</span> <span class="n">EU_bet</span><span class="p">){</span>
+    <span class="nf">print</span><span class="p">(</span><span class="s">&#34;REJECT&#34;</span><span class="p">)</span>
+  <span class="p">}</span> <span class="n">else</span> <span class="nf">if</span><span class="p">(</span><span class="n">EU_certain</span> <span class="o">&lt;</span> <span class="n">EU_bet</span><span class="p">){</span>
+    <span class="nf">print</span><span class="p">(</span><span class="s">&#34;ACCEPT&#34;</span><span class="p">)</span>
+  <span class="p">}</span>
+
+  <span class="nf">print</span><span class="p">(</span><span class="nf">paste0</span><span class="p">(</span><span class="s">&#34;Expected utility of bet = &#34;</span><span class="p">,</span> <span class="n">EU_bet</span><span class="p">))</span>
+  <span class="nf">print</span><span class="p">(</span><span class="nf">paste0</span><span class="p">(</span><span class="s">&#34;Utility of current wealth = &#34;</span><span class="p">,</span> <span class="n">EU_certain</span><span class="p">))</span>
+<span class="p">}</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>Testing a few numbers, someone with log utility is indifferent about a 50:50 win $110, lose $100 bet at wealth $1100. They would accept for any level of wealth above that level.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="nf">log_utility</span><span class="p">(</span><span class="m">110</span><span class="p">,</span> <span class="m">100</span><span class="p">,</span> <span class="m">1100</span><span class="p">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">[1] &#34;INDIFFERENT&#34;
+[1] &#34;Expected utility of bet = 7.00306545878646&#34;
+[1] &#34;Utility of current wealth = 7.00306545878646&#34;
+</code></pre></td></tr></table>
+</div>
+</div><p>That same person will always accept a 50:50 win $1100, lose $1000 bet above $11,000 in wealth.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="nf">log_utility</span><span class="p">(</span><span class="m">1100</span><span class="p">,</span> <span class="m">1000</span><span class="p">,</span> <span class="m">11000</span><span class="p">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">[1] &#34;ACCEPT&#34;
+[1] &#34;Expected utility of bet = 9.30565055178051&#34;
+[1] &#34;Utility of current wealth = 9.30565055178051&#34;
+</code></pre></td></tr></table>
+</div>
+</div><p>Can we generate any bets that don&rsquo;t seem quite right? It&rsquo;s quite hard unless you have a bet that will bring the person to ruin or near ruin. For instance, for a 50:50 bet with a chance to win $1 million, a person with log utility and $100,000 wealth would still accept the bet with a potential loss of $90,900, which brings them to less than 10% of their wealth.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="nf">log_utility</span><span class="p">(</span><span class="m">1000000</span><span class="p">,</span> <span class="m">90900</span><span class="p">,</span> <span class="m">100000</span><span class="p">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">[1] &#34;ACCEPT&#34;
+[1] &#34;Expected utility of bet = 11.5134252151368&#34;
+[1] &#34;Utility of current wealth = 11.5129254649702&#34;
+</code></pre></td></tr></table>
+</div>
+</div><p>The problem with log utility is not the ability to generate ridiculous bets that would be rejected. Rather, it&rsquo;s that someone with log utility would tend to accept most positive value bets (in fact, they would always take a non-zero share if they could). Only if the bet brings them near ruin (either through size or their lack of wealth) would they turn down the bet.</p>
+<p>The isoelastic utility function - of which log utility is a special case - is a broader class of function that exhibits constant relative risk aversion:</p>
+<p>$$U(x)=\frac{w^{1-\rho}-1}{1-\rho}$$
+If $\rho=1$, this simplifies to log utility (you need to use L&rsquo;Hopital&rsquo;s rule to get this as the fraction is undefined when $\rho=1$.) The higher $\rho$, the higher the level of risk aversion. We implement this function as follows:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="n">CRRA_utility</span> <span class="o">&lt;-</span> <span class="nf">function</span><span class="p">(</span><span class="n">g</span><span class="p">,</span> <span class="n">l</span><span class="p">,</span> <span class="n">w</span><span class="p">,</span> <span class="n">rho</span><span class="o">=</span><span class="m">2</span><span class="p">){</span>
+
+  <span class="nf">if</span><span class="p">(</span><span class="n">rho</span><span class="o">==</span><span class="m">1</span><span class="p">){</span>
+    <span class="nf">print</span><span class="p">(</span><span class="s">&#34;function undefined&#34;</span><span class="p">)</span>
+  <span class="p">}</span>
+
+  <span class="n">log_gain</span> <span class="o">&lt;-</span> <span class="p">((</span><span class="n">w</span><span class="o">+</span><span class="n">g</span><span class="p">)</span><span class="nf">^</span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">rho</span><span class="p">)</span><span class="m">-1</span><span class="p">)</span><span class="o">/</span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">rho</span><span class="p">)</span>
+  <span class="n">log_loss</span> <span class="o">&lt;-</span> <span class="p">((</span><span class="n">w</span><span class="o">-</span><span class="n">l</span><span class="p">)</span><span class="nf">^</span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">rho</span><span class="p">)</span><span class="m">-1</span><span class="p">)</span><span class="o">/</span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">rho</span><span class="p">)</span>
+
+  <span class="n">EU_bet</span> <span class="o">&lt;-</span> <span class="m">0.5</span><span class="o">*</span><span class="n">log_gain</span> <span class="o">+</span> <span class="m">0.5</span><span class="o">*</span><span class="n">log_loss</span>
+  <span class="n">EU_certain</span> <span class="o">&lt;-</span> <span class="p">(</span><span class="n">w</span><span class="nf">^</span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">rho</span><span class="p">)</span><span class="m">-1</span><span class="p">)</span><span class="o">/</span><span class="p">(</span><span class="m">1</span><span class="o">-</span><span class="n">rho</span><span class="p">)</span>
+
+  <span class="nf">if</span><span class="p">(</span><span class="n">EU_certain</span> <span class="o">==</span> <span class="n">EU_bet</span><span class="p">){</span>
+    <span class="nf">print</span><span class="p">(</span><span class="s">&#34;INDIFFERENT&#34;</span><span class="p">)</span>
+  <span class="p">}</span> <span class="n">else</span> <span class="nf">if</span><span class="p">(</span><span class="n">EU_certain</span> <span class="o">&gt;</span> <span class="n">EU_bet</span><span class="p">){</span>
+    <span class="nf">print</span><span class="p">(</span><span class="s">&#34;REJECT&#34;</span><span class="p">)</span>
+  <span class="p">}</span> <span class="n">else</span> <span class="nf">if</span><span class="p">(</span><span class="n">EU_certain</span> <span class="o">&lt;</span> <span class="n">EU_bet</span><span class="p">){</span>
+    <span class="nf">print</span><span class="p">(</span><span class="s">&#34;ACCEPT&#34;</span><span class="p">)</span>
+  <span class="p">}</span>
+  
+  <span class="nf">print</span><span class="p">(</span><span class="nf">paste0</span><span class="p">(</span><span class="s">&#34;Expected utility of bet = &#34;</span><span class="p">,</span> <span class="n">EU_bet</span><span class="p">))</span>
+  <span class="nf">print</span><span class="p">(</span><span class="nf">paste0</span><span class="p">(</span><span class="s">&#34;Utility of current wealth = &#34;</span><span class="p">,</span> <span class="n">EU_certain</span><span class="p">))</span>
+<span class="p">}</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>If we increase $\rho$, we can increase the proportion of low value bets that are rejected.</p>
+<p>For example, a person with $\rho=2$ will reject the 50:50 win $110, lose $100 bet up to a wealth of $2200. The rejection point scales with $\rho$.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="nf">CRRA_utility</span><span class="p">(</span><span class="m">110</span><span class="p">,</span> <span class="m">100</span><span class="p">,</span> <span class="m">2200</span><span class="p">,</span> <span class="m">2</span><span class="p">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">[1] &#34;INDIFFERENT&#34;
+[1] &#34;Expected utility of bet = 0.999545454545455&#34;
+[1] &#34;Utility of current wealth = 0.999545454545455&#34;
+</code></pre></td></tr></table>
+</div>
+</div><p>For a 50:50 chance to win $1 million at wealth $100,000, the person with $\rho=2$ is willing to risk a far smaller loss, and rejects even when the loss is only $48,000, or less than half their wealth (which admittedly is still a fair chunk).</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-r" data-lang="r"><span class="nf">CRRA_utility</span><span class="p">(</span><span class="m">1000000</span><span class="p">,</span> <span class="m">48000</span><span class="p">,</span> <span class="m">100000</span><span class="p">,</span> <span class="m">2</span><span class="p">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">[1] &#34;REJECT&#34;
+[1] &#34;Expected utility of bet = 0.99998993006993&#34;
+[1] &#34;Utility of current wealth = 0.99999&#34;
+</code></pre></td></tr></table>
+</div>
+</div><p>Higher values of $\rho$ start to become completely unrealistic as utility is almost flat beyond an initial level of wealth.</p>
+<p>It is also possible to have values of $\rho$ between 0 (risk neutrality) and 1. These would result in even fewer rejected low value bets than log utility, and fewer rejected bets with highly unbalanced potential gains and losses.</p>
+
+    </div>
+
+    
+<footer class="post-footer">
+      
+      <nav class="post-nav">
+        <a class="prev" href="/the-case-against-loss-aversion/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">The case against loss aversion</span>
+            <span class="prev-text nav-mobile">Prev</span>
+          </a>
+        <a class="next" href="/my-latest-article-at-behavioral-scientist-principles-for-the-application-of-human-intelligence/">
+            <span class="next-text nav-default">My latest article at Behavioral Scientist: Principles for the Application of Human Intelligence</span>
+            <span class="next-text nav-mobile">Next</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+        </div>
+        
+
+  
+
+  
+
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="https://twitter.com/jasonacollins" class="iconfont icon-twitter" title="twitter"></a>
+      <a href="https://www.linkedin.com/in/jasonallancollins/" class="iconfont icon-linkedin" title="linkedin"></a>
+  <a href="http://localhost:1313/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+</div>
+
+<div class="copyright">
+  <span class="power-by">
+    Powered by <a class="hexo-link" href="https://gohugo.io">Hugo</a>
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    Theme - 
+    <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
+  </span>
+
+  
+
+  <span class="copyright-year">
+    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
+   </span>
+</div>
+
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
+
+
+
+<script type="text/javascript" src="/js/main.min.c12618f9a600c40bd024996677e951e64d3487006775aeb22e200c990006c5c7.js"></script>
+  <script type="text/javascript">
+    window.MathJax = {
+      tex: {
+        }
+    };
+  </script>
+  <script async src="https://cdn.jsdelivr.net/npm/mathjax@3.0.5/es5/tex-mml-chtml.js" integrity="sha256-HGLuEfFcsUJGhvB8cQ8nr0gai9EucOOaIxFw7qxmd+w=" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+</body>
+</html>

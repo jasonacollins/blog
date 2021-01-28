@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Mandelbrot (and Hudson&#39;s) The (mis)Behaviour of Markets: A Fractal View of Risk, Ruin, and Reward - Jason Collins blog</title>
+  <meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+<meta name="author" content="jasonacollins" /><meta name="description" content="If you have read Nassim Taleb&amp;rsquo;s The Black Swan you will have come across some of Benoit Mandelbrot&amp;rsquo;s ideas. However, Mandelbrot and Hudson&amp;rsquo;s The (mis)Behaviour of Markets: A Fractal View of Risk, Ruin, and Reward offers a much clearer critique of the underpinnings of modern financial theory (there are many parts of The Black Swan where I&amp;rsquo;m still not sure I understand what Taleb is saying). Mandelbrot describes and pulls apart the contributions of Markowitz, Sharpe, Black, Scholes and friends in a way likely understandable to the intelligent lay reader." />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.80.0 with theme even" />
+
+
+<link rel="canonical" href="http://localhost:1313/mandelbrot-and-hudsons-the-misbehaviour-of-markets-a-fractal-view-of-risk-ruin-and-reward/" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+<link href="/sass/main.min.96885b9e1f30bb9d3bf77a154dcabdb6f91894c19fc72577699bb8ca529e60fb.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
+
+
+<meta property="og:title" content="Mandelbrot (and Hudson&#39;s) The (mis)Behaviour of Markets: A Fractal View of Risk, Ruin, and Reward" />
+<meta property="og:description" content="If you have read Nassim Taleb&rsquo;s The Black Swan you will have come across some of Benoit Mandelbrot&rsquo;s ideas. However, Mandelbrot and Hudson&rsquo;s The (mis)Behaviour of Markets: A Fractal View of Risk, Ruin, and Reward offers a much clearer critique of the underpinnings of modern financial theory (there are many parts of The Black Swan where I&rsquo;m still not sure I understand what Taleb is saying). Mandelbrot describes and pulls apart the contributions of Markowitz, Sharpe, Black, Scholes and friends in a way likely understandable to the intelligent lay reader." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/mandelbrot-and-hudsons-the-misbehaviour-of-markets-a-fractal-view-of-risk-ruin-and-reward/" />
+<meta property="article:published_time" content="2016-10-12T08:00:26+00:00" />
+<meta property="article:modified_time" content="2016-10-12T08:00:26+00:00" />
+<meta itemprop="name" content="Mandelbrot (and Hudson&#39;s) The (mis)Behaviour of Markets: A Fractal View of Risk, Ruin, and Reward">
+<meta itemprop="description" content="If you have read Nassim Taleb&rsquo;s The Black Swan you will have come across some of Benoit Mandelbrot&rsquo;s ideas. However, Mandelbrot and Hudson&rsquo;s The (mis)Behaviour of Markets: A Fractal View of Risk, Ruin, and Reward offers a much clearer critique of the underpinnings of modern financial theory (there are many parts of The Black Swan where I&rsquo;m still not sure I understand what Taleb is saying). Mandelbrot describes and pulls apart the contributions of Markowitz, Sharpe, Black, Scholes and friends in a way likely understandable to the intelligent lay reader.">
+<meta itemprop="datePublished" content="2016-10-12T08:00:26+00:00" />
+<meta itemprop="dateModified" content="2016-10-12T08:00:26+00:00" />
+<meta itemprop="wordCount" content="649">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Mandelbrot (and Hudson&#39;s) The (mis)Behaviour of Markets: A Fractal View of Risk, Ruin, and Reward"/>
+<meta name="twitter:description" content="If you have read Nassim Taleb&rsquo;s The Black Swan you will have come across some of Benoit Mandelbrot&rsquo;s ideas. However, Mandelbrot and Hudson&rsquo;s The (mis)Behaviour of Markets: A Fractal View of Risk, Ruin, and Reward offers a much clearer critique of the underpinnings of modern financial theory (there are many parts of The Black Swan where I&rsquo;m still not sure I understand what Taleb is saying). Mandelbrot describes and pulls apart the contributions of Markowitz, Sharpe, Black, Scholes and friends in a way likely understandable to the intelligent lay reader."/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="/" class="logo">Jason Collins blog</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <a href="/">
+        <li class="mobile-menu-item">Home</li>
+      </a><a href="/post/">
+        <li class="mobile-menu-item">Posts</li>
+      </a><a href="/about/">
+        <li class="mobile-menu-item">About</li>
+      </a>
+  </ul>
+
+  
+
+
+</nav>
+
+  <div class="container" id="mobile-panel">
+    <header id="header" class="header">
+        <div class="logo-wrapper">
+  <a href="/" class="logo">Jason Collins blog</a>
+</div>
+
+
+
+
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    <li class="menu-item">
+        <a class="menu-item-link" href="/">Home</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/post/">Posts</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/about/">About</a>
+      </li>
+  </ul>
+</nav>
+
+    </header>
+
+    <main id="main" class="main">
+      <div class="content-wrapper">
+        <div id="content" class="content">
+          <article class="post">
+    
+    <header class="post-header">
+      <h1 class="post-title">Mandelbrot (and Hudson&#39;s) The (mis)Behaviour of Markets: A Fractal View of Risk, Ruin, and Reward</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> 12 October 2016 </span>
+        
+        
+      </div>
+    </header>
+
+    
+    <div class="post-content">
+      <p>If you have read Nassim Taleb&rsquo;s <a href="http://amzn.to/2e7oXWX">The Black Swan</a> you will have come across some of Benoit Mandelbrot&rsquo;s ideas. However, Mandelbrot and Hudson&rsquo;s <a href="http://amzn.to/2e3UEED">The (mis)Behaviour of Markets: A Fractal View of Risk, Ruin, and Reward</a> offers a much clearer critique of the underpinnings of modern financial theory (there are many parts of The Black Swan where I&rsquo;m still not sure I understand what Taleb is saying). Mandelbrot describes and pulls apart the contributions of Markowitz, Sharpe, Black, Scholes and friends in a way likely understandable to the intelligent lay reader. I expect that might flow from science journalist Richard Hudson&rsquo;s involvement in writing the book.</p>
+<p>Mandelbrot&rsquo;s critique rests on two main pillars. The first is that - seemingly stating the obvious - markets are risky. Less obviously, Mandelbrot&rsquo;s point is that market changes are more violent than often assumed. Second, trouble runs in streaks.</p>
+<p>While Mandelbrot&rsquo;s critique is compelling, it&rsquo;s much harder to construct plausible alternatives. Mandelbrot offers two new metrics - α (a measure of how wildly prices vary) and <em>H</em> (a measure of the dependence of price changes upon past changes) - but as he notes, the method used to calculate each can result in wild variation in those measures themselves. On H, he states that &ldquo;If you look across all the studies to date, you find a perplexing range of <em>H</em> values and no clear pattern among them.&rdquo;</p>
+<p>I&rsquo;ll close this short note with a brief excerpt from near the end of the book painting a picture of what it is like to live in the world Mandelbrot describes (which just happens to be our world):</p>
+<blockquote>What does it feel like, to live through a fractal market? To explain, I like to put it in terms of a parable:
+<blockquote>
+<p>Once upon a time, there was a country called the Land of Ten Thousand Lakes. Its first and largest lake was a veritable sea 1,600 miles wide. The next biggest lake was 919 miles across; the third, 614; and so on down to the last and smallest at one mile across. An esteemed mathematician for the government, the Kingdom of Inference and Probable Value, noticed that the diameters scaled downwards according to a tidy, power-law formula.</p>
+</blockquote>
+<blockquote>
+<p>Now, just beyond this peculiar land lay the Foggy Bottoms, a largely uninhabited country shrouded in dense, confusing mists and fogs through which one could barely see a mile. The Kingdom resolved to chart its neighbour; and so the surveyors and cartographers set out. Soon, they arrived at a lake. The mists barred their sight of the far shore. How broad was it? Before embarking on it, should they provision for a day or a month? Like most people, they worked out what they knew: They assumed this new land was much like their own and that the size of lakes followed the same distribution. So, as they set off blindly in their boats, they assumed they had at least a mile to go and, on average, five miles.</p>
+</blockquote>
+<blockquote>
+<p>But they rowed and rowed and found no shore. Five miles passed, and they recalculated the odds of how far they had to travel. Again, the probability suggested: five miles to go. So they rowed further - and still no shore in sight. they despaired. Had they embarked upon a sea, without enough provisions for the journey? Had the spirits of these fogs moved the shore?</p>
+</blockquote>
+<p>An odd story, but one with a familiar ring, perhaps, to a professional stock trader. Consider: The lake diameters vary according to a power law, from largest to smallest. Once you have crossed five miles of water, odds are you have another five to go. If you are still afloat after ten miles, the odds remain the same: another ten miles to go. And so on. Of course, you will hit shore at some point; yet at any moment, the probability is stretched but otherwise unchanged.</blockquote></p>
+
+    </div>
+
+    
+<footer class="post-footer">
+      
+      <nav class="post-nav">
+        <a class="prev" href="/joness-hive-mind-how-your-nations-iq-matters-so-much-more-than-your-own/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">Jones&#39;s Hive Mind: How Your Nation’s IQ Matters So Much More Than Your Own</span>
+            <span class="prev-text nav-mobile">Prev</span>
+          </a>
+        <a class="next" href="/why-prediction-is-pointless/">
+            <span class="next-text nav-default">Why prediction is pointless</span>
+            <span class="next-text nav-mobile">Next</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+        </div>
+        
+
+  
+
+  
+
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="https://twitter.com/jasonacollins" class="iconfont icon-twitter" title="twitter"></a>
+      <a href="https://www.linkedin.com/in/jasonallancollins/" class="iconfont icon-linkedin" title="linkedin"></a>
+  <a href="http://localhost:1313/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+</div>
+
+<div class="copyright">
+  <span class="power-by">
+    Powered by <a class="hexo-link" href="https://gohugo.io">Hugo</a>
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    Theme - 
+    <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
+  </span>
+
+  
+
+  <span class="copyright-year">
+    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
+   </span>
+</div>
+
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
+
+
+
+<script type="text/javascript" src="/js/main.min.c12618f9a600c40bd024996677e951e64d3487006775aeb22e200c990006c5c7.js"></script>
+  <script type="text/javascript">
+    window.MathJax = {
+      tex: {
+        }
+    };
+  </script>
+  <script async src="https://cdn.jsdelivr.net/npm/mathjax@3.0.5/es5/tex-mml-chtml.js" integrity="sha256-HGLuEfFcsUJGhvB8cQ8nr0gai9EucOOaIxFw7qxmd+w=" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+</body>
+</html>

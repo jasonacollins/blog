@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Dealing with algorithm aversion - Jason Collins blog</title>
+  <meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+<meta name="author" content="jasonacollins" /><meta name="description" content="Over at Behavioral Scientist is my latest contribution. From the intro:
+The first American astronauts were recruited from the ranks of test pilots, largely due to convenience. As Tom Wolfe describes in his incredible book [_The Right Stuff_](https://en.wikipedia.org/wiki/The_Right_Stuff_(book)), radar operators might have been better suited to the passive observation required in the largely automated Mercury space capsules. But the test pilots were readily available, had the required security clearances, and could be ordered to report to duty." />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.80.0 with theme even" />
+
+
+<link rel="canonical" href="http://localhost:1313/dealing-with-algorithm-aversion/" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+<link href="/sass/main.min.96885b9e1f30bb9d3bf77a154dcabdb6f91894c19fc72577699bb8ca529e60fb.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
+
+
+<meta property="og:title" content="Dealing with algorithm aversion" />
+<meta property="og:description" content="Over at Behavioral Scientist is my latest contribution. From the intro:
+The first American astronauts were recruited from the ranks of test pilots, largely due to convenience. As Tom Wolfe describes in his incredible book [_The Right Stuff_](https://en.wikipedia.org/wiki/The_Right_Stuff_(book)), radar operators might have been better suited to the passive observation required in the largely automated Mercury space capsules. But the test pilots were readily available, had the required security clearances, and could be ordered to report to duty." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/dealing-with-algorithm-aversion/" />
+<meta property="article:published_time" content="2018-02-07T08:00:25+00:00" />
+<meta property="article:modified_time" content="2018-02-07T08:00:25+00:00" />
+<meta itemprop="name" content="Dealing with algorithm aversion">
+<meta itemprop="description" content="Over at Behavioral Scientist is my latest contribution. From the intro:
+The first American astronauts were recruited from the ranks of test pilots, largely due to convenience. As Tom Wolfe describes in his incredible book [_The Right Stuff_](https://en.wikipedia.org/wiki/The_Right_Stuff_(book)), radar operators might have been better suited to the passive observation required in the largely automated Mercury space capsules. But the test pilots were readily available, had the required security clearances, and could be ordered to report to duty.">
+<meta itemprop="datePublished" content="2018-02-07T08:00:25+00:00" />
+<meta itemprop="dateModified" content="2018-02-07T08:00:25+00:00" />
+<meta itemprop="wordCount" content="610">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Dealing with algorithm aversion"/>
+<meta name="twitter:description" content="Over at Behavioral Scientist is my latest contribution. From the intro:
+The first American astronauts were recruited from the ranks of test pilots, largely due to convenience. As Tom Wolfe describes in his incredible book [_The Right Stuff_](https://en.wikipedia.org/wiki/The_Right_Stuff_(book)), radar operators might have been better suited to the passive observation required in the largely automated Mercury space capsules. But the test pilots were readily available, had the required security clearances, and could be ordered to report to duty."/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="/" class="logo">Jason Collins blog</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <a href="/">
+        <li class="mobile-menu-item">Home</li>
+      </a><a href="/post/">
+        <li class="mobile-menu-item">Posts</li>
+      </a><a href="/about/">
+        <li class="mobile-menu-item">About</li>
+      </a>
+  </ul>
+
+  
+
+
+</nav>
+
+  <div class="container" id="mobile-panel">
+    <header id="header" class="header">
+        <div class="logo-wrapper">
+  <a href="/" class="logo">Jason Collins blog</a>
+</div>
+
+
+
+
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    <li class="menu-item">
+        <a class="menu-item-link" href="/">Home</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/post/">Posts</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/about/">About</a>
+      </li>
+  </ul>
+</nav>
+
+    </header>
+
+    <main id="main" class="main">
+      <div class="content-wrapper">
+        <div id="content" class="content">
+          <article class="post">
+    
+    <header class="post-header">
+      <h1 class="post-title">Dealing with algorithm aversion</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> 7 February 2018 </span>
+        
+        
+      </div>
+    </header>
+
+    
+    <div class="post-content">
+      <p>Over at Behavioral Scientist is <a href="https://behavioralscientist.org/what-to-do-when-algorithms-rule/">my latest contribution</a>. From the intro:</p>
+<blockquote>The first American astronauts were recruited from the ranks of test pilots, largely due to convenience. As Tom Wolfe describes in his incredible book [_The Right Stuff_](https://en.wikipedia.org/wiki/The_Right_Stuff_(book)), radar operators might have been better suited to the passive observation required in the largely automated Mercury space capsules. But the test pilots were readily available, had the required security clearances, and could be ordered to report to duty.
+<p>Test pilot Al Shepherd, the first American in space, did little during his first, 15-minute flight beyond being observed by cameras and a rectal thermometer (more on the “little” he <em>did</em> do later). Pilots rejected by Project Mercury dubbed Shepherd “spam in a can.”</p>
+<p>Other pilots were quick to note that “a monkey’s gonna make the first flight.” Well, not quite a monkey. Before Shepherd, the first to fly in the Mercury space capsule was a chimpanzee named Ham, only 18 months removed from his West African home. Ham performed with aplomb.</p>
+<p>But test pilots are not the type to like relinquishing control. The seven Mercury astronauts felt uncomfortable filling a role that could be performed by a chimp (or spam). Thus started the astronauts’ quest to gain more control over the flight and to make their function more akin to that of a pilot. A battle for decision-making authority—man versus automated decision aid—had begun.</blockquote></p>
+<p>Head on over to <a href="https://behavioralscientist.org/what-to-do-when-algorithms-rule/">Behavioral Scientist</a> to read the rest.</p>
+<p>While the article draws quite heavily on Tom Wolfe&rsquo;s <a href="https://en.wikipedia.org/wiki/The_Right_Stuff_(book)">The Right Stuff</a>, the use of the story of the Mercury astronauts was somewhat inspired by Charles Perrow&rsquo;s <a href="https://jasoncollins.blog/2017/11/02/perrows-normal-accidents-living-with-high-risk-technologies/">Normal Accidents</a>. Perrow looks at the two sides of the problems that emerged during the Mercury missions - the operator error, which formed the opening of my article, and the designer error, which features in the close.</p>
+<p>One issue that became apparent to me during drafting was the distinction between an algorithm determining a course of action, and the execution of that action through mechanical, electronic or other means. The example of the first space flights clearly has this issue. Many of the problems were not that the basic calculations (the algorithms) were faulty. Rather, the execution failed. In early drafts of the article I tried to draw this distinction out, but it made the article clunky. I ultimately reduced this point to a mention in the close. It&rsquo;s something I might explore at a later time, because I suspect &ldquo;algorithm aversion&rdquo; when applied to self-driving cars relates to both decision making and execution.</p>
+<p>Another issue that became stark was the limit of the superiority of algorithms. In the first draft, I did not return to the Mercury missions for the close. It was a easy to talk of bumbling humans in the first space flights and how to guide them toward better use of algorithms. But that story was too neat, particularly given the particular example I had chosen. During the early flights there were plenty of times where the astronauts had to step in and save themselves. Perhaps if I had used a medical diagnosis or more typical decision scenario in the opening I could have written a cleaner article.</p>
+<p>Regardless, the mix of operator and designer error (to use Perrow&rsquo;s framing) has led me down a path of exploring how to use algorithms when the decision is idiosyncratic or is being made in a less developed system. The early space flights are one example, but strategic business decisions might be another. What is the right balance of algorithms and humans there? At this point, I&rsquo;m planning for that to be the focus of my next Behavioral Scientist piece.</p>
+
+    </div>
+
+    
+<footer class="post-footer">
+      
+      <nav class="post-nav">
+        <a class="prev" href="/angela-duckworths-grit-the-power-of-passion-and-perseverance/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">Angela Duckworth’s Grit: The Power of Passion and Perseverance</span>
+            <span class="prev-text nav-mobile">Prev</span>
+          </a>
+        <a class="next" href="/dan-arielys-payoff-the-hidden-logic-that-shapes-our-motivations/">
+            <span class="next-text nav-default">Dan Ariely’s Payoff: The Hidden Logic That Shapes Our Motivations</span>
+            <span class="next-text nav-mobile">Next</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+        </div>
+        
+
+  
+
+  
+
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="https://twitter.com/jasonacollins" class="iconfont icon-twitter" title="twitter"></a>
+      <a href="https://www.linkedin.com/in/jasonallancollins/" class="iconfont icon-linkedin" title="linkedin"></a>
+  <a href="http://localhost:1313/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+</div>
+
+<div class="copyright">
+  <span class="power-by">
+    Powered by <a class="hexo-link" href="https://gohugo.io">Hugo</a>
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    Theme - 
+    <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
+  </span>
+
+  
+
+  <span class="copyright-year">
+    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
+   </span>
+</div>
+
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
+
+
+
+<script type="text/javascript" src="/js/main.min.c12618f9a600c40bd024996677e951e64d3487006775aeb22e200c990006c5c7.js"></script>
+  <script type="text/javascript">
+    window.MathJax = {
+      tex: {
+        }
+    };
+  </script>
+  <script async src="https://cdn.jsdelivr.net/npm/mathjax@3.0.5/es5/tex-mml-chtml.js" integrity="sha256-HGLuEfFcsUJGhvB8cQ8nr0gai9EucOOaIxFw7qxmd+w=" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+</body>
+</html>
