@@ -1,0 +1,42 @@
+---
+author: jasonacollins
+comments: false
+date: 2014-09-04 09:47:45+00:00
+draft: no
+link: https://jasoncollins.blog/2014/09/04/the-biology-of-boom-and-bust/
+slug: the-biology-of-boom-and-bust
+title: The biology of boom and bust
+wordpress_id: 20097
+---
+
+John Coates's excellent [The Hour Between Dog and Wolf: Risk Taking, Gut Feelings and the Biology of Boom and Bust](http://www.amazon.com/gp/product/1594203385/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1594203385&linkCode=as2&tag=evolvieconom-20&linkId=NMNGTJPOJVGQRESF) tells the story of the effect of hormones on decision making in finance. By the end of the book, the idea that traders are rational calculating machines driven by their brains is torn apart.
+
+As Coates shows, the divide between body and mind is not as Descartes or economists would have us believe. Signals travel both ways. The body can influence the brain. Physiological reactions triggered by pre-conscious regions of the brain affect emotion and mood. New to me was the existence of the enteric nervous system, which comprises around 100 million neurons in our gastrointestinal lining. It can operate autonomously of the central nervous system. Messages flow back and forth between the brain and enteric nervous system via the vagus nerve, the decisions of one affecting the decisions of the other.
+
+The basic dynamic of decision making described by Coates involves the hormones testosterone, adrenalin, cortisol and dopamine. In anticipation of an opportunity on the trading floor, a trader's hormones kick into action. Testosterone levels increase, bringing with it increased oxygen carrying capacity, confidence and appetite for risk. Adrenalin surges, quickening reactions and tapping into glucose deposits in the liver, which provides energy for the upcoming challenge.
+
+Cortisol is also produced. Unlike the short-term action of adrenalin, cortisol acts over the longer term and stops metabolically expensive functions such as growth, reproduction, digestion or immune function. The initial release of cortisol also stimulates the release of dopamine, delivering a rush. Dopamine rewards us when we take actions that result in an unexpected reward. It makes us want to repeat and crave these actions (as a result, animals would rather work for food than simply be given it). Traders crave the rush of the floor.
+
+When the trader has a win, his testosterone shoots up further. This testosterone infused trader will then take more risks. On average, more risk means more reward, so he earns higher profits. In fact, his testosterone levels in the morning are predictive of his afternoon profit. Hormones also make an appearance when this trader has a loss. His cortisol levels increase, decreasing his risk appetite and causing him to see danger everywhere.
+
+The effects of biology are not only important for the people or firms involved, but can have systemic effects. Hormones exacerbate the market cycle. In a bull market, testosterone surges through the population of traders. Each takes larger and larger risks, pushing markets to new highs and triggering further cascades of testosterone. Irrational exuberance has a chemical base.
+
+Similarly, in bear markets, cortisol levels peak. At the very time it might be best to buy, the market dries up as tentative traders retreat into their shells. Over the longer term, excessive cortisol impairs memory and causes anxiety.
+
+As I mentioned in [a previous post on an article by Coates](https://jasoncollins.blog/2014/06/15/the-benefit-of-uncertainty/), central banks could take this knowledge and use it to curb market cycles. In a bubble or crash, the population of traders could even enter a clinical state under the influence of pathologically elevated hormone levels. If that occurs, they could become insensitive to interest rates or other attempts by regulators to curb or control their activities.
+
+Coates extends his idea to some interesting speculation on market cycles. Testosterone levels fluctuate over the year. In humans, they rise until autumn and fall through to spring. The drop in testosterone in autumn can cause males to suffer from ‘irritable male syndrome’. Given most major market crashes have occurred in October, is it autumn moodiness that takes stock markets down? Similarly, does 'seasonal affective disorder, possibly also affected by testosterone, underlie underperformance between the autumn equinox and winter solstice?
+
+For those in the industry, Coates offers advice on how to apply these findings, some relatively futuristic. We  can already record a range of physiological features, including hormone levels. Why not test them in the morning and set traders' tasks or risk limits based on those measurements? We already have consumer products that perform real-time health monitoring. It is simply adding hormone levels to the suite of measures - although other measures such as heart rate, sweat levels and the like could also be useful indicators.
+
+These physiological measures are probably better indicators than simply asking the traders how they are feeling. Whereas Coates found that hormone levels closely tracked the volatility of trading results and uncertainty in the market, surveys of these same traders about how stressed they were had almost no relationship to trading conditions, volatility or whether they were losing money.
+
+Toward the end of the book, Coates includes some interesting material on how we might train our stress responses. One simple suggestion is exposure to acute stress, with those who have experienced moderate but short-lived stressors being toughened. In one study of rats, those rats exposed to stress when young had larger adrenal glands but a more muted response to stress. This was reflected in trader stress responses, with experienced traders having higher initial stress responses to events, but being able to quickly return to normal. However, once those stressors shift from being acute to chronic, problems begin. Exercise might also offer some protection, with sports science a potential source of new ideas.
+
+One interesting piece of speculation is whether cold weather might provide useful training. Rats exposed to cold water have a quick arousal but quick recovery, with the stress response based more on adrenalin than cortisol. To the extent this occurs in humans, cold weather or water could be part of our training regime. Even more speculatively, Coates asks if the shift to more climate controlled environments has prevented a toughening of our psychological mechanisms, unlike that experienced by our ancestors.
+
+An alternative to training could be to simply hire more women and older men who are less susceptible to testosterone feedback loops. However, I am not sure whether firms would want to implement this solution, with higher testosterone and risk taking leading to higher profits. The costs are across society when the crash comes and government steps in to lend a hand. Coates indicates this misalignment of incentives through the book, which suggests more than hiring policies are required.
+
+One other interesting idea - only loosely linked to the major thesis - concerns fatigue. Fatigue might be seen as simply the result of running out of energy. But Coates points out a new model in neuroscience that suggests fatigue is a signal that the benefit from our current activity has dropped below its metabolic cost. It is a signal to stop the current search and start elsewhere. As a result, the cure for fatigue is a new task, not rest. Coates points to research suggesting overtime leads to hypertension and heart disease if we have no control over our attention, but otherwise it is not a problem. Flexibility in work could be as good as a vacation.
+
+If I were to highlight one weakness of the book (more due to the state of the field than any fault of the author), it is that the foundation of studies on which it is built is fairly small, and largely based on data from a couple of trading floors. It would be great to see longitudinal data across a range of market participants during a number of cycles. Another potentially interesting extension would be to look at the hormone cycle in politics. Politicians can experience rational exuberance or appear to be exhibiting a constant state of panic. Are these the same biologically driven problems that Coates found in traders? Looking in new arenas such as this could provide a substantial contribution to our understanding of how humans make decisions.

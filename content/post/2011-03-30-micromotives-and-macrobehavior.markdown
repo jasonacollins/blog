@@ -1,0 +1,18 @@
+---
+author: jasonacollins
+comments: true
+date: 2011-03-30 10:46:08+00:00
+draft: no
+link: https://jasoncollins.blog/2011/03/30/micromotives-and-macrobehavior/
+slug: micromotives-and-macrobehavior
+title: Micromotives and macrobehavior
+wordpress_id: 515
+---
+
+In a post a couple of months or ago as part of [a debate on complexity in aid](https://jasoncollins.blog/2011/01/is-aid-really-so-complex/), I recommended Thomas Schelling’s [Micromotives and Macrobehavior](http://www.amazon.com/Micromotives-and-Macrobehavior-ebook/dp/B002MB968C/ref=tmm_kin_title_0?ie=UTF8&m=AG56TWVU5XWC2) as a good starting point for understanding complexity science. The book predates a lot of the language associated with complexity science (in fact, I don't think it uses the word complexity at all), but it provides an excellent illustration of some of the basic tenets of complexity science. These include that complex behaviour can emerge from simple mathematical models and that individual actions can result in aggregate outcomes that do not reflect the individual intentions.
+
+Having recommended but not read the book in over 10 years, I re-read it and it triggered a couple of thoughts. The first is that my recollection of the great illustrations provided by Schelling was correct, although towards the end of the book they can feel a touch laboured as he goes over a few more examples than were needed for me to get the point. Still, some of his classic discussions, such as that on the emergence of segregation despite people having only moderate preferences as to their neighbours, provide real insight. The use of examples like these is typical of a lot of books on complex adaptive systems (such as Miller and Page's [Complex Adaptive Systems](http://www.amazon.com/Complex-Adaptive-Systems-Computational-ebook/dp/B0041OTAIE/ref=tmm_kin_title_0?ie=UTF8&m=AG56TWVU5XWC2)), although I rate Schelling's as the most interesting, and probably the most accessible to someone not familiar with the area.
+
+On finishing the book, I found I was asking the same question I always seem to ask after reading a book on complex adaptive systems and agent based modelling (one of the common ways of modelling complex systems). To what extent could complexity science or agent based modelling shed new light on economic policy questions or macroeconomics? The books always give a host of interesting examples that may change the way you think about some phenomena, and often advocate broader use of complexity science, but they are vague on what future uses might be. There seems to be more people interested in the methodology of complexity science and agent based modelling than there are people interested in using it as a tool. I've taken a small stake in this question by exploring the use of agent based models in [my research](https://jasoncollins.blog/my-research-2/) as a way of testing the robustness of my models, exploring some extensions (such as adding a spatial element) and allowing me to loosen some assumptions. However, I am not convinced about how much value I am likely to extract.
+
+On that note, I'd be happy to receive recommendations of good books that discuss complexity science (or agent based modelling) being _applied_ to an area of economic interest and ideally, showing how it leads to some new insights. And by insights, I am hoping for more than "complexity science shows us it is all too complex" or "we need policies to deal with the system's complexity". I have plenty of books I can refer someone to when they wish to know what complexity science is, but none which I am happy to recommend as demonstrating what it is good for.

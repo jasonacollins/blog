@@ -1,0 +1,36 @@
+---
+author: jasonacollins
+comments: true
+date: 2012-05-07 14:13:34+00:00
+draft: no
+link: https://jasoncollins.blog/2012/05/07/rubins-darwinian-politics/
+slug: rubins-darwinian-politics
+title: Rubin's Darwinian Politics
+wordpress_id: 3081
+---
+
+The application of evolutionary biology to politics and policy spans the political spectrum. From Peter Singer's [A Darwinian Left](http://www.amazon.com/gp/product/0300083238/ref=as_li_ss_tl?ie=UTF8&tag=evolvieconom-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0300083238) to Larry Arnhart's [Darwinian Conservatism](http://www.amazon.com/gp/product/1845401565/ref=as_li_ss_tl?ie=UTF8&tag=evolvieconom-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1845401565) to Michael Shermer's [libertarianism](http://www.cato-unbound.org/2011/09/06/michael-shermer/liberty-and-science/), there is something in evolutionary biology for everyone.
+
+One of the best of of these applications is by Paul Rubin in [Darwinian Politics: The Evolutionary Origin of Freedom](http://www.amazon.com/gp/product/0813530962/ref=as_li_ss_tl?ie=UTF8&tag=evolvieconom-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0813530962). While the arguments lead to conclusions that reflect Rubin's political leanings, the book reads as though the evidence shapes the result and Rubin gives the evidence fair consideration.
+
+Rubin's basic position is that the political institutions of Western nations, and particularly the United States, are the best match with evolved human preferences. Humans seek freedom from dominance, with Western society maximizing that freedom. Political freedom allows citizens to form a reverse dominance hierarchy, with public pressure, wealth and constitutional frameworks limiting the ability of Western governments to exercise power. Western institutions also provide a framework that limits negative consequences of our evolved psyche, as the move away from kin based groups reduces xenophobic behaviour.
+
+Rubin does not suggest, however, that humans are perfectly matched to our current environment. Rather, he argues that the current institutional frameworks do a good job of working around them. For example, one of the main threads of Rubin's argument is that humans have moved from an evolutionary history of living in consumption hierarchies, which are effectively zero sum, to a world of productive hierarchies, whereby participation in hierarchies can boost production and be good for all involved. Humans do not always distinguish between the two (nor academics as Rubin makes clear), and as a result, envy may result as someone acts as though they are still in their zero sum world.
+
+Rubin sees the best political framework as one that can deal with this tendency to envy while not damaging the productivity of the hierarchy. Rubin addresses these concerns through a couple of threads. One is to note that in a free society, movement between hierarchies is possible and people are likely part of many hierarchies. They will not always be at the bottom. However, Rubin paints an overly rosy picture (he should paint a rosy one - it just needs some tempering), as some hierarchies are more important than others and mobility is not a complete solution. If you are at the bottom of an employment hierarchy, your choice is likely to be which hierarchy you wish to be at the bottom of. As shown in the famous [Whitehall studies](http://en.wikipedia.org/wiki/Whitehall_Study), being at the bottom of a productive hierarchy may have costs (not that I implying that Whitehall itself is a productive hierarchy).
+
+A more interesting points is when we move from utility to fitness. Rubin writes:
+
+
+<blockquote>If an individual is highly productive and creates much wealth, social as well as private benefits will be generated; a productive individual will not normally absorb the entire surplus he will create. Thus, utility or wealth maximisation would imply that all will benefit from such increased productivity and should encourage it. However, if the added productivity is used to engross additional females, or if tastes evolved in an environment where this occurred, then in fact others will become less fit, although wealthier. In this sense, fitness and utility maximisation conflict. This may explain why many utility functions seem to contain elements of envy, even though envy is counterproductive with respect to consumption of wealth maximisation.</blockquote>
+
+
+Rubin's primary solution to this, already implemented throughout the West, is monogamy. Each man can only monopolise one female regardless of wealth. While monogamy undoubtedly acts as a reproductive leveler, Rubin's analysis attempts to finesse his case too much. Despite monogamy in Western societies, there is still a large proportion of men at lower socioeconomic status who fail to attract a mate. Higher status women simply choose not to mate with them and lower status women have other avenues of seeking financial support. For example, over 40 per cent of Australian men between the ages of 40 and 44 and with incomes below $20,000 per year remain unpaired. This contrasts with just over 10 per cent of men of that age group with incomes over $83,000 per year. Monogamy levels the reproductive playing field but it is not completely flat.
+
+For each of these points, Rubin is essentially right in his argument that productive hierarchies are beneficial and that monogamous societies are more stable and level the reproductive playing field. However, there is still a bottom of the hierarchy and consequences to it, and there will always be some degree of pushback due to this.
+
+To assist those at the bottom, Rubin notes the evolved altruistic preferences for assisting those in need. As a result, some wealth redistribution may be supported. But if the focus moves from supporting the poor to clipping the rich, the output of productive hierarchies may be threatened. Further, Rubin considers that social support will remain popular as long as it is not overexposed to free-riding, with humans having strongly refined senses to spot those who are not pulling their weight.
+
+Rubin's least libertarian finding, apart from his implied support of restrictions on polygamy, relates to restrictions on drugs and other "anti-social" activities. Rubin argues that if consumption of these goods and activities is a form of competition between young males to signal status, restrictions on their use will be required to prevent above optimal use. While Rubin considers that the need to maintain a society's prime age men at fighting strength is weaker than in our evolutionary past, a case can still be made for this form of control. It was interesting that Rubin chose to use a signaling argument at this point as he does not address the role of signaling in most of his analysis, such as in his discussion of "altruistic" gifts of game in ancestral societies or donations to charity.
+
+Overall, Rubin's arguments are clear, transparent and generally persuasive. It was an omission by oversight from my [economics and evolutionary biology reading list](https://jasoncollins.blog/economics-and-evolutionary-biology-reading-list/), as I last read it a number of years ago, but it has now been included (thanks to [Eric Crampton](http://offsettingbehaviour.blogspot.com/) for the nudge).

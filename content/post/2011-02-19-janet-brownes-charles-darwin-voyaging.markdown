@@ -1,0 +1,24 @@
+---
+author: jasonacollins
+comments: true
+date: 2011-02-19 01:19:02+00:00
+draft: no
+link: https://jasoncollins.blog/2011/02/19/janet-brownes-charles-darwin-voyaging/
+slug: janet-brownes-charles-darwin-voyaging
+title: 'Janet Browne''s Charles Darwin: Voyaging'
+wordpress_id: 559
+---
+
+Having put it in [the top ten books I had read](https://jasoncollins.blog/2010/12/top-10-books-in-2010/) in 2010 despite being only halfway through it then, I feel somewhat obliged to offer a review of Janet Browne's [Charles Darwin: Voyaging](http://www.amazon.com/gp/product/0691026068/ref=as_li_ss_tl?ie=UTF8&tag=evolvieconom-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0691026068) (or more accurately, some observations). I have now finished it, and I am pleased to say that it can stay in the Top 10 and that I don't intend to make any late retractions.
+
+Voyaging is the first volume of a two-part biography. Voyaging covers Darwin's life to 1856, three years before the Origin of Species was published, which is the point where Darwin has decided to put his theory of natural selection into a book. The second volume, [Charles Darwin: The Power of Place](http://www.amazon.com/gp/product/0691114390/ref=as_li_ss_tl?ie=UTF8&tag=evolvieconom-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0691114390), takes off from there.
+
+There were a number of features of Voyaging that I particularly enjoyed. Foremost was the way Browne placed Darwin within the context of the day's science. Victorian science was an interesting mix of gentlemen naturalists and university scientists. From Darwin's lectures in human anatomy in Edinburgh, consisting of dissections of recently snatched corpses, to his gentlemanly existence as a member of the Royal Society, Linnean Society and the Athenaeum Club, Browne provides reams of insights into the state of the science, the participants and their views. This allowed Browne to place Darwin's insight into the context of existing debates on evolution and the rapid growth in other sciences such as geology.
+
+In this context, Browne takes the reader through the creation of Darwin "the naturalist" as opposed to Darwin the country parson, idle sporting man or doctor. As Browne notes in the introduction, Darwin was no born naturalist. In his late teens and early twenties, he seems to have little direction and even on his return from the Beagle voyage, it seems that he could have easily slipped into a much simpler life than becoming a scientific giant. Through her understanding of Darwin's correspondence (she was an associate editor of a project putting it together), Browne is able to offer a picture into how Darwin gained enough confidence in his ideas to dedicate a large part of his life to establishing the evidence behind them. Over the course of years, he slowly tested his thoughts with his closet friends (often in the most obtuse ways) as he finally built foundations to his theory. As we well know, it took over 15 years from the first indications to his closest friends of what he was thinking to the publishing of the Origin of Species, and even that was rushed by the letter he had received from Wallace.
+
+The way in which Darwin established and used his massive network, largely from the seclusion of Downe house, is nothing short of incredible. Browne paints a beautiful picture of how Darwin sent an extraordinary number of letters to scientists, farmers, gentleman naturalists and anyone else who might be able to help with a litany of requests for samples, evidence and support. The evidence that fills the pages of the Origin of Species was largely sourced through this correspondence, which says something for Darwin's ability to extract useful information and help from others. He had a gift for this from an early age, with his requests for insects from his friend Herbert carrying little recognition of Herbert's deformed foot - and yet, Herbert happily complied.
+
+Darwin does not stay unscathed in the book. It is clear that he is a creature of his times, despite his progressive attitudes towards some issues such as slavery. For example, he largely did not credit his fellow Beagle crew members who made significant contributions to Darwin's work. For someone who relied so much on help from others, he was sometimes slow to share the credit. However, this did not seem to stem from malice or selfishness, but perhaps unawareness due to his relatively high station in society. When Darwin did feel that he owed something (such as for Herbert's anonymous gift of a Coddington microscope), his gratitude lasted a lifetime.
+
+Having read Volume I, I might take a break before Volume II. A 600 page biography has to contend with the rather large reading list. Interestingly, Volume II seems to get the biggest praise, so I look forward to when it is time to read it.

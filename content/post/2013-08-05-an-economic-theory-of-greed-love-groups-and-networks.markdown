@@ -1,0 +1,40 @@
+---
+author: jasonacollins
+comments: true
+date: 2013-08-05 12:23:11+00:00
+draft: no
+link: https://jasoncollins.blog/2013/08/05/an-economic-theory-of-greed-love-groups-and-networks/
+slug: an-economic-theory-of-greed-love-groups-and-networks
+title: An Economic Theory of Greed, Love, Groups, and Networks
+wordpress_id: 6712
+---
+
+My assessment of [An Economic Theory of Greed, Love, Groups, and Networks](http://www.amazon.com/gp/product/B00BM4TI1K/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BM4TI1K&linkCode=as2&tag=evolvieconom-20) by Paul Frijters with Gigi Foster varies with the objective I assess it against. On the one hand, Frijters and Foster seek to supplement what they call the "mainstream economic" view to give an enhanced perspective of how society works. Although they sometimes talk this objective down, it is inherently ambitious and encompasses a significant expansion of core economic theory. Against this benchmark, I am not convinced they have succeeded.
+
+On the other hand, if you removed the paragraphs that hint at the authors' loftier intentions and simply took the book as an interesting analysis of three areas - love, groups and networks - that many economic questions could benefit from incorporating in their analysis, the book is clearly a success. Although not the easiest read, I enjoyed it. It is dense with ideas and is one of the more stimulating books I have read for a while.
+
+Frijters and Foster's basic argument is that while "mainstream economics" has great value in many spheres of analysis, it requires supplementation with perspectives on love, groups and networks to provide an explanation for a range of phenomena that mainstream economics doesn't quite capture. They structure the book around this approach, with an overview of the mainstream economic foundation of "greed" in the opening chapter, followed by chapters on love, groups (and power) and networks. They close by discussing some applications of this enhanced framework, and if you are feeling ambitious, a theoretical appendix containing models on some of the core concepts.
+
+The love chapter is based on what they call "the love principle", which they suggest is the one new theoretical contribution of the book (the novelty of the book otherwise being the way they bring together many other strands of thought). They state the love principle as follows:
+
+
+
+<blockquote>Love derives from the attempt of the unconscious mind to bargain with something that is believed to be capable of fulfilling desires and that is perceived to be too powerful to be possessed by direct means.</blockquote>
+
+
+
+Love (or loyalty) is the result of power relations. When someone has a desire, they assess whether someone (who may not necessarily by a physical entity) can provide it and whether it can be obtained from that entity by dominating it (greed). If not, this is where Frijters and Foster suggest love comes in. Love is a submission strategy, whereby the person unconsciously makes a "love bargain" and the individual starts to recategorise themselves to become one with the entity that they have submitted to.
+
+This love principle is a tough concept, and each time I think about it, I am not sure if I fully understand it. To the extent I do, I am not a fan of the idea. The difficulty in grasping the concept is illustrated by the general absence of a clear description of the love principle in the book's promotional material, including interviews with Foster and Frijters. It is not soundbite material. To give it the time it deserves, I have [written a separate post](https://jasoncollins.blog/2013/08/07/the-love-principle/) pulling the love principle apart.
+
+The chapter on groups was, to my reading, the most important chapter and the concept upon which Frijters and Foster build most of their applications. They describe five types of groups - small hierarchies, small circles of reciprocity, large hierarchies, large circles of reciprocity, and networks. The smaller groups are nested within larger groups, with most people being members of many different types of groups. For example, a large company is a large hierarchy, but it sits within a large circle of reciprocity (a nation) and within it has many small hierarchies and small circles of reciprocity. When we are analysing an economic question, knowing which group a person is in and how they respond to the norms within the group (and how others enforce those norms) provides a layer of analysis
+
+I enjoyed the analysis of groups, although there were points I kept thinking "what about [X]?". One that kept popping into my mind was reverse-dominance hierarchies - although this point comes back to love and dominance, so I'll explore it in more depth in my next post.
+
+The chapter on networks was interesting, being a topic I know little about (and hence I have little to add here), although I enjoyed it as the chapter appealed to my preference for thinking about the interactions in an economy as occurring between heterogeneous agents. The basic idea in the chapter is that an economy consists of a series of contacts between people. New technologies or shocks to the system (such as the collapse of communism) destroy many of the contacts, with the recovery from that shock reflecting the number of contacts destroyed and how quickly new contacts can be established.
+
+The last chapter consists of a series of examples of where these perspectives on love, groups and networks can add to the mainstream view. Issues they cover include the high level of tax compliance despite the low chance of being caught cheating, voting behaviour where a single vote will almost never count, symbolic expenses such as gifts to a god, and the way competition regulation occurs. This was the point where I expected to see more tying together of the main concepts, or a stronger demonstration of their power. But, as they point out, the analysis is often not particularly different from the mainstream economic view. Where it was different, it strongly hinged on the concepts of groups, whereas love (apart from symbolic expenses) and networks had smaller roles. In many ways it felt like a sophisticated public choice type analysis, examining all the players and looking at how the nature of the groups they are part of shape their incentives. I like that way of thinking, although it usually feels as though greed and self interest are the most important factors within those groups.
+
+One issue that led me to struggle to buy into Frijters and Foster's broader objective was the manner of presenting many of the arguments. At  beginning of the book, we are told that the concepts of love, groups and networks were chosen by a process of trial and error, and that there is no point in "regurgitating all of the mental activity that led to this book". That may be fair enough, but it makes it difficult for the reader to take the intellectual journey that the authors have. Similarly, most sections ended with what were called "out-of-sample" predictions, but given the way that the authors developed their arguments, they are only out-of-sample based on the authors' out-of-sight thought processes. It's hard to buy into this framework when you are only shown the result, not the process.
+
+In another year or so I'll give the book a re-read and see if I respond differently having have stewed on the components a bit longer. But even if I don't buy into the broader framework, there is more than enough interesting material for a second visit.

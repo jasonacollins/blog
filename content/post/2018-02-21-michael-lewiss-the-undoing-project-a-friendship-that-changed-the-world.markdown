@@ -1,0 +1,50 @@
+---
+author: jasonacollins
+comments: true
+date: 2018-02-21 08:00:39+00:00
+draft: no
+link: https://jasoncollins.blog/2018/02/21/michael-lewiss-the-undoing-project-a-friendship-that-changed-the-world/
+slug: michael-lewiss-the-undoing-project-a-friendship-that-changed-the-world
+title: 'Michael Lewis’s The Undoing Project: A Friendship That Changed The World'
+wordpress_id: 22411
+---
+
+My journey into understanding human decision making started when I read Michael Lewis's [Moneyball](https://en.wikipedia.org/wiki/Moneyball) in 2005. The punchline - which, as it turns out, has been known across numerous domains since at least the 1950s - is that "expert" judgement is often outperformed by simple statistical analysis.
+
+A couple of years later I read Malcolm Gladwell's [Blink](https://en.wikipedia.org/wiki/Blink:_The_Power_of_Thinking_Without_Thinking) and was diverted into the world of  [Gary Klein](https://en.wikipedia.org/wiki/Gary_A._Klein), which then led me to Kahneman and Tversky among others. It was only then that I started to think about the what it is that causes the experts to under-perform (For all Gladwell's flaws, [Gladwell is a great gateway](https://jasoncollins.blog/2013/10/14/in-praise-of-malcolm-gladwell/) to new ideas).
+
+In the opening to [The Undoing Project: A Friendship That Changed The World](https://en.wikipedia.org/wiki/The_Undoing_Project), Lewis tells of a similar intellectual journey (although obviously with a somewhat closer connection to Moneyball):
+
+
+
+<blockquote>[O]nce the dust had settled on the responses to my book [Moneyball], one of them remained more alive and relevant than the others: a review by a pair of academics, then both at the University of Chicago—an economist named Richard Thaler and a law professor named Cass Sunstein. Thaler and Sunstein’s piece, which appeared on August 31, 2003, in the New Republic, managed to be at once both generous and damning. The reviewers agreed that it was interesting that any market for professional athletes might be so screwed-up that a poor team like the Oakland A’s could beat most rich teams simply by exploiting the inefficiencies. But—they went on to say—the author of Moneyball did not seem to realize the deeper reason for the inefficiencies in the market for baseball players: They sprang directly from the inner workings of the human mind. The ways in which some baseball expert might misjudge baseball players—the ways in which any expert’s judgments might be warped by the expert’s own mind—had been described, years ago, by a pair of Israeli psychologists, Daniel Kahneman and Amos Tversky. My book wasn’t original. It was simply an illustration of ideas that had been floating around for decades and had yet to be fully appreciated by, among others, me.</blockquote>
+
+
+
+Lewis realised that there was a deeper story to tell, with The Undoing Project the result.
+
+I am increasingly of the view that a biography or autobiography is one of the more effective (although not always balanced) ways to lay out a set of ideas. Between The Undoing Project and Richard Thaler's [Misbehaving](https://jasoncollins.blog/2017/11/20/paul-ormerod-on-thalers-misbehaving/), a layperson would struggle to find a more accessible and interesting introduction to behavioural science and behavioural economics.
+
+The first substantive chapter of the Undoing Project focuses on Daryl Morey, General Manager of the Houston Rockets. It felt like a Moneyball style essay for which Lewis hadn't been able to find another use (although you can [read this chapter on Slate](http://www.slate.com/articles/arts/books/2016/12/how_daryl_morey_used_behavioral_economics_to_revolutionize_the_art_of_nba.html)). However, it was an interesting illustration of the idea that once you have the statistics in hand, it's still hard to eliminate the involvement of the human mind. For instance:
+
+
+
+<blockquote>If he could never completely remove the human mind from his decision-making process, Daryl Morey had at least to be alive to its vulnerabilities. He now saw these everywhere he turned. One example: Before the draft, the Rockets would bring a player in with other players and put him through his paces on the court. How could you deny yourself the chance to watch him play? But while it was interesting for his talent evaluators to see a player in action, it was also, Morey began to realize, risky. A great shooter might have an off day; a great rebounder might get pushed around. If you were going to let everyone watch and judge, you also had to teach them not to place too much weight on what they were seeing. (Then why were they watching in the first place?) If a guy was a 90 percent free-throw shooter in college, for instance, it really didn’t matter if he missed six free throws in a row during the private workout.
+
+Morey leaned on his staff to pay attention to the workouts but not allow whatever they saw to replace what they knew to be true. Still, a lot of people found it very hard to ignore the evidence of their own eyes. A few found the effort almost painful, as if they were being strapped to the mast to listen to the Sirens’ song. One day a scout came to Morey and said, “Daryl, I’ve done this long enough. I think we should stop having these workouts. Please, just stop doing them.” Morey said, Just try to keep what you are seeing in perspective. Just weight it really low. “And he says, ‘Daryl, I just can’t do it.’ It’s like a guy addicted to crack,” Morey said. “He can’t even get near it without it hurting him.”</blockquote>
+
+
+
+I tend to have little interest in personal histories, so I found the following chapters leading up to Kahneman and Tversky's collaboration less interesting. In part, this is because any attempt to understand someone's achievements in the context of their upbringing is little more than storytelling.
+
+But once the book hits the development of Kahneman and Tversky's ideas - their work on the basic heuristics ([availability](https://en.wikipedia.org/wiki/Availability_heuristic), [representativeness](https://en.wikipedia.org/wiki/Representativeness_heuristic), [anchoring](https://en.wikipedia.org/wiki/Anchoring) ), the development of prospect theory, their work on happiness - the sequential discussion of how these ideas were developed added some real understanding (for me). You can also see the care that went into developing their work, with a desire to create something that would stand the test of time rather than create a headline through a cute result.
+
+One of the more interesting parts of the book near the close relates to Kahneman and Tversky's interaction with [Gerd Gigerenzer](https://en.wikipedia.org/wiki/Gerd_Gigerenzer) ([who](https://jasoncollins.blog/2014/07/29/gigerenzer-versus-nudge/) [I](https://jasoncollins.blog/2014/09/10/nudging-citizens-to-be-risk-savvy/) [have](https://jasoncollins.blog/2014/11/25/four-perspectives-on-human-decision-making/) [written](https://jasoncollins.blog/2014/12/02/the-power-of-heuristics/) [about](https://jasoncollins.blog/2015/07/30/please-not-another-bias-an-evolutionary-take-on-behavioural-economics/) [a](https://jasoncollins.blog/2016/03/17/gigerenzer-on-system-one-and-system-two/) [fair](https://jasoncollins.blog/2016/07/04/the-behavioural-economics-guide-2016-with-an-intro-by-gerd-gigerenzer/) [bit](https://jasoncollins.blog/2017/03/13/simple-heuristics-that-make-us-smart/)). While Lewis's characterisation of Gigerenzer as an "evolutionary psychologist" is wide of the mark, Lewis captures well the frustration that I imagine Kahneman and Tversky must have felt during some of the exchanges. Lewis writes:
+
+
+
+<blockquote>[I]n Danny and Amos’s view he’d ignored the usual rules of intellectual warfare, distorting their work to make them sound even more fatalistic about their fellow man than they were. He also downplayed or ignored most of their evidence, and all of their strongest evidence. He did what critics sometimes do: He described the object of his scorn as he wished it to be rather than as it was. Then he debunked his description.</blockquote>
+
+
+
+This debate is interesting enough that I'll explore it in more detail in a future post.
