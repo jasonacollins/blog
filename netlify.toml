@@ -1,2 +1,8 @@
 [build.environment]
   HUGO_VERSION = "0.80.0"
+
+[[redirects]]
+  from = "/:year/:month/:slug"
+  to = "/:slug"
+  status = 301
+  force = true

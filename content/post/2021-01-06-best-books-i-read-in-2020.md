@@ -10,9 +10,13 @@ slug: best-books-i-read-in-2020
 The best books I <em>read</em> in 2020 - generally released in other years - were:
 
 - Albert Camus, _The Plague_
+
 - Tom Chivers, _The AI Does Not Hate You: Superintelligence, Rationality and the Race to Save the World_: Great introduction to and history of the rationalist community.
+  
 - Melanie Mitchell, _Artificial Intelligence, A Guide for Thinking Humans_: Mitchell is too easy on humans, but a fair examination of where we are with AI and some great explanations of various AI approaches.
+
 - David Reich, _Who We Are and How We Got Here_: I was amazed at how far over the last decade the research into human origins had shifted. The story being told around the time of my PhD has been blown apart.
+
 - Judea Pearl, _The Book of Why_: I'm still working through Pearl's approach and how it relates to other approaches to causation, but this is possibly the best starting point on Pearl's work.
 
 Below is the list of books that I read in 2020 (starred if a re-read). The number of books fell yet _again_ relative to the previous year, with 37 books (21 non-fiction, 16 fiction). I've left a lot of fiction read to the kids off this list - the Harry Potter series (multiple times), the full Wizard of Oz series, the Deltora Quest series, Enid Blyton, and so on - but the decline in substantive reading was driven by other factors.

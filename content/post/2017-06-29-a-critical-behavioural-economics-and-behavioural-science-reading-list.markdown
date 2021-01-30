@@ -1,13 +1,12 @@
 ---
+title: A critical behavioural economics and behavioural science reading list
 author: jasonacollins
 comments: true
 date: 2017-06-29 09:00:00+00:00
 lastmod: 2020-02-12 11:40:00+00:00
 draft: no
-link: https://jasoncollins.blog/2017/06/29/a-critical-behavioural-economics-and-behavioural-science-reading-list/
+toc: true
 slug: a-critical-behavioural-economics-and-behavioural-science-reading-list
-title: A critical behavioural economics and behavioural science reading list
-wordpress_id: 22005
 ---
 
 This reading list is a balance to the one-dimensional view in many popular books, TED talks, or conferences. For those who feel they have a good understanding of the literature after reading [Thinking Fast and Slow](https://jasoncollins.blog/2016/06/29/re-reading-kahnemans-thinking-fast-and-slow/), [Predictably Irrational](https://jasoncollins.blog/2013/09/02/arielys-predictably-irrational/) and [Nudge](https://jasoncollins.blog/2013/11/04/thaler-and-sunsteins-nudge/), this is for you. [In the time since I first wrote this, it's fair to say that the balance has swung on Twitter.]
@@ -16,13 +15,7 @@ The purpose of this reading list is not to argue that all behavioural economics 
 
 Please let me know if there are any other books or articles I should add, or if there are any particularly good replies to what I have listed. I am sure I have missed some good ones.  I have set a mild quality bar on what I have included - I don't agree with all the arguments, but everything on the list has at least one interesting idea.
 
-- [**Books**](#books)
-- [**General and methodological critiques**](#general-and-methodological-critiques)
-- [**Counterpoints to famous biases, effects and stories**](#counterpoints-to-famous-biases-effects-and-stories)
-- [**Applications of behavioural economics (and nudging)**](#applications-of-behavioural-economics-and-nudging)
-- [**If you want some background**](#if-you-want-some-background)
-
-### **Books**
+## Books
 
 Gerd Gigerenzer, Peter Todd and the ABC Research Group's [Simple Heuristics That Make Us Smart](https://jasoncollins.blog/2017/03/13/simple-heuristics-that-make-us-smart/): Simple heuristics can be both fast and accurate, particularly when we assess real-life performance rather than conformity with the principles of rationality.
 
@@ -37,7 +30,7 @@ Gilles Saint-Paul's [The Tyranny of Utility: Behavioral Social Science and the 
 Robert Sugden's [The Community of Advantage: A Behavioural Economist’s Defence of the Market](https://jasoncollins.blog/2018/09/26/robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market/): A well balanced critique from someone who has worked in the field for decades.
 
 
-### **General and methodological critiques**
+## General and methodological critiques
 
 Nathan Berg and Gerd Gigerenzer's[ As-if Behavioral Economics: Neoclassical economics in disguise](https://www.jstor.org/stable/23723790?seq=1#page_scan_tab_contents): "As-if' arguments are frequently put forward in behavioral economics to justify 'psychological' models that add new parameters to fit decision outcome data rather than specifying more realistic or empirically supported psychological processes that genuinely explain these data." Includes a critique of prospect theory's lack of realism as a decision-making process ([pdf](https://mpra.ub.uni-muenchen.de/26586/1/MPRA_paper_26586.pdf) of working paper)
 
@@ -70,7 +63,7 @@ Ole Peters's [The ergodicity problem in economics](https://doi.org/10.1038/s4156
 [A note by Ariel Rubinstein](http://arielrubinstein.tau.ac.il/papers/behavioral-economics.pdf) on a couple of behavioural economics papers by Colin Camerer and Matthew Rabin: " For Behavioral Economics to be a revolutionary program of research rather than a passing episode, it must become more open-minded and much more critical of itself."
 
 
-### **Counterpoints to famous biases, effects and stories**
+## Counterpoints to famous biases, effects and stories
 
 **Backfire effect:** [Daniel Engber reviews](https://slate.com/health-and-science/2018/01/weve-been-told-were-living-in-a-post-truth-age-dont-believe-it.html) the evidence. I first saw [doubts about the effect on WNYC](https://www.wnyc.org/story/walking-back-backfire-effect?tab=transcript).
 
@@ -115,7 +108,7 @@ Eldad Yechiam makes a related argument in [Acceptable losses: the debatable orig
 **Scarcity:** [The book](http://amzn.to/2rOtEuZ). [My review](https://jasoncollins.blog/2014/09/18/scarcity-of-time-money-friends-and-bandwidth/).  [Reanalysis](http://science.sciencemag.org/content/342/6163/1169.4) of the [original scarcity paper](http://doi.org/10.1126/science.1238041) ([pdf](https://scholar.harvard.edu/files/sendhil/files/976.full_.pdf)) without dichotomising income eliminated the effect. The original authors managed to [resurrect the effect](http://science.sciencemag.org/content/342/6163/1169.5) ([pdf](https://pdfs.semanticscholar.org/7fd6/f9c439607455381c40c9129f8e9773b083a1.pdf)) by combining the data from three experiments, but once you are at this point, you have well and truly entered the [garden of forking paths](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf). Then there is Leandro Carvalho, Stephan Meier and Stephanie Wang's [Poverty and Economic Decision-Making: Evidence from Changes in Financial Resources at Payday](https://www.aeaweb.org/articles?id=10.1257/aer.20140481) - "We find that participants surveyed before and after payday performed similarly on a number of cognitive function tasks."
 
 
-### **Applications of behavioural economics (and nudging)**
+## Applications of behavioural economics (and nudging)
 
 Philip Booth's [Behavioural economics – a critique of its policy conclusions](https://iea.org.uk/behavioural-economics-a-critique-of-its-policy-conclusions/): "We seem to have gone ... to a situation where we have regulators who use economics 101 supplemented with behavioural economics to try to bring perfection to markets that simply cannot be perfected and perhaps cannot be improved."
 
@@ -134,7 +127,7 @@ George Loewenstein and Peter Ubel's [Economics Behaving Badly](http://www.nyti
 Robert Sugden's [The Behavioural Economist and the Social Planner: To Whom Should Behavioural Welfare Economics Be Addressed?](https://doi.org/10.1080/0020174X.2013.806139) ([pdf](https://www.uea.ac.uk/documents/166500/14307614/CBESS-12-05+-+Sugden+%282012%29+The+behavioural+economist+and+the+social+planner%2C+to+whom+should+behavioural+welfare+economics+be+addressed.pdf/)): "The claim that the paternalist is merely implementing what the individual would have chosen for herself under ideal conditions is a common theme in paternalistic arguments, but should always be viewed with scepticism." Also see Sugden's [Do people really want to be nudged towards healthy lifestyles?](https://link.springer.com/article/10.1007/s12232-016-0264-1), Sunstein's [response](https://link.springer.com/article/10.1007%2Fs12232-017-0280-9) ([pdf](https://poseidon01.ssrn.com/delivery.php?ID=084013121017005091028095106125026109118032061048043044009117119089082113106094066092005049039026020056054098116089088118100077108057014069082023066084005073071102065045091091083011024002086098077116079085090067099118020002071086020031118067065069066&EXT=pdf)) and Sugdens [rejoinder](https://link.springer.com/article/10.1007/s12232-017-0281-8).
 
 
-### **If you want some background**
+## If you want some background
 
 I know this list is of critiques, but here the first four books I would recommend if you want a basic background.
 
