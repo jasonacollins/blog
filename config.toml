@@ -1,4 +1,4 @@
-baseURL = "https:jasoncolling.org/"
+baseURL = "https://jasoncollins.org/"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Jason Collins blog"
