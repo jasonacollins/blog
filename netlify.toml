@@ -5,4 +5,10 @@
   from = "/:year/:month/:slug"
   to = "/:slug"
   status = 301
-  force = false
+  force = true
+
+[[redirects]]
+  from = "/feed"
+  to = "/index.xml"
+  status = 301
+  force = true

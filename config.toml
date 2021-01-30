@@ -53,6 +53,8 @@ copyright = ""            # default: author.name ↓
   # paginate of archives, tags and categories
   archivePaginate = 100
 
+  rssLimit = 15
+
   # show 'xx Posts In Total' in archive page ?
   showArchiveCount = false
 
@@ -82,9 +84,6 @@ copyright = ""            # default: author.name ↓
 
   livereUID = ""            # LiveRe UID
 
-  baiduPush = false        # baidu push
-  baiduAnalytics = ""      # Baidu Analytics
-  baiduVerification = ""   # Baidu Verification
   googleVerification = ""  # Google Verification
 
   # Link custom CSS and JS assets
@@ -210,6 +209,11 @@ copyright = ""            # default: author.name ↓
 #  section = ["HTML", "RSS"]
 #  taxonomy = ["HTML", "RSS"]
 #  taxonomyTerm = ["HTML"]
+
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "feed"
 
 [permalinks]
   post = "/:slug"
