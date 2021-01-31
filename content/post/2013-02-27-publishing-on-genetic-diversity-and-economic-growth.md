@@ -10,7 +10,7 @@ slug: publishing-on-genetic-diversity-and-economic-growth
 
 Should Ashraf and Galor's paper [The ‘Out of Africa’ Hypothesis, Human Genetic Diversity, and Comparative Economic Development](https://jasoncollins.blog/2013/02/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/) have been published?
 
-The major critique about whether the paper should have been published comes from the conclusion of an[article in Current Anthropology](https://jasoncollins.blog/2013/01/is-poverty-in-our-genes/):
+The major critique about whether the paper should have been published comes from the conclusion of an [article in Current Anthropology](https://jasoncollins.blog/2013/01/is-poverty-in-our-genes/):
 
 >Social scientists seeking to explain economic behavior through genetics must exercise particular caution. As Benjamin et al. (2012:656) point out, “researchers in this field hold a special responsibility to try to accurately inform the media and the public about the limitations of the science,” especially in studies intended for “social-scientific interventions” (Benjamin 2010:1). Without proper methodology and data analysis standards, false positives are likely to be misunderstood as facts, and these can then be mobilized in the political arena. Ashraf and Galor’s (2013) paper is based on a fundamental scientific misunderstanding, bad data, poor methodology, and an uncritical theoretical framework. While the attempt to create interdisciplinary studies that link anthropology, genetics, and economics is laudable, economists should consult with specialists in those fields to avoid making such uninformed blunders. The same should be true of the peer-review process for such interdisciplinary articles.
 >
@@ -28,9 +28,7 @@ The second argument by the authors of the Current Anthropology piece concerns th
 
 A further issue arises where the work is empirically strong. Should it then be published? If you base your defence against unethical use of the hypothesis on the hypothesis not being true, your defence falls away as soon as the evidence mounts in support of the hypothesis. An ethical framework of human equality or liberty, whatever the outcomes of the genetic research, is a stronger place to build the barricades if you are worried about the ethical implications of research such as this.
 
-As a reading of my other posts on this paper suggest, I don't believe that the conclusions drawn by Ashraf and Galor are correct. But I am glad it was published. The process of going through this paper and the debate surrounding it has been (and is continuing to be) an important learning experience.
-
-Scientific progress is not made by publishing the perfect answer the first time. We should not see peer-reviewed economics articles as truth handed down from above (if you do, you would become confused very quickly). A serious effort can provide a springboard for other work, even if you consider it flawed. In that sense, Ashraf and Galor's work is a springboard that we should make use of, rather than complaining about whether it should be published at all.
+As a reading of my other posts on this paper suggest, I don't believe that the conclusions drawn by Ashraf and Galor are correct. But scientific progress is not made by publishing the perfect answer the first time. We should not see peer-reviewed economics articles as truth handed down from above (if you do, you would become confused very quickly). A serious effort can provide a springboard for other work, even if you consider it flawed.
 
 My posts on Ashraf and Galor's paper on genetic diversity and economic growth are as follows:
 	

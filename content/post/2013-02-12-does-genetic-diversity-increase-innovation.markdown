@@ -35,16 +35,11 @@ However, having favoured this second pathway, I am not convinced that either is 
 
 Given the above, further research is required to give the diversity-innovation hypothesis standing. But what approach should be used to tease out this question? [Cross-species comparison](https://jasoncollins.blog/2012/10/harvard-academics-on-genetic-diversity-and-economic-development/#comment-1001) provides one potential avenue, but how would levels of diversity across species be compared or levels of innovation measured? The low genetic diversity in humans relative to other species may complicate the analysis. I also suspect that a cross-species approach might be more useful in assessing the effect of diversity on levels of cooperation (the subject of a forthcoming post) as it may be too difficult to develop useful indexes of innovative behaviour in other species. Alternatively, further work on isolated human populations could be useful.
 
-
 My preferred direction of research would be to directly analyse the selection that has occurred on the various populations, genetic evidence permitting. I would also examine what other controls are useful in the analysis. IQ is one option, although a [Flynn](http://en.wikipedia.org/wiki/James_R._Flynn)-like hypothesis of economic development and IQ ratcheting up together would make that difficult.
-
 
 As an end note, some of the debate about the paper raises the question of whether Ashraf and Galor were directly relating genetic diversity to economic development, or whether genetic diversity is a proxy for phenotypic diversity unrelated to that genetic diversity (such as language). I have deliberately skirted that issue for this post, but as you can see below, my thoughts are forthcoming.
 
 My posts on Ashraf and Galor's paper on genetic diversity and economic growth are as follows:
-
-
-
  	
   1. [A summary of the paper methodology and findings](https://jasoncollins.blog/2013/02/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/)
 

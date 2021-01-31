@@ -13,7 +13,7 @@ Any theory that seeks to invoke human evolution as a factor in the Industrial Re
 
 I was recently browsing [Gregory Clark's web-page](http://www.econ.ucdavis.edu/faculty/gclark/a_farewell_to_alms.html) for his book _A Farewell to Alms_ and came across a video of a seminar in 2007 involving Clark, Brad DeLong and Tyler Cowen. There were some interesting points throughout the session (and it is worth watching it all) but one interesting point was an argument by DeLong on the pace of evolution.
 
-http://www.youtube.com/watch?v=Ptm08Leirz4
+{{< youtube Ptm08Leirz4 >}}
 
 His argument was based on the following example. Suppose there is a patience gene in the population. Assume that each person with the patience gene has a two-thirds chance of being patient while those without the gene have a one-third chance. Of those who are patient, they have a two-thirds chance of being rich, versus one-third for the others. Finally, assume that those who are rich have a two-thirds chance of having children, while the rest have a one-third chance.
 

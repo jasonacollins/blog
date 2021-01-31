@@ -1,27 +1,21 @@
 ---
+title: Dealing with algorithm aversion
 author: jasonacollins
 comments: true
 date: 2018-02-07 08:00:25+00:00
 draft: no
-link: https://jasoncollins.blog/2018/02/07/dealing-with-algorithm-aversion/
 slug: dealing-with-algorithm-aversion
-title: Dealing with algorithm aversion
-wordpress_id: 22431
 ---
 
 Over at Behavioral Scientist is [my latest contribution](https://behavioralscientist.org/what-to-do-when-algorithms-rule/). From the intro:
 
-
-
-<blockquote>The first American astronauts were recruited from the ranks of test pilots, largely due to convenience. As Tom Wolfe describes in his incredible book [_The Right Stuff_](https://en.wikipedia.org/wiki/The_Right_Stuff_(book)), radar operators might have been better suited to the passive observation required in the largely automated Mercury space capsules. But the test pilots were readily available, had the required security clearances, and could be ordered to report to duty.
-
-Test pilot Al Shepherd, the first American in space, did little during his first, 15-minute flight beyond being observed by cameras and a rectal thermometer (more on the “little” he _did_ do later). Pilots rejected by Project Mercury dubbed Shepherd “spam in a can.”
-
-Other pilots were quick to note that “a monkey’s gonna make the first flight.” Well, not quite a monkey. Before Shepherd, the first to fly in the Mercury space capsule was a chimpanzee named Ham, only 18 months removed from his West African home. Ham performed with aplomb.
-
-But test pilots are not the type to like relinquishing control. The seven Mercury astronauts felt uncomfortable filling a role that could be performed by a chimp (or spam). Thus started the astronauts’ quest to gain more control over the flight and to make their function more akin to that of a pilot. A battle for decision-making authority—man versus automated decision aid—had begun.</blockquote>
-
-
+>The first American astronauts were recruited from the ranks of test pilots, largely due to convenience. As Tom Wolfe describes in his incredible book [_The Right Stuff_](https://en.wikipedia.org/wiki/The_Right_Stuff_(book)), radar operators might have been better suited to the passive observation required in the largely automated Mercury space capsules. But the test pilots were readily available, had the required security clearances, and could be ordered to report to duty.
+>
+>Test pilot Al Shepherd, the first American in space, did little during his first, 15-minute flight beyond being observed by cameras and a rectal thermometer (more on the “little” he _did_ do later). Pilots rejected by Project Mercury dubbed Shepherd “spam in a can.”
+>
+>Other pilots were quick to note that “a monkey’s gonna make the first flight.” Well, not quite a monkey. Before Shepherd, the first to fly in the Mercury space capsule was a chimpanzee named Ham, only 18 months removed from his West African home. Ham performed with aplomb.
+>
+>But test pilots are not the type to like relinquishing control. The seven Mercury astronauts felt uncomfortable filling a role that could be performed by a chimp (or spam). Thus started the astronauts’ quest to gain more control over the flight and to make their function more akin to that of a pilot. A battle for decision-making authority—man versus automated decision aid—had begun.
 
 Head on over to [Behavioral Scientist](https://behavioralscientist.org/what-to-do-when-algorithms-rule/) to read the rest.
 

@@ -23,7 +23,7 @@ Links this week:
   3. [Peter Turchin calls on](http://socialevolutionforum.com/2013/05/20/why-become-a-farmer/) cultural group selection to explain the transition to farming. Or maybe it's because "[people like to own stuff](http://www.npr.org/blogs/thesalt/2013/05/13/183710778/why-humans-took-up-farming-they-like-to-own-stuff)".
 
 	
-  4. [Noah Millman on Jason Richwine](http://www.theamericanconservative.com/millman/richwine-biden-and-me/). And [another take-down of the paper](http://slatestarcodex.com/2013/05/22/the-wisdom-of-the-ancients/) suggesting the Victorians were smarter than us.
+  4. [A take-down of the paper](http://slatestarcodex.com/2013/05/22/the-wisdom-of-the-ancients/) suggesting the Victorians were smarter than us.
 
 	
   5. [The French fertility transition](http://www.overcomingbias.com/2013/05/french-fertility-fall.html).

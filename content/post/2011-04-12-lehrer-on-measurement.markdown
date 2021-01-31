@@ -12,18 +12,15 @@ wordpress_id: 708
 Jonah Lehrer has [expanded](http://www.wired.com/wiredscience/2011/04/the-emotional-quarterback/) his recent focus on measurement and grit (on which I [recently posted](https://jasoncollins.blog/2011/04/measurement-nihilism/)) in an article on the usefulness of the Wonderlic test, a quasi-IQ test, in predicting quarterback performance. Lehrer cites [a paper](http://dx.doi.org/10.1007/s11123-009-0154-6) by David Berri and Rob Simmons which suggests that some metrics, including the Wonderlic test, are influencing draft position even though they are not predictive of performance. Lehrer writes:
 
 
-<blockquote>While they found that Wonderlic scores play a large role in determining  when QBs are selected in the draft -- the only equally important  variables are height and the 40-yard dash -- the metric proved all but  useless in predicting performance. The only correlation the researchers  could find suggested that higher Wonderlic scores actually led to  slightly worse QB performance, at least during rookie years.</blockquote>
-
+>While they found that Wonderlic scores play a large role in determining  when QBs are selected in the draft -- the only equally important  variables are height and the 40-yard dash -- the metric proved all but  useless in predicting performance. The only correlation the researchers  could find suggested that higher Wonderlic scores actually led to  slightly worse QB performance, at least during rookie years.
 
 Unlike Lehrer's piece on which I previously posted, I'm sympathetic to the argument that this suggests that some people are acting on some not particularly useful measurements. However, I'm not as convinced when Lehrer (again) moves into the idea that the missing element is grit. Lehrer closes the article with the following:
 
-
-<blockquote>So where is all this heading? How will grit become a bigger part of  the scouting equation? The first step is to finally acknowledge that  maximal tests aren't effective. "I really see the Wonderlic as a reading  test," says former NFL executive Michael Lombardi, now with the NFL  Network. "Until we get a better test, teams are just going to have to  evaluate players the old-fashioned way, by watching them play in actual  games. It takes good instincts to be a QB. Maybe it takes good instincts  to find one, too."
-
-Hasselbeck suggests that teams pay more attention to the fundamentals  of college quarterbacks, since their passing mechanics are often a  window into how much grit they possess. "You know these guys have been  coached for years," he says. "So if you see a QB with flawed  fundamentals, you gotta wonder what's wrong. Is he coachable? Will he  work to improve? Because that's important. You can teach a kid to throw  the ball, but only if he wants to learn."
-
-After all, deliberate practice makes perfect.</blockquote>
-
+>So where is all this heading? How will grit become a bigger part of  the scouting equation? The first step is to finally acknowledge that  maximal tests aren't effective. "I really see the Wonderlic as a reading  test," says former NFL executive Michael Lombardi, now with the NFL  Network. "Until we get a better test, teams are just going to have to  evaluate players the old-fashioned way, by watching them play in actual  games. It takes good instincts to be a QB. Maybe it takes good instincts  to find one, too."
+>
+>Hasselbeck suggests that teams pay more attention to the fundamentals  of college quarterbacks, since their passing mechanics are often a  window into how much grit they possess. "You know these guys have been  coached for years," he says. "So if you see a QB with flawed  fundamentals, you gotta wonder what's wrong. Is he coachable? Will he  work to improve? Because that's important. You can teach a kid to throw  the ball, but only if he wants to learn."
+>
+>After all, deliberate practice makes perfect.
 
 This first paragraph is almost the opposite of Michael Lewis's [Moneyball](http://www.amazon.com/Moneyball-Art-Winning-Unfair-Game/dp/0393057658), where he suggested that there was too much faith in instinct and not enough in measured performance. Having years of college performance at hand, I'd be sceptical if some measures of "grit", assuming it was the important missing variable, do not already exist.
 

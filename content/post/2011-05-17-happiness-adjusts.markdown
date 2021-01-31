@@ -13,11 +13,9 @@ Robert Frank has written [a piece](http://www.nytimes.com/2011/05/15/business/ec
 
 The point of Frank's post is how much sense this makes from an evolutionary perspective. It is the miscalculation of how happy we will be if, say, we get the new job, that leads us to strive to achieve it. As Frank states:
 
-
-<blockquote>The human brain was formed by relentless competition in the natural  world, so it should be no surprise that we adapt quickly to changes in  circumstances. Much of life, after all, is graded on the curve. Someone  who remained permanently elated about her first promotion, for example,  might find it hard to muster the drive to compete for her next one.
-
-Emotional pain is fleeting, too. Behavioral economists often note that  while people who become physically paralyzed experience the expected  emotional devastation immediately after their accidents, they generally  bounce back surprisingly quickly. Within six months, many have a daily  mix of moods similar to their pre-accident experience.</blockquote>
-
+>The human brain was formed by relentless competition in the natural  world, so it should be no surprise that we adapt quickly to changes in  circumstances. Much of life, after all, is graded on the curve. Someone  who remained permanently elated about her first promotion, for example,  might find it hard to muster the drive to compete for her next one.
+>
+>Emotional pain is fleeting, too. Behavioral economists often note that  while people who become physically paralyzed experience the expected  emotional devastation immediately after their accidents, they generally  bounce back surprisingly quickly. Within six months, many have a daily  mix of moods similar to their pre-accident experience.
 
 Frank does temper the observation that large events do not change our  long-term mix of emotions by noting that people can still feel regret  for things that did not work out.
 

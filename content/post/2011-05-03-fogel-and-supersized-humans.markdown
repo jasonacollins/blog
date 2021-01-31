@@ -13,11 +13,9 @@ Last week, the New York Times ran [a profile](http://www.nytimes.com/2011/04/27/
 
 The key theme from Fogel's data is that there have been significant gains in height and mass as countries develop. As the Times states:
 
-
-<blockquote>To take just a few examples, the average adult man in 1850 in America  stood about 5 feet 7 inches and weighed about 146 pounds; someone born  then was expected to live until about 45. In the 1980s the typical man  in his early 30s was about 5 feet 10 inches tall, weighed about 174  pounds and was likely to pass his 75th birthday.
-
-Across the Atlantic, at the time of the French Revolution, a  30-something Frenchman weighed about 110 pounds, compared with 170  pounds now. And in Norway an average 22-year-old man was about 5 ½  inches taller at the end of the 20th century (5 feet 10.7 inches) than  in the middle of the 18th century (5 feet 5.2 inches).</blockquote>
-
+>To take just a few examples, the average adult man in 1850 in America  stood about 5 feet 7 inches and weighed about 146 pounds; someone born  then was expected to live until about 45. In the 1980s the typical man  in his early 30s was about 5 feet 10 inches tall, weighed about 174  pounds and was likely to pass his 75th birthday.
+>
+>Across the Atlantic, at the time of the French Revolution, a  30-something Frenchman weighed about 110 pounds, compared with 170  pounds now. And in Norway an average 22-year-old man was about 5 ½  inches taller at the end of the 20th century (5 feet 10.7 inches) than  in the middle of the 18th century (5 feet 5.2 inches).
 
 This rate of change over the last few hundred years is much higher than that of the previous millennia.
 
@@ -27,9 +25,7 @@ Having said that, this is another area where we should not ignore evolution in t
 
 Genetic considerations are also relevant to some of the debates about the meaning of Fogel's results. For example, the Times quotes Angus Deaton, who is sceptical about some of the conclusions on height, and in particular, he questions whether they should be attributed mainly to nutrition. Deaton states that:
 
-
-<blockquote>We don’t really understand why African adults and children are so much  taller than Indian adults and children, but it can’t be their income,  because Indians are much richer.</blockquote>
-
+>We don’t really understand why African adults and children are so much  taller than Indian adults and children, but it can’t be their income,  because Indians are much richer.
 
 Is this missing the obvious genetic explanation?
 

@@ -31,8 +31,6 @@ Apart from Gelman's suggestion, Ashraf and Galor's paper does not immediately le
 
 As I've posted about before, I am skeptical of Ashraf and Galor's hypothesis, so I'm not sure these policy suggestions would work. But if the hypothesis is right, there is scope for it to shape policy. As [Goldberger and Manski failed to see](https://jasoncollins.blog/2011/12/the-use-of-heritability-in-policy-development/) in their criticism of the use of genoeconomics in policy development, just because there is a genetic factor underlying an observed outcome does not mean that we need to implement eugenic policies or throw away non-genetic policy interventions.
 
-Having said this, policy recommendations on the basis of work such as this appears to be the lightening rod that focuses criticism (as per the [Heritage Foundation's immigration report and the revelation of Jason Richwine's PhD thesis](https://jasoncollins.blog/2013/05/iq-is-an-artificial-construct/)). Ashraf and Galor's paper was published in the American Economic Review, one of the top few economics journals, which suggests that proposing relationships between genetic factors and economic outcomes across populations is acceptable in some circles. The strong response from some Harvard Academics ([here](https://jasoncollins.blog/2012/10/harvard-academics-on-genetic-diversity-and-economic-development/) and [here](https://jasoncollins.blog/2013/01/is-poverty-in-our-genes/)) suggests that it is not acceptable to all, but unlike the Richwine case, no lynching followed the paper's publication. Ashraf and Galor's avoidance of policy recommendations, whether deliberate or not, was likely a wise move.
-
 My posts on Ashraf and Galor's paper on genetic diversity and economic growth are as follows:
 
 

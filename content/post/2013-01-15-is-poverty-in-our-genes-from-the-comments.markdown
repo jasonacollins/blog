@@ -40,9 +40,6 @@ In sum, I do not believe in the story of the paper. But nevertheless I think, ne
 
 To do interdisciplinary research is always a difficult undertaking. Blaming Ashraf and Galor for having the courage of trying it is neither helpful nor fair in my opinion.</blockquote>
 
-
-You can find further conversation on the causation point below [C.W.'s comment](https://jasoncollins.blog/2013/01/is-poverty-in-our-genes/#comment-1126).
-
 My posts on Ashraf and Galor's paper on genetic diversity and economic growth are as follows:
 
 

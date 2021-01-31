@@ -6,7 +6,6 @@ draft: no
 link: https://jasoncollins.blog/2011/03/28/income-and-iq/
 slug: income-and-iq
 title: Income and IQ
-wordpress_id: 652
 ---
 
 As I noted in [my recent post](https://jasoncollins.blog/2011/03/gladwells-outliers/) on Malcolm Gladwell's Outliers, Gladwell ignored the possibility that traits with a genetic component, other than IQ, might play a role in determining success. His approach reminded me of [a useful paper](http://dx.doi.org/10.1257/089533002760278686) by Samuel Bowles and Herbert Gintis from 2002 on the inheritance of inequality. Bowles and Gintis sought to explain the observed correlation between parental and child income (a correlation of around 0.4) by examining IQ, other genetic factors, environment, race and schooling.
@@ -17,9 +16,9 @@ As Gladwell did, Bowles and Gintis started their examination with IQ. To calcula
 
 1. The correlation between parental income and IQ is 0.266.
 
-2.If the parents' genotypes are uncorrelated, the genetic correlation between the genotype of the parents and of the child is 0.5. This can be increased with assortive mating (people pairing with people more like themselves) to a maximum of one (clones mating). Bowles and Gintis use 0.6.
+2. If the parents' genotypes are uncorrelated, the genetic correlation between the genotype of the parents and of the child is 0.5. This can be increased with assortive mating (people pairing with people more like themselves) to a maximum of one (clones mating). Bowles and Gintis use 0.6.
 
-3.The heritability of IQ is 0.5.
+3. The heritability of IQ is 0.5.
 
 4. The correlation between child income and IQ is 0.266.
 

@@ -9,8 +9,7 @@ title: Tamed by an influx of women
 wordpress_id: 20198
 ---
 
-Perusing through some of my bookmarks in Steven Pinker's [The Better Angels of Our Nature: Why Violence Has Declined](http://www.amazon.com/gp/product/0143122010/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0143122010&linkCode=as2&tag=evolvieconom-20&linkId=QZU5LQN2E3KIVIIZ), I was reminded of the following passage. It's worth sharing.
-
+Perusing through some of my bookmarks in Steven Pinker's The Better Angels of Our Nature: Why Violence Has Declined, I was reminded of the following passage. It's worth sharing.
 
 <blockquote>
 
