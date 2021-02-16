@@ -1,0 +1,20 @@
+[build.environment]
+  HUGO_VERSION = "0.80.0"
+
+[[redirects]]
+  from = "/:year/:month/:slug"
+  to = "/:slug"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/:year/:month/:day/:slug"
+  to = "/:slug"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/feed"
+  to = "/feed.xml"
+  status = 301
+  force = true

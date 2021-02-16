@@ -1,0 +1,33 @@
+---
+author: jasonacollins
+date: 2012-04-11 10:32:04+00:00
+draft: no
+slug: beinhockers-the-origin-of-wealth
+title: Beinhocker's The Origin of Wealth
+---
+
+In *The Origin of Wealth: Evolution, Complexity, and the Radical Remaking of Economics*, Eric Beinhocker argues that the economy should be studied as a complex adaptive system made up of adaptive agents, with the economy emerging from the interactions of those agents. It is an excellent book and possibly the best discussion of why the economy should be studied as a complex adaptive system, but as for other explorations of this area, it does not take the step of bringing complexity economics to life as an applied science.
+
+Complex adaptive systems are open, dynamic and modelled individually, with macroeconomic outcomes reflective of microeconomic behaviour. The units of selection - which for Beinhocker are the modules of business plans - undergo an evolutionary process of differentiation, selection and amplification. This contrasts with the "traditional economic" approach of closed, static systems that are in equilibrium and modelled collectively with no mechanisms for endogenous novelty.
+
+Beinhocker's critique of neo-classical economics and its foundations does not completely avoid caricature, but his argument that an economy is a complex adaptive system is strong. This naturally leads to observations about the importance of [path dependence](http://en.wikipedia.org/wiki/Path_dependence) in outcomes, the possibility of markets failing, the existence of bubbles and so on. For someone who has read much on complexity theory, the usual pieces of work and suspects are wheeled out, from Brian Arthur's El Farol bar problem to Doyne Farmer's trading markets. It is interesting, but it is also a sign of a field struggling to gain traction when the same examples are wheeled out repeatedly.
+
+Beinhocker generally stays at Stage 2 of the [stages of evolutionary economics](https://jasoncollins.blog/the-three-stages-of-evolutionary-economics/), whereby evolutionary biology is not directly incorporated into the analysis. At times, this results in some laboured explanations. For example, in attempting to find the appropriate unit of selection, Beinhocker argues that the definition of a gene is fuzzy and changes depending on whether it is undergoing selection. By attempting to cast uncertainty over the biology, the difficulty in defining the units of selection in the economy might seem less so.
+
+Similarly, gaps can be seen when Beinhocker suggests that the economy has shifted from being a "Big Man" economy, in which someone at the top of a hierarchy directs economic activity and obtains the economic surplus, to a market economy. This results in a shift from survival selection to what Beinhocker calls social selection. Technologies in Big Man economies spread with the survival of their carriers, but now that link is divorced. However, this has not changed to the extent that Beinhocker suggests. Human genes are still under selection, regardless of the form of economic system, although the favoured traits may vary. Survival and reproduction still matter, and the transmission of technologies and ideas remain linked to this. An approach that ignores biological motivations also provides limited insight into the formation of the Big Man or market economies. They too are endogenous to the biological actors.
+
+At times Beinhocker heads towards a stronger evolutionary basis, such as in his suggestion that evolutionary psychology should be used to understand human preferences. However, this ultimately short-changes what evolution can offer. Beinhocker notes its central role when he writes:
+
+
+<blockquote>Economic wealth and biological wealth are thermodynamically the same sort of phenomena, and not just metaphorically. Both are systems of locally low entropy, patterns of order that evolved over time under the constraint of fitness functions. Both are forms of fit order. And the fitness function of the economy - our tastes and preferences - is fundamentally linked to the fitness function of the biological world - the replication of genes. _The economy is ultimately a genetic replication strategy._</blockquote>
+
+
+The book closes with a discussion of what the lessons are from a complexity framework. Beinhocker warns at the beginning of the book that he does not give concrete answers, but he does offer suggestions.
+
+For businesses, Beinhocker's analysis is similar to (but predates) the argument by Tim Harford in [Adapt](https://jasoncollins.blog/harfords-adapt-why-success-always-starts-with-failure/). Beinhocker encourages experimentation within companies, with greater tolerance for failure and appropriate feedback mechanisms to tell the business when it is time to drop a particular strategy. Unfortunately, Beinhocker then turns to a discussion of whether companies should pursue narrow shareholder value or long-term growth, at which point the argument becomes weak.
+
+Beinhocker also claims to overcome the left-right continuum through his complexity approach, which acknowledges the emergent and useful behaviour of markets but the possibility of market failure. However, after making this claim, he then suggests a group of policy prescriptions that place him on the continuum and that are only weakly derived the complexity approach that forms the bulk of the book. For example, he adopts arguments concerning the lack of intergenerational mobility in the United States and the importance of parental influences on children, despite the dearth of any evidence for parental influence, yet he fails to mention the argument about path dependence provided by complexity theory (nor the implications of heritable traits). Instead, he falls back on [Rawlsian](http://en.wikipedia.org/wiki/A_Theory_of_Justice) arguments for justice.
+
+One interesting observation by Beinhocker is his description of the role of government as a fitness function shaper. By introducing market based regulations (such as an emissions trading scheme), government shapes the landscape of what strategies will have highest fitness, without prescribing which particular strategies should be used. In such a case, it is not clear that the change in landscape will be efficiency destroying, although Beinhocker does note the potential for what Hayek would term the fatal conceit.
+
+Overall, Beinhocker's book is a great synopsis of the area, but it confirms that since the formation of the Santa Fe Institute 30 years ago, the field of complexity economics has moved slowly. Beinhocker suggests it takes some time for changes in frameworks to be absorbed. There is no sign of change coming for complexity economics yet.
