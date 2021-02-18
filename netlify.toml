@@ -18,3 +18,9 @@
   to = "/feed.xml"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/:slug/amp"
+  to = "/:slug"
+  status = 301
+  force = false
