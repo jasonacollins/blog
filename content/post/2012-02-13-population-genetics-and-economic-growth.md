@@ -1,15 +1,12 @@
 ---
+title: Population genetics and economic growth
 author: jasonacollins
-comments: true
 date: 2012-02-13 12:25:21+00:00
 draft: no
-link: https://jasoncollins.blog/population-genetics-and-economic-growth/
 slug: population-genetics-and-economic-growth
-title: Population genetics and economic growth
-wordpress_id: 2428
 ---
 
-The title of this post comes from [a 2002 paper](http://doi.org/10.1023/A:1020604724888) by Paul Zak and Kwang Woo Park. The title is mildly deceptive, as the paper has many elements and ideas crammed into it beyond population genetics. The model described by the authors includes working, consumption, saving, marriage, genetic diversity, sexual selection, intelligence, beauty, education, the [Flynn effect](http://en.wikipedia.org/wiki/Flynn_effect), family size effects and more. While many of these elements deserve consideration, this is ultimately the paper's weakness. Even though most of the assumptions are reasonable and well supported in the literature, the resulting mix is hard to disentangle, with a few factors dominating the results.
+The title of this post comes from [a 2002 paper](https://doi.org/10.1023/A:1020604724888) by Paul Zak and Kwang Woo Park. The title is mildly deceptive, as the paper has many elements and ideas crammed into it beyond population genetics. The model described by the authors includes working, consumption, saving, marriage, genetic diversity, sexual selection, intelligence, beauty, education, the [Flynn effect](http://en.wikipedia.org/wiki/Flynn_effect), family size effects and more. While many of these elements deserve consideration, this is ultimately the paper's weakness. Even though most of the assumptions are reasonable and well supported in the literature, the resulting mix is hard to disentangle, with a few factors dominating the results.
 
 Zak and Park built an age-structured model in which agents' cognitive ability and beauty are genetically determined, with human capital a function of cognitive ability and education. The model agents are paired with potential partners over a series of rounds, and decide whether they will marry their potential partner based on their beauty and human capital (together called "pizzazz"). In each round, they weigh the potential benefits to marriage, including increased income if their partner has higher human capital, the joy of marriage due to their partner's pizzazz and the potential partners in future matching rounds. If they agree to marry, they then decide family size, trading off consumption (in both their young adulthood and old-age) and children. These interactions drive the population dynamics and economic output in the economy.
 
