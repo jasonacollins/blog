@@ -65,7 +65,7 @@ Imagine a person who took ten shots in a basketball game. A ball is a hit, an X 
 
 What would count as evidence of a hot hand? What we can do is look at shots following a previous hit. For instance, in this sequence of shots there are 6 occasions where we have a shot following a previous hit. Five of those shots, such as the seventh here, are followed by another hit.
 
-![](/img/shots.jpg)
+![](/img/2020-06-12-arent-we-smart-fellow-behavioural-scientists/shots.jpg)
 
 We can then compare their normal shooting percentage with the proportion of shots they hit if the shot immediately before was a hit. If their hit rate after a hit is higher than their normal shot probability, then we might say they get a hot hand.
 
