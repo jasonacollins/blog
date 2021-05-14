@@ -39,7 +39,7 @@ This story comes from great [work by Joshua Miller and Adam Sanjurjo](https://do
 
 There is strong evidence from the lab that people have misperceptions about what randomness looks like. When a person is asked to generate a series that approximates the flipping of a coin, they will alternate between heads and tails too often, and balance the frequencies of heads and tails over too short a sequence. When people are asked to judge which of two different sequences of coin flips are more likely, they tend to pick sequences with more alternation, despite their probability being the same.
 
-What happens we look for a failure to perceive randomness in the outside world? Out of the lab?
+What happens when we look for a failure to perceive randomness in the outside world? Out of the lab?
 
 When people watch basketball, they often see a hot hand. They will describe players as "hot" and "in form". Their belief is that the person who has just hit a shot or a series of shots is more likely to hit their next one.
 
@@ -64,6 +64,8 @@ Let's delve into how Gilovich, Vallone and Tversky showed the absence of a hot h
 Imagine a person who took ten shots in a basketball game. A ball is a hit, an X is a miss.
 
 What would count as evidence of a hot hand? What we can do is look at shots following a previous hit. For instance, in this sequence of shots there are 6 occasions where we have a shot following a previous hit. Five of those shots, such as the seventh here, are followed by another hit.
+
+![](shots.jpg)
 
 We can then compare their normal shooting percentage with the proportion of shots they hit if the shot immediately before was a hit. If their hit rate after a hit is higher than their normal shot probability, then we might say they get a hot hand.
 
