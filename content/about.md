@@ -9,7 +9,7 @@ weight: 50
 
 Behavioural economics. Behavioural and data science. PhD economics and evolutionary biology.
 
-On [Twitter](https:twitter.com/jasonacollins) and [LinkedIn](https://www.linkedin.com/in/jasonallancollins/) (checked only occasionally).
+On [Twitter](https://twitter.com/jasonacollins) and [LinkedIn](https://www.linkedin.com/in/jasonallancollins/) (checked only occasionally).
 
 For direct contact, use the form below (it goes direct to my email).
 
