@@ -1,23 +1,32 @@
 ---
 title: "Course notes on Applied Consumer Financial Decision Making"
-date: 2021-08-25T09:00:00+00:00
-lastmod: 2021-08-25T09:00:00+00:00
+author: jasonacollins
+
+date: 2021-09-05T09:00:00+00:00
+lastmod: 2021-09-05T09:00:00+00:00
 math: true
 toc: true
 autoCollapseToc: true
-draft: true
+draft: false
+slug: course-notes-on-applied-consumer-financial-decision-making
 
 ---
 
-Below are the notes I developed in preparing content for a unit in Applied Consumer Financial Decision Making as part of UTS's Graduate Certificate in Behavioural Economics. (It was titled [*Behavioural Approach to Investment and Insurance Decisions*](https://www.handbook.uts.edu.au/subjects/23712.html), which is not a particularly good description.) The course was for post-graduates with no assumed prior knowledge of economics or behavioural economics, although was taken after introductory economics and behavioural economics courses.
+Below are the notes I developed in preparing content for a unit in Applied Consumer Financial Decision Making as part of UTS's Graduate Certificate in Behavioural Economics. (It was titled [*Behavioural Approach to Investment and Insurance Decisions*](https://www.handbook.uts.edu.au/subjects/23712.html)).
+
+The course was for post-graduates with no assumed prior knowledge of economics or behavioural economics. This unit taken taken after introductory economics and behavioural economics units.
 
 This content was placed into an online learning system, with built-in interactivity (hence the presence of some questions below), plus supplemental content such as videos.
 
-There's a lot that can be improved - I will update or add to these notes from time to time - but I thought I'd throw them out here if anyone thought they could be of use. It has an Australian flavour as that as where I am.
+There's a lot that can be improved - I will update or add to these notes from time to time - but I thought I'd put them here if anyone thought they could be of use. It has an Australian flavour as that as where I am.
 
-Any [comments or suggestion to improve](https://jasoncollins.blog/about/) are welcome.
+I drew on many sources when developing the notes (as per the reference list), but one reference that helped greatly and that is reflected in the structure of some of these notes is Beshears et al (2018) "[Behavioral Household Finance](https://doi.org/10.1016/bs.hesbe.2018.07.004)" in Bernheim et al (eds), *Handbook of Behavioral Economics - Foundations and Applications 1*
+
+Any comments or suggestion to improve are welcome.
 
 --
+
+# 0. Applied Consumer Financial Decision Making
 
 In this unit, we examine the drivers of financial decisions made by individuals and households. We will look at the many challenges individuals face to make good decisions: uncertainty, difficulty to stick to long-term plans, inaccurate beliefs about future risks and opportunities. This knowledge is useful in a wide range of industry applications from product design to marketing.
 
@@ -428,18 +437,6 @@ Similarly, most machine learning techniques try to reduce the scope of the varia
 
 The most common explanation for less-is-more effects is the bias-variance trade-off.
 
-### 2.5.2 Selective attention test
-
-You may have done this test before. If not, give it a go.
-
-{{< youtube vJG698U2Mvo >}}
-
-Not everyone succeeds at this task. What do you consider to be the costs and benefits of the phenomena you just observed?
-
-### 2.5.3 Optional reading
-
-Simons and Chabris (1999) "Gorillas in our midst: sustained inattentional blindness for dynamic events", *Perception*, 28, 1059-1074, https://doi.org/10.1068%2Fp281059
-
 ## 2.6 Scarcity
 
 ### 2.6.1 What is scarcity?
@@ -558,7 +555,7 @@ The immediate discount of `$\beta$` generates a distinction between the treatmen
 
 Someone with high present bias (i.e. `$\beta$` substantially below one) will have trouble holding any liquid assets, but could accumulate substantial illiquid assets if they do not have a high rate of exponential discounting (i.e. `$\delta$` is close to one). 
 
-A related concept is myopia, whereby people consider their income over a limited horizon. This was a feature of Milton Friedman's (1957) original model of consumption smoothing. If people only think about their income for, say, the next three years, you will see some smoothing. But that smoothing will be limited compared to changes in income and consumption over the complete lifecycle.
+A related concept is myopia, whereby people consider their income over a limited horizon. This was a feature of [Friedman's (1957a)](https://www.nber.org/chapters/c4407) original model of consumption smoothing. If people only think about their income for, say, the next three years, you will see some smoothing. But that smoothing will be limited compared to changes in income and consumption over the complete lifecycle.
 
 ### 3.3.2 Mental accounting
 
@@ -572,19 +569,13 @@ Mental accounting has some similarity to the liquidity explanation, but in the c
 
 ### 3.3.3 Reference point models
 
-Under prospect theory, utility is measured from a reference point. This reference point might be expectations for current consumption, which means that changes in consumption relative to expectations could generate (or cause the loss of) utility.
+Under prospect theory, utility is measured from a reference point. This reference point might be expectations for current consumption, which means that changes in consumption relative to expectations could generate (or cause the loss of) utility ([Kőszegi and Rabin (2006)](https://doi.org/10.1093/qje/121.4.1133)).
 
 Suppose today I get to consume five pieces of chocolate. If I had previously expected to consume four pieces, this could generate extra utility. However, if I had previously expected to consume six, this would be painful. In fact, due to loss aversion, it would be more painful than the equivalent pleasant surprise.
 
 This concept can lead to over-consumption, under-savings and high levels of co-movement between income and consumption (if you calibrate the model with certain parameters). For instance, a windfall in income today could be used to markedly increase consumption above expectations, giving a person utility both from the consumption itself and the pleasant surprise. Any consumption shifted into the future would not generate a pleasant surprise on the day of consumption, as by that time it would be expected.
 
-A person's reference point may also be the consumption of others. Marianne Bertrand and Adair Morse (2016) argued that consumption among rich households had induced those at lower income to consume a larger share of their income.
-
-### 3.3.4 References
-
-Bertrand and Morse (2016) "Trickle-Down Consumption", *The Review of Economics and Statistics*, 98(5), 863-879, https://doi.org/10.1162/REST_a_00613
-
-Friedman (1957) "Consistency of the Permanent Income Hypothesis with Existing Evidence on the Relation between Consumption and Income: Time Series Data" in Friedman, *A Theory of the Consumption Function*, Princeton University Press, https://www.nber.org/chapters/c4407
+A person's reference point may also be the consumption of others. [Bertrand and Morse (2016)](https://doi.org/10.1162/REST_a_00613) argued that consumption among rich households had induced those at lower income to consume a larger share of their income.
 
 ## 3.4 A case study: Earnd
 
@@ -624,7 +615,7 @@ Credit cards present three puzzles that a traditional economic framework has dif
 
 Although it is possible to justify borrowing at any interest rate if income is sufficiently lumpy, the levels of observed credit card debt are hard to justify. In particular, the impatience required to justify the high levels of credit card debt does not reconcile with the patience required to justify the savings in illiquid assets such as housing and retirement accounts.
 
-Present bias provides one possible explanation. As noted in the discussion of savings, illiquid savings are hard to access immediately, and so their potential consumption is substantially discounted by someone with high present bias. This enables savings of illiquid assets. However, consumption using a credit card suffers no such discount. It can occur immediately. Meier and Sprenger (2010) found that more present biased individuals were more likely to have credit card debt and had higher levels of debt.
+Present bias provides one possible explanation. As noted in the discussion of savings, illiquid savings are hard to access immediately, and so their potential consumption is substantially discounted by someone with high present bias. This enables savings of illiquid assets. However, consumption using a credit card suffers no such discount. It can occur immediately. [Meier and Sprenger (2010)](https://doi.org/10.1257/app.2.1.193) found that more present biased individuals were more likely to have credit card debt and had higher levels of debt.
 
 ### 4.1.2 Poor card choices
 
@@ -636,19 +627,13 @@ Customers also exhibit poor understanding of exponential growth and how a credit
 
 ### 4.1.3 Co-holding debt and savings
 
-People often hold both high-cost credit card debt and *liquid* assets that provide low rates of return. In one UK survey, 12% of households in the sample held an average of `$\pounds$`3800 in revolving credit on which they incurred interest charges, while at the same time holding liquid assets that they could use to clear all of this debt.
+People often hold both high-cost credit card debt and *liquid* assets that provide low rates of return. In one UK survey, 12% of households in the sample held an average of `$\pounds$`3800 in revolving credit on which they incurred interest charges, while at the same time holding liquid assets that they could use to clear all of this debt ([Gathergood and Weber (2014)](https://doi.org/10.1016/j.jebo.2014.04.018)).
 
 One rational explanation for co-holding is that that some expenses must be paid by cash or direct debit, not credit card. This requirement means that funds must be available in these forms.
 
 An alternative explanation is that co-holding is a self-control strategy. By reducing the amount of unused credit capacity, it may reduce future spending. (Note the use of mental accounts here.)
 
 One shortfall with these explanations is that people who hold multiple cards do not minimise costs when using the cards they have. They pay little attention to relative interest rates when choosing which card to use. They don't repay the card with highest interest rate first.
-
-### 4.1.4 References
-
-Gathergood and Weber (2014) "Self-control, financial literacy & the co-holding puzzle", *Journal of Economic Behavior & Organization*, 107, 455-469, https://doi.org/10.1016/j.jebo.2014.04.018
-
-Meier and Sprenger (2010) "Present-Biased Preferences and Credit Card Borrowing", *American Economic Journal: Applied Economics*, 2(1), 193–210, https://doi.org/10.1257/app.2.1.193
 
 ## 4.2 Payday loans
 
@@ -667,55 +652,37 @@ Even though capped, this structure can lead to very high interest rates, particu
 
 There is an active academic debate on whether payday loans are helpful or harmful.
 
-On the evidence of harm, people tend to use payday loans even though less expensive options are available. Bertrand and Morse (2011) showed that better disclosure marginally reduces take-up, suggesting payday loan use is at least partly due to misunderstanding the terms or consequences of the loan. (We will tackle disclosure in more detail in chapters [8](/product-distribution-information) and [9](/mandated-disclosure).) Further, the debt burden created by payday loans can lead to a debt spiral that harms the ability to cover basic financial needs.
+On the evidence of harm, people tend to use payday loans even though less expensive options are available. [Bertrand and Morse (2011)](https://doi.org/10.1111/j.1540-6261.2011.01698.x) showed that better disclosure marginally reduces take-up, suggesting payday loan use is at least partly due to misunderstanding the terms or consequences of the loan. (We will tackle disclosure in more detail in chapters [8](/product-distribution-information) and [9](/mandated-disclosure).) Further, the debt burden created by payday loans can lead to a debt spiral that harms the ability to cover basic financial needs.
 
-An important consideration, however, is the counterfactual of whether the harm would occur in the absence of the payday loans. Bhutta et al (2016) found evidence that, when payday lending is banned, people shift to other forms of high-interest credit rather than shifting back to traditional credit instruments. This may suggest that constraints to payday lending are addressing the symptom rather than the cause. 
+An important consideration, however, is the counterfactual of whether the harm would occur in the absence of the payday loans. [Bhutta et al (2016)](https://doi.org/10.1086/686033) found evidence that, when payday lending is banned, people shift to other forms of high-interest credit rather than shifting back to traditional credit instruments. This may suggest that constraints to payday lending are addressing the symptom rather than the cause. 
 
 ### 4.2.2 Who uses payday lenders?
 
 Payday loan use is linked to low self control and low financial literacy.
 
-Gathergood (2012) examined payday loan use in a survey sample where self control was measured by self-reported agreement with statements such as "I am impulsive and tend to buy things even when I can't really afford them." He found a that those with low self-control were more likely to use payday loans, although there were various mechanisms by which this occurred. Low self-control people had more income shocks. They were more likely to have other sources of credit withdrawn. They had more unforeseen durable expenses. All of these could trigger a need for high-cost short-term credit.
+[Gathergood (2012)](https://doi.org/10.1016/j.joep.2011.11.006) examined payday loan use in a survey sample where self control was measured by self-reported agreement with statements such as "I am impulsive and tend to buy things even when I can't really afford them." He found a that those with low self-control were more likely to use payday loans, although there were various mechanisms by which this occurred. Low self-control people had more income shocks. They were more likely to have other sources of credit withdrawn. They had more unforeseen durable expenses. All of these could trigger a need for high-cost short-term credit.
 
-You can think about the low self-control in terms of present bias. Payday lending attractive is presence of high `$\beta$`; that is, a large discount for any delay. However, the variety of mechanisms by which payday loans are required suggests we require a richer story than high present bias.
+You can think about the low self-control in terms of present bias. Payday lending attractive is presence of high `$\small \beta$`; that is, a large discount for any delay. However, the variety of mechanisms by which payday loans are required suggests we require a richer story than high present bias.
 
-As for credit cards, financial literacy may also play a role. Payday lender users score poorly on tests of financial literacy. Lusardi and Scheresberg (2013) found that those with high financial literacy (measured by answering each of the numeracy, inflation and diversification questions) were around 5 percentage points less likely to use a payday lender (20% compared to 25% across the full sample).
-
-### 4.2.3 Watch
-
-To research payday lenders and understand why people use them, Lisa Servon worked as a cashier. She described her experience in *The Unbanking of America*. Here, she talks about her research.
-
-{{< youtube SKxmCDasEB8 >}}
-
-### 4.2.4 References
-
-Bertrand and Morse (2011) "Information Disclosure, Cognitive Biases, and Payday Borrowing", *The Journal of Finance*, 66(6), 1865-1893, https://doi.org/10.1111/j.1540-6261.2011.01698.x
-
-Bhutta et al (2016) "Consumer Borrowing after Payday Loan Bans", *The Journal of Law and Economics*, 59(1), https://doi.org/10.1086/686033
-
-Gathergood (2012) "Self-control, financial literacy and consumer over-indebtedness", *Journal of Economic Psychology*, 33(3), 590-602, https://doi.org/10.1016/j.joep.2011.11.006
-
-Lusardi and Scheresberg (2013) "Financial Literacy and High-Cost Borrowing in the United States", *NBER Working Paper* No. 18969, https://www.nber.org/papers/w18969
-
-Servon (2017) *The Unbanking of America: How the New Middle Class Survives*, Mariner Books, Boston
+As for credit cards, financial literacy may also play a role. Payday lender users score poorly on tests of financial literacy. [Lusardi and Scheresberg (2013)](https://www.nber.org/papers/w18969) found that those with high financial literacy (measured by answering each of the numeracy, inflation and diversification questions) were around 5 percentage points less likely to use a payday lender (20% compared to 25% across the full sample).
 
 ## 4.3 Mortgages
 
-The major source of household credit in Australia is the mortgage. Mortgages comprise over 90% of household credit!
+The major source of household credit in Australia is the mortgage. Mortgages comprise over 90% of household credit.
 
-Below we examine two features of the Australian mortgage market: the difficulty in comparing loans, and the "loyalty tax" paid by those who stay with their home loan lender. 
+Below we examine two features of the Australian mortgage market: the difficulty in comparing loans, and the "loyalty tax" paid by those who stay with their home loan lender.
 
 ### 4.3.1 Comparing loans
 
-Australian banks tend to advertise a headline variable interest rate for their mortgage products. Yet almost 90% of customers of the big four banks receive a discount from that rate. This can include  advertised discounts that they receive when obtaining the loan, and discretionary discounts that are given during the application process or after disbursement of the loan. The ACCC found that, as at 31 October 2019, the average discount on the headline variable rate for standard owner-occupier loans was between 1.23% and 1.31% for each of the four major banks.
+Australian banks tend to advertise a headline variable interest rate for their mortgage products. Yet almost 90% of customers of the big four banks receive a discount from that rate. This can include  advertised discounts that they receive when obtaining the loan, and discretionary discounts that are given during the application process or after disbursement of the loan. The [Australian Competition and Consumer Commission (2020)](https://www.accc.gov.au/focus-areas/inquiries-ongoing/home-loan-price-inquiry/interim-report) found that, as at 31 October 2019, the average discount on the headline variable rate for standard owner-occupier loans was between 1.23% and 1.31% for each of the four major banks.
 
-The advertisement of rates that are not the rate paid means that interest rate comparison is weakly informative when shopping for a loan. And people tend not to do much shopping around. For instance, ASIC research found that 38% of mortgage customers visited only one mortgage provider (be that a lender or broker, but typically their existing financial institution), with another 26% visiting only two (typically their existing financial provider plus on other).
+The advertisement of rates that are not the rate paid means that interest rate comparison is weakly informative when shopping for a loan. And people tend not to do much shopping around. For instance, [Australian Securities and Investments Commission (2019)](https://download.asic.gov.au/media/5249601/rep628-published-29-august-2019.pdf) research found that 38% of mortgage customers visited only one mortgage provider (be that a lender or broker, but typically their existing financial institution), with another 26% visiting only two (typically their existing financial provider plus on other).
 
-Research in the United States has highlighted the costs of failing to search for the best rate. Gurun et al (2016) found the difference between the 5th and 95th percentile adjustable rate mortgage interest rate within a geographic region was 3.1 percentage points, and that was after accounting for borrower and loan characteristics.
+Research in the United States has highlighted the costs of failing to search for the best rate. [Gurun et al (2016)](https://doi.org/10.1111/jofi.12423) found the difference between the 5th and 95th percentile adjustable rate mortgage interest rate within a geographic region was 3.1 percentage points, and that was after accounting for borrower and loan characteristics.
 
 ### 4.3.2 Punishing loyalty
 
-The ACCC found that existing borrowers pay around 0.26% interest more for their loan than new customers (as at 30 September 2019). If the existing loan is more than five years old, they are paying 0.40% more than what big four bank new customers are paying. As an estimate of the associated costs, those customers of more than 5 years had loans averaging \$200,000. If they refinanced, they could save around \$850 in the first year. Given these customers typically have lower loan balances and the lender knows the reliability of their repayment history, this difference in rate is hard to justify on basis of pricing for risk.
+The [Australian Competition and Consumer Commission (2020)](https://www.accc.gov.au/focus-areas/inquiries-ongoing/home-loan-price-inquiry/interim-report) found that existing borrowers pay around 0.26% interest more for their loan than new customers (as at 30 September 2019). If the existing loan is more than five years old, they are paying 0.40% more than what big four bank new customers are paying. As an estimate of the associated costs, those customers of more than 5 years had loans averaging \$200,000. If they refinanced, they could save around \$850 in the first year. Given these customers typically have lower loan balances and the lender knows the reliability of their repayment history, this difference in rate is hard to justify on basis of pricing for risk.
 
 ### 4.3.3 Explaining these phenomena
 
@@ -729,22 +696,11 @@ Present bias provides one explanation as the costs of search are today, whereas 
 
 Another explanation relates to attention and knowledge. A customer with a long-term mortgage may not have given any attention to their current rate relative to the rates they could achieve in the market. The opacity of advertised rates would further cloud their comparison even if they were to focus attention. They do not take the steps to seek a reduced rate because they do not realise it is an option, not because they have calculated the costs and benefits of their action.
 
-### 4.3.4 Optional reading
-
-ACCC (2020) *Home loan price inquiry - interim report*, https://www.accc.gov.au/focus-areas/inquiries-ongoing/home-loan-price-inquiry/interim-report (I recommend reading the overview and sections 4 and 5.)
-
-ASIC (2019) *Looking for a mortgage: Consumer experiences and expectations in getting a home loan*, Report 626, https://download.asic.gov.au/media/5249601/rep628-published-29-august-2019.pdf
-
-Gurun et al (2016) "Advertising Expensive Mortgages", *The Journal of Finance*, 71(5), https://doi.org/10.1111/jofi.12423
-
-
 # 5. Payments
 
 A fundamental choice when making a payment is whether to pay in cash or via a more abstract method. Besides cash, we can pay via cheque, bank transfers, BPay, credit card, "tap and go", PayPal and so on.
 
-In 2007, almost three-quarters of in-person payments in Australia involved cash. As larger transactions were more likely to be via other means, a bit less than half of these transactions by value were cash. By 2019 cash had reduced to 32% of transactions by number and 19% by value. The use of cash has plunged further during the pandemic.
-
-This change has consequences not just for the practicality of how we purchase goods and services. It also changes how we think about those purchases.
+This choice has consequences not just for the practicality of how we purchase goods and services. It also changes how we think about those purchases.
 
 In this chapter we will look at a series of facts about individual or household financial payment behaviour, examine where that behaviour is inconsistent with traditional economic explanations, and examine possible explanations that can account for the observed behaviour.
 
@@ -752,9 +708,9 @@ In this chapter we will look at a series of facts about individual or household 
 
 ### 5.1.1 Abstract payments
 
-Drazen Prelec and Duncan Simester (2001) ran an experiment in which they sought bids from college students for tickets to see the Boston Celtics and Boston Red Sox. Some students were told that they had to pay in cash. Others were told they had to pay by credit card. In both cases, payment was to be made the next day. Those who bid by credit card bid around twice as much as those who were asked to pay by cash.
+[Prelec and Simester (2001)](https://doi.org/10.1023/A:1008196717017) ran an experiment in which they sought bids from college students for tickets to see the Boston Celtics and Boston Red Sox. Some students were told that they had to pay in cash. Others were told they had to pay by credit card. In both cases, payment was to be made the next day. Those who bid by credit card bid around twice as much as those who were asked to pay by cash.
 
-Brian Knutson and colleagues (2007) suggested phenomena such as this may be because excessive prices trigger a pain-like response. The abstract nature of a non-cash method of paying (together with the delay that may occur with credit) might "anaesthetize" consumers against the pain of paying.
+[Knutson and colleagues (2007)](https://dx.doi.org/10.1016%2Fj.neuron.2006.11.010) suggested phenomena such as this may be because excessive prices trigger a pain-like response. The abstract nature of a non-cash method of paying (together with the delay that may occur with credit) might "anaesthetize" consumers against the pain of paying.
 
 ### 5.1.2 Rewards
 
@@ -764,19 +720,9 @@ Rewards points increase the proportion of transactions that occur via the reward
 
 A reward point in itself is essentially valueless. The reward point only has value in that it can be exchanged for something else of value. As a result, when someone is considering whether they want to use a particular payment method that accrues rewards, they should ask what is the cost of the method relative to other options, and what is the value of the goods or services they could obtain through the reward points. The particular "number" of the reward points is irrelevant.
 
-Despite this, people do not just try to maximise the value of what they can receive by earning reward points. They also seek to maximise the reward points themselves. Christopher Hsee and colleagues (2003) call this "medium maximisation".
+Despite this, people do not just try to maximise the value of what they can receive by earning reward points. They also seek to maximise the reward points themselves. [Hsee and colleagues (2003)](https://doi.org/10.1086/374702) call this "medium maximisation".
 
 Medium maximisation implies that people can be induced to take a more costly action through an offer of more of the medium, even if that additional medium can be used to obtain the same ultimate good or service. For instance, double rewards points for each purchase will attract more purchases through that method even when the value of those reward points, in terms of the goods and services they can be exchanged for, is halved.
-
-### 5.1.3 References
-
-Delaney et al (2020) "Cash Use in Australia: Results from the 2019 Consumer Payments Survey", *RBA Bulletin*, June 2020, https://www.rba.gov.au/publications/bulletin/2020/jun/cash-use-in-australia-results-from-the-2019-consumer-payments-survey.html
-
-Hsee et al (2003) "Medium Maximization", *The Journal of Consumer Research*, 30(1), 1-14, https://doi.org/10.1086/374702
-
-Knutson et al (2007) "Neural predictors of purchases", *Neuron*, 53(1), 147-156, https://dx.doi.org/10.1016%2Fj.neuron.2006.11.010
-
-Prelec and Simester (2001) "Always Leave Home Without It: A Further Investigation of the Credit-Card Effect on Willingness to Pay", *Marketing Letters*, 12(1), 5-12, https://doi.org/10.1023/A:1008196717017
 
 # 6. Investment
 
@@ -790,7 +736,7 @@ Basic economic theory suggests that people invest to earn returns to maximise an
 
 ### 6.1.1 Low rates of stock market participation
 
-Australia has one of the highest rates of share market participation in the world. In 2017, 37% of Australian adults held on-exchange investments. This level is a drop from over 50% in the early to mid-2000s, but above the 10% participation in many countries in Europe. Part of the reason for the high levels of Australian ownership is the large public offerings associated with the sale of public assets, including the Commonwealth Bank in 1991, Qantas in 1993 and Telstra in 1997.
+Australia has one of the highest rates of share market participation in the world ([Deloitte Access Economics (2017)](https://www.asx.com.au/documents/resources/2017-asx-investor-study.pdf)). In 2017, 37% of Australian adults held on-exchange investments. This level is a drop from over 50% in the early to mid-2000s, but above the 10% participation in many countries in Europe. Part of the reason for the high levels of Australian ownership is the large public offerings associated with the sale of public assets, including the Commonwealth Bank in 1991, Qantas in 1993 and Telstra in 1997.
 
 ![](/img/consumer-financial-decision-making/Chart_3.1_ASX_Investor_Study_2017.jpg)
 
@@ -798,7 +744,7 @@ Despite the relatively high level of Australian ownership, there is still a ques
 
 One rational explanation for low participation are costs such as acquiring information or opening a trading account. Even though these costs are small, the small financial wealth of most households means that their level of participation would also be small. However, these costs cannot be the only explanation, as many at the top of the wealth distribution also do not participate.
 
-There are many behavioural explanations for non-participation. One is disappointment aversion, which is the tendency to make choices in a way that reduces the potential for future expected disappointment. (Disappointment is closely tied to and often an alternative name for "regret" in the behavioural literature.) Disappointment occurs when an outcome falls short of the person's reference point, such as the expected utility of the lottery or the certainty equivalent. Someone who is disappointment averse will be less attracted to a gamble that an expected utility maximiser due to that potential disappointment. Stock market participation, obviously, provides an opportunity for disappointment.
+There are many behavioural explanations for non-participation. One is disappointment aversion, which is the tendency to make choices in a way that reduces the potential for future expected disappointment ([Ang et al (2005)](https://doi.org/10.1016/j.jfineco.2004.03.009)). (Disappointment is closely tied to and often an alternative name for "regret" in the behavioural literature.) Disappointment occurs when an outcome falls short of the person's reference point, such as the expected utility of the lottery or the certainty equivalent. Someone who is disappointment averse will be less attracted to a gamble that an expected utility maximiser due to that potential disappointment. Stock market participation, obviously, provides an opportunity for disappointment.
 
 Loss aversion could provide another potential behavioural explanation, but it is inadequate to explain the rejection of small, favourable stock market investments. As a result, loss aversion is often combined with narrow framing. Narrow framing occurs where people evaluate gambles in isolation. They do not place the gamble in the context of other gambles they are taking. But combined with a narrow frame, whereby they don't consider their full basket of risks, the potential for loss becomes clear.
 
@@ -816,7 +762,7 @@ As you will recall, one of the questions in the basic financial literacy questio
 
 Even when we do diversify, we often use crude metrics such as the 1/n rule, in which investments are simply spread across options in equal proportions. This means that if more shares are offered in a menu of options, we will end up with a great proportion of shares in our portfolio.
 
-But is this irrational? The following story about a pioneer of modern portfolio theory raises some questions.
+But is this irrational? The following story from [Bower (2011)](https://doi.org/10.1002/scin.5591791221) about a pioneer of modern portfolio theory raises some questions.
 
 > Harry Markowitz won a 1990 Nobel Prize in economics for efficiently passing the buck — make that bucks. He was honored for developing a mathematical formula that helps investors maximize profit and minimize loss in their portfolios. After an exhaustive analysis of financial information, Markowitz’s procedure allocates a per- son’s stash of cash to an array of assets, with more money going to better bets.
 >
@@ -840,15 +786,13 @@ Gerd Gigerenzer argues that optimisation is not always the best solution. Where 
 >
 >IDIOT, n. See DAY_TRADER
 >
->*Jason Zweig, The Devil's Financial Dictionary*
+>Jason Zweig (2015) *The Devil's Financial Dictionary*
 
-On average, the more people trade, the worse they perform. This is driven largely, but not solely, by transactions costs. 
+On average, the more people trade, the worse they perform ([O'Dean (1999)](https://doi.org/10.1257/aer.89.5.1279)). This is driven largely, but not solely, by transactions costs ([Barber and O'Dean (2000)](https://doi.org/10.1111/0022-1082.00226)). 
 
 ![](/img/consumer-financial-decision-making/Figure_1_Barber_and_Odean_1999.jpg)
 
-Those who believe they are better than others (overplace) trade more. There is mixed evidence in support of a link between overprecision and over-trading.
-
-There is also a difference by gender. Men trade more than women, and suffer a larger trading penalty as a result.
+Those who believe they are better than others (overplace) trade more. There is mixed evidence in support of a link between overprecision and over-trading ([Barber and O'Dean (2001)](https://doi.org/10.1162/003355301556400)). There is also a difference by gender. Men trade more than women, and suffer a larger trading penalty as a result.
 
 ### 6.1.4 Poor investment options
 
@@ -856,27 +800,7 @@ One cheap, easy option to achieve stock market diversification is a low-cost man
 
 One rational explanation involves the broker or adviser. Funds tend to flow to funds with higher commissions, suggesting the broker is acting in their own interest. Conflicted remuneration has been severely curtailed in Australia in recent years, and low-cost index funds have become increasingly available. This change may influence the proportion of funds in high-fee funds in the future.
 
-There is some evidence that financial illiteracy is a cause of poor fund choice. High-IQ investors choose cheaper funds. But even when clear fee information is given to an ostensibly bright group (Harvard and Wharton students and staff) with which to choose between four index funds, many fail to minimise fees. This failure suggests a lack of financial sophistication even among that group.
-
-### 6.1.5 Optional reading
-
-Bower (2011) "Simple heresy - Rules of thumb challenge complex financial analyses", *Science News*, 179(12), 26-29, https://doi.org/10.1002/scin.5591791221 (You can access *Science News* online in the UTS library.)
-
-### References
-
-Ang et al. (2005) "Why Stocks may Disappoint", *Journal of Financial Economics*, 76(3), 471-508, https://doi.org/10.1016/j.jfineco.2004.03.009
-
-Barber and O'Dean (2000) Trading Is Hazardous to Your Wealth: The Common Stock Investment Performance of Individual Investors, *Journal of Finance*, 55(2), 773-806, https://doi.org/10.1111/0022-1082.00226
-
-Barber and O'Dean (2001) "Boys will be Boys: Gender, Overconfidence, and Common Stock Investment", *The Quarterly Journal of Economics*, 116(1), 261-292, https://doi.org/10.1162/003355301556400
-
-Choi et al (2009) "Why Does the Law of One Price Fail? An Experiment on Index Mutual Funds", *The Review of Financial Studies*, 23(4), 1405-1432, https://doi.org/10.1093/rfs/hhp097
-
-Deloitte Access Economics (2017) *ASX Australian Investor Study 2017*, https://www.asx.com.au/documents/resources/2017-asx-investor-study.pdf
-
-O'Dean (1999) "Do Investors Trade Too Much", *The American Economic Review*, 89(5), 1279-1298, https://doi.org/10.1257/aer.89.5.1279
-
-Jason Zweig (2015) *The Devil's Financial Dictionary*, Public Affairs
+There is some evidence that financial illiteracy is a cause of poor fund choice. High-IQ investors choose cheaper funds. But even when clear fee information is given to an ostensibly bright group (Harvard and Wharton students and staff) with which to choose between four index funds, many fail to minimise fees ([Choi et al (2009)](https://doi.org/10.1093/rfs/hhp097)). This failure suggests a lack of financial sophistication even among that group.
 
 # 7. Insurance
 
@@ -886,7 +810,7 @@ Information asymmetries such as adverse selection and moral hazard can lead to c
 
 ## 7.1 Insurance puzzles
 
-### Life insurance and annuities
+### 7.1.1 Life insurance and annuities
 
 At the household level, the standard economic model predicts a household will purchase insurance to protect against the death of household members, particularly those that are the highest earning. This is not, however, the pattern that is observed. Households often insure spouses when they would suffer no decline in living standard were their spouse to die. They also often fail to insure when they would suffer a substantial decline.
 
@@ -904,15 +828,15 @@ The link between financial literacy and insurance through annuities is complex a
 
 The choice of annuities is sensitive to the frame. When consumers were told about the potential returns from purchasing an annuity (an investment frame), they were far less likely to annuitise than if they were told about the potential future consumption from the annuity.
 
-Loss aversion can also make annuities unattractive, as the possibility of an early death might be seen as a potential loss. The future income stream is "lost" in the event of death.
+Loss aversion can also make annuities unattractive, as the possibility of an early death might be seen as a potential loss ([Brown et al (2016)](https://doi.org/10.1111/j.1539-6975.2013.12004.x)). The future income stream is "lost" in the event of death.
 
-### Under-insurance
+### 7.1.2 Under-insurance
 
-Households often fail to insure against catastrophic risks to their property, and when they do, they often under-insure against the full extent of the catastrophe. For example, Quantum Market Research (2014) found that 81% of homeowners and renters do not have insurance that enables them to resume the same standard of living in the event of a crisis.
+Households often fail to insure against catastrophic risks to their property, and when they do, they often under-insure against the full extent of the catastrophe. For example, [Quantum Market Research (2014)](https://understandinsurance.com.au/assets/research/ICA%20Understand%20Home%20Insurance_Report.pdf) found that 81% of homeowners and renters do not have insurance that enables them to resume the same standard of living in the event of a crisis.
 
 While some of this failure to fully insure is rational, due to the small maximum possible loss, the main explanation for this under-insurance is simply that households underestimate the probability of a large loss. They also do little to understand the extent of the risk.
 
-### Low excess
+### 7.1.3 Low excess
 
 Once households do insure they often over-insure against small losses. They do this by choosing low levels of deductibles, also called "excess". Excess is the amount the policy holder must contribute in the event of a claim. Excess is designed to reduced moral hazard through sharing risk, and administration costs by reducing the number of claims.
 
@@ -924,13 +848,13 @@ Another element of prospect theory, however, can increase the attractiveness of 
 
 If you remember the four-fold pattern of risk attitudes generated by [prospect theory](/prospect-theory), insurance is a combination of low probability and potentially large loss. In that schema, a person will be on net risk averse and seek to insure.
 
-### Junk insurance
+### 7.1.4 Junk insurance
 
 People regularly buy insurance with limited value.
 
 The prototypical junk insurance in the Australian market is consumer credit insurance. Consumer credit insurance is sold to consumers to cover them in the event that they cannot meet the minimum payments of a loan due to unemployment, injury or illness, or to pay the balance in the event that they die.
 
-ASIC found that for consumer credit insurance, only around 19 cents in the dollar was paid out. For insurance associated with credit cards, that payout rate was only 11 cents in the dollar.
+[Australian Securities and Investments Commission (2019a)](https://asic.gov.au/regulatory-resources/find-a-document/reports/rep-622-consumer-credit-insurance-poor-value-products-and-harmful-sales-practices/) found that for consumer credit insurance, only around 19 cents in the dollar was paid out. For insurance associated with credit cards, that payout rate was only 11 cents in the dollar.
 
 Most major consumer credit providers have ceased selling many, if not all, of the forms of consumer credit insurance since ASIC's report. But this still leaves open the question of why consumers were purchasing this insurance in the first place.
 
@@ -938,29 +862,17 @@ A major issue was understanding the products. Many people were ineligible to eve
 
 Another factor is the attention of the customers. They are primarily engaged in obtaining a credit card or loan at the time of purchasing the insurance. The add-on insurance is an immaterial part of the overall purchase, so receives little attention or scrutiny. There is also little opportunity for the consumer to shop around or compare prices.
 
-### Evidence of adverse selection and moral hazard
+### 7.1.5 Evidence of adverse selection and moral hazard
 
 [Adverse selection](/insuring-against-loss/) emerges where there is an information asymmetry between the insurer and potential customer about what type of customer is seeking insurance. Only high-risk customers buy coverage, whereas low-risk customers find the pricing unattractive.
 
-The evidence for adverse selection actually occurring is ambiguous. In support of the concept, some studies have found that drivers who choose a lower excess tend to be higher risk drivers.
+The evidence for adverse selection actually occurring is ambiguous. In support of the concept, some studies have found that drivers who choose a lower excess tend to be higher risk drivers ([Cohen (2005)](https://doi.org/10.1162/0034653053970294)).
 
-Other evidence provides little support. For example, people with lower life expectancy are not more likely to purchase life insurance than those likely to live longer.
+Other evidence provides little support. For example, people with lower life expectancy are not more likely to purchase life insurance than those likely to live longer ([Cawley and Philipson (1999)](https://doi.org/10.1257/aer.89.4.827)).
 
-There is even some evidence of an opposing trend, whereby low-risk customers are more likely to seek coverage. "Advantageous risk selection" occurs where risk averse people attach a high value to insurance due to their risk aversion, but are also lower risks due to this risk aversion. There is also evidence that higher risks are less capable of making insurance decisions involving comparison of costs and benefits than those who are lower risk, affecting their insurance purchase decisions.
+There is even some evidence of an opposing trend, whereby low-risk customers are more likely to seek coverage. "Advantageous risk selection" occurs where risk averse people attach a high value to insurance due to their risk aversion, but are also lower risks due to this risk aversion. There is also evidence that higher risks are less capable of making insurance decisions involving comparison of costs and benefits than those who are lower risk, affecting their insurance purchase decisions (Fang et al (2008)[https://doi.org/10.1086/587623]).
 
-Evidence for [moral hazard](/insuring-against-loss/) is more robust, although not always consistent. It is also difficult to disentangle moral hazard from adverse selection. Moral hazard has been found in health, medical and automobile insurance markets. 
-
-### References
-
-ASIC (2019) *Consumer credit insurance: Poor value products and harmful sales practices*, Report 622, July 2019, https://asic.gov.au/regulatory-resources/find-a-document/reports/rep-622-consumer-credit-insurance-poor-value-products-and-harmful-sales-practices/
-
-Brown et al. (2016) "Framing and claiming: how information-framing affects expected social security claiming behavior", *Journal of Risk and Insurance*, 83(1), 139–162, https://doi.org/10.1111/j.1539-6975.2013.12004.x
-
-Fang et al (2008) "Sources of Advantageous Selection: Evidence from the Medigap Insurance Market", Journal of Political Economy, 116(2), 303-350, https://doi.org/10.1086/587623
-
-Kunreuther et al (2013) *Insurance and Behavioral Economics: Improving Decisions in the Most Misunderstood Industry*, Cambridge University Press
-
-Quantum Market Research (2014) *Understand Home Insurance Research Report, Prepared for Insurance Council of Australia*, https://understandinsurance.com.au/assets/research/ICA%20Understand%20Home%20Insurance_Report.pdf
+Evidence for [moral hazard](/insuring-against-loss/) is more robust, although not always consistent. It is also difficult to disentangle moral hazard from adverse selection. Moral hazard has been found in health, medical and automobile insurance markets (Kunreuther et al (2013)). 
 
 # 8. The financial product lifecycle
 
@@ -990,7 +902,7 @@ These remedies are not, however, without cost. There are typically trade-offs be
 
 Similarly, balance transfer policies help credit card holders on net. The amount of credit card debt in Australia accruing interest has not increased in the last 15 years despite a more than 50% increase in credit card debt. The distribution of those payments, however, has changed markedly.
 
-### Save More Tomorrow
+### 8.1.1. Save More Tomorrow
 
 The classic example of successful design of a financial product is the Save More Tomorrow Program ([Thaler and Benartzi (2004)](https://doi.org/10.1086/380085)). Under Save More Tomorrow, customers are asked to commit in advance to allocating a fraction of their future salary increases toward their retirement savings accounts.
 
@@ -998,7 +910,7 @@ Save More Tomorrow is designed to reduce loss aversion as a factor in deciding c
 
 The first tests of the Save More Tomorrow program resulted in 78 per cent of those offered the plan joining, 80% of those remaining in the plan through the fourth pay rise, and average savings rates increasing from 3.5% to 13.6% over 40 months. (Note the savings rate is higher than the default rate in Australia. Could the default in Australia create a low anchor for some people?)
 
-### Example: Designing the bonus saver account
+### 8.1.2 Example: Designing the bonus saver account
 
 Many banks offer a 'bonus saver' account. The major feature of these accounts is the ability to earn "bonus interest" each month if the customer satisfies certain criteria, such as making a deposit each month, withdrawing no savings, growing the balance, or making a minimum number of card transactions.
 
@@ -1305,15 +1217,27 @@ Agnew et al. (2018) "First impressions matter: an experimental investigation of 
 
 Alan et al. (2016) "Unshrouding Effects on Demand for a Costly Add-on: Evidence from Bank Overdrafts in Turkey", *NBER Working Paper* No 20956, https://doi.org/10.3386/w20956
 
+Ang et al. (2005) "Why Stocks may Disappoint", *Journal of Financial Economics*, 76(3), 471-508, https://doi.org/10.1016/j.jfineco.2004.03.009
+
 Anonymous (2021) "[98] Evidence of Fraud in an Influential Field Experiment About Dishonesty", Data Colada, https://datacolada.org/98
 
 Ariely and Kreisler (2017) *Dollars and Sense: Money Mismaps and How to Avoid Them*, Bluebird, London
 
 Armstrong and Vickers (2012) "Consumer Protection and Contingent Charges", *Journal of Economic Literature*, 50(2), 477-493, https://doi.org/10.1257/jel.50.2.477
 
+Australian Competition and Consumer Commission (2020) *Home loan price inquiry - interim report*, https://www.accc.gov.au/focus-areas/inquiries-ongoing/home-loan-price-inquiry/interim-report
+
 Australian Securities and Investments Commission (2012) "Shadow shopping study of retirement advice", *Report 279*, March 2012, https://download.asic.gov.au/media/1343876/rep279-published-27-March-2012.pdf
 
+Australian Securities and Investments Commission (2019) *Looking for a mortgage: Consumer experiences and expectations in getting a home loan*, Report 626, https://download.asic.gov.au/media/5249601/rep628-published-29-august-2019.pdf
+
+Australian Securities and Investments Commission (2019a) *Consumer credit insurance: Poor value products and harmful sales practices*, Report 622, July 2019, https://asic.gov.au/regulatory-resources/find-a-document/reports/rep-622-consumer-credit-insurance-poor-value-products-and-harmful-sales-practices/
+
 Australian Securities and Investments Commission and EY Sweeney (2018) *Australian Financial Attitudes and Behaviour Tracker, Wave 6*, https://financialcapability.gov.au/files/afab-tracker_wave-6-key-findings.pdf
+
+Barber and O'Dean (2000) Trading Is Hazardous to Your Wealth: The Common Stock Investment Performance of Individual Investors, *Journal of Finance*, 55(2), 773-806, https://doi.org/10.1111/0022-1082.00226
+
+Barber and O'Dean (2001) "Boys will be Boys: Gender, Overconfidence, and Common Stock Investment", *The Quarterly Journal of Economics*, 116(1), 261-292, https://doi.org/10.1162/003355301556400
 
 Bateman et al (2015) "As easy as pie: How retirement savers use prescribed investment disclosures", *Journal of Economic Behavior & Organization*, 121, 60–76, https://doi.org/10.1016/j.jebo.2015.10.020
 
@@ -1321,9 +1245,19 @@ Benartzi and Thaler (1995) "Myopic loss aversion and the equity premium puzzle",
 
 Bertrand and Morse (2011) "Information Disclosure, Cognitive Biases,and Payday Borrowing", *The Journal of Finance*, 66(6), 1865-1893, https://doi.org/10.1111/j.1540-6261.2011.01698.x
 
+Bertrand and Morse (2016) "Trickle-Down Consumption", *The Review of Economics and Statistics*, 98(5), 863-879, https://doi.org/10.1162/REST_a_00613
+
 Beshears et al. (2015) "Self Control and Commitment: Can Decreasing the Liquidity of a Savings Account Increase Deposits?", *NBER Working Paper* No 21474, https://www.nber.org/papers/w21474
 
+Beshears et al (2018) "Behavioral Household Finance" in Bernheim et al (eds), Handbook of Behavioral Economics - Foundations and Applications 1, North Holland, Amsterdam, https://doi.org/10.1016/bs.hesbe.2018.07.004
+
 BETA (2019) "Credit when it’s due: Timely reminders help consumers reduce their credit card debt", https://behaviouraleconomics.pmc.gov.au/sites/default/files/projects/credit-cards-final-report-accessible.pdf
+
+Bhutta et al (2016) "Consumer Borrowing after Payday Loan Bans", *The Journal of Law and Economics*, 59(1), https://doi.org/10.1086/686033
+
+Bower (2011) "Simple heresy - Rules of thumb challenge complex financial analyses", *Science News*, 179(12), 26-29, https://doi.org/10.1002/scin.5591791221
+
+Brown et al. (2016) "Framing and claiming: how information-framing affects expected social security claiming behavior", *Journal of Risk and Insurance*, 83(1), 139–162, https://doi.org/10.1111/j.1539-6975.2013.12004.x
 
 Buell and Choi (2019) "Improving Customer Compatibility with Operational Transparency", *Harvard Business School Working Paper*, No. 20-013, July 2019, https://www.hbs.edu/faculty/Pages/item.aspx?num=56465
 
@@ -1333,7 +1267,15 @@ Camerer et al (2018) "Evaluating the replicability of social science experiments
 
 Carvalho, Meier and Wang (2016) "Poverty and Economic Decision-Making: Evidence from Changes in Financial Resources at Payday", *American Economic Review*, 106 (2), 260-84, https://doi.org/10.1257/aer.20140481
 
-CFPB (2017) *CFPB Financial Wellbeing Scale - Scale development technical report*, https://files.consumerfinance.gov/f/documents/201705_cfpb_financial-well-being-scale-technical-report.pdf
+Cawley and Philipson (1999) "An empirical examination of information barriers to trade in insurance", *American Economic Review*, 89, 827-46, https://doi.org/10.1257/aer.89.4.827
+
+Choi et al (2009) "Why Does the Law of One Price Fail? An Experiment on Index Mutual Funds", *The Review of Financial Studies*, 23(4), 1405-1432, https://doi.org/10.1093/rfs/hhp097
+
+Cohen (2005) "Asymmetric information and learning: Evidnece from the automobile insurance market", *Review of Economics and Statistics*, 87, 197-207, https://doi.org/10.1162/0034653053970294
+
+Consumer Financial Protection Bureau (2017) *CFPB Financial Wellbeing Scale - Scale development technical report*, https://files.consumerfinance.gov/f/documents/201705_cfpb_financial-well-being-scale-technical-report.pdf
+
+Deloitte Access Economics (2017) *ASX Australian Investor Study 2017*, https://www.asx.com.au/documents/resources/2017-asx-investor-study.pdf
 
 Drexler, Fischer and Schoar (2014) "Keeping It Simple: Financial Literacy and Rules of Thumb", *American Economic Journal: Applied Economics*, 6(2), 1-31, https://doi.org/10.1257/app.6.2.1
 
@@ -1341,15 +1283,23 @@ Elman (1993) "Learning and development in neural networks: the importance of sta
 
 Erta et al (2013) "Applying behavioural economics at the Financial Conduct Authority", *Financial Conduct Authority Occasional Paper No 1*, https://www.fca.org.uk/publication/occasional-papers/occasional-paper-1.pdf
 
+Fang et al (2008) "Sources of Advantageous Selection: Evidence from the Medigap Insurance Market", Journal of Political Economy, 116(2), 303-350, https://doi.org/10.1086/587623
+
 Fernandes, Lynch and Netemeyer (2014) "Financial Literacy, Financial Education, and Downstream Financial Behaviors", *Management Science*, 60(8), 1861-2109, https://doi.org/10.1287/mnsc.2013.1849
 
 Friedman (1957) "The Permanent Income Hypothesis" in Friedman, *A Theory of the Consumption Function*, Princeton University Press, https://www.nber.org/chapters/c4405.pdf
+
+Friedman (1957a) "Consistency of the Permanent Income Hypothesis with Existing Evidence on the Relation between Consumption and Income: Time Series Data" in Friedman, *A Theory of the Consumption Function*, Princeton University Press, https://www.nber.org/chapters/c4407
+
+Gathergood (2012) "Self-control, financial literacy and consumer over-indebtedness", *Journal of Economic Psychology*, 33(3), 590-602, https://doi.org/10.1016/j.joep.2011.11.006
 
 Gathergood and Weber (2014) "Self-control, financial literacy & the co-holding puzzle", *Journal of Economic Behavior & Organization*, 107, 455-469, https://doi.org/10.1016/j.jebo.2014.04.018
 
 Gurun et al (2016) "Advertising Expensive Mortgages", *The Journal of Finance*, 71(5), https://doi.org/10.1111/jofi.12423
 
 Hastings et al (2017) "Sales Force and Competition in Financial Product Markets: The Case of Mexico's Social Security Privatization", *Econometrica*, 85(6), 1723-1761, https://doi.org/10.3982/ECTA12302
+
+Hsee et al (2003) "Medium Maximization", *The Journal of Consumer Research*, 30(1), 1-14, https://doi.org/10.1086/374702
 
 Iscenko et al (2014) "How does selling insurance as an add-on affect consumer decisions? A practical application of behavioural experiments in financial regulation", *Financial Conduct Authority Occasional Paper* No. 3, https://www.fca.org.uk/publication/occasional-papers/occasional-paper-3.pdf
 
@@ -1361,15 +1311,23 @@ Kahneman and Tversky (1984) "Choices, Values and Frames", *American Psychologist
 
 Kaiser et al (2020) "Financial Education Affects Financial Knowledge and Downstream Behaviors", *NBER Working Paper* No 27057, https://doi.org/10.3386/w27057
 
+Knutson et al (2007) "Neural predictors of purchases", *Neuron*, 53(1), 147-156, https://dx.doi.org/10.1016%2Fj.neuron.2006.11.010
+
+Kőszegi and Rabin (2006) "A model of reference-depdendent preferences", *The Quarterly Journal of Economics*, 121, 1133-1165, https://doi.org/10.1093/qje/121.4.1133
+
 Kristal et al. (2020) "Signing at the beginning versus at the end does not decrease dishonesty", *PNAS*, 117(13), 7103-7107, https://doi.org/10.1073/pnas.1911695117
 
 Kristal et al. (2020a) "When We’re Wrong, It’s Our Responsibility as Scientists to Say So", *Scientific American*, https://blogs.scientificamerican.com/observations/when-were-wrong-its-our-responsibility-as-scientists-to-say-so/
+
+Kunreuther et al (2013) *Insurance and Behavioral Economics: Improving Decisions in the Most Misunderstood Industry*, Cambridge University Press
 
 Linnainmaa, Melzer and Previtero (2018) "The Misguided Beliefs of Financial Advisors", *Kelley School of Business Research Paper*, No. 18-9, https://doi.org/10.2139/ssrn.3101426
 
 Loewenstein, Cain and Sah (2011) "The limits of transparency: pitfalls and potential of disclosing conflicts of interest", *American Economic Review: Papers & Proceedings*, 101(3), 423–428, https://doi.org/10.1257/aer.101.3.423
 
 Lusardi and Mitchell (2014) "The Economic Importance of Financial Literacy: Theory and Evidence", *Journal of Economic Literature*, 52(1), 5-44. https://doi.org/10.1257/jel.52.1.5
+
+Lusardi and Scheresberg (2013) "Financial Literacy and High-Cost Borrowing in the United States", *NBER Working Paper* No. 18969, https://www.nber.org/papers/w18969
 
 Madrian and Shea (2001) "The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior", *The Quarterly Journal of Economics*, 116(4), 1149-1187, https://doi.org/10.2307/2696456
 
@@ -1381,11 +1339,19 @@ Mani et al (2013a) "Response to Comment on "Poverty Impedes Cognitive Function""
 
 Mazar et al. (2008) "The Dishonesty of Honest People: A Theory of Self-Concept Maintenance", *Journal of Marketing Research*, 45(6), 633-644, https://doi.org/10.1509%2Fjmkr.45.6.633
 
+Meier and Sprenger (2010) "Present-Biased Preferences and Credit Card Borrowing", *American Economic Journal: Applied Economics*, 2(1), 193–210, https://doi.org/10.1257/app.2.1.193
+
 Muir et al (2017) *Exploring Financial Wellbeing in the Australian Context*, Centre for Social Impact & Social Policy Research Centre –University of New South Wales Sydney, for Financial Literacy Australia, https://www.csi.edu.au/media/Exploring_Financial_Wellbeing_in_the_Australian_Context_Final_Report.pdf 
 
 Mullainathan, Noeth and Schoar, (2012) "The Market for Financial Advice: An Audit Study", *National Bureau of Economic Research* Working Paper 17929, https://doi.org/10.3386/w17929
 
 Mullainathan and Shafir (2013) *Scarcity: Why Having Too Little Means So Much*, Penguin Books, London
+
+O'Dean (1999) "Do Investors Trade Too Much", *The American Economic Review*, 89(5), 1279-1298, https://doi.org/10.1257/aer.89.5.1279
+
+Prelec and Simester (2001) "Always Leave Home Without It: A Further Investigation of the Credit-Card Effect on Willingness to Pay", *Marketing Letters*, 12(1), 5-12, https://doi.org/10.1023/A:1008196717017
+
+Quantum Market Research (2014) *Understand Home Insurance Research Report, Prepared for Insurance Council of Australia*, https://understandinsurance.com.au/assets/research/ICA%20Understand%20Home%20Insurance_Report.pdf
 
 Rabin (2000) "Risk Aversion and Expected‐utility Theory: A Calibration Theorem", *Econometrica*, 68(5), 1281-1292, https://doi.org/10.1111/1468-0262.00158
 
@@ -1412,3 +1378,5 @@ Verschuere et al. (2018) "Registered Replication Report on Mazar, Amir, and Arie
 Wicherts and Scholten (2013) "Comment on "Poverty Impedes Cognitive Function"", *Science*, 342(6163), 1169 https://doi.org/10.1126/science.1246680
 
 Wilkins and Lass (2018) *The Household, Income and Labour Dynamics in Australia Survey: Selected Findings from Waves 1 to 16*, Melbourne Institute: Applied Economic & Social Research, University of Melbourne, https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0005/2839919/2018-HILDA-SR-for-web.pdf
+
+Zweig (2015) *The Devil's Financial Dictionary*, Public Affairs
