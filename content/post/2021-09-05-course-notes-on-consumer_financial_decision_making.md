@@ -467,11 +467,7 @@ The concept of scarcity has been subject to considerable debate. [Wicherts and S
 
 Finally, [Carvalho, Meier and Wang (2016)](https://doi.org/10.1257/aer.20140481) examined cognitive function, risk preferences and time preferences in low-income households before and after payday. They found an effect on time preference when considering monetary rewards, but no effect on cognitive function, risk taking or the quality of decision making.
 
-### 2.6.4 Watch
-
-{{< youtube 29yi-5226rs >}}
-
-### 2.6.5 Required reading
+### 2.6.4 Required reading
 
 Mani et al (2013) "Poverty Impedes Cognitive Function", *Science*, 341(6149), 976-980, https://doi.org/10.1126/science.1238041
 
