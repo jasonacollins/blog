@@ -467,14 +467,6 @@ The concept of scarcity has been subject to considerable debate. [Wicherts and S
 
 Finally, [Carvalho, Meier and Wang (2016)](https://doi.org/10.1257/aer.20140481) examined cognitive function, risk preferences and time preferences in low-income households before and after payday. They found an effect on time preference when considering monetary rewards, but no effect on cognitive function, risk taking or the quality of decision making.
 
-### 2.6.4 Required reading
-
-Mani et al (2013) "Poverty Impedes Cognitive Function", *Science*, 341(6149), 976-980, https://doi.org/10.1126/science.1238041
-
-### 2.6.6 Optional reading
-
-Shah, Mullainathan and Shafir (2012) "Some Consequences of Having Too Little", *Science*, 338(6107), 682-685, https://doi.org/10.1126/science.1222426
-
 # 3. Consumption and savings
 
 In this chapter we will look at a series of facts about individual or household financial consumption and savings behaviour, examine where that behaviour is inconsistent with traditional economic explanations, and examine possible explanations that can account for the observed behaviour.
