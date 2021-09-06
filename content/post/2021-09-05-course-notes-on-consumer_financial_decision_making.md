@@ -1149,12 +1149,6 @@ One possible intervention to overcome this conflict is to require disclosure of 
 
 [Lowestein and colleagues (2011)](https://doi.org/10.1257/aer.101.3.423) provide a review of some of this evidence.
 
-### 9.3.1 Listen
-
-Sunitah Sah is interviewed on the [BETA podcast](https://soundcloud.com/webpmc/beta-podcast-when-conflict-of-interest-disclosures-backfire).
-
-{{< soundcloud 690830524 >}}
-
 ## 9.4 Regulation
 
 One direct means of improving financial decision making is through regulatory obligations placed upon financial service providers.
