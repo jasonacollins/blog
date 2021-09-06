@@ -730,11 +730,9 @@ Basic economic theory suggests that people invest to earn returns to maximise an
 
 In this chapter we will look at these "puzzles" where behaviour is inconsistent with traditional economic explanations, and examine possible explanations that can account for the observed behaviour.
 
-## 6.1 Investment puzzles
-
 Basic economic theory suggests that people invest to earn returns to maximise and smooth consumption. Given this basic objective, there are numerous "puzzles" present in the way that people actually behave.
 
-### 6.1.1 Low rates of stock market participation
+## 6.1 Low rates of stock market participation
 
 Australia has one of the highest rates of share market participation in the world ([Deloitte Access Economics (2017)](https://www.asx.com.au/documents/resources/2017-asx-investor-study.pdf)). In 2017, 37% of Australian adults held on-exchange investments. This level is a drop from over 50% in the early to mid-2000s, but above the 10% participation in many countries in Europe. Part of the reason for the high levels of Australian ownership is the large public offerings associated with the sale of public assets, including the Commonwealth Bank in 1991, Qantas in 1993 and Telstra in 1997.
 
@@ -752,7 +750,7 @@ There is also a link between stock market participation and knowledge. Those wit
 
 Finally, an assessment that more people should participate in the stock market has an implicit assumption that people will participate optimally, such as by buying a diversified portfolio. However, there is a risk that if they did invest in the stock market, they would exhibit many of the problems identified on this page, including a lack of diversification and overtrading. In practice, it might be better if some households stayed out. That is the topic of the next tab.
 
-### 6.1.2 Under-diversification
+## 6.2 Under-diversification
 
 Those who invest in shares often hold an undiversified portfolio. The median US household holds only two stocks directly. We also disproportionately hold stocks from our own country, with only 8% of Australians directly holding foreign shares.
 
@@ -776,7 +774,7 @@ Markowitz did not following the optimal behaviour as defined by himself. Was Mar
 
 Gerd Gigerenzer argues that optimisation is not always the best solution. Where a problem is computationally intractable or the optimisation solution lacks robustness due to estimation errors, heuristics may outperform. Gigerenzer notes work showing that 500 years of data would have been required for Markowitz’s optimisation rule to outperform his practice of 1/N. Markowitz was using a simple heuristic for an important decision, but rightfully so as it was superior for the environment in which he is making the decision.
 
-### 6.1.3 Poor trading performance
+## 6.3 Poor trading performance
 
 >**D**
 >
@@ -794,7 +792,7 @@ On average, the more people trade, the worse they perform ([O'Dean (1999)](https
 
 Those who believe they are better than others (overplace) trade more. There is mixed evidence in support of a link between overprecision and over-trading ([Barber and O'Dean (2001)](https://doi.org/10.1162/003355301556400)). There is also a difference by gender. Men trade more than women, and suffer a larger trading penalty as a result.
 
-### 6.1.4 Poor investment options
+## 6.4 Poor investment options
 
 One cheap, easy option to achieve stock market diversification is a low-cost managed fund. However, people hold individual stocks more often than you would expect given the diversification benefits of a fund. Then when they choose funds, they often choose actively managed funds,which typically underperform passively managed funds. And of those they choose, they pay high fees.
 
@@ -808,21 +806,19 @@ As you will recall, under the classical economic model, households purchase insu
 
 Information asymmetries such as adverse selection and moral hazard can lead to consumers not being able to insure some risks at an actuarially fair price. These often provide explanations for the failure of a consumer to smooth their consumption. However, explanations for many behaviours requires other tools.
 
-## 7.1 Insurance puzzles
-
-### 7.1.1 Life insurance and annuities
+## 7.1 Life insurance and annuities
 
 At the household level, the standard economic model predicts a household will purchase insurance to protect against the death of household members, particularly those that are the highest earning. This is not, however, the pattern that is observed. Households often insure spouses when they would suffer no decline in living standard were their spouse to die. They also often fail to insure when they would suffer a substantial decline.
 
 A similar puzzle exists around life annuities. A life annuity is a product that a consumer purchases through payment of a lump sum in return for a stream of income that lasts until they or the beneficiaries in the household dies. Life annuities protect against the risk of living too long and running out of assets. The fact that only 1% of US households over the age of 65 hold life annuities is often called the "annuity puzzle".
 
-**Rational explanations**
+### 7.1.1 Rational explanations
 
 There are some rational explanations for this puzzle. Life annuities are often priced poorly and offer low yields relative to alternative investments. Public pensions already provide protection against longevity risk. There are also arguments that many people have bequest motives, which life annuities cannot satisfy as they only have value while the annuity holder is alive. Finally, annuities are a poor option if there are other uninsurable risks in the future, such as medical costs, which will require access to lump sums rather than an income stream.
 
 All of these are likely factors, although the evidence that people are responsive to prices is weak.
 
-**Psychological explanations**
+### 7.1.2 **Psychological explanations**
 
 The link between financial literacy and insurance through annuities is complex and debated. The decision to annuitise is complex, although the decisions required through alternative options such as maintaining assets and determining drawdown requirements each period are possibly more difficult. The result is that in different contexts low financial literacy has been linked to both lower and higher rates of annuitision.
 
@@ -830,13 +826,13 @@ The choice of annuities is sensitive to the frame. When consumers were told abou
 
 Loss aversion can also make annuities unattractive, as the possibility of an early death might be seen as a potential loss ([Brown et al (2016)](https://doi.org/10.1111/j.1539-6975.2013.12004.x)). The future income stream is "lost" in the event of death.
 
-### 7.1.2 Under-insurance
+## 7.2 Under-insurance
 
 Households often fail to insure against catastrophic risks to their property, and when they do, they often under-insure against the full extent of the catastrophe. For example, [Quantum Market Research (2014)](https://understandinsurance.com.au/assets/research/ICA%20Understand%20Home%20Insurance_Report.pdf) found that 81% of homeowners and renters do not have insurance that enables them to resume the same standard of living in the event of a crisis.
 
 While some of this failure to fully insure is rational, due to the small maximum possible loss, the main explanation for this under-insurance is simply that households underestimate the probability of a large loss. They also do little to understand the extent of the risk.
 
-### 7.1.3 Low excess
+## 7.3 Low excess
 
 Once households do insure they often over-insure against small losses. They do this by choosing low levels of deductibles, also called "excess". Excess is the amount the policy holder must contribute in the event of a claim. Excess is designed to reduced moral hazard through sharing risk, and administration costs by reducing the number of claims.
 
@@ -848,7 +844,7 @@ Another element of prospect theory, however, can increase the attractiveness of 
 
 If you remember the four-fold pattern of risk attitudes generated by [prospect theory](/prospect-theory), insurance is a combination of low probability and potentially large loss. In that schema, a person will be on net risk averse and seek to insure.
 
-### 7.1.4 Junk insurance
+## 7.4 Junk insurance
 
 People regularly buy insurance with limited value.
 
@@ -862,7 +858,7 @@ A major issue was understanding the products. Many people were ineligible to eve
 
 Another factor is the attention of the customers. They are primarily engaged in obtaining a credit card or loan at the time of purchasing the insurance. The add-on insurance is an immaterial part of the overall purchase, so receives little attention or scrutiny. There is also little opportunity for the consumer to shop around or compare prices.
 
-### 7.1.5 Evidence of adverse selection and moral hazard
+## 7.5 Evidence of adverse selection and moral hazard
 
 [Adverse selection](/insuring-against-loss/) emerges where there is an information asymmetry between the insurer and potential customer about what type of customer is seeking insurance. Only high-risk customers buy coverage, whereas low-risk customers find the pricing unattractive.
 
