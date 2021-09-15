@@ -12,11 +12,11 @@ In my previous posts on loss aversion ([here](https://jasoncollins.blog/kahneman
 
 The below is largely drawn from presentations and papers by [Ole Peters](https://ergodicityeconomics.com/) and [friends](http://lml.org.uk/research/economics/), with my own evolutionary take at the end. For a deeper dive, see the [lecture notes by Peters and Alexander Adamou](https://ergodicityeconomics.com/lecture-notes/), or a recent [Perspective by Peters in Nature Physics](https://doi.org/10.1038/s41567-019-0732-0).
 
-## The choice
+## 1. The choice
 
 Suppose you have \$100 and are offered a gamble involving a series of coin flips. For each flip, heads will increase your wealth by 50%. Tails will decrease it by 40%. Flip 100 times.
 
-## The expected payoff
+## 2. The expected payoff
 
 What will happen? For that first flip, you have a 50% chance of a \$50 gain, and a 50% chance of a \$40 loss. Your expected gain (each outcome weighted by its probability, 0.5\*50 + 0.5\*-40) is \$5 or 5% of your wealth. The absolute size of the stake for future flips will depend on past flips, but for every flip you have the same expected gain of 5% of your wealth.
 
@@ -35,7 +35,7 @@ Risk aversion can be represented through the concept of utility, where each leve
 
 For example, one common utility function to represent a risk averse individual is the logarithm of their wealth. If we apply the log utility function to the gamble above, the gambler will reject the offer of the coin flip. [The maths here is simply that the expected utility of the gamble is 0.5\**ln*(150) + 0.5\**ln*(60)=4.55, which is less than the utility of the sure \$100, *ln*(100)=4.61.]
 
-## The time average growth rate
+## 3. The time average growth rate
 
 For a different perspective, below is the plot for the first 20 of these 10,000 people. Interestingly, only two people do better than break even (represented by the black line at \$100). The richest has less than \$1,000 at period 100.
 
@@ -53,7 +53,7 @@ If we examine the full population of 10,000, we see an interesting pattern. The 
 
 For most people, the series of bets is a disaster. It looks good only on average, propped up by the extreme good luck and massive wealth of a few people. The expected payoff does not match the experience of most people.
 
-### Four possible outcomes
+### 3.1 Four possible outcomes
 
 One way to think about what is happening is to consider the four possible outcomes over the first two periods.
 
@@ -61,7 +61,7 @@ The first person gets two heads. They finish with \$225. The second and third pe
 
 The average across the four is \$110.25, reflecting the compound 5% growth. That's our positive picture. But three of the four lost money. As the number of flips increases, the proportion who lose money increases, with a rarer but more extraordinarily rich cohort propping up the average.
 
-### Almost surely
+### 3.2 Almost surely
 
 Over the very long-term, an individual will tend to get around half heads and half tails. As the number of flips goes to infinite, the proportion of heads or tails "[almost surely](https://en.wikipedia.org/wiki/Almost_surely)" converges to 0.5.
 
@@ -71,7 +71,7 @@ To get an intuition for this, a long run of equal numbers of heads and tails is 
 
 A system where the time average converges to the ensemble average (our population mean) is known as an ergodic system. The system of gambles above is non-ergodic as the time average and the ensemble average diverge. And given we cannot individually experience the ensemble average, we should not be misled by it. The focus on ensemble averages, as is typically done in economics, can be misleading if the system is non-ergodic.
 
-### The longer term
+### 3.3 The longer term
 
 How can we reconcile this expectation of loss when looking at the time average growth with the continued growth of the wealth of some people after 100 periods? It does not seem that everyone is "almost surely" on the path to ruin.
 
@@ -85,7 +85,7 @@ _Figure 5: Plot of average wealth over 1000 periods (log plot)_
 
 We can see that despite a large peak in wealth around period 400, wealth ultimately plummets. Average wealth at period 1000 is \$24, below the starting average of \$100, with a median wealth of 1x10<sup>-21</sup> (rounding to the nearest cent, that is zero). The wealthiest person has \$242 thousand dollars, with that being 98.5% of the total wealth. If we followed that wealthy person for another 1000 generations, I would expect them to be wiped out too. [I tested that - at 2000 periods the wealthiest person had \$4x10<sup>-7</sup>.] Despite the positive expected value, the wealth of the entire population is wiped out.
 
-## Losing wealth on a positive value bet
+## 4. Losing wealth on a positive value bet
 
 The first 100 periods of bets forces us to hold a counterintuitive idea in our minds. While the population as an aggregate experiences outcomes reflecting the positive expected value of the bet, the typical person does not. The increase in wealth across the aggregate population is only due to the extreme wealth of a few lucky people.
 
@@ -93,7 +93,7 @@ However, the picture over 1000 periods appears even more confusing. The positive
 
 The answer to this lies in the distribution of bets. After 100 periods, one person had 70% of the wealth. We no longer have 10,000 equally weighted independent bets as we did in the first round. Instead, the path of the wealth of the population is largely subject to the outcome of the bets by this wealthy individual. As we have already shown, the wealth path for an individual almost surely leads to a compound 5% loss of wealth. That individual's wealth is on borrowed time. The only way for someone to maintain their wealth would be to bet a smaller portion of their wealth, or to diversify their wealth across multiple bets.
 
-## The Kelly criterion
+## 5. The Kelly criterion
 
 On the first of these options, the portion of a person's wealth they should enter as stakes for a positive expected value bet such as this is given by the [Kelly Criterion](https://en.m.wikipedia.org/wiki/Kelly_criterion). The Kelly criterion gives the bet size that would maximise the geometric growth rate in wealth.
 
@@ -155,7 +155,7 @@ Applying this formula to the original bet at the beginning of this post, *a*=0.4
 
 This new formulation of the Kelly criterion gives the same recommendation as the former, but refers to different baselines. In the first case, the optimal bet is 10% of your wealth, which provides for a potential win of 12.5%. In the second case, you invest 25% of your wealth to possibly get a 50% return (12.5% of your wealth) or lose 40% of your investment (40% of 25% which is 10%). Despite the same effective recommendation, in one case you talk of *f* being 10%, and in the second 25%.
 
-## Evolving preferences
+## 6. Evolving preferences
 
 Suppose two types of agent lived in this non-ergodic world and their [fitness](https://en.wikipedia.org/wiki/Fitness_(biology)) was dependent on the outcome of the 50:50 bet for a 50% gain or 40% loss. One type always accepted the bet, the other always rejected it. Which would come to dominate the population?
 
@@ -182,11 +182,11 @@ For a replicating entity that is able to diversify future bets across many offsp
 
 There are a lot of wrinkles that could be thrown into this simulation. How many bets does someone have to make before they reproduce and effectively diversify their future? The more bets, the higher the chance of a poor end. There is also the question of whether bets by children would be truly independent (Imagine a highly-related tribe).
 
-## Risk and loss aversion in ergodicity economics
+## 7. Risk and loss aversion in ergodicity economics
 
 In my [next post on this topic](https://jasoncollins.blog/risk-and-loss-aversion-in-ergodicity-economics) I ask whether, given the above, we need risk and loss aversion to explain our choices.
 
-## Code
+## 8. Code
 
 Below is the R code used for generation of the simulations and figures.
 

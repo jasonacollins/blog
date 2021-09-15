@@ -1189,172 +1189,172 @@ The rule-of-thumb training improved their financial practices and revenues. Amon
 
 # 10. References
 
-Adams et al (2020) "Household Wealth prior to COVID-19: Evidence from the 2018 HILDA Survey", *RBA Bulletin - June 2020*, https://www.rba.gov.au/publications/bulletin/2020/jun/household-wealth-prior-to-covid-19-evidence-from-the-2018-hilda-survey.html
+Adams et al (2020) ["Household Wealth prior to COVID-19: Evidence from the 2018 HILDA Survey"](https://www.rba.gov.au/publications/bulletin/2020/jun/household-wealth-prior-to-covid-19-evidence-from-the-2018-hilda-survey.html), *RBA Bulletin - June 2020*
 
-Agnew et al. (2018) "First impressions matter: an experimental investigation of online financial advice", *Management Science*, 64(1), 288–307, https://doi.org/10.1287/mnsc.2016.2590
+Agnew et al. (2018) ["First impressions matter: an experimental investigation of online financial advice"](https://doi.org/10.1287/mnsc.2016.2590), *Management Science*, 64(1), 288–307
 
-Alan et al. (2016) "Unshrouding Effects on Demand for a Costly Add-on: Evidence from Bank Overdrafts in Turkey", *NBER Working Paper* No 20956, https://doi.org/10.3386/w20956
+Alan et al. (2016) ["Unshrouding Effects on Demand for a Costly Add-on: Evidence from Bank Overdrafts in Turkey"](https://doi.org/10.3386/w20956), *NBER Working Paper* No 20956
 
-Ang et al. (2005) "Why Stocks may Disappoint", *Journal of Financial Economics*, 76(3), 471-508, https://doi.org/10.1016/j.jfineco.2004.03.009
+Ang et al. (2005) ["Why Stocks may Disappoint"](https://doi.org/10.1016/j.jfineco.2004.03.009), *Journal of Financial Economics*, 76(3), 471-508
 
-Anonymous (2021) "[98] Evidence of Fraud in an Influential Field Experiment About Dishonesty", Data Colada, https://datacolada.org/98
+Anonymous (2021) ["[98] Evidence of Fraud in an Influential Field Experiment About Dishonesty"](https://datacolada.org/98), Data Colada
 
 Ariely and Kreisler (2017) *Dollars and Sense: Money Mismaps and How to Avoid Them*, Bluebird, London
 
-Armstrong and Vickers (2012) "Consumer Protection and Contingent Charges", *Journal of Economic Literature*, 50(2), 477-493, https://doi.org/10.1257/jel.50.2.477
+Armstrong and Vickers (2012) ["Consumer Protection and Contingent Charges"](https://doi.org/10.1257/jel.50.2.477), *Journal of Economic Literature*, 50(2), 477-493
 
-Australian Competition and Consumer Commission (2020) *Home loan price inquiry - interim report*, https://www.accc.gov.au/focus-areas/inquiries-ongoing/home-loan-price-inquiry/interim-report
+Australian Competition and Consumer Commission (2020) [*Home loan price inquiry - interim report*](https://www.accc.gov.au/focus-areas/inquiries-ongoing/home-loan-price-inquiry/interim-report)
 
-Australian Securities and Investments Commission (2012) "Shadow shopping study of retirement advice", *Report 279*, March 2012, https://download.asic.gov.au/media/1343876/rep279-published-27-March-2012.pdf
+Australian Securities and Investments Commission (2012) ["Shadow shopping study of retirement advice"](https://download.asic.gov.au/media/1343876/rep279-published-27-March-2012.pdf), *Report 279*, March 2012
 
-Australian Securities and Investments Commission (2019) *Looking for a mortgage: Consumer experiences and expectations in getting a home loan*, Report 626, https://download.asic.gov.au/media/5249601/rep628-published-29-august-2019.pdf
+Australian Securities and Investments Commission (2019) [*Looking for a mortgage: Consumer experiences and expectations in getting a home loan*](https://download.asic.gov.au/media/5249601/rep628-published-29-august-2019.pdf), Report 626
 
-Australian Securities and Investments Commission (2019a) *Consumer credit insurance: Poor value products and harmful sales practices*, Report 622, July 2019, https://asic.gov.au/regulatory-resources/find-a-document/reports/rep-622-consumer-credit-insurance-poor-value-products-and-harmful-sales-practices/
+Australian Securities and Investments Commission (2019a) [*Consumer credit insurance: Poor value products and harmful sales practices*](https://asic.gov.au/regulatory-resources/find-a-document/reports/rep-622-consumer-credit-insurance-poor-value-products-and-harmful-sales-practices/), Report 622, July 2019
 
-Australian Securities and Investments Commission and EY Sweeney (2018) *Australian Financial Attitudes and Behaviour Tracker, Wave 6*, https://financialcapability.gov.au/files/afab-tracker_wave-6-key-findings.pdf
+Australian Securities and Investments Commission and EY Sweeney (2018) [*Australian Financial Attitudes and Behaviour Tracker, Wave 6*](https://financialcapability.gov.au/files/afab-tracker_wave-6-key-findings.pdf)
 
-Barber and O'Dean (2000) Trading Is Hazardous to Your Wealth: The Common Stock Investment Performance of Individual Investors, *Journal of Finance*, 55(2), 773-806, https://doi.org/10.1111/0022-1082.00226
+Barber and O'Dean (2000) ["Trading Is Hazardous to Your Wealth: The Common Stock Investment Performance of Individual Investors"](https://doi.org/10.1111/0022-1082.00226), *Journal of Finance*, 55(2), 773-806
 
-Barber and O'Dean (2001) "Boys will be Boys: Gender, Overconfidence, and Common Stock Investment", *The Quarterly Journal of Economics*, 116(1), 261-292, https://doi.org/10.1162/003355301556400
+Barber and O'Dean (2001) ["Boys will be Boys: Gender, Overconfidence, and Common Stock Investment"](https://doi.org/10.1162/003355301556400), *The Quarterly Journal of Economics*, 116(1), 261-292
 
-Bateman et al (2015) "As easy as pie: How retirement savers use prescribed investment disclosures", *Journal of Economic Behavior & Organization*, 121, 60–76, https://doi.org/10.1016/j.jebo.2015.10.020
+Bateman et al (2015) ["As easy as pie: How retirement savers use prescribed investment disclosures"](https://doi.org/10.1016/j.jebo.2015.10.020), *Journal of Economic Behavior & Organization*, 121, 60–76
 
-Benartzi and Thaler (1995) "Myopic loss aversion and the equity premium puzzle", *Quarterly Journal of Economics*, 110(1), 73–92, https://doi.org/10.2307/2118511
+Benartzi and Thaler (1995) ["Myopic loss aversion and the equity premium puzzle"](https://doi.org/10.2307/2118511), *Quarterly Journal of Economics*, 110(1), 73–92
 
-Bertrand and Morse (2011) "Information Disclosure, Cognitive Biases,and Payday Borrowing", *The Journal of Finance*, 66(6), 1865-1893, https://doi.org/10.1111/j.1540-6261.2011.01698.x
+Bertrand and Morse (2011) ["Information Disclosure, Cognitive Biases,and Payday Borrowing"](https://doi.org/10.1111/j.1540-6261.2011.01698.x), *The Journal of Finance*, 66(6), 1865-1893
 
-Bertrand and Morse (2016) "Trickle-Down Consumption", *The Review of Economics and Statistics*, 98(5), 863-879, https://doi.org/10.1162/REST_a_00613
+Bertrand and Morse (2016) ["Trickle-Down Consumption"](https://doi.org/10.1162/REST_a_00613), *The Review of Economics and Statistics*, 98(5), 863-879
 
-Beshears et al. (2015) "Self Control and Commitment: Can Decreasing the Liquidity of a Savings Account Increase Deposits?", *NBER Working Paper* No 21474, https://www.nber.org/papers/w21474
+Beshears et al. (2015) ["Self Control and Commitment: Can Decreasing the Liquidity of a Savings Account Increase Deposits?"](https://www.nber.org/papers/w21474), *NBER Working Paper* No 21474
 
-Beshears et al (2018) "Behavioral Household Finance" in Bernheim et al (eds), Handbook of Behavioral Economics - Foundations and Applications 1, North Holland, Amsterdam, https://doi.org/10.1016/bs.hesbe.2018.07.004
+Beshears et al (2018) ["Behavioral Household Finance"](https://doi.org/10.1016/bs.hesbe.2018.07.004) in Bernheim et al (eds), Handbook of Behavioral Economics - Foundations and Applications 1, North Holland, Amsterdam
 
-BETA (2019) "Credit when it’s due: Timely reminders help consumers reduce their credit card debt", https://behaviouraleconomics.pmc.gov.au/sites/default/files/projects/credit-cards-final-report-accessible.pdf
+BETA (2019) ["Credit when it’s due: Timely reminders help consumers reduce their credit card debt"](ttps://behaviouraleconomics.pmc.gov.au/sites/default/files/projects/credit-cards-final-report-accessible.pdf)
 
-Bhutta et al (2016) "Consumer Borrowing after Payday Loan Bans", *The Journal of Law and Economics*, 59(1), https://doi.org/10.1086/686033
+Bhutta et al (2016) ["Consumer Borrowing after Payday Loan Bans"](https://doi.org/10.1086/686033), *The Journal of Law and Economics*, 59(1)
 
-Bower (2011) "Simple heresy - Rules of thumb challenge complex financial analyses", *Science News*, 179(12), 26-29, https://doi.org/10.1002/scin.5591791221
+Bower (2011) ["Simple heresy - Rules of thumb challenge complex financial analyses"](https://doi.org/10.1002/scin.5591791221), *Science News*, 179(12), 26-29
 
-Brown et al. (2016) "Framing and claiming: how information-framing affects expected social security claiming behavior", *Journal of Risk and Insurance*, 83(1), 139–162, https://doi.org/10.1111/j.1539-6975.2013.12004.x
+Brown et al. (2016) ["Framing and claiming: how information-framing affects expected social security claiming behavior"](https://doi.org/10.1111/j.1539-6975.2013.12004.x), *Journal of Risk and Insurance*, 83(1), 139–162
 
-Buell and Choi (2019) "Improving Customer Compatibility with Operational Transparency", *Harvard Business School Working Paper*, No. 20-013, July 2019, https://www.hbs.edu/faculty/Pages/item.aspx?num=56465
+Buell and Choi (2019) ["Improving Customer Compatibility with Operational Transparency"](https://www.hbs.edu/faculty/Pages/item.aspx?num=56465), *Harvard Business School Working Paper*, No. 20-013, July 2019
 
-Cain, Loewenstein and Moore (2005) "The dirt on coming clean: perverse effects of disclosing conflicts of interest", *Journal of Legal Studies*, 34(1), 1–25, https://doi.org/10.1086/426699
+Cain, Loewenstein and Moore (2005) ["The dirt on coming clean: perverse effects of disclosing conflicts of interest"](https://doi.org/10.1086/426699), *Journal of Legal Studies*, 34(1), 1–25
 
-Camerer et al (2018) "Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015", *Nature Human Behaviour*, 2, 637-644, https://doi.org/10.1038/s41562-018-0399-z
+Camerer et al (2018) ["Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015"](https://doi.org/10.1038/s41562-018-0399-z), *Nature Human Behaviour*, 2, 637-644
 
-Carvalho, Meier and Wang (2016) "Poverty and Economic Decision-Making: Evidence from Changes in Financial Resources at Payday", *American Economic Review*, 106 (2), 260-84, https://doi.org/10.1257/aer.20140481
+Carvalho, Meier and Wang (2016) ["Poverty and Economic Decision-Making: Evidence from Changes in Financial Resources at Payday"](https://doi.org/10.1257/aer.20140481), *American Economic Review*, 106 (2), 260-84
 
-Cawley and Philipson (1999) "An empirical examination of information barriers to trade in insurance", *American Economic Review*, 89, 827-46, https://doi.org/10.1257/aer.89.4.827
+Cawley and Philipson (1999) ["An empirical examination of information barriers to trade in insurance"](https://doi.org/10.1257/aer.89.4.827), *American Economic Review*, 89, 827-46
 
-Choi et al (2009) "Why Does the Law of One Price Fail? An Experiment on Index Mutual Funds", *The Review of Financial Studies*, 23(4), 1405-1432, https://doi.org/10.1093/rfs/hhp097
+Choi et al (2009) ["Why Does the Law of One Price Fail? An Experiment on Index Mutual Funds"](https://doi.org/10.1093/rfs/hhp097), *The Review of Financial Studies*, 23(4), 1405-1432
 
-Cohen (2005) "Asymmetric information and learning: Evidnece from the automobile insurance market", *Review of Economics and Statistics*, 87, 197-207, https://doi.org/10.1162/0034653053970294
+Cohen (2005) ["Asymmetric information and learning: Evidnece from the automobile insurance market"](https://doi.org/10.1162/0034653053970294), *Review of Economics and Statistics*, 87, 197-207
 
-Consumer Financial Protection Bureau (2017) *CFPB Financial Wellbeing Scale - Scale development technical report*, https://files.consumerfinance.gov/f/documents/201705_cfpb_financial-well-being-scale-technical-report.pdf
+Consumer Financial Protection Bureau (2017) [*CFPB Financial Wellbeing Scale - Scale development technical report*](https://files.consumerfinance.gov/f/documents/201705_cfpb_financial-well-being-scale-technical-report.pdf)
 
-Deloitte Access Economics (2017) *ASX Australian Investor Study 2017*, https://www.asx.com.au/documents/resources/2017-asx-investor-study.pdf
+Deloitte Access Economics (2017) [*ASX Australian Investor Study 2017*](https://www.asx.com.au/documents/resources/2017-asx-investor-study.pdf)
 
-Drexler, Fischer and Schoar (2014) "Keeping It Simple: Financial Literacy and Rules of Thumb", *American Economic Journal: Applied Economics*, 6(2), 1-31, https://doi.org/10.1257/app.6.2.1
+Drexler, Fischer and Schoar (2014) ["Keeping It Simple: Financial Literacy and Rules of Thumb"](https://doi.org/10.1257/app.6.2.1), *American Economic Journal: Applied Economics*, 6(2), 1-31
 
-Elman (1993) "Learning and development in neural networks: the importance of starting small", *Cognition*, 48(1), 71-99, https://doi.org/10.1016/0010-0277(93)90058-4
+Elman (1993) ["Learning and development in neural networks: the importance of starting small"](https://doi.org/10.1016/0010-0277(93)90058-4), *Cognition*, 48(1), 71-99
 
-Erta et al (2013) "Applying behavioural economics at the Financial Conduct Authority", *Financial Conduct Authority Occasional Paper No 1*, https://www.fca.org.uk/publication/occasional-papers/occasional-paper-1.pdf
+Erta et al (2013) ["Applying behavioural economics at the Financial Conduct Authority", *Financial Conduct Authority Occasional Paper No 1*](https://www.fca.org.uk/publication/occasional-papers/occasional-paper-1.pdf)
 
-Fang et al (2008) "Sources of Advantageous Selection: Evidence from the Medigap Insurance Market", Journal of Political Economy, 116(2), 303-350, https://doi.org/10.1086/587623
+Fang et al (2008) ["Sources of Advantageous Selection: Evidence from the Medigap Insurance Market"](https://doi.org/10.1086/587623), Journal of Political Economy, 116(2), 303-350
 
-Fernandes, Lynch and Netemeyer (2014) "Financial Literacy, Financial Education, and Downstream Financial Behaviors", *Management Science*, 60(8), 1861-2109, https://doi.org/10.1287/mnsc.2013.1849
+Fernandes, Lynch and Netemeyer (2014) ["Financial Literacy, Financial Education, and Downstream Financial Behaviors"](https://doi.org/10.1287/mnsc.2013.1849), *Management Science*, 60(8), 1861-2109
 
-Friedman (1957) "The Permanent Income Hypothesis" in Friedman, *A Theory of the Consumption Function*, Princeton University Press, https://www.nber.org/chapters/c4405.pdf
+Friedman (1957) ["The Permanent Income Hypothesis"](https://www.nber.org/chapters/c4405.pdf) in Friedman, *A Theory of the Consumption Function*, Princeton University Press
 
-Friedman (1957a) "Consistency of the Permanent Income Hypothesis with Existing Evidence on the Relation between Consumption and Income: Time Series Data" in Friedman, *A Theory of the Consumption Function*, Princeton University Press, https://www.nber.org/chapters/c4407
+Friedman (1957a) ["Consistency of the Permanent Income Hypothesis with Existing Evidence on the Relation between Consumption and Income: Time Series Data"](https://www.nber.org/chapters/c4407) in Friedman, *A Theory of the Consumption Function*, Princeton University Press
 
-Gathergood (2012) "Self-control, financial literacy and consumer over-indebtedness", *Journal of Economic Psychology*, 33(3), 590-602, https://doi.org/10.1016/j.joep.2011.11.006
+Gathergood (2012) ["Self-control, financial literacy and consumer over-indebtedness"](https://doi.org/10.1016/j.joep.2011.11.006), *Journal of Economic Psychology*, 33(3), 590-602
 
-Gathergood and Weber (2014) "Self-control, financial literacy & the co-holding puzzle", *Journal of Economic Behavior & Organization*, 107, 455-469, https://doi.org/10.1016/j.jebo.2014.04.018
+Gathergood and Weber (2014) ["Self-control, financial literacy & the co-holding puzzle"](https://doi.org/10.1016/j.jebo.2014.04.018), *Journal of Economic Behavior & Organization*, 107, 455-469
 
-Gurun et al (2016) "Advertising Expensive Mortgages", *The Journal of Finance*, 71(5), https://doi.org/10.1111/jofi.12423
+Gurun et al (2016) ["Advertising Expensive Mortgages"](https://doi.org/10.1111/jofi.12423), *The Journal of Finance*, 71(5)
 
-Hastings et al (2017) "Sales Force and Competition in Financial Product Markets: The Case of Mexico's Social Security Privatization", *Econometrica*, 85(6), 1723-1761, https://doi.org/10.3982/ECTA12302
+Hastings et al (2017) ["Sales Force and Competition in Financial Product Markets: The Case of Mexico's Social Security Privatization"](https://doi.org/10.3982/ECTA12302), *Econometrica*, 85(6), 1723-1761
 
-Hsee et al (2003) "Medium Maximization", *The Journal of Consumer Research*, 30(1), 1-14, https://doi.org/10.1086/374702
+Hsee et al (2003) ["Medium Maximization"](https://doi.org/10.1086/374702), *The Journal of Consumer Research*, 30(1), 1-14
 
-Iscenko et al (2014) "How does selling insurance as an add-on affect consumer decisions? A practical application of behavioural experiments in financial regulation", *Financial Conduct Authority Occasional Paper* No. 3, https://www.fca.org.uk/publication/occasional-papers/occasional-paper-3.pdf
+Iscenko et al (2014) ["How does selling insurance as an add-on affect consumer decisions? A practical application of behavioural experiments in financial regulation"](https://www.fca.org.uk/publication/occasional-papers/occasional-paper-3.pdf), *Financial Conduct Authority Occasional Paper* No. 3
 
 Kahneman (2011) *Thinking, Fast and Slow*, Penguin Random House UK
 
-Kahneman and Tversky (1979) "Prospect Theory: An Analysis of Decision under Risk", *Econometrica*, 47(2), 263–291, https://doi.org/10.2307/1914185
+Kahneman and Tversky (1979) ["Prospect Theory: An Analysis of Decision under Risk"](https://doi.org/10.2307/1914185), *Econometrica*, 47(2), 263–291
 
-Kahneman and Tversky (1984) "Choices, Values and Frames", *American Psychologist*, 39(4), 341-350, hhttps://doi.org/10.1037%2F0003-066X.39.4.341
+Kahneman and Tversky (1984) ["Choices, Values and Frames"](hhttps://doi.org/10.1037%2F0003-066X.39.4.341), *American Psychologist*, 39(4), 341-350
 
-Kaiser et al (2020) "Financial Education Affects Financial Knowledge and Downstream Behaviors", *NBER Working Paper* No 27057, https://doi.org/10.3386/w27057
+Kaiser et al (2020) ["Financial Education Affects Financial Knowledge and Downstream Behaviors"](https://doi.org/10.3386/w27057), *NBER Working Paper* No 27057
 
-Knutson et al (2007) "Neural predictors of purchases", *Neuron*, 53(1), 147-156, https://dx.doi.org/10.1016%2Fj.neuron.2006.11.010
+Knutson et al (2007) ["Neural predictors of purchases"](https://dx.doi.org/10.1016%2Fj.neuron.2006.11.010), *Neuron*, 53(1), 147-156
 
-Kőszegi and Rabin (2006) "A model of reference-depdendent preferences", *The Quarterly Journal of Economics*, 121, 1133-1165, https://doi.org/10.1093/qje/121.4.1133
+Kőszegi and Rabin (2006) ["A model of reference-depdendent preferences"](https://doi.org/10.1093/qje/121.4.1133), *The Quarterly Journal of Economics*, 121, 1133-1165
 
-Kristal et al. (2020) "Signing at the beginning versus at the end does not decrease dishonesty", *PNAS*, 117(13), 7103-7107, https://doi.org/10.1073/pnas.1911695117
+Kristal et al. (2020) ["Signing at the beginning versus at the end does not decrease dishonesty"](https://doi.org/10.1073/pnas.1911695117), *PNAS*, 117(13), 7103-7107
 
-Kristal et al. (2020a) "When We’re Wrong, It’s Our Responsibility as Scientists to Say So", *Scientific American*, https://blogs.scientificamerican.com/observations/when-were-wrong-its-our-responsibility-as-scientists-to-say-so/
+Kristal et al. (2020a) ["When We’re Wrong, It’s Our Responsibility as Scientists to Say So"](https://blogs.scientificamerican.com/observations/when-were-wrong-its-our-responsibility-as-scientists-to-say-so/), *Scientific American*
 
 Kunreuther et al (2013) *Insurance and Behavioral Economics: Improving Decisions in the Most Misunderstood Industry*, Cambridge University Press
 
-Linnainmaa, Melzer and Previtero (2018) "The Misguided Beliefs of Financial Advisors", *Kelley School of Business Research Paper*, No. 18-9, https://doi.org/10.2139/ssrn.3101426
+Linnainmaa, Melzer and Previtero (2018) ["The Misguided Beliefs of Financial Advisors"](https://doi.org/10.2139/ssrn.3101426), *Kelley School of Business Research Paper*, No. 18-9
 
-Loewenstein, Cain and Sah (2011) "The limits of transparency: pitfalls and potential of disclosing conflicts of interest", *American Economic Review: Papers & Proceedings*, 101(3), 423–428, https://doi.org/10.1257/aer.101.3.423
+Loewenstein, Cain and Sah (2011) ["The limits of transparency: pitfalls and potential of disclosing conflicts of interest"](https://doi.org/10.1257/aer.101.3.423), *American Economic Review: Papers & Proceedings*, 101(3), 423–428
 
-Lusardi and Mitchell (2014) "The Economic Importance of Financial Literacy: Theory and Evidence", *Journal of Economic Literature*, 52(1), 5-44. https://doi.org/10.1257/jel.52.1.5
+Lusardi and Mitchell (2014) ["The Economic Importance of Financial Literacy: Theory and Evidence"](https://doi.org/10.1257/jel.52.1.5), *Journal of Economic Literature*, 52(1), 5-44
 
-Lusardi and Scheresberg (2013) "Financial Literacy and High-Cost Borrowing in the United States", *NBER Working Paper* No. 18969, https://www.nber.org/papers/w18969
+Lusardi and Scheresberg (2013) ["Financial Literacy and High-Cost Borrowing in the United States"](https://www.nber.org/papers/w18969), *NBER Working Paper* No. 18969
 
-Madrian and Shea (2001) "The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior", *The Quarterly Journal of Economics*, 116(4), 1149-1187, https://doi.org/10.2307/2696456
+Madrian and Shea (2001) ["The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior"](https://doi.org/10.2307/2696456), *The Quarterly Journal of Economics*, 116(4), 1149-1187
 
 Malkiel (2020) *A Random Walk Down Wall Street, 14th edition*, W.W. Norton & Company Inc, New York
 
-Mani et al (2013) "Poverty Impedes Cognitive Function", *Science*, 341(6149), 976-980, https://doi.org/10.1126/science.1238041
+Mani et al (2013) ["Poverty Impedes Cognitive Function"](https://doi.org/10.1126/science.1238041), *Science*, 341(6149), 976-980
 
-Mani et al (2013a) "Response to Comment on "Poverty Impedes Cognitive Function"", *Science*, 342(6163), 1169 https://doi.org/10.1126/science.1246799
+Mani et al (2013a) ["Response to Comment on "Poverty Impedes Cognitive Function""](https://doi.org/10.1126/science.1246799), *Science*, 342(6163), 1169
 
-Mazar et al. (2008) "The Dishonesty of Honest People: A Theory of Self-Concept Maintenance", *Journal of Marketing Research*, 45(6), 633-644, https://doi.org/10.1509%2Fjmkr.45.6.633
+Mazar et al. (2008) ["The Dishonesty of Honest People: A Theory of Self-Concept Maintenance"](https://doi.org/10.1509%2Fjmkr.45.6.633), *Journal of Marketing Research*, 45(6), 633-644
 
-Meier and Sprenger (2010) "Present-Biased Preferences and Credit Card Borrowing", *American Economic Journal: Applied Economics*, 2(1), 193–210, https://doi.org/10.1257/app.2.1.193
+Meier and Sprenger (2010) ["Present-Biased Preferences and Credit Card Borrowing"](https://doi.org/10.1257/app.2.1.193), *American Economic Journal: Applied Economics*, 2(1), 193–210
 
-Muir et al (2017) *Exploring Financial Wellbeing in the Australian Context*, Centre for Social Impact & Social Policy Research Centre –University of New South Wales Sydney, for Financial Literacy Australia, https://www.csi.edu.au/media/Exploring_Financial_Wellbeing_in_the_Australian_Context_Final_Report.pdf 
+Muir et al (2017) [*Exploring Financial Wellbeing in the Australian Context*](https://www.csi.edu.au/media/Exploring_Financial_Wellbeing_in_the_Australian_Context_Final_Report.pdf), Centre for Social Impact & Social Policy Research Centre –University of New South Wales Sydney, for Financial Literacy Australia 
 
-Mullainathan, Noeth and Schoar, (2012) "The Market for Financial Advice: An Audit Study", *National Bureau of Economic Research* Working Paper 17929, https://doi.org/10.3386/w17929
+Mullainathan, Noeth and Schoar, (2012) ["The Market for Financial Advice: An Audit Study"](https://doi.org/10.3386/w17929), *National Bureau of Economic Research* Working Paper 17929
 
 Mullainathan and Shafir (2013) *Scarcity: Why Having Too Little Means So Much*, Penguin Books, London
 
-O'Dean (1999) "Do Investors Trade Too Much", *The American Economic Review*, 89(5), 1279-1298, https://doi.org/10.1257/aer.89.5.1279
+O'Dean (1999) ["Do Investors Trade Too Much"](https://doi.org/10.1257/aer.89.5.1279), *The American Economic Review*, 89(5), 1279-1298
 
-Prelec and Simester (2001) "Always Leave Home Without It: A Further Investigation of the Credit-Card Effect on Willingness to Pay", *Marketing Letters*, 12(1), 5-12, https://doi.org/10.1023/A:1008196717017
+Prelec and Simester (2001) ["Always Leave Home Without It: A Further Investigation of the Credit-Card Effect on Willingness to Pay"](https://doi.org/10.1023/A:1008196717017), *Marketing Letters*, 12(1), 5-12
 
-Quantum Market Research (2014) *Understand Home Insurance Research Report, Prepared for Insurance Council of Australia*, https://understandinsurance.com.au/assets/research/ICA%20Understand%20Home%20Insurance_Report.pdf
+Quantum Market Research (2014) [*Understand Home Insurance Research Report, Prepared for Insurance Council of Australia*](https://understandinsurance.com.au/assets/research/ICA%20Understand%20Home%20Insurance_Report.pdf)
 
-Rabin (2000) "Risk Aversion and Expected‐utility Theory: A Calibration Theorem", *Econometrica*, 68(5), 1281-1292, https://doi.org/10.1111/1468-0262.00158
+Rabin (2000) ["Risk Aversion and Expected‐utility Theory: A Calibration Theorem"](https://doi.org/10.1111/1468-0262.00158), *Econometrica*, 68(5), 1281-1292
 
-Rothschild and Stiglitz (1976) "Equilibrium in competitive insurance markets: An essay on the economics of imperfect competition", *Quarterly Journal of Economics*, 90(4), 629-649, https://doi.org/10.2307/1885326
+Rothschild and Stiglitz (1976) ["Equilibrium in competitive insurance markets: An essay on the economics of imperfect competition"](https://doi.org/10.2307/1885326), *Quarterly Journal of Economics*, 90(4), 629-649
 
-Sah, Loewenstein and Cain (2013) "The burden of disclosure: Increased compliance with distrusted advice", *Journal of Personality and Social Psychology*, 104(2), 289–304, https://doi.org/10.1037/a0030527
+Sah, Loewenstein and Cain (2013) ["The burden of disclosure: Increased compliance with distrusted advice"](https://doi.org/10.1037/a0030527), *Journal of Personality and Social Psychology*, 104(2), 289–304
 
-Shah, Mullainathan and Shafir (2019) "An exercise in self-replication: Replicating Shah, Mullainathan, and Shafir (2012)", *Journal of Economic Psychology*, 75, 102127, https://doi.org/10.1016/j.joep.2018.12.001
+Shah, Mullainathan and Shafir (2019) ["An exercise in self-replication: Replicating Shah, Mullainathan, and Shafir (2012)"](https://doi.org/10.1016/j.joep.2018.12.001), *Journal of Economic Psychology*, 75, 102127
 
-Shu et al. (2012) "Signing at the beginning makes ethics salient and decreases dishonest self-reports in comparison to signing at the end", *PNAS*, 109(38), https://doi.org/10.1073/pnas.1209746109
+Shu et al. (2012) ["Signing at the beginning makes ethics salient and decreases dishonest self-reports in comparison to signing at the end"](https://doi.org/10.1073/pnas.1209746109), *PNAS*, 109(38)
 
 Simon (1971) "Designing Organizations for an Information-Rich World" in Greenberger (ed), *Computers, communications, and the public interest*, The John Hopkins Press, Baltimore
 
-Thaler (1985) "Mental Accounting and Consumer Choice", *Marketing Science*, 4(3), 177-266, https://doi.org/10.1287/mksc.4.3.199
+Thaler (1985) ["Mental Accounting and Consumer Choice"](https://doi.org/10.1287/mksc.4.3.199), *Marketing Science*, 4(3), 177-266
 
-Thaler (1990) "Anomalies: Saving,  Fungibility,  and  Mental  Accounts", *Journal of Economic Perspectives*, 4(1), 193-205, https://doi.org/10.1257/jep.4.1.193
+Thaler (1990) ["Anomalies: Saving,  Fungibility,  and  Mental  Accounts"](https://doi.org/10.1257/jep.4.1.193), *Journal of Economic Perspectives*, 4(1), 193-205
 
-Thaler and Benartzi (2004) "Save More Tomorrow™: Using Behavioral Economics to Increase Employee Saving", *Journal of Political Economy*, 112(S1), S164-S187, https://doi.org/10.1086/380085
+Thaler and Benartzi (2004) ["Save More Tomorrow™: Using Behavioral Economics to Increase Employee Saving"](https://doi.org/10.1086/380085), *Journal of Political Economy*, 112(S1), S164-S187
 
-Tversky and Kahneman (1992) "Advances in prospect theory: Cumulative representation of uncertainty", *Journal of Risk and Uncertainty*, 5, 297-323, https://doi.org/10.1007/BF00122574
+Tversky and Kahneman (1992) ["Advances in prospect theory: Cumulative representation of uncertainty"](https://doi.org/10.1007/BF00122574), *Journal of Risk and Uncertainty*, 5, 297-323
 
-Verschuere et al. (2018) "Registered Replication Report on Mazar, Amir, and Ariely (2008)" *Advances in Methods and Practices in Psychological Science*, 1(3), 299-317, https://doi.org/10.1177%2F2515245918781032
+Verschuere et al. (2018) ["Registered Replication Report on Mazar, Amir, and Ariely (2008)"](https://doi.org/10.1177%2F2515245918781032) *Advances in Methods and Practices in Psychological Science*, 1(3), 299-317
 
-Wicherts and Scholten (2013) "Comment on "Poverty Impedes Cognitive Function"", *Science*, 342(6163), 1169 https://doi.org/10.1126/science.1246680
+Wicherts and Scholten (2013) ["Comment on "Poverty Impedes Cognitive Function""](https://doi.org/10.1126/science.1246680), *Science*, 342(6163), 1169
 
-Wilkins and Lass (2018) *The Household, Income and Labour Dynamics in Australia Survey: Selected Findings from Waves 1 to 16*, Melbourne Institute: Applied Economic & Social Research, University of Melbourne, https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0005/2839919/2018-HILDA-SR-for-web.pdf
+Wilkins and Lass (2018) [*The Household, Income and Labour Dynamics in Australia Survey: Selected Findings from Waves 1 to 16*](https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0005/2839919/2018-HILDA-SR-for-web.pdf), Melbourne Institute: Applied Economic & Social Research, University of Melbourne
 
 Zweig (2015) *The Devil's Financial Dictionary*, Public Affairs
