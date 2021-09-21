@@ -615,7 +615,7 @@ Customers also exhibit poor understanding of exponential growth and how a credit
 
 ### 4.1.3 Co-holding debt and savings
 
-People often hold both high-cost credit card debt and *liquid* assets that provide low rates of return. In one UK survey, 12% of households in the sample held an average of `$\pounds$`3800 in revolving credit on which they incurred interest charges, while at the same time holding liquid assets that they could use to clear all of this debt ([Gathergood and Weber (2014)](https://doi.org/10.1016/j.jebo.2014.04.018)).
+People often hold both high-cost credit card debt and *liquid* assets that provide low rates of return. In one UK survey, 12% of households in the sample held an average of `$\unicode{xA3}$`3800 in revolving credit on which they incurred interest charges, while at the same time holding liquid assets that they could use to clear all of this debt ([Gathergood and Weber (2014)](https://doi.org/10.1016/j.jebo.2014.04.018)).
 
 One rational explanation for co-holding is that that some expenses must be paid by cash or direct debit, not credit card. This requirement means that funds must be available in these forms.
 
