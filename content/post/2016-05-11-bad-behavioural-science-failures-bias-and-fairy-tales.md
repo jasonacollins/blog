@@ -12,7 +12,7 @@ Below is the text of my presentation to the [Sydney Behavioural Economics and Be
 
 The typical behavioural science or behavioural economics event is a love-in. We all get together to laugh at people's irrationality - that is, the irrationality of others - and opine that if only we designed the world more intelligently, people would make better decisions.
 
-We can point to a vast literature – described in books such as Dan Ariely's[ Predictably Irrational](https://jasoncollins.blog/arielys-predictably-irrational/), Daniel Kahneman's[ Thinking, Fast and Slow](https://jasoncollins.blog/kahnemans-thinking-fast-and-slow/), and Richard Thaler and Cass Sunstein's[ Nudge](https://jasoncollins.blog/thaler-and-sunsteins-nudge/) – all demonstrating the fallibility of humans, the vast array of biases we exhibit in our everyday decision making, and how we can help to overcome these problems.
+We can point to a vast literature – described in books such as Dan Ariely's[ Predictably Irrational](https://www.jasoncollins.blog/arielys-predictably-irrational/), Daniel Kahneman's[ Thinking, Fast and Slow](https://www.jasoncollins.blog/kahnemans-thinking-fast-and-slow/), and Richard Thaler and Cass Sunstein's[ Nudge](https://www.jasoncollins.blog/thaler-and-sunsteins-nudge/) – all demonstrating the fallibility of humans, the vast array of biases we exhibit in our everyday decision making, and how we can help to overcome these problems.
 
 Today I want to muddy the waters. Not only is the "we can save the world" TED talk angle that tends to accompany behavioural science stories boring, but this angle also ignores the problems and debates in the field.
 
@@ -22,7 +22,7 @@ I will say at the outset that the message of this talk is not that all behaviour
 
 I should also point out that I am only covering one of the possible angles of critique. There are plenty of others.
 
-For those who want to capture what I say, at 7pm tonight (AEST) the script of what I propose to talk about and the important images from my slides will be posted on my blog at [jasoncollins.blog](https://jasoncollins.blog). That post will include links to all the studies I refer to.
+For those who want to capture what I say, at 7pm tonight (AEST) the script of what I propose to talk about and the important images from my slides will be posted on my blog at [jasoncollins.blog](https://www.jasoncollins.blog). That post will include links to all the studies I refer to.
 
 **Story one – the Florida effect**
 
@@ -46,7 +46,7 @@ Priming studies seem to be particularly problematic. Another priming area in tro
 
 ![Rohrer et al](/img/2016-05-11-bad-behavioural-science-failures-bias-and-fairy-tales/rohrer-et-al.jpg)
 
-As a non-priming example, those of you who have read Daniel Kahneman's [Thinking, Fast and Slow](https://jasoncollins.blog/kahnemans-thinking-fast-and-slow/) or Malcolm Gladwell's David and Goliath might recall a study by [Adam Alter and friends](https://doi.org/10.1037/0096-3445.136.4.569). In that study, 40 students were exposed to two versions of the cognitive reflection task. One of the typical questions in the cognitive reflection task is the following classic:
+As a non-priming example, those of you who have read Daniel Kahneman's [Thinking, Fast and Slow](https://www.jasoncollins.blog/kahnemans-thinking-fast-and-slow/) or Malcolm Gladwell's David and Goliath might recall a study by [Adam Alter and friends](https://doi.org/10.1037/0096-3445.136.4.569). In that study, 40 students were exposed to two versions of the cognitive reflection task. One of the typical questions in the cognitive reflection task is the following classic:
 
 >A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?
 
@@ -56,7 +56,7 @@ The two versions differed in that one used small light grey font that made th
 
 It all sounds very cool. Slowing people down made them do better. But while the original study with 40 subjects found a large effect, [replications involving thousands of people found nothing](http://psycnet.apa.org/journals/xge/144/2/e16/) (Terry Burnham discusses this paper in more detail [here](http://www.terryburnham.com/2015/04/a-trick-for-higher-sat-scores.html)). As you can see in the chart, the positive result is a small sample outlier.
 
-Then there is [ego depletion](https://jasoncollins.blog/failure-to-replicate-ego-depletion-edition/) - the idea that we have a fixed stock of willpower that becomes depleted through use. If we have to use our willpower in one setting, we're more likely to crumble later on as our ego is depleted.
+Then there is [ego depletion](https://www.jasoncollins.blog/failure-to-replicate-ego-depletion-edition/) - the idea that we have a fixed stock of willpower that becomes depleted through use. If we have to use our willpower in one setting, we're more likely to crumble later on as our ego is depleted.
 
 Now, this theory doesn't rest on one study - [a 2010 meta-analysis](http://psycnet.apa.org/?&fa=main.doiLanding&doi=10.1037/a0019486) examined 83 studies with 198 experiments in concluding there was an ego depletion effect. But that meta-analysis had a lot of flaws, including only including published studies.
 
@@ -70,7 +70,7 @@ Then there is [the garden of forking paths](http://www.stat.columbia.edu/~gelman
 
 Now that these bodies of research are crumbling, some of the obfuscation going on is deplorable. John Bargh's concerning the Florida effect is one of the more extreme examples. Many of the original study proponents erect the defences and claim poor replication technique or that they haven't captured all the subtleties of the situation. Personally, I'd like to see a lot more admissions of "well, that didn't turn out".
 
-But what is also surprising was the level of confidence some people had in these findings. Here's a passage from [Kahneman's Thinking, Fast and Slow](https://jasoncollins.blog/kahnemans-thinking-fast-and-slow/) - straight out of the chapter on priming:
+But what is also surprising was the level of confidence some people had in these findings. Here's a passage from [Kahneman's Thinking, Fast and Slow](https://www.jasoncollins.blog/kahnemans-thinking-fast-and-slow/) - straight out of the chapter on priming:
 
 >When I describe priming studies to audiences, the reaction is often disbelief. This is not a surprise: System 2 believes that it is in charge and that it knows the reasons for its choices. Questions are probably cropping up in your mind as well: How is it possible for such trivial manipulations of the context to have such large effects? ...
 >
@@ -88,7 +88,7 @@ On two Saturdays in a California supermarket, [Mark Lepper and Sheena Iyengar](
 
 For attracting initial interest, the large display of 24 jams did a better job, with 60 per cent of people who passed the display stopping. Forty per cent of people stopped at the six jam display. But only three per cent of those who stopped at the 24 jam display purchased any of the jam, compared with almost 30 per cent who stopped at the six jam display.
 
-This result has been one of the centrepieces of the argument that more choice is not necessarily good. The larger display seemed to reduce consumer motivation to buy the product. The theories around this concept and the associated idea that more choice does not make us happy are often labelled the choice overload hypothesis or the paradox of choice. [Barry Schwartz wrote a whole book](https://jasoncollins.blog/barry-schwartzs-the-paradox-of-choice-why-more-is-less/) on this topic.
+This result has been one of the centrepieces of the argument that more choice is not necessarily good. The larger display seemed to reduce consumer motivation to buy the product. The theories around this concept and the associated idea that more choice does not make us happy are often labelled the choice overload hypothesis or the paradox of choice. [Barry Schwartz wrote a whole book](https://www.jasoncollins.blog/barry-schwartzs-the-paradox-of-choice-why-more-is-less/) on this topic.
 
 Fast-forward 10 years to [another paper](http://jcr.oxfordjournals.org/content/37/3/409), this one by Benjamin Scheibehenne and friends ([ungated pdf](http://scheibehenne.de/ScheibehenneGreifenederTodd2010.pdf)). They surveyed the literature on the choice overload hypothesis – there is plenty. And across the basket of studies - shown in this chart - evidence of choice overload does not emerge so clearly. In some cases, choice increases purchases. In others it reduces them. Scheibehenne and friends determined that the mean effect size of changing the number of choices across the studies was effectively zero.
 
@@ -96,7 +96,7 @@ Fast-forward 10 years to [another paper](http://jcr.oxfordjournals.org/content
 
 These reviewed studies included a few attempts to replicate the jam study results. An experiment using jam in an upscale German supermarket found no effect. Other experiments found no effect of choice size using chocolates or jelly beans. There were small differences in study design between these and the original jam study (as original authors are often quick to point out when replications fail), but if studies are so sensitive to study design and hard to replicate, it seems foolhardy to extrapolate the results of the original study too far.
 
-There is a great quote from one of my favourite books, [Jim Manzi's Uncontrolled](https://jasoncollins.blog/manzis-uncontrolled/), which captures this danger.
+There is a great quote from one of my favourite books, [Jim Manzi's Uncontrolled](https://www.jasoncollins.blog/manzis-uncontrolled/), which captures this danger.
 
 >[P]opularizers telescoped the conclusions derived from one coupon-plus-display promotion in one store on two Saturdays, up through assertions about the impact of product selection for jam for this store, to the impact of product selection for jam for all grocery stores in America, to claims about the impact of product selection for all retail products of any kind in every store, ultimately to fairly grandiose claims about the benefits of choice to society.
 
@@ -252,10 +252,10 @@ Before I close, I'll leave with a few places you can go if you found tonight's p
 
 First is Andrew Gelman's truly wonderful blog [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/). Please don't be put off by the name - you will learn something from Gelman even if you know little about statistics. Personally, I've learnt more about statistics from this blog than I did through the half a dozen statistics and econometrics units I completed through university. This is the number one place to see crap papers skewered and for discussion about why we see so much poor research. Google Andrew Gelman and his blog will be at the top of the list.
 
-Second, read [Jim Manzi's Uncontrolled](https://jasoncollins.blog/manzis-uncontrolled/). It will give you a new lens with which to think about causal associations in our world. Manzi's plea for humility about what we believe we know is important.
+Second, read [Jim Manzi's Uncontrolled](https://www.jasoncollins.blog/manzis-uncontrolled/). It will give you a new lens with which to think about causal associations in our world. Manzi's plea for humility about what we believe we know is important.
 
-Third, read some Gerd Gigerenzer. I only touched on a couple of the critiques of behavioural science tonight. There are many others, such as the question of how irrational we really are. On this angle, Gigerenzer's work is among the most interesting. I suggest starting with [Simple Heuristics That Make Us Smart](https://jasoncollins.blog/simple-heuristics-that-make-us-smart/) by Gigerenzer, Peter Todd and the ABC Research Group, and go from there.
+Third, read some Gerd Gigerenzer. I only touched on a couple of the critiques of behavioural science tonight. There are many others, such as the question of how irrational we really are. On this angle, Gigerenzer's work is among the most interesting. I suggest starting with [Simple Heuristics That Make Us Smart](https://www.jasoncollins.blog/simple-heuristics-that-make-us-smart/) by Gigerenzer, Peter Todd and the ABC Research Group, and go from there.
 
-Finally, check out [my blog](https://jasoncollins.blog) at [jasoncollins.blog](https://jasoncollins.blog). I'm grumpy about more than the material that I covered tonight. I will point you to one piece – [Please Not Another Bias: An Evolutionary Take on Behavioural Economics](https://jasoncollins.blog/please-not-another-bias-an-evolutionary-take-on-behavioural-economics/) - where I complain about how behavioural economics needs to be more than a collection of biases, but hopefully you will find more there that's of interest to you.
+Finally, check out [my blog](https://www.jasoncollins.blog) at [jasoncollins.blog](https://www.jasoncollins.blog). I'm grumpy about more than the material that I covered tonight. I will point you to one piece – [Please Not Another Bias: An Evolutionary Take on Behavioural Economics](https://www.jasoncollins.blog/please-not-another-bias-an-evolutionary-take-on-behavioural-economics/) - where I complain about how behavioural economics needs to be more than a collection of biases, but hopefully you will find more there that's of interest to you.
 
 And that's it for tonight.

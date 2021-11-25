@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-08-26 12:05:58+00:00
 draft: no
-link: https://jasoncollins.blog/economic-cosmology-the-invisible-hand/
+link: https://www.jasoncollins.blog/economic-cosmology-the-invisible-hand/
 slug: economic-cosmology-the-invisible-hand
 title: Economic cosmology - The invisible hand
 wordpress_id: 7106
@@ -15,7 +15,7 @@ Adam Smith's concept of the invisible hand is one of the more abused ideas in ec
 <blockquote>It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest.</blockquote>
 
 
-The invisible hand has taken on a life of its own since Smith's nuanced book, with caricatured versions espoused and attacked along the political spectrum. In that context, the invisible hand is the second Western cosmology tackled by Gowdy and colleagues in their article [Economic cosmology and the evolutionary challenge](https://doi.org/10.1016/j.jebo.2012.12.009) from the Journal of Economic Behavior & Organization special issue, _Evolution as a General Theoretical Framework for Economics and Public Policy _(I covered the first cosmology - the rational man - in [an earlier post](https://jasoncollins.blog/economic-cosmology-the-rational-egotistical-individual/)).
+The invisible hand has taken on a life of its own since Smith's nuanced book, with caricatured versions espoused and attacked along the political spectrum. In that context, the invisible hand is the second Western cosmology tackled by Gowdy and colleagues in their article [Economic cosmology and the evolutionary challenge](https://doi.org/10.1016/j.jebo.2012.12.009) from the Journal of Economic Behavior & Organization special issue, _Evolution as a General Theoretical Framework for Economics and Public Policy _(I covered the first cosmology - the rational man - in [an earlier post](https://www.jasoncollins.blog/economic-cosmology-the-rational-egotistical-individual/)).
 
 The first point they make is that the invisible hand operates in a context of human sociality and morals. Smith would not have disagreed with that claim, with any self-interested actions constrained by the norms of the group and the morals of the individual. But as for the first Western cosmology they considered - the rational man - Gowdy and colleagues suggest that selection at a higher level is required to explain these constraints.
 
@@ -27,7 +27,7 @@ A second point is the distinction between fitness and economic outcomes. In an e
 
 From their argument that group selection is involved, Gowdy and colleagues seek to resuscitate the concept of the invisible hand by suggesting that the invisible hand is selection at the level of the group. Thousands of generations of group selection (both genetic and cultural) have shaped our psychological dispositions so that now there is no need to have any conception of the group in mind when we pursue our self-interest. Our group selection shaped self-interest tends to lead to group benefits, with these self-interested actions a very narrow subset of all the varieties of self-interest, most of which do not benefit the common good.
 
-This is an interesting argument, although I'm not sure that I buy it. I agree that the set of actions that we can undertake to advance our own self-interest are constrained by other people, social norms and institutional frameworks. For example, in many societies, uncooperative behaviour can have severe costs. Further, we exhibit many constrained behaviours even when we are not actually constrained. But as I asked in my last post, if multilevel selection and inclusive fitness are just different ways of framing the same question, what does it actually mean to say that group selection was required? If it is simply a statement that if we use a multilevel selection framework and classify the groups in a particular way, most of the action will be at the group level, then it is a relatively controversial statement. But as I read the paper, I feel that the authors mean more than this, and are actually pointing to group selection in the older sense (see [my last post on the rational man](https://jasoncollins.blog/economic-cosmology-the-rational-egotistical-individual/) for some more discussion of this distinction). In other words, for the authors, this is more than just a question of framing._
+This is an interesting argument, although I'm not sure that I buy it. I agree that the set of actions that we can undertake to advance our own self-interest are constrained by other people, social norms and institutional frameworks. For example, in many societies, uncooperative behaviour can have severe costs. Further, we exhibit many constrained behaviours even when we are not actually constrained. But as I asked in my last post, if multilevel selection and inclusive fitness are just different ways of framing the same question, what does it actually mean to say that group selection was required? If it is simply a statement that if we use a multilevel selection framework and classify the groups in a particular way, most of the action will be at the group level, then it is a relatively controversial statement. But as I read the paper, I feel that the authors mean more than this, and are actually pointing to group selection in the older sense (see [my last post on the rational man](https://www.jasoncollins.blog/economic-cosmology-the-rational-egotistical-individual/) for some more discussion of this distinction). In other words, for the authors, this is more than just a question of framing._
 _
 
 The distinction between genetic and cultural group selection is also important. Cultural group selection is less vulnerable to critiques about the mixing in human populations that genetic group selection is subject to (although it still has plenty of critics), and these need to be addressed if they are implying older concepts of group selection.
@@ -41,21 +41,21 @@ My series of posts on the Journal of Economic Behavior & Organization special 
 
 
 	
-  1. [Social Darwinism is back](https://jasoncollins.blog/social-darwinism-is-back/) - a post on one of the popular press articles that accompanied the special issue, a piece by David Sloan Wilson called [A good social Darwinism](http://www.aeonmagazine.com/living-together/how-evolution-can-reform-economics/).
+  1. [Social Darwinism is back](https://www.jasoncollins.blog/social-darwinism-is-back/) - a post on one of the popular press articles that accompanied the special issue, a piece by David Sloan Wilson called [A good social Darwinism](http://www.aeonmagazine.com/living-together/how-evolution-can-reform-economics/).
 
 	
-  2. [Four reasons why evolutionary theory might not add value to economics](https://jasoncollins.blog/four-reasons-why-evolutionary-theory-might-not-add-value-to-economics/) - a post on David Sloan Wilson and John Gowdy's article _Evolution as a general theoretical framework for economics and public policy_
+  2. [Four reasons why evolutionary theory might not add value to economics](https://www.jasoncollins.blog/four-reasons-why-evolutionary-theory-might-not-add-value-to-economics/) - a post on David Sloan Wilson and John Gowdy's article _Evolution as a general theoretical framework for economics and public policy_
 
 	
-  3. [Economic cosmology - The rational egotistical individual](https://jasoncollins.blog/economic-cosmology-the-rational-egotistical-individual/) - a post on John Gowdy and colleagues' article _Economic cosmology and the evolutionary challenge _
+  3. [Economic cosmology - The rational egotistical individual](https://www.jasoncollins.blog/economic-cosmology-the-rational-egotistical-individual/) - a post on John Gowdy and colleagues' article _Economic cosmology and the evolutionary challenge _
 
 	
-  4. [Economic cosmology - The invisible hand](https://jasoncollins.blog/economic-cosmology-the-invisible-hand/) (this post) - a second post on _Economic cosmology and the evolutionary challenge _
+  4. [Economic cosmology - The invisible hand](https://www.jasoncollins.blog/economic-cosmology-the-invisible-hand/) (this post) - a second post on _Economic cosmology and the evolutionary challenge _
 
 	
-  5. [Economic cosmology - Equilibrium](https://jasoncollins.blog/economic-cosmology-equilibrium/) - a third post on _Economic cosmology and the evolutionary challenge_
+  5. [Economic cosmology - Equilibrium](https://www.jasoncollins.blog/economic-cosmology-equilibrium/) - a third post on _Economic cosmology and the evolutionary challenge_
 
 	
-  6. [Design principles for the efficacy of groups](https://jasoncollins.blog/design-principles-efficacy-groups/) - a post on David Sloan Wilson, Elinor Ostrom and Michael E. Cox's article _Generalizing the core design principles for the efficacy of groups_
+  6. [Design principles for the efficacy of groups](https://www.jasoncollins.blog/design-principles-efficacy-groups/) - a post on David Sloan Wilson, Elinor Ostrom and Michael E. Cox's article _Generalizing the core design principles for the efficacy of groups_
 
 

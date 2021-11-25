@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-03-19 12:41:28+00:00
 draft: no
-link: https://jasoncollins.blog/the-political-implications-of-group-selection/
+link: https://www.jasoncollins.blog/the-political-implications-of-group-selection/
 slug: the-political-implications-of-group-selection
 title: The political implications of group selection
 wordpress_id: 2721

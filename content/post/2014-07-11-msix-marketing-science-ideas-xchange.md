@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2014-07-11 03:44:56+00:00
 draft: no
-link: https://jasoncollins.blog/msix-marketing-science-ideas-xchange/
+link: https://www.jasoncollins.blog/msix-marketing-science-ideas-xchange/
 slug: msix-marketing-science-ideas-xchange
 title: 'MSiX: Marketing Science Ideas Xchange'
 wordpress_id: 19990

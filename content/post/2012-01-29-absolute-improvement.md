@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-01-29 04:42:29+00:00
 draft: no
-link: https://jasoncollins.blog/absolute-improvement/
+link: https://www.jasoncollins.blog/absolute-improvement/
 slug: absolute-improvement
 title: Absolute improvement
 wordpress_id: 2370

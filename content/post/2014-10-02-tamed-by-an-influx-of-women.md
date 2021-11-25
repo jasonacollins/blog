@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2014-10-02 09:43:19+00:00
 draft: no
-link: https://jasoncollins.blog/tamed-by-an-influx-of-women/
+link: https://www.jasoncollins.blog/tamed-by-an-influx-of-women/
 slug: tamed-by-an-influx-of-women
 title: Tamed by an influx of women
 wordpress_id: 20198

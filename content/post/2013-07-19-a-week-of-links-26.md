@@ -4,7 +4,7 @@ author: jasonacollins
 comments: true
 date: 2013-07-19 12:00:44+00:00
 draft: no
-link: https://jasoncollins.blog/a-week-of-links-26/
+link: https://www.jasoncollins.blog/a-week-of-links-26/
 slug: a-week-of-links-26
 ---
 

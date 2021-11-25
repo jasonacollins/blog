@@ -4,7 +4,7 @@ author: jasonacollins
 comments: true
 date: 2012-04-30 15:43:16+00:00
 draft: no
-link: https://jasoncollins.blog/consilience-conference-afterthoughts/
+link: https://www.jasoncollins.blog/consilience-conference-afterthoughts/
 slug: consilience-conference-afterthoughts
 ---
 

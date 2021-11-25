@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-09-27 07:17:04+00:00
 draft: no
-link: https://jasoncollins.blog/human-nature-and-property-rights/
+link: https://www.jasoncollins.blog/human-nature-and-property-rights/
 slug: human-nature-and-property-rights
 title: Human nature and property rights
 wordpress_id: 1836
@@ -19,7 +19,7 @@ In the article, Wilkinson addresses the link between capitalism and human nature
 New scientific research provides even stronger evidence for the existence of such property “instincts.” For example, recent experimental work by Oliver Goodenough, a legal theorist, and Christine Prehn, a neuroscientist, suggests that the human mind evolved specialized modules for making judgments about moral transgressions, and transgressions against property in particular. Evolutionary psychology can help us to understand that property rights are not created simply by strokes of the legislator’s pen.</blockquote>
 
 
-From the comments on my recent post on [human nature and libertarianism](https://jasoncollins.blog/human-nature-and-libertarianism/), property rights and the ability to accumulate massive amounts of property underlie many concerns about a libertarian state. Wilkinson notes that the human mind is ill-equipped to deal with it:
+From the comments on my recent post on [human nature and libertarianism](https://www.jasoncollins.blog/human-nature-and-libertarianism/), property rights and the ability to accumulate massive amounts of property underlie many concerns about a libertarian state. Wilkinson notes that the human mind is ill-equipped to deal with it:
 
 
 <blockquote>Perhaps the most depressing lesson of evolutionary psychology for politics is found in its account of the deep-seated human capacity for envy and of our related difficulty in understanding the idea of gains from trade and increases in productivity— the idea of an ever-expanding “pie” of wealth.
@@ -29,4 +29,4 @@ From the comments on my recent post on [human nature and libertarianism](https:/
 Our zero-sum mentality makes it hard for us to understand how trade, innovation, and investment can increase the amount of total wealth. We are thus ill-equipped to easily understand our own economic system.</blockquote>
 
 
-While we may historically have [pulled down the rich](https://jasoncollins.blog/brooks-on-hunter-gatherers-and-egalitarianism/), the immediate assumption underlying the desire to pull them down no longer holds.
+While we may historically have [pulled down the rich](https://www.jasoncollins.blog/brooks-on-hunter-gatherers-and-egalitarianism/), the immediate assumption underlying the desire to pull them down no longer holds.

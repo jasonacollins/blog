@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-10-01 09:51:29+00:00
 draft: no
-link: https://jasoncollins.blog/inequality-and-declining-fertility/
+link: https://www.jasoncollins.blog/inequality-and-declining-fertility/
 slug: inequality-and-declining-fertility
 title: Inequality and declining fertility
 wordpress_id: 4209

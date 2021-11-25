@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-10-31 12:23:13+00:00
 draft: no
-link: https://jasoncollins.blog/using-neuroeconomics-in-economics/
+link: https://www.jasoncollins.blog/using-neuroeconomics-in-economics/
 slug: using-neuroeconomics-in-economics
 title: Using neuroeconomics in economics
 wordpress_id: 4487
@@ -25,9 +25,9 @@ The slow take-up of neuroeconomics in the short-term by the broader economics pr
 Those people who were willing to split more money had more neurons in a region called the right temporo-parietal junction, an area toward the back of the brain that has been linked to empathy. Selfish people had a smaller junction. Moreover, the junction became more active as unselfish people decided to give more money away, Fehr and his colleagues found. It is almost as if the region worked hardest when people were trying to overcome what might be a natural—and rational—impulse toward selfishness.</blockquote>
 
 
-The finding is interesting, but how would an economist incorporate this into their understanding of human action beyond that already provided by behavioural economics? The concept of competing brain structures in decision-making is common in psychology and evolutionary biology - or [even economics](https://jasoncollins.blog/franks-passions-within-reason/). Pinning down a location in the brain (and trying to give it an interpretation) is not substantively changing this.
+The finding is interesting, but how would an economist incorporate this into their understanding of human action beyond that already provided by behavioural economics? The concept of competing brain structures in decision-making is common in psychology and evolutionary biology - or [even economics](https://www.jasoncollins.blog/franks-passions-within-reason/). Pinning down a location in the brain (and trying to give it an interpretation) is not substantively changing this.
 
-In some ways, neuroeconomics is in a similar state of development as [genoeconomics](https://jasoncollins.blog/genoeconomics-molecular-genetics-and-economics/), the use of molecular biology in economics (also referred to in Fischman's article). Genoeconomics is seeking to build on the understanding of human behaviour that we can get from evolutionary biology. But genoeconomics is at such an early stage that it is not fundamentally changing this understanding. An economist seeking to incorporate evolutionary biology into their economic thinking can use evolutionary theory, twin studies and anthropological studies, after which they will gain limited additional understanding from genoeconomics.
+In some ways, neuroeconomics is in a similar state of development as [genoeconomics](https://www.jasoncollins.blog/genoeconomics-molecular-genetics-and-economics/), the use of molecular biology in economics (also referred to in Fischman's article). Genoeconomics is seeking to build on the understanding of human behaviour that we can get from evolutionary biology. But genoeconomics is at such an early stage that it is not fundamentally changing this understanding. An economist seeking to incorporate evolutionary biology into their economic thinking can use evolutionary theory, twin studies and anthropological studies, after which they will gain limited additional understanding from genoeconomics.
 
 However, this points to the real problem. The areas that neuroeconomics and genoeconomics are building on, behavioural economics and evolutionary biology, could and should be used to a greater extent in economics. Economists don't need to wait for more information on which region of the brain or which gene underlies a behaviour before incorporating it into a model. Behavioural economics is a mature field (albeit one lacking a framework - that evolutionary biology will one day offer) and our knowledge of human evolution and the heritability of traits gives great scope for evolutionary biology to be used.
 

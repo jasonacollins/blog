@@ -4,7 +4,7 @@ author: jasonacollins
 comments: true
 date: 2013-06-28 12:10:29+00:00
 draft: no
-link: https://jasoncollins.blog/a-week-of-links-23/
+link: https://www.jasoncollins.blog/a-week-of-links-23/
 slug: a-week-of-links-23
 ---
 
@@ -19,6 +19,6 @@ Links this week:
   3. [Cannabis and IQ](http://andrewgelman.com/2013/06/22/struggles-over-the-criticism-of-the-cannabis-users-and-iq-change-paper/).
 
 	
-  4. My newest working paper has just gone online: [Population, Technological Progress and the Evolution of Innovative Potential](http://ssrn.com/abstract=2284456). I'll post about it sometime next week. [Post is now [up here](https://jasoncollins.blog/population-technological-progress-and-the-evolution-of-innovative-potential/)]
+  4. My newest working paper has just gone online: [Population, Technological Progress and the Evolution of Innovative Potential](http://ssrn.com/abstract=2284456). I'll post about it sometime next week. [Post is now [up here](https://www.jasoncollins.blog/population-technological-progress-and-the-evolution-of-innovative-potential/)]
 
 

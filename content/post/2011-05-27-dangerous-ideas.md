@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-05-27 09:17:12+00:00
 draft: no
-link: https://jasoncollins.blog/dangerous-ideas/
+link: https://www.jasoncollins.blog/dangerous-ideas/
 slug: dangerous-ideas
 title: Dangerous ideas
 wordpress_id: 1109

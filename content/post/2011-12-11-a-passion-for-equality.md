@@ -3,13 +3,13 @@ author: jasonacollins
 comments: true
 date: 2011-12-11 13:44:07+00:00
 draft: no
-link: https://jasoncollins.blog/a-passion-for-equality/
+link: https://www.jasoncollins.blog/a-passion-for-equality/
 slug: a-passion-for-equality
 title: A passion for equality?
 wordpress_id: 2084
 ---
 
-In Benoit Debreuil's [Human Evolution and the Origins of Hierarchies](https://jasoncollins.blog/dubreuils-human-evolution-and-the-origins-of-hierarchies/), the opening chapter contains the interesting argument that egalitarian hunter-gatherer societies were not built on a wish for equality. Dubreuil writes:
+In Benoit Debreuil's [Human Evolution and the Origins of Hierarchies](https://www.jasoncollins.blog/dubreuils-human-evolution-and-the-origins-of-hierarchies/), the opening chapter contains the interesting argument that egalitarian hunter-gatherer societies were not built on a wish for equality. Dubreuil writes:
 
 
 

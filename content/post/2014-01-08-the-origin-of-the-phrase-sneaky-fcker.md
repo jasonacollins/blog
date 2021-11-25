@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2014-01-08 13:58:15+00:00
 draft: no
-link: https://jasoncollins.blog/the-origin-of-the-phrase-sneaky-fcker/
+link: https://www.jasoncollins.blog/the-origin-of-the-phrase-sneaky-fcker/
 slug: the-origin-of-the-phrase-sneaky-fcker
 title: The origin of the phrase "sneaky f**cker"
 wordpress_id: 17126

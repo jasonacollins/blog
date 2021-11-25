@@ -3,13 +3,13 @@ author: jasonacollins
 comments: true
 date: 2012-09-10 11:54:39+00:00
 draft: no
-link: https://jasoncollins.blog/age-dependent-evolution/
+link: https://www.jasoncollins.blog/age-dependent-evolution/
 slug: age-dependent-evolution
 title: Age-dependent evolution
 wordpress_id: 4017
 ---
 
-At the [Consilience Conference earlier this year](https://jasoncollins.blog/consilience-conference-afterthoughts/) I bumped into evolutionary biologist Michael Rose, whose research interests include examining ageing through the lens of evolutionary theory. In our brief conversation, Rose mentioned that he had laid out much of his thinking on the topic in [55 Theses](http://55theses.org), where Rose describes how to use the insights of evolutionary biology to improve your health.
+At the [Consilience Conference earlier this year](https://www.jasoncollins.blog/consilience-conference-afterthoughts/) I bumped into evolutionary biologist Michael Rose, whose research interests include examining ageing through the lens of evolutionary theory. In our brief conversation, Rose mentioned that he had laid out much of his thinking on the topic in [55 Theses](http://55theses.org), where Rose describes how to use the insights of evolutionary biology to improve your health.
 
 Reading through the archives of the [Social Evolution Forum](http://socialevolutionforum.com) over the weekend (worth adding [to your feed](http://socialevolutionforum.com/feed/)), I came across [a post by Peter Turchin](http://socialevolutionforum.com/2012/05/17/the-dark-side-of-cultural-evolution-2/) recounting a conversation he had with Rose at the same conference. Turchin writes on one element of Rose's thinking, which concerns age-dependent traits:
 
@@ -23,4 +23,4 @@ Because abilities to do something at the age of 10, 30, 50, etc. are separate (e
 The striking conclusion from this argument is that older people, even those coming from populations that have practiced agriculture for millennia, may suffer adverse health effects from the agricultural diet, despite having no problems when they were younger.</blockquote>
 
 
-The conclusion that Rose draws is that young people descended from populations with a substantial history of agriculture can probably cope with an agricultural diet. However, as they age, may need to revert to a [Paleo diet](https://jasoncollins.blog/not-quite-paleo/). Those without that agricultural history should get on a Paleo diet from the start. It is an interesting twist on the usual Paleo diet story.
+The conclusion that Rose draws is that young people descended from populations with a substantial history of agriculture can probably cope with an agricultural diet. However, as they age, may need to revert to a [Paleo diet](https://www.jasoncollins.blog/not-quite-paleo/). Those without that agricultural history should get on a Paleo diet from the start. It is an interesting twist on the usual Paleo diet story.

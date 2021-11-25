@@ -7,7 +7,7 @@ draft: no
 slug: we-need-more-complicated-mathematical-models-in-economics
 ---
 
-I am half way through David Colander and Roland Kupers's book [Complexity and the Art of Public Policy: Solving Society's Problems from the Bottom Up](https://jasoncollins.blog/complexity-and-the-art-of-public-policy/). Overall, it's a good book, although the authors are somewhat slow to get to the point and there are plenty of lines that perplex or annoy ([Arnold Kling seemed to have a similar reaction](http://www.arnoldkling.com/blog/the-year-of-flawed-books/)).
+I am half way through David Colander and Roland Kupers's book [Complexity and the Art of Public Policy: Solving Society's Problems from the Bottom Up](https://www.jasoncollins.blog/complexity-and-the-art-of-public-policy/). Overall, it's a good book, although the authors are somewhat slow to get to the point and there are plenty of lines that perplex or annoy ([Arnold Kling seemed to have a similar reaction](http://www.arnoldkling.com/blog/the-year-of-flawed-books/)).
 
 I'll review later, but one interesting line in the book is that under a complexity approach, you may need more complicated mathematical models than used in neoclassical economics. This is because the purpose of the models under a complexity approach is different. They write:
 

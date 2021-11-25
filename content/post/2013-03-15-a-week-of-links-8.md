@@ -8,7 +8,7 @@ slug: a-week-of-links-8
 
 Links this week:
 	
-  1. [Razib Kahn encourages academics](http://blogs.discovermagazine.com/gnxp/2013/03/why-more-academics-should-blog-cuz-you-can/) to get on the blogging bandwagon (and, [my post](https://jasoncollins.blog/why-i-blog/) on my experience).
+  1. [Razib Kahn encourages academics](http://blogs.discovermagazine.com/gnxp/2013/03/why-more-academics-should-blog-cuz-you-can/) to get on the blogging bandwagon (and, [my post](https://www.jasoncollins.blog/why-i-blog/) on my experience).
 
 	
   2. [David Barash on "evolutionary existentialism"](http://chronicle.com/article/EvolutionExistentialism/137715/), my favourite piece this week.

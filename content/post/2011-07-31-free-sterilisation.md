@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-07-31 08:08:51+00:00
 draft: no
-link: https://jasoncollins.blog/free-sterilisation/
+link: https://www.jasoncollins.blog/free-sterilisation/
 slug: free-sterilisation
 title: Free sterilisation
 wordpress_id: 1579

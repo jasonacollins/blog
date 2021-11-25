@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-11-19 10:59:36+00:00
 draft: no
-link: https://jasoncollins.blog/sexual-selection-and-inequality/
+link: https://www.jasoncollins.blog/sexual-selection-and-inequality/
 slug: sexual-selection-and-inequality
 title: Sexual selection and inequality
 wordpress_id: 4646
@@ -21,10 +21,10 @@ But clearly that isn't how people think. They resent inequality in luxuries just
 
 Females care about a male's resources as they can be used by the female to raise their children, and they may be a signal of the male's underlying genetic quality.
 
-This preference exists despite the apparently declining importance of additional resources in a modern context. In a rich country, all necessities can be easily provided, and investment over a certain threshold likely has [limited effect on child quality](https://jasoncollins.blog/caplans-selfish-reasons-to-have-more-kids/). However, another less mentioned reason behind the desire for more resources is the potential for an environmental shock. Inequality in luxuries may suddenly become important as those with ample resources are better able to survive a new, constrained environment.
+This preference exists despite the apparently declining importance of additional resources in a modern context. In a rich country, all necessities can be easily provided, and investment over a certain threshold likely has [limited effect on child quality](https://www.jasoncollins.blog/caplans-selfish-reasons-to-have-more-kids/). However, another less mentioned reason behind the desire for more resources is the potential for an environmental shock. Inequality in luxuries may suddenly become important as those with ample resources are better able to survive a new, constrained environment.
 
-A commonly used example of this is survivorship on the Titanic (unfortunately of most recent note due to the [self-plagiarism issues involving Bruno Frey and colleagues](http://olafstorbeck.blogstrasse2.de/?p=949)). Of the first, second and third class passengers on the Titanic, 62 per cent, 41 per cent and 25 per cent survived respectively (I pulled these numbers from Gandolfi, Gandolfi and Barash's [Economics as an Evolutionary Science](https://jasoncollins.blog/gandolfi-gandolfi-and-barashs-economics-as-an-evolutionary-science/)). Similar patterns of survival occur in war, with the wealthy better able to flee or buy their safety. Resources currently allocated to luxuries can be diverted to necessities when required.
+A commonly used example of this is survivorship on the Titanic (unfortunately of most recent note due to the [self-plagiarism issues involving Bruno Frey and colleagues](http://olafstorbeck.blogstrasse2.de/?p=949)). Of the first, second and third class passengers on the Titanic, 62 per cent, 41 per cent and 25 per cent survived respectively (I pulled these numbers from Gandolfi, Gandolfi and Barash's [Economics as an Evolutionary Science](https://www.jasoncollins.blog/gandolfi-gandolfi-and-barashs-economics-as-an-evolutionary-science/)). Similar patterns of survival occur in war, with the wealthy better able to flee or buy their safety. Resources currently allocated to luxuries can be diverted to necessities when required.
 
 The Titanic example and other modern equivalents are too recent to have shaped our evolved psyche, but this pattern likely has been around since human's started to accumulate wealth. Thus, even in times of plenty, the potential for a shock to the system may still lie at the back of people's minds.
 
-As an aside, [my work with Juerg Weber and Boris Baer](https://jasoncollins.blog/sexual-selection-conspicuous-consumption-and-economic-growth/) also gets a mention in Ridley's piece.
+As an aside, [my work with Juerg Weber and Boris Baer](https://www.jasoncollins.blog/sexual-selection-conspicuous-consumption-and-economic-growth/) also gets a mention in Ridley's piece.

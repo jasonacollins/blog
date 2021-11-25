@@ -6,11 +6,11 @@ draft: no
 slug: re-reading-kahnemans-thinking-fast-and-slow
 ---
 
-A bit over four years ago I wrote a [glowing review](https://jasoncollins.blog/kahnemans-thinking-fast-and-slow/) of Daniel Kahneman's Thinking, Fast and Slow. I described it as a "magnificent book" and "one of the best books I have read". I praised the way Kahneman threaded his story around the System 1 / System 2 dichotomy, and the coherence provided  by prospect theory.
+A bit over four years ago I wrote a [glowing review](https://www.jasoncollins.blog/kahnemans-thinking-fast-and-slow/) of Daniel Kahneman's Thinking, Fast and Slow. I described it as a "magnificent book" and "one of the best books I have read". I praised the way Kahneman threaded his story around the System 1 / System 2 dichotomy, and the coherence provided  by prospect theory.
 
 What a difference four years makes. I will still describe Thinking, Fast and Slow as an excellent book - possibly the best behavioural science book available. But during that time a combination of my learning path and additional research in the behavioural sciences has led me to see Thinking, Fast and Slow as a book with many flaws.
 
-First, there is the list of studies that simply haven't held up through the "replication crisis" of the last few years. The first substantive chapter of Thinking, Fast and Slow is on priming, so many of these studies are right up the front. These include the Florida effect, money priming, the idea that making a test harder to read can increase test results, and ego depletion (I touch on each of these in my recent talk at the [Sydney Behavioural Economics and Behavioural Science Meetup](https://jasoncollins.blog/bad-behavioural-science-failures-bias-and-fairy-tales/)).
+First, there is the list of studies that simply haven't held up through the "replication crisis" of the last few years. The first substantive chapter of Thinking, Fast and Slow is on priming, so many of these studies are right up the front. These include the Florida effect, money priming, the idea that making a test harder to read can increase test results, and ego depletion (I touch on each of these in my recent talk at the [Sydney Behavioural Economics and Behavioural Science Meetup](https://www.jasoncollins.blog/bad-behavioural-science-failures-bias-and-fairy-tales/)).
 
 It's understandable that Kahneman was somewhat caught out by the replication crisis that has enveloped this literature. But what does not sit so well was the confidence with which Kahneman made his claims. For example, he wrote:
 
@@ -24,9 +24,9 @@ As I was also, Kahneman is a fan of the hot hand studies. Someone who believes 
 >
 >The public reaction to this research is part of the story. The finding was picked up by the press because of its surprising conclusion, and the general response was disbelief. When the celebrated coach of the Boston Celtics, Red Auerbach, heard of Gilovich and his study, he responded, "Who is this guy? So he makes a study. I couldn't care less." The tendency to see patterns in randomness is overwhelming - certainly more impressive than a guy making a study.
 
-And now it seems there is a hot hand. The finding that there was no hot hand the consequence of a statistical error (also covered in my [recent talk](https://jasoncollins.blog/bad-behavioural-science-failures-bias-and-fairy-tales/)). The disbelief was appropriate, and Auerbach did himself a favour by ignoring the study.
+And now it seems there is a hot hand. The finding that there was no hot hand the consequence of a statistical error (also covered in my [recent talk](https://www.jasoncollins.blog/bad-behavioural-science-failures-bias-and-fairy-tales/)). The disbelief was appropriate, and Auerbach did himself a favour by ignoring the study.
 
-As I've [picked on Dan Ariely](https://jasoncollins.blog/charts-that-dont-seem-quite-right-organ-donation-edition/) for the way he talks about organ donation rates, here's Kahneman on that same point:
+As I've [picked on Dan Ariely](https://www.jasoncollins.blog/charts-that-dont-seem-quite-right-organ-donation-edition/) for the way he talks about organ donation rates, here's Kahneman on that same point:
 
 >A directive about organ donation in case of accidental death is noted on an individual's driver licence in many countries. The formulation of that directive is another case in which one frame is clearly superior to the other. Few people would argue that the decision of whether or not to donate one's organs is unimportant, but there is strong evidence that most people make their choice thoughtlessly. The evidence comes from a comparison of organ donation rates in European countries, which reveals startling differences between neighbouring and culturally similar countries. An article published in 2003 noted that the organ donation rate was closer to 100% in Austria but only 12% in Germany, 86% in Sweden but only 4% in Denmark.
 >

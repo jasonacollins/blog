@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-08-04 09:12:28+00:00
 draft: no
-link: https://jasoncollins.blog/health-trade-offs/
+link: https://www.jasoncollins.blog/health-trade-offs/
 slug: health-trade-offs
 title: Health trade-offs
 wordpress_id: 1582

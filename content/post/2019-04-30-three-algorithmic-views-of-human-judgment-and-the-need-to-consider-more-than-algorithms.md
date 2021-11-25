@@ -6,7 +6,7 @@ draft: no
 slug: three-algorithmic-views-of-human-judgment-and-the-need-to-consider-more-than-algorithms
 ---
 
-From Gerd Gigerenzer's The bounded rationality of probabilistic mental models ([PDF](https://pure.mpg.de/rest/items/item_2547860/component/file_2566394/content)) (one of the papers mentioned in my [recent post](https://jasoncollins.blog/gigerenzer-versus-kahneman-and-tversky-the-1996-face-off/) on the Kahneman and Tversky and Gigerenzer debate):
+From Gerd Gigerenzer's The bounded rationality of probabilistic mental models ([PDF](https://pure.mpg.de/rest/items/item_2547860/component/file_2566394/content)) (one of the papers mentioned in my [recent post](https://www.jasoncollins.blog/gigerenzer-versus-kahneman-and-tversky-the-1996-face-off/) on the Kahneman and Tversky and Gigerenzer debate):
 
 >Defenders and detractors of human rationality alike have tended to focus on the issue of algorithms. Only their answers differ. Here are some prototypical arguments in the current debate.
 

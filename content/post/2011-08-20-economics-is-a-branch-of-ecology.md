@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-08-20 10:35:30+00:00
 draft: no
-link: https://jasoncollins.blog/economics-is-a-branch-of-ecology/
+link: https://www.jasoncollins.blog/economics-is-a-branch-of-ecology/
 slug: economics-is-a-branch-of-ecology
 title: Economics is a branch of ecology
 wordpress_id: 1677

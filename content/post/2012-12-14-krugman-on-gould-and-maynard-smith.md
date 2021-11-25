@@ -3,13 +3,13 @@ author: jasonacollins
 comments: true
 date: 2012-12-14 08:24:38+00:00
 draft: no
-link: https://jasoncollins.blog/krugman-on-gould-and-maynard-smith/
+link: https://www.jasoncollins.blog/krugman-on-gould-and-maynard-smith/
 slug: krugman-on-gould-and-maynard-smith
 title: Krugman on Gould and Maynard Smith
 wordpress_id: 4821
 ---
 
-I've [posted before](https://jasoncollins.blog/galbraith-on-evolution-and-the-invisible-hand/) about Paul Krugman's dislike of the work of Stephen Jay Gould, but I have come across [another old essay](http://web.mit.edu/krugman/www/ricardo.htm) in which Krugman weighs in on the question of Gould's role in communicating evolutionary biology. Krugman argues that Gould was attractive to readers because he made no attempt to explain the mathematical logic of evolutionary theory. Krugman writes:
+I've [posted before](https://www.jasoncollins.blog/galbraith-on-evolution-and-the-invisible-hand/) about Paul Krugman's dislike of the work of Stephen Jay Gould, but I have come across [another old essay](http://web.mit.edu/krugman/www/ricardo.htm) in which Krugman weighs in on the question of Gould's role in communicating evolutionary biology. Krugman argues that Gould was attractive to readers because he made no attempt to explain the mathematical logic of evolutionary theory. Krugman writes:
 
 
 <blockquote>Ask a working biologist who is the greatest living evolutionary thinker, and he or she will probably answer John Maynard Smith (with nods to George Williams and William Hamilton). Maynard Smith not only has a name that should have made him an economist; he writes and thinks like an economist, representing evolutionary issues with stylized mathematical models that are sometimes confronted with data, sometimes simulated on the computer, but always serve as the true structure informing the verbal argument. A textbook like his _Evolutionary Genetics _(1989) feels remarkably comfortable for an academic economist: the style is familiar, and even a good bit of the content looks like things economists do too. But ask intellectuals in general for a great evolutionary thinker and they will surely name Stephen Jay Gould -- who receives one brief, dismissive reference in Maynard Smith (1989). ...

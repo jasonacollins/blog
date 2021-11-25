@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-05-18 12:21:50+00:00
 draft: no
-link: https://jasoncollins.blog/could-this-critique-apply-to-economics/
+link: https://www.jasoncollins.blog/could-this-critique-apply-to-economics/
 slug: could-this-critique-apply-to-economics
 title: Could this critique apply to economics?
 wordpress_id: 3248

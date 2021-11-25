@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-05-19 10:12:17+00:00
 draft: no
-link: https://jasoncollins.blog/evolutionary-psychology-and-the-left/
+link: https://www.jasoncollins.blog/evolutionary-psychology-and-the-left/
 slug: evolutionary-psychology-and-the-left
 title: Evolutionary psychology and the left
 wordpress_id: 1002

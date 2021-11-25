@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2014-10-23 10:17:59+00:00
 draft: no
-link: https://jasoncollins.blog/finding-taxis-on-rainy-days/
+link: https://www.jasoncollins.blog/finding-taxis-on-rainy-days/
 slug: finding-taxis-on-rainy-days
 title: Finding taxis on rainy days
 wordpress_id: 20227

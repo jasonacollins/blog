@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-07-14 08:45:29+00:00
 draft: no
-link: https://jasoncollins.blog/what-is-multilevel-selection/
+link: https://www.jasoncollins.blog/what-is-multilevel-selection/
 slug: what-is-multilevel-selection
 title: What is multilevel selection?
 wordpress_id: 3636
@@ -56,6 +56,6 @@ Pinker also picks up what I consider to be the major reason multilevel selection
 
 </blockquote>
 
-This point can be drawn out through examining some of the similarities between the cooperation identified in a multilevel selection framework and the way economists look at economic exchange. I will offer some more thoughts on this in [my next post on group selection](https://jasoncollins.blog/groups-kin-and-self-interest/).
+This point can be drawn out through examining some of the similarities between the cooperation identified in a multilevel selection framework and the way economists look at economic exchange. I will offer some more thoughts on this in [my next post on group selection](https://www.jasoncollins.blog/groups-kin-and-self-interest/).
 
 *As an aside, I am deliberately avoiding the cultural group selection issue for the moment.

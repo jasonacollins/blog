@@ -6,9 +6,9 @@ draft: no
 slug: the-deep-roots-of-economic-development
 ---
 
-I first [flagged](https://jasoncollins.blog/the-deep-roots-of-development/) this article a year or so ago when it was released as a working paper, but the new Journal of Economic Literature paper [How Deep Are the Roots of Economic Development](https://doi.org/10.1257/jel.51.2.325) ([ungated pdf](http://sites.tufts.edu/enricospolaore/files/2012/08/RootsF.pdf)) by Enrico Spolaore and Romain Wacziarg has so much good material in it that it is worth a revisit.
+I first [flagged](https://www.jasoncollins.blog/the-deep-roots-of-development/) this article a year or so ago when it was released as a working paper, but the new Journal of Economic Literature paper [How Deep Are the Roots of Economic Development](https://doi.org/10.1257/jel.51.2.325) ([ungated pdf](http://sites.tufts.edu/enricospolaore/files/2012/08/RootsF.pdf)) by Enrico Spolaore and Romain Wacziarg has so much good material in it that it is worth a revisit.
 
-I am going to cover the article over two posts. This first post covers the major theme of the first half of the paper - that it is populations, not institutions, that underlie persistent differences in economic development. In [a second post](https://jasoncollins.blog/the-intergenerational-transmission-of-economic-development/), I comment on Spolaore and Wacziarg's analysis of the genetic and cultural intergenerational transmission of development.
+I am going to cover the article over two posts. This first post covers the major theme of the first half of the paper - that it is populations, not institutions, that underlie persistent differences in economic development. In [a second post](https://www.jasoncollins.blog/the-intergenerational-transmission-of-economic-development/), I comment on Spolaore and Wacziarg's analysis of the genetic and cultural intergenerational transmission of development.
 
 To start, I will let Spolaore and Wacziarg (or the authors they reference) do most of the talking. First, from [Glaeser and colleagues (2004)](https://doi.org/10.1023/B:JOEG.0000038933.16398.ed):
 
@@ -32,4 +32,4 @@ This angle reflects Greg Clark's analysis in *A Farewell to Alms* (largely cont
 
 These articles also reflect the question I tend to ask about institutional explanations of development. Why do good institutions exist in some places and not others? The above evidence suggests that institutions are largely endogenous to the population.
 
-In [my next post](https://jasoncollins.blog/the-intergenerational-transmission-of-economic-development/), I address the intergenerational transmission of traits. And I've added Spolaore and Wacziarg's paper to my [evolutionary biology and economics reading list](https://jasoncollins.blog/economics-and-evolutionary-biology-reading-list/).
+In [my next post](https://www.jasoncollins.blog/the-intergenerational-transmission-of-economic-development/), I address the intergenerational transmission of traits. And I've added Spolaore and Wacziarg's paper to my [evolutionary biology and economics reading list](https://www.jasoncollins.blog/economics-and-evolutionary-biology-reading-list/).

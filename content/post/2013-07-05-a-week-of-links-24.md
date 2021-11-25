@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-07-05 12:45:21+00:00
 draft: no
-link: https://jasoncollins.blog/a-week-of-links-24/
+link: https://www.jasoncollins.blog/a-week-of-links-24/
 slug: a-week-of-links-24
 title: A week of links
 wordpress_id: 6592
@@ -26,9 +26,9 @@ Links this week:
   4. Another article from Evolution: This View of Life that is worth a look - [Daniel Hruschka on collectivism versus individualism](http://www.thisviewoflife.com/index.php/magazine/articles/1094/infections-institutions-and-life-histories-searching-for-the-origins-of-ind).
 
 	
-  5. Support for [Gregory Clark's argument](https://jasoncollins.blog/social-mobility-across-the-generations/) that analysis of social mobility over a single generation overestimates its extent - a [child's socioeconomic position is determined by their grandparents](http://www.bbc.co.uk/news/education-23101446), not just their parents (blog post on this article to come soon).
+  5. Support for [Gregory Clark's argument](https://www.jasoncollins.blog/social-mobility-across-the-generations/) that analysis of social mobility over a single generation overestimates its extent - a [child's socioeconomic position is determined by their grandparents](http://www.bbc.co.uk/news/education-23101446), not just their parents (blog post on this article to come soon).
 
 	
-  6. [Britain is undergoing a baby boom](http://www.telegraph.co.uk/finance/economics/10155449/Britains-baby-boom-will-affect-our-economy-more-than-anything-Mark-Carney-does.html). I [expect this will be a common developed country observation](https://jasoncollins.blog/fertility-is-going-to-go-up/) over the next decade.
+  6. [Britain is undergoing a baby boom](http://www.telegraph.co.uk/finance/economics/10155449/Britains-baby-boom-will-affect-our-economy-more-than-anything-Mark-Carney-does.html). I [expect this will be a common developed country observation](https://www.jasoncollins.blog/fertility-is-going-to-go-up/) over the next decade.
 
 

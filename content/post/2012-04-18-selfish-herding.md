@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-04-18 12:39:12+00:00
 draft: no
-link: https://jasoncollins.blog/selfish-herding/
+link: https://www.jasoncollins.blog/selfish-herding/
 slug: selfish-herding
 title: Selfish herding
 wordpress_id: 2949

@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-05-03 21:08:23+00:00
 draft: no
-link: https://jasoncollins.blog/iq-as-a-necessary-but-not-sufficient-condition-for-genius/
+link: https://www.jasoncollins.blog/iq-as-a-necessary-but-not-sufficient-condition-for-genius/
 slug: iq-as-a-necessary-but-not-sufficient-condition-for-genius
 title: IQ as a necessary but not sufficient condition for genius
 wordpress_id: 3085

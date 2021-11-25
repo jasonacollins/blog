@@ -22,9 +22,9 @@ Links this week:
 And if you missed them, my posts from the last week:
 
 	
-  1. [Why family friendly policies backfire](https://jasoncollins.blog/family-friendly-backfires/).
+  1. [Why family friendly policies backfire](https://www.jasoncollins.blog/family-friendly-backfires/).
 
 	
-  2. [The winner effect in humans](https://jasoncollins.blog/the-winner-effect-in-humans/).
+  2. [The winner effect in humans](https://www.jasoncollins.blog/the-winner-effect-in-humans/).
 
 

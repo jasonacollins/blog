@@ -6,7 +6,7 @@ draft: no
 slug: kahneman-and-tverskys-debatable-loss-aversion-assumption
 ---
 
-Loss aversion is the idea that losses loom larger than gains. It is one of the foundational concepts in the judgment and decision making literature. In [Thinking, Fast and Slow](https://jasoncollins.blog/re-reading-kahnemans-thinking-fast-and-slow/), Daniel Kahneman wrote "The concept of loss aversion is certainly the most significant contribution of psychology to behavioral economics."
+Loss aversion is the idea that losses loom larger than gains. It is one of the foundational concepts in the judgment and decision making literature. In [Thinking, Fast and Slow](https://www.jasoncollins.blog/re-reading-kahnemans-thinking-fast-and-slow/), Daniel Kahneman wrote "The concept of loss aversion is certainly the most significant contribution of psychology to behavioral economics."
 
 Yet, over the last couple of years several critiques have emerged that question the foundations of loss aversion and whether loss aversion is a phenomena at all.
 
@@ -20,7 +20,7 @@ A second, [The Loss of Loss Aversion: Will It Loom Larger Than Its Gain](https:/
 
 A third strain of criticism relates to the concept of ergodicity. Put forward by [Ole Peters](https://ergodicityeconomics.com), the basic claim is that people are not maximising the expected value of a series of gambles, but rather the time average. If people maximise the latter, not the former as many approaches assume, you don't need risk or loss aversion to explain the decisions. (I'll leave explaining what exactly this means to a later post.)
 
-I'm as sceptical and cynical about the some of the findings in the behavioural sciences as most (here's my [critical behavioural economics and behavioural science reading list](https://jasoncollins.blog/a-critical-behavioural-economics-and-behavioural-science-reading-list/)), but I'm not sure I am fully on board with these arguments, particularly the stronger statements of Gal and Rucker. This post is the first of a few rummaging through these critiques to make sense of the debate, starting with Yechiam's paper on the foundations of loss aversion in prospect theory.
+I'm as sceptical and cynical about the some of the findings in the behavioural sciences as most (here's my [critical behavioural economics and behavioural science reading list](https://www.jasoncollins.blog/a-critical-behavioural-economics-and-behavioural-science-reading-list/)), but I'm not sure I am fully on board with these arguments, particularly the stronger statements of Gal and Rucker. This post is the first of a few rummaging through these critiques to make sense of the debate, starting with Yechiam's paper on the foundations of loss aversion in prospect theory.
 
 ## Acceptable losses: the debatable origins of loss aversion
 

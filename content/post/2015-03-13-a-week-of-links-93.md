@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2015-03-13 08:00:04+00:00
 draft: no
-link: https://jasoncollins.blog/a-week-of-links-93/
+link: https://www.jasoncollins.blog/a-week-of-links-93/
 slug: a-week-of-links-93
 title: A week of links
 wordpress_id: 20932
@@ -42,9 +42,9 @@ And if you missed them, my posts this week:
 
 
 	
-  1. [Boys are falling behind girls in school](https://jasoncollins.blog/the-other-gender-gap/).
+  1. [Boys are falling behind girls in school](https://www.jasoncollins.blog/the-other-gender-gap/).
 
 	
-  2. [Research on the heritability of savings behaviour](https://jasoncollins.blog/the-patience-of-economists/).
+  2. [Research on the heritability of savings behaviour](https://www.jasoncollins.blog/the-patience-of-economists/).
 
 

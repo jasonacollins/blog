@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-12-02 13:45:41+00:00
 draft: no
-link: https://jasoncollins.blog/neoclassical-theory-won-because-it-backed-the-right-horse/
+link: https://www.jasoncollins.blog/neoclassical-theory-won-because-it-backed-the-right-horse/
 slug: neoclassical-theory-won-because-it-backed-the-right-horse
 title: Neoclassical theory won because it backed the right horse
 wordpress_id: 9489

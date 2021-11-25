@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-07-24 12:52:15+00:00
 draft: no
-link: https://jasoncollins.blog/selective-sweeps-in-humans/
+link: https://www.jasoncollins.blog/selective-sweeps-in-humans/
 slug: selective-sweeps-in-humans
 title: Selective sweeps in humans
 wordpress_id: 3714

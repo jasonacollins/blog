@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-05-12 09:32:08+00:00
 draft: no
-link: https://jasoncollins.blog/population-and-the-tragedy-of-the-commons/
+link: https://www.jasoncollins.blog/population-and-the-tragedy-of-the-commons/
 slug: population-and-the-tragedy-of-the-commons
 title: Population and the tragedy of the commons
 wordpress_id: 930
@@ -11,7 +11,7 @@ wordpress_id: 930
 
 Like all economists, I am familiar with the concept of the [tragedy of the commons](http://en.wikipedia.org/wiki/Tragedy_of_the_commons). However, possibly like most economists, I had not read Garrett Hardin's [1968 article](http://www.garretthardinsociety.org/articles/art_tragedy_of_the_commons.html) from where we derive the phrase - that is, until yesterday. As a result, I did not understand the extent to which overpopulation concerns underpinned Hardin's writing (HT: Daniel Rankin).
 
-Much of Hardin's career focussed on overpopulation. He wrote one article called [Living on a Lifeboat](http://www.garretthardinsociety.org/articles/art_living_on_a_lifeboat.html) in which he argued that the lives saved by food aid would only make life worse for later generations (a Malthusian world). He was also an advocate of allowing people to choose their own time to die - he committed suicide with his wife at age 88. Given the debate on fertility at [Cato Unbound](http://www.cato-unbound.org/) and the release of Bryan Caplan's [Selfish Reasons to Have More Kids](https://jasoncollins.blog/caplans-selfish-reasons-to-have-more-kids/), what Hardin wrote in [The Tragedy of the Commons](http://www.garretthardinsociety.org/articles/art_tragedy_of_the_commons.html) about population is now particularly topical.
+Much of Hardin's career focussed on overpopulation. He wrote one article called [Living on a Lifeboat](http://www.garretthardinsociety.org/articles/art_living_on_a_lifeboat.html) in which he argued that the lives saved by food aid would only make life worse for later generations (a Malthusian world). He was also an advocate of allowing people to choose their own time to die - he committed suicide with his wife at age 88. Given the debate on fertility at [Cato Unbound](http://www.cato-unbound.org/) and the release of Bryan Caplan's [Selfish Reasons to Have More Kids](https://www.jasoncollins.blog/caplans-selfish-reasons-to-have-more-kids/), what Hardin wrote in [The Tragedy of the Commons](http://www.garretthardinsociety.org/articles/art_tragedy_of_the_commons.html) about population is now particularly topical.
 
 Hardin's concern about overpopulation stemmed from the existence of the commons. For example, in a "dog eat dog" world, if someone had too many children, it would not be a matter of public concern as these parents would leave less descendants than others. This is because they would be unable to adequately care for a large number of children. He wrote:
 

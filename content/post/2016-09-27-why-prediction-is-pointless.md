@@ -6,7 +6,7 @@ draft: no
 slug: why-prediction-is-pointless
 ---
 
-One of my favourite parts of Philip Tetlock's [Expert Political Judgment](https://jasoncollins.blog/tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know/) is his chapter examining the reasons for "radical skepticism" about forecasting. Radical skeptics believe that Tetlock's mission to improve forecasting of political and economic events is doomed as the world is inherently unpredictable (beyond conceding that no expertise was required to know that war would not erupt in Scandinavia in the 1990s). Before reading Expert Political Judgment, I largely fell into this radical skeptic camp (and much of me still resides in it).
+One of my favourite parts of Philip Tetlock's [Expert Political Judgment](https://www.jasoncollins.blog/tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know/) is his chapter examining the reasons for "radical skepticism" about forecasting. Radical skeptics believe that Tetlock's mission to improve forecasting of political and economic events is doomed as the world is inherently unpredictable (beyond conceding that no expertise was required to know that war would not erupt in Scandinavia in the 1990s). Before reading Expert Political Judgment, I largely fell into this radical skeptic camp (and much of me still resides in it).
 
 Tetlock suggests skeptics have two lines of intellectual descent - ontological skeptics who argue that the properties of the world make prediction impossible, and psychological skeptics who point to the human mind as being unsuited to teasing out any predictability that might exist. Below are excerpts of Tetlock's examinations of each (together with the occasional rejoinder by Tetlock).
 

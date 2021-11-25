@@ -50,7 +50,7 @@ Here’s how to think about it. Say results are part persistent skill and part t
 
 On this last point, a simple test of whether your activity involves skill is whether you can lose on purpose. For example, try to build a stock portfolio that will do worse than the benchmark.
 
-Mauboussin links reversion of the mean to the "halo effect" (I recommend reading [Phil Rosenzweig's book](https://jasoncollins.blog/rosenzweigs-the-halo-effect-and-the-eight-other-business-delusions-that-deceive-managers/) of that name). The halo effect is the tendency of impressions from one area to influence impressions of another. In business, if people see a company with good profits, they will tend to assess the CEO's management style, communications, organisational structure, strategic direction as all being positive.
+Mauboussin links reversion of the mean to the "halo effect" (I recommend reading [Phil Rosenzweig's book](https://www.jasoncollins.blog/rosenzweigs-the-halo-effect-and-the-eight-other-business-delusions-that-deceive-managers/) of that name). The halo effect is the tendency of impressions from one area to influence impressions of another. In business, if people see a company with good profits, they will tend to assess the CEO's management style, communications, organisational structure, strategic direction as all being positive.
 
 When the company's performance later reverts to the mean, people then interpret all of these things as going bad, when it is quite possible nothing has changed. The result is that great results tend to be followed by glowing stories in the media followed by the fall:
 

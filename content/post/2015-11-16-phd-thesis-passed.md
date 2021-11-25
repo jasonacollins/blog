@@ -8,15 +8,15 @@ slug: phd-thesis-passed
 
 A couple of months ago I was notified that my PhD thesis had been passed ([full pdf here](/pdf/2015-11-16-phd-thesis-passed/jason-collins-thesis-final-20151025.pdf)). I have posted about each chapter before:
 	
-1. [The Evolutionary Foundations of Economics](https://jasoncollins.blog/the-evolutionary-foundations-of-economics/)
+1. [The Evolutionary Foundations of Economics](https://www.jasoncollins.blog/the-evolutionary-foundations-of-economics/)
 
-2. [Economic Growth and Evolution: Parental Preference for Quality and Quantity of Offspring](https://jasoncollins.blog/economic-growth-and-evolution-parental-preference-for-quality-and-quantity-of-offspring/)
+2. [Economic Growth and Evolution: Parental Preference for Quality and Quantity of Offspring](https://www.jasoncollins.blog/economic-growth-and-evolution-parental-preference-for-quality-and-quantity-of-offspring/)
 
-3. [Population, Technological Progress and the Evolution of Innovative Potential](https://jasoncollins.blog/population-technological-progress-and-the-evolution-of-innovative-potential/)
+3. [Population, Technological Progress and the Evolution of Innovative Potential](https://www.jasoncollins.blog/population-technological-progress-and-the-evolution-of-innovative-potential/)
 
-4. [Sexual selection, conspicuous consumption and economic growth](https://jasoncollins.blog/conspicuous-consumption-and-economic-growth-2/)
+4. [Sexual selection, conspicuous consumption and economic growth](https://www.jasoncollins.blog/conspicuous-consumption-and-economic-growth-2/)
 
-5. [Evolution, Fertility and the Ageing Population](https://jasoncollins.blog/fertility-is-going-to-go-up/).
+5. [Evolution, Fertility and the Ageing Population](https://www.jasoncollins.blog/fertility-is-going-to-go-up/).
 
 Here are links to the three (anonymised) examiner reports - one from an [economist at an Australian university](/pdf/2015-11-16-phd-thesis-passed/aus-econ.pdf), another from a [US based economist](/pdf/2015-11-16-phd-thesis-passed/us-econ1.pdf), and a third from a [biologist](/pdf/2015-11-16-phd-thesis-passed/biologist.pdf). A few excerpts follow. First, from the Australian-based economist on the overarching thesis:
 

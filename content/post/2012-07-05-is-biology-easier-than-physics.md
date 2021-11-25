@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-07-05 13:03:09+00:00
 draft: no
-link: https://jasoncollins.blog/is-biology-easier-than-physics/
+link: https://www.jasoncollins.blog/is-biology-easier-than-physics/
 slug: is-biology-easier-than-physics
 title: Is biology easier than physics?
 wordpress_id: 3569
@@ -19,7 +19,7 @@ I think it has happened in physics and mathematics, for example. There's this id
 
 While I am not convinced that Chomsky's prediction of bright students going into biology played out (didn't they all go into finance?), it is an interesting question. Is biology inherently more accessible?
 
-Contrast the current group selection debate, such as that being played out at [The Edge](http://edge.org/conversation/the-false-allure-of-group-selection) following[ Steven Pinker's essay](https://jasoncollins.blog/pinker-takes-on-group-selection/) critiquing group selection, with the discussion of the discovery of the Higgs boson. The group selection debate has a range of participants from academic biologists to popular science writers to bloggers. It takes little investment to have an opinion. In contrast, for all but a few physicists, we are passive receivers of information about the Higgs boson.
+Contrast the current group selection debate, such as that being played out at [The Edge](http://edge.org/conversation/the-false-allure-of-group-selection) following[ Steven Pinker's essay](https://www.jasoncollins.blog/pinker-takes-on-group-selection/) critiquing group selection, with the discussion of the discovery of the Higgs boson. The group selection debate has a range of participants from academic biologists to popular science writers to bloggers. It takes little investment to have an opinion. In contrast, for all but a few physicists, we are passive receivers of information about the Higgs boson.
 
 However, the group selection debate is not necessarily a perfect example of an easily accessible topic. Reading through the responses to Pinker's essay, it is clear that many of the responders do not have a common understanding of what group selection is. When the statement is made that the inclusive fitness and multi-level selection approaches can be shown to be mathematically equivalent representations, most people do not understand how or why that might be the case. And if we take one of the triggers of the recent escalation in debate, [Nowak, Tarnita and Wilson's Nature paper](http://www.nature.com/nature/journal/v466/n7310/full/nature09205.html) attacking kin selection, the majority of the debate participants do not fully understand the mathematics that underpins it, including one of the paper's authors himself. While physics may have progressed to a level such that it is less accessible than biology, some of the accessibility of biology is illusory.
 

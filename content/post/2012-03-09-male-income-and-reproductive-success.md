@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-03-09 09:50:58+00:00
 draft: no
-link: https://jasoncollins.blog/male-income-and-reproductive-success/
+link: https://www.jasoncollins.blog/male-income-and-reproductive-success/
 slug: male-income-and-reproductive-success
 title: Male income and reproductive success
 wordpress_id: 2633
@@ -21,7 +21,7 @@ Where we see even stronger selection, however, is in the historical data. Nettle
 
 Further, while the strength of selection in the three contemporary societies was similar to each other, it was lower than in the pre-Industrial societies. The authors suggested that this weakened pressure was largely due to an increase in the level of monogamy and reduced variation in effective family size, rather than changing preferences for income. As the authors note however, while weakened, the selection in modern societies is still significant.
 
-An underlying question to these results is whether the selection of phenotypic features (income) has any relationship to underlying genetic qualities. Both income, and many of the factors underlying income, such as IQ, [have been found to be heritable](https://jasoncollins.blog/income-and-iq/), so there is likely to be evolutionary changes to the composition of the population.
+An underlying question to these results is whether the selection of phenotypic features (income) has any relationship to underlying genetic qualities. Both income, and many of the factors underlying income, such as IQ, [have been found to be heritable](https://www.jasoncollins.blog/income-and-iq/), so there is likely to be evolutionary changes to the composition of the population.
 
 The other question is why is there this link. The most obvious explanation is that women prefer men with more resources, both for the resources themselves and for the fact that they signal quality. That the effect of income was largely related to whether someone had zero or more children, rather than size of family, might be suggestive of this. To have more than zero children, you need to attract a mate. However, while doubting the idea, the authors did not rule out an explanation that men who have children earn more to support them.
 

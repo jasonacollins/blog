@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-10-03 11:41:27+00:00
 draft: no
-link: https://jasoncollins.blog/cooperation-is-intuitive/
+link: https://www.jasoncollins.blog/cooperation-is-intuitive/
 slug: cooperation-is-intuitive
 title: Cooperation is intuitive
 wordpress_id: 4217

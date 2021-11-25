@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-03-04 10:31:28+00:00
 draft: no
-link: https://jasoncollins.blog/victorian-naturalists/
+link: https://www.jasoncollins.blog/victorian-naturalists/
 slug: victorian-naturalists
 title: Victorian naturalists
 wordpress_id: 5556

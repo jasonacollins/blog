@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2014-07-29 13:37:32+00:00
 draft: no
-link: https://jasoncollins.blog/gigerenzer-versus-nudge/
+link: https://www.jasoncollins.blog/gigerenzer-versus-nudge/
 slug: gigerenzer-versus-nudge
 title: Gigerenzer versus nudge
 wordpress_id: 20048
@@ -11,7 +11,7 @@ wordpress_id: 20048
 
 Since I first came across it, I have been a fan of Gerd Gigerenzer’s work. But I have always been slightly perplexed by the effort he expends framing his work in opposition to behavioural science and “nudges”. Most behavioural science aficionados who are aware of Gigerenzer’s work are fans of it, and you can appreciate behavioural science and Gigerenzer without suffering from two conflicting ideas in your mind.
 
-In a [recent LSE lecture](http://www.lse.ac.uk/publicEvents/events/2014/05/20140521t1830vOT.aspx) about his new book [Risk Savvy: How to Make Good Decisions](https://jasoncollins.blog/nudging-citizens-to-be-risk-savvy/) (which sits unread in my reading pile), Gigerenzer again has a few swipes at Daniel Kahneman and friends. The blurb for the podcast gives a taste. A set of coercive government interventions are listed, none of which are nudges, and it is suggested that we need risk savvy citizens who won’t be scared into surrendering their freedom. Slotted between these is the suggestion that some people see a need for “nudging”.
+In a [recent LSE lecture](http://www.lse.ac.uk/publicEvents/events/2014/05/20140521t1830vOT.aspx) about his new book [Risk Savvy: How to Make Good Decisions](https://www.jasoncollins.blog/nudging-citizens-to-be-risk-savvy/) (which sits unread in my reading pile), Gigerenzer again has a few swipes at Daniel Kahneman and friends. The blurb for the podcast gives a taste. A set of coercive government interventions are listed, none of which are nudges, and it is suggested that we need risk savvy citizens who won’t be scared into surrendering their freedom. Slotted between these is the suggestion that some people see a need for “nudging”.
 
 Gigerenzer does provide a different angle to the behavioural science agenda. His work has provided strong evidence for the accuracy of heuristics and shown that many of our so-called irrational decisions make sense from the perspective of the environment where they were designed (evolved). But his work doesn’t undermine the fact that many decisions are made outside of the environment where they originated – those fast, frugal and well-shaped heuristics have not stopped us getting fat, spending huge amounts on unused gym memberships and failing to save for retirement. Gigerenzer’s work provides depth to the behavioural analysis, rather than undermining it, and points to a richer set of potential solutions.
 

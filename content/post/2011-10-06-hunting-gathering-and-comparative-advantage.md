@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-10-06 10:54:59+00:00
 draft: no
-link: https://jasoncollins.blog/hunting-gathering-and-comparative-advantage/
+link: https://www.jasoncollins.blog/hunting-gathering-and-comparative-advantage/
 slug: hunting-gathering-and-comparative-advantage
 title: Hunting, gathering and comparative advantage
 wordpress_id: 1885

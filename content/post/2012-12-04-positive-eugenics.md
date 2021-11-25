@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-12-04 09:54:49+00:00
 draft: no
-link: https://jasoncollins.blog/positive-eugenics/
+link: https://www.jasoncollins.blog/positive-eugenics/
 slug: positive-eugenics
 title: Positive eugenics
 wordpress_id: 4734
@@ -23,4 +23,4 @@ Entine focuses on medical interventions, such as the testing of foetuses, and hi
 
 Interestingly, some of the "positive eugenics" discussed by Entine does not reduce the frequency of harmful alleles in the population, but rather affects the frequency in which they express themselves in the population. For example, the incidence of Tay Sachs disease has been reduced due to screening in Jewish populations. As the disease only manifests when someone possesses both disease-related alleles, the prevention of marriage between carriers of the alleles stops their children from having the disease. But the disease-related allele can still be harmlessly present in the next generation. Further, if there were a positive effect from carrying only one of these alleles, which is suggested by the spread of the allele despite the high costs to the disease, screening could actually increase the prevalence.
 
-Finally, as I [have posted before](https://jasoncollins.blog/hayek-planning-and-eugenics/), a positive eugenics program has been ongoing for millions of years through our selection of partners with whom we wish to have children. We are still some way from using modern technologies to shape out genetic future to the extent that sexual selection already does.
+Finally, as I [have posted before](https://www.jasoncollins.blog/hayek-planning-and-eugenics/), a positive eugenics program has been ongoing for millions of years through our selection of partners with whom we wish to have children. We are still some way from using modern technologies to shape out genetic future to the extent that sexual selection already does.

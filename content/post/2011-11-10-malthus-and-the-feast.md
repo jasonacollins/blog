@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-11-10 13:41:03+00:00
 draft: no
-link: https://jasoncollins.blog/malthus-and-the-feast/
+link: https://www.jasoncollins.blog/malthus-and-the-feast/
 slug: malthus-and-the-feast
 title: Malthus and the feast
 wordpress_id: 1993
@@ -17,7 +17,7 @@ A man who is born into a world already possessed, if he cannot get subsistence f
 </blockquote>
 
 
-Garrett Hardin, who I have [posted about previously](https://jasoncollins.blog/population-and-the-tragedy-of-the-commons/), wrote [an essay](http://www.thesocialcontract.com/artman2/publish/tsc0803/article_741.shtml) which blames the general rejection of Malthus's writings on this single paragraph:
+Garrett Hardin, who I have [posted about previously](https://www.jasoncollins.blog/population-and-the-tragedy-of-the-commons/), wrote [an essay](http://www.thesocialcontract.com/artman2/publish/tsc0803/article_741.shtml) which blames the general rejection of Malthus's writings on this single paragraph:
 
 
 <blockquote>

@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2015-02-05 08:00:07+00:00
 draft: no
-link: https://jasoncollins.blog/obesity-is-not-a-public-health-problem/
+link: https://www.jasoncollins.blog/obesity-is-not-a-public-health-problem/
 slug: obesity-is-not-a-public-health-problem
 title: Obesity is not a public health problem
 wordpress_id: 20794

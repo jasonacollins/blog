@@ -3,13 +3,13 @@ author: jasonacollins
 comments: true
 date: 2011-02-12 08:00:03+00:00
 draft: no
-link: https://jasoncollins.blog/crime-and-selection-of-aggressive-males/
+link: https://www.jasoncollins.blog/crime-and-selection-of-aggressive-males/
 slug: crime-and-selection-of-aggressive-males
 title: Crime and selection of aggressive males
 wordpress_id: 522
 ---
 
-As I [posted](https://jasoncollins.blog/selection-for-aggression/) a couple of months ago, a higher level of violence in a society may lead women to prefer more masculine appearing men. In such an environment, picking the healthiest appearing male is more important than the level of parental care the woman expects the man to give.
+As I [posted](https://www.jasoncollins.blog/selection-for-aggression/) a couple of months ago, a higher level of violence in a society may lead women to prefer more masculine appearing men. In such an environment, picking the healthiest appearing male is more important than the level of parental care the woman expects the man to give.
 
 The latest issue of Evolution and Human Behavior has an [article examining the link](https://doi.org/10.1016/j.evolhumbehav.2010.08.007) between female preference and violence, with Jeffrey Snyder and colleagues examining whether a woman's fear of crime might be a predictor of her preference for "aggressive and formidable" mates. Unlike earlier research, which focused on actual violence levels, Snyder and colleagues' targeted their hypothesis at the woman's perception of her vulnerability to crime. This makes sense, as the need for an aggressive man is likely to be a function of both the level of crime and the woman's ability to defend herself. The woman's perception of her vulnerability should capture both of these elements.
 
@@ -31,4 +31,4 @@ Second, and as suggested in the paper, finding out what these women actually do 
 
 I would also like to know more about the women in the survey. Are they in a partnership or married? How tall are they? Have they been a victim of crime? Does their fear of violence come from in the home or from people they know? How much property do they have which could be appropriated in a crime? This might help find some explanatory variables with some real predictive power. However, to test the basic hypothesis, we need a sample with more variation in the levels of violence and ideally, a sample in which we can observe real choices.
 
-I don't believe that this story sheds much light on my earlier ruminations on violence (most recent [here](https://jasoncollins.blog/clark-on-violence/)) and the importance of a shift away from violence to allow characteristics such as hard work, intelligence and patience to be rewarded and spread through the population. It could be argued that as the study was conducted in a developed country, and among educated women in that country, we would expect violence to be a trait associated with low fitness. You would expect women to generally favour other traits, with the aggressive characteristics to be secondary and only accepted if they do not come at the cost of economically important traits. Again, to test this idea, we require more variation in the sample. We would need some of the sample to come from populations in which crime brings benefits to its purveyors and results in reproductive success.
+I don't believe that this story sheds much light on my earlier ruminations on violence (most recent [here](https://www.jasoncollins.blog/clark-on-violence/)) and the importance of a shift away from violence to allow characteristics such as hard work, intelligence and patience to be rewarded and spread through the population. It could be argued that as the study was conducted in a developed country, and among educated women in that country, we would expect violence to be a trait associated with low fitness. You would expect women to generally favour other traits, with the aggressive characteristics to be secondary and only accepted if they do not come at the cost of economically important traits. Again, to test this idea, we require more variation in the sample. We would need some of the sample to come from populations in which crime brings benefits to its purveyors and results in reproductive success.

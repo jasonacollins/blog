@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-12-18 12:37:57+00:00
 draft: no
-link: https://jasoncollins.blog/the-perfection-of-man/
+link: https://www.jasoncollins.blog/the-perfection-of-man/
 slug: the-perfection-of-man
 title: The perfection of man
 wordpress_id: 2120

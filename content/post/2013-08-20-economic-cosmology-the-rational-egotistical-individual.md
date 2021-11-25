@@ -3,13 +3,13 @@ author: jasonacollins
 comments: true
 date: 2013-08-20 12:14:20+00:00
 draft: no
-link: https://jasoncollins.blog/economic-cosmology-the-rational-egotistical-individual/
+link: https://www.jasoncollins.blog/economic-cosmology-the-rational-egotistical-individual/
 slug: economic-cosmology-the-rational-egotistical-individual
 title: Economic cosmology - The rational egotistical individual
 wordpress_id: 7055
 ---
 
-The social sciences have recently become a common battleground for debates about group selection. From [Jonathan Haidt's use of group selection](https://jasoncollins.blog/haidts-group-selection/) to explain "groupish" traits in humans, to some of the recent rumblings about cultural group selection (as expressed in a [debate triggered by Steven Pinker](https://jasoncollins.blog/pinker-takes-on-group-selection/)), and even at [last years Consilience Conference](https://jasoncollins.blog/group-selection-and-the-social-sciences/), group selection has undergone a revival in the social sciences.
+The social sciences have recently become a common battleground for debates about group selection. From [Jonathan Haidt's use of group selection](https://www.jasoncollins.blog/haidts-group-selection/) to explain "groupish" traits in humans, to some of the recent rumblings about cultural group selection (as expressed in a [debate triggered by Steven Pinker](https://www.jasoncollins.blog/pinker-takes-on-group-selection/)), and even at [last years Consilience Conference](https://www.jasoncollins.blog/group-selection-and-the-social-sciences/), group selection has undergone a revival in the social sciences.
 
 One social science in which group selection has re-emerged is economics, with the most recent occurrence in the Journal of Economic Behavior & Organization special issue, _Evolution as a General Theoretical Framework for Economics and Public Policy._
 
@@ -17,7 +17,7 @@ In that special issue, group selection is one of the central threads of [an arti
 
 Gowdy and colleagues hint at some of the previous debate over whether man is purely self-interested, pointing to the origins of the cosmology in work by Pareto, Jevons and Walras, along with critiques of this view by Edgeworth, Veblen and some modern writers. However, the bulk of the argument developed in the paper relates to the nature of groups.
 
-Their opening argument is that group level phenomena can affect individual behaviour, which can then affect the economic system as a whole. This is a fair point, and was one of the central themes of An Economic Theory of Greed, Love, Groups and Networks that I [recently reviewed](https://jasoncollins.blog/an-economic-theory-of-greed-love-groups-and-networks/). Humans are highly social and highly responsive to group-level incentives.
+Their opening argument is that group level phenomena can affect individual behaviour, which can then affect the economic system as a whole. This is a fair point, and was one of the central themes of An Economic Theory of Greed, Love, Groups and Networks that I [recently reviewed](https://www.jasoncollins.blog/an-economic-theory-of-greed-love-groups-and-networks/). Humans are highly social and highly responsive to group-level incentives.
 
 This point, however, leads Gowdy and colleagues to group or multilevel selection. As they frame the question:
 
@@ -33,7 +33,7 @@ The authors note the arguments of George Williams and friends of the 1960s, who 
 
 This is where I need to be careful with language, particularly given the mention of multilevel selection theory.
 
-The phrase "group selection" is often used in reference to selection between populations, and this was the context for the debates between Wynne-Edwards, Williams, Maynard Smith, Dawkins and others. In the mid to late 1970s, David Sloan Wilson (one of the authors of the paper the subject of this post) developed a different conception of group selection, generally termed multilevel selection, which looks at the development of individual traits within group structured populations. The groups are not population size groups, but are rather "trait groups" within populations that occur through non-random assortment of altruistic genes. These are not groups in the sense that people typically use the word. For example, when I engage in a trade with someone, we could be considered a group under this multilevel selection framework.  (I have written extended posts explaining the concept of multilevel selection [here](https://jasoncollins.blog/what-is-multilevel-selection/) and [here](https://jasoncollins.blog/groups-kin-and-self-interest/).)
+The phrase "group selection" is often used in reference to selection between populations, and this was the context for the debates between Wynne-Edwards, Williams, Maynard Smith, Dawkins and others. In the mid to late 1970s, David Sloan Wilson (one of the authors of the paper the subject of this post) developed a different conception of group selection, generally termed multilevel selection, which looks at the development of individual traits within group structured populations. The groups are not population size groups, but are rather "trait groups" within populations that occur through non-random assortment of altruistic genes. These are not groups in the sense that people typically use the word. For example, when I engage in a trade with someone, we could be considered a group under this multilevel selection framework.  (I have written extended posts explaining the concept of multilevel selection [here](https://www.jasoncollins.blog/what-is-multilevel-selection/) and [here](https://www.jasoncollins.blog/groups-kin-and-self-interest/).)
 
 In multilevel selection theory, selection occurs at all levels and the multilevel selection framework allows you to partition the selection effects between these levels. Importantly, multilevel selection theory is generally accepted as a different way to conceptualising the same evolutionary processes as are captured by the concept of inclusive fitness (kin selection). Gowdy and colleagues hat tip to this concept by noting that altruistic actions can be made to appear selfish by altering the frame of comparison.
 
@@ -54,21 +54,21 @@ My series of posts on the Journal of Economic Behavior & Organization special 
 
 
 	
-  1. [Social Darwinism is back](https://jasoncollins.blog/social-darwinism-is-back/) - a post on one of the popular press articles that accompanied the special issue, a piece by David Sloan Wilson called [A good social Darwinism](http://www.aeonmagazine.com/living-together/how-evolution-can-reform-economics/).
+  1. [Social Darwinism is back](https://www.jasoncollins.blog/social-darwinism-is-back/) - a post on one of the popular press articles that accompanied the special issue, a piece by David Sloan Wilson called [A good social Darwinism](http://www.aeonmagazine.com/living-together/how-evolution-can-reform-economics/).
 
 	
-  2. [Four reasons why evolutionary theory might not add value to economics](https://jasoncollins.blog/four-reasons-why-evolutionary-theory-might-not-add-value-to-economics/) - a post on David Sloan Wilson and John Gowdy's article _Evolution as a general theoretical framework for economics and public policy_
+  2. [Four reasons why evolutionary theory might not add value to economics](https://www.jasoncollins.blog/four-reasons-why-evolutionary-theory-might-not-add-value-to-economics/) - a post on David Sloan Wilson and John Gowdy's article _Evolution as a general theoretical framework for economics and public policy_
 
 	
-  3. [Economic cosmology - The rational egotistical individual](https://jasoncollins.blog/economic-cosmology-the-rational-egotistical-individual/) (this post) - a post on John Gowdy and colleagues' article _Economic cosmology and the evolutionary challenge _
+  3. [Economic cosmology - The rational egotistical individual](https://www.jasoncollins.blog/economic-cosmology-the-rational-egotistical-individual/) (this post) - a post on John Gowdy and colleagues' article _Economic cosmology and the evolutionary challenge _
 
 	
-  4. [Economic cosmology - The invisible hand](https://jasoncollins.blog/economic-cosmology-the-invisible-hand/) - a second post on _Economic cosmology and the evolutionary challenge _
+  4. [Economic cosmology - The invisible hand](https://www.jasoncollins.blog/economic-cosmology-the-invisible-hand/) - a second post on _Economic cosmology and the evolutionary challenge _
 
 	
-  5. [Economic cosmology - Equilibrium](https://jasoncollins.blog/economic-cosmology-equilibrium/) - a third post on _Economic cosmology and the evolutionary challenge_
+  5. [Economic cosmology - Equilibrium](https://www.jasoncollins.blog/economic-cosmology-equilibrium/) - a third post on _Economic cosmology and the evolutionary challenge_
 
 	
-  6. [Design principles for the efficacy of groups](https://jasoncollins.blog/design-principles-efficacy-groups/) - a post on David Sloan Wilson, Elinor Ostrom and Michael E. Cox's article _Generalizing the core design principles for the efficacy of groups_
+  6. [Design principles for the efficacy of groups](https://www.jasoncollins.blog/design-principles-efficacy-groups/) - a post on David Sloan Wilson, Elinor Ostrom and Michael E. Cox's article _Generalizing the core design principles for the efficacy of groups_
 
 

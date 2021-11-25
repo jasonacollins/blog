@@ -14,6 +14,6 @@ Links this week:
 
 And if you missed it, my one post this last week:
 
-  1. [Bad nudges toward organ donation](https://jasoncollins.blog/bad-nudges-organ-donation-edition/).
+  1. [Bad nudges toward organ donation](https://www.jasoncollins.blog/bad-nudges-organ-donation-edition/).
 
 Life continues to be busy, so posting will continue to be sparse.

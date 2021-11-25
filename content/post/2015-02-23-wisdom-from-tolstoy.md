@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2015-02-23 08:00:03+00:00
 draft: no
-link: https://jasoncollins.blog/wisdom-from-tolstoy/
+link: https://www.jasoncollins.blog/wisdom-from-tolstoy/
 slug: wisdom-from-tolstoy
 title: Wisdom from Tolstoy
 wordpress_id: 20871

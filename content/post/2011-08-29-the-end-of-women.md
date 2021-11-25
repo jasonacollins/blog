@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-08-29 13:43:35+00:00
 draft: no
-link: https://jasoncollins.blog/the-end-of-women/
+link: https://www.jasoncollins.blog/the-end-of-women/
 slug: the-end-of-women
 title: The end of women
 wordpress_id: 1726

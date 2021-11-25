@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-06-21 13:23:10+00:00
 draft: no
-link: https://jasoncollins.blog/population-connectivity-and-innovation/
+link: https://www.jasoncollins.blog/population-connectivity-and-innovation/
 slug: population-connectivity-and-innovation
 title: Population, connectivity and innovation
 wordpress_id: 3503
@@ -33,6 +33,6 @@ Take an example Ridley uses in the speech - that the internet and mobile telepho
 
 Or consider the comment on Caplan's post where Ridley notes the success of Athens, Genoa, Holland, New York, San Jose, Singapore and Hong Kong. They do not look like a random sample. They comprise intelligent, educated populations.
 
-Ridley's agnosticism about whether people are smart is reflected in his recent post [dismissing concern about shrinking brains](https://jasoncollins.blog/the-consequences-of-shrinking-brains/). As I mentioned then, there are few better predictors of a country's wealth than the IQ of the population. There are significant benefits to a high average IQ.
+Ridley's agnosticism about whether people are smart is reflected in his recent post [dismissing concern about shrinking brains](https://www.jasoncollins.blog/the-consequences-of-shrinking-brains/). As I mentioned then, there are few better predictors of a country's wealth than the IQ of the population. There are significant benefits to a high average IQ.
 
-Finally, connectivity is at least partly a consequence of quality. Higher [IQ people are more trusting](https://jasoncollins.blog/jones-on-iq-and-productivity/) and more likely to trade. Those with higher IQ are more likely to be connected and share the ideas they have created.
+Finally, connectivity is at least partly a consequence of quality. Higher [IQ people are more trusting](https://www.jasoncollins.blog/jones-on-iq-and-productivity/) and more likely to trade. Those with higher IQ are more likely to be connected and share the ideas they have created.

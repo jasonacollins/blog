@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-06-17 11:27:21+00:00
 draft: no
-link: https://jasoncollins.blog/evolutionary-science-as-the-new-classics/
+link: https://www.jasoncollins.blog/evolutionary-science-as-the-new-classics/
 slug: evolutionary-science-as-the-new-classics
 title: Evolutionary science as the new "classics"
 wordpress_id: 3485

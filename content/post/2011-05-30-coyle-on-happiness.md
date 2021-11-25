@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-05-30 09:12:15+00:00
 draft: no
-link: https://jasoncollins.blog/coyle-on-happiness/
+link: https://www.jasoncollins.blog/coyle-on-happiness/
 slug: coyle-on-happiness
 title: Coyle on happiness
 wordpress_id: 1131
@@ -15,4 +15,4 @@ Over the weekend I read [Diane Coyle's](http://blog.enlightenmenteconomics.com/)
 >
 >However, this kind of policy conclusion has been strongly challenged by other researchers. In his book The Idea of Justice Amartya Sen agrees that people’s happiness depends on their expectations, which are shaped by their own social situation. But he turns the argument about adaptation and the hedonic treadmill back on the happiness crowd: if we just aim for people to be happy with their lot, where is the social discontent that will create the momentum for a better life? Would women have ever gained the vote if many had not been unhappy? Would there have been a civil rights movement without discontent? Is poverty acceptable because poor people say they are pretty content? Obviously not; most people would agree the world with the discontent and change was better than the contented and static one.
 
-As noted in my recent post on [happiness adjusting](https://jasoncollins.blog/happiness-adjusts/), dissatisfaction might be a major driver of progress. However, there is a distinction between the policy concerns of Frank and Sen. [Frank intends his taxes](http://www.nytimes.com/2007/10/07/business/07view.html?ex=1349409600&en=5dc544a64b1d288a&ei=5124&partner=permalink&exprod=permalink) to cut competition in areas where the effort is wasteful and focused on relative status, such as competition for the largest house. Further, he intends progressive consumption taxes to allow reduction of taxes in other areas, such as those on income. That is a large step from taxing the poor because they will not be happier when richer.
+As noted in my recent post on [happiness adjusting](https://www.jasoncollins.blog/happiness-adjusts/), dissatisfaction might be a major driver of progress. However, there is a distinction between the policy concerns of Frank and Sen. [Frank intends his taxes](http://www.nytimes.com/2007/10/07/business/07view.html?ex=1349409600&en=5dc544a64b1d288a&ei=5124&partner=permalink&exprod=permalink) to cut competition in areas where the effort is wasteful and focused on relative status, such as competition for the largest house. Further, he intends progressive consumption taxes to allow reduction of taxes in other areas, such as those on income. That is a large step from taxing the poor because they will not be happier when richer.

@@ -3,13 +3,13 @@ author: jasonacollins
 comments: true
 date: 2011-07-18 08:48:19+00:00
 draft: no
-link: https://jasoncollins.blog/fukuyamas-biological-approach/
+link: https://www.jasoncollins.blog/fukuyamas-biological-approach/
 slug: fukuyamas-biological-approach
 title: Fukuyama's biological approach
 wordpress_id: 1531
 ---
 
-I have started reading Francis Fukuyama's [The Origins of Political Order](https://jasoncollins.blog/fukuyamas-the-origins-of-political-order/) and am enjoying his starting point of human prehistory. I will write a full review when I have finished, but in the meantime, some of Fukuyama's initial observations are worth noting. In particular, he takes biology to be the foundation of our understanding of political development.
+I have started reading Francis Fukuyama's [The Origins of Political Order](https://www.jasoncollins.blog/fukuyamas-the-origins-of-political-order/) and am enjoying his starting point of human prehistory. I will write a full review when I have finished, but in the meantime, some of Fukuyama's initial observations are worth noting. In particular, he takes biology to be the foundation of our understanding of political development.
 
 
 <blockquote>To understand this, then, we need to go back to the state of nature and to human biology, which in some sense sets the framework for the whole of human politics. Biology presents a certain degree of solid ground resting below the turtles at the bottom of the stack, though even biology, as we will see in the next chapter, is not an entirely fixed point.
@@ -25,7 +25,7 @@ While Fukuyama starts with the biological basis, he adopts a Jared Diamond-esque
 <blockquote>Biology gives us the building blocks of political development. Human nature is largely constant across different societies. The huge variance in political forms that we see both at the present time and over the course of history is in the first instance the product of variance in the physical environments that human beings came to inhabit. As societies ramify and fill different environmental niches across the globe, they develop distinctive norms and ideas in a process known as specific evolution. Groups of humans also interact with each other, and this interaction is as much a driver of change as is the physical environment.</blockquote>
 
 
-As I have [posted about before](https://jasoncollins.blog/diamond-on-biological-differences/), I am not averse to a Jared Diamond style argument for developmental differences being triggered by environmental variation. However, this is not to say that human nature is from that point static.
+As I have [posted about before](https://www.jasoncollins.blog/diamond-on-biological-differences/), I am not averse to a Jared Diamond style argument for developmental differences being triggered by environmental variation. However, this is not to say that human nature is from that point static.
 
 Fukuyama's analysis of the basis of the philosophies of Rousseau, Hobbes and Locke is also interesting. By acknowledging that humans are social and competitive animals, their philosophical positions can be argued to have a very weak foundation. Fukuyama writes:
 

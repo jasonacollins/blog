@@ -3,13 +3,13 @@ author: jasonacollins
 comments: true
 date: 2013-04-25 12:59:27+00:00
 draft: no
-link: https://jasoncollins.blog/altruists-and-the-knowledge-problem/
+link: https://www.jasoncollins.blog/altruists-and-the-knowledge-problem/
 slug: altruists-and-the-knowledge-problem
 title: Altruists and the knowledge problem
 wordpress_id: 6030
 ---
 
-I have posted before about [Gary Becker's argument](https://jasoncollins.blog/rotten-kids-and-altruism/) that the evolution of altruism can be explained by a version of his rotten kid theorem. In short, if an altruist cares about other people's welfare in addition to their own and is willing to transfer their resources to others, an egoist's action to harm the altruist may also harm the egoist as the amount that the altruist would be willing to transfer to the egoist will be reduced. As a result, the egoist will refrain from hurting the altruist, making the altruist better off than if they were an egoist.
+I have posted before about [Gary Becker's argument](https://www.jasoncollins.blog/rotten-kids-and-altruism/) that the evolution of altruism can be explained by a version of his rotten kid theorem. In short, if an altruist cares about other people's welfare in addition to their own and is willing to transfer their resources to others, an egoist's action to harm the altruist may also harm the egoist as the amount that the altruist would be willing to transfer to the egoist will be reduced. As a result, the egoist will refrain from hurting the altruist, making the altruist better off than if they were an egoist.
 
 As I raised in my post, Becker's argument can run into corner solutions, whereby the scale of the gain to the egoist and damage to the altruist are such that the egoist is willing to harm the altruist. However, I only recently realised that the year after publication of Becker's article, the Journal of Economic Literature published responses to Becker's paper by [Jack Hirshleifer](http://www.jstor.org/stable/2723214) and [Gordon Tullock](http://www.jstor.org/stable/2723215), along with a [reply by Becker](http://www.jstor.org/stable/2723216).
 
@@ -17,7 +17,7 @@ Hirshleifer's critique focuses on the order in which the altruist and egoist's a
 
 Hirshleifer then goes on to show that Becker's analysis is powerful where the altruist can keep the last word, and an altruist may be selfishly better off than if they were planning an egoistic action. Their altruism restrains the behaviour of the egoist.
 
-In reply, Becker called Hirshleifer's comments perceptive, with the note that his scenario can only work among a small number of relatives or neighbours (so Becker had already dealt with part of [my criticism](https://jasoncollins.blog/rotten-kids-and-altruism/)).
+In reply, Becker called Hirshleifer's comments perceptive, with the note that his scenario can only work among a small number of relatives or neighbours (so Becker had already dealt with part of [my criticism](https://www.jasoncollins.blog/rotten-kids-and-altruism/)).
 
 After quibbling with the definition of altruism, Tullock's criticism focuses on an altruist's ability to know the preference ordering of the recipient of the altruism. Tullock suggests judgments of this type are almost impossible. The history of charitable administration and its attempts to prevent recipients from taking advantage of gifts suggests a knowledge problem.
 

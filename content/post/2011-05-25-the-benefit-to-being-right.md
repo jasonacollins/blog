@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-05-25 09:03:52+00:00
 draft: no
-link: https://jasoncollins.blog/the-benefit-to-being-right/
+link: https://www.jasoncollins.blog/the-benefit-to-being-right/
 slug: the-benefit-to-being-right
 title: The benefit to being right
 wordpress_id: 1069

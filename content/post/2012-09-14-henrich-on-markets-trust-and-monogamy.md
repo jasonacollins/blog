@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-09-14 08:32:14+00:00
 draft: no
-link: https://jasoncollins.blog/henrich-on-markets-trust-and-monogamy/
+link: https://www.jasoncollins.blog/henrich-on-markets-trust-and-monogamy/
 slug: henrich-on-markets-trust-and-monogamy
 title: Henrich on markets, trust and monogamy
 wordpress_id: 4061

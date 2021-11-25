@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-06-16 07:22:40+00:00
 draft: no
-link: https://jasoncollins.blog/evolutionary-policy-making/
+link: https://www.jasoncollins.blog/evolutionary-policy-making/
 slug: evolutionary-policy-making
 title: Evolutionary policy making
 wordpress_id: 3445
@@ -25,8 +25,8 @@ This is hardly surprising – indeed, it should be encouraged. ...
 When it comes to tackling climate change, the United States has produced no federal mandate explicitly requiring or even promoting emissions-reductions targets. But, by May last year, some 30 US states had developed their own climate action plans, and more than 900 US cities have signed up to the US climate-protection agreement.</blockquote>
 
 
-Tim Harford noted in [Adapt](https://jasoncollins.blog/harfords-adapt-why-success-always-starts-with-failure/) that for successful evolutionary decision-making, there are two steps beyond experimentation of the type noted by Ostrom. There must be a willingness to decide when policies are failing, and failure must be survivable. Policy experimentation must include a willingness to measure and change.
+Tim Harford noted in [Adapt](https://www.jasoncollins.blog/harfords-adapt-why-success-always-starts-with-failure/) that for successful evolutionary decision-making, there are two steps beyond experimentation of the type noted by Ostrom. There must be a willingness to decide when policies are failing, and failure must be survivable. Policy experimentation must include a willingness to measure and change.
 
-Harford's additional steps are particularly important when we note the potential for evolutionary processes to go astray. As I quoted in my [last post](https://jasoncollins.blog/some-perspectives-on-elinor-ostrom/), Ostrom was aware that evolutionary paths do not always lead to the optimal solution.
+Harford's additional steps are particularly important when we note the potential for evolutionary processes to go astray. As I quoted in my [last post](https://www.jasoncollins.blog/some-perspectives-on-elinor-ostrom/), Ostrom was aware that evolutionary paths do not always lead to the optimal solution.
 
 Another element of evolutionary policy making worth noting is that for those subject to a new city scale policy, it will not feel as though it is an experiment, and the citizens bear the costs it imposes. Take Mayor Bloomberg's proposal to ban large soda drinks in New York. It is not a blanket national response and allows for a smaller scale experiment than a national ban would entail. But what might be described as policy experimentation at a national level is top down decree for the residents of the city.

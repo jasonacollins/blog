@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2015-03-27 08:00:14+00:00
 draft: no
-link: https://jasoncollins.blog/a-week-of-links-95/
+link: https://www.jasoncollins.blog/a-week-of-links-95/
 slug: a-week-of-links-95
 title: A week of links
 wordpress_id: 20955
@@ -54,9 +54,9 @@ And if you missed them, my posts this week:
 
 
 	
-  1. [The Gell-Mann amnesia effect](https://jasoncollins.blog/the-gell-mann-amnesia-effect/)
+  1. [The Gell-Mann amnesia effect](https://www.jasoncollins.blog/the-gell-mann-amnesia-effect/)
 
 	
-  2. [Giving behavioural economics an evolutionary perspective](https://jasoncollins.blog/an-evolutionary-perspective-on-behavioural-economics/).
+  2. [Giving behavioural economics an evolutionary perspective](https://www.jasoncollins.blog/an-evolutionary-perspective-on-behavioural-economics/).
 
 

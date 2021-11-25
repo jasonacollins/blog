@@ -6,7 +6,7 @@ draft: no
 slug: sexual-selection-conspicuous-consumption-and-economic-growth
 ---
 
-Around ten years ago, I was rummaging through books in a bargain bookshop under Sydney’s Central Station when I came across a $2 copy of Geoffrey Miller’s *The Mating Mind*. It turned out to be a good use of my $2, as The Mating Mind is one of the most important books in shaping my thinking, and it was one of the first books I put on my [economics and evolutionary biology reading list](https://jasoncollins.blog/economics-and-evolutionary-biology-reading-list/).
+Around ten years ago, I was rummaging through books in a bargain bookshop under Sydney’s Central Station when I came across a $2 copy of Geoffrey Miller’s *The Mating Mind*. It turned out to be a good use of my $2, as The Mating Mind is one of the most important books in shaping my thinking, and it was one of the first books I put on my [economics and evolutionary biology reading list](https://www.jasoncollins.blog/economics-and-evolutionary-biology-reading-list/).
 
 Miller’s basic argument was that sexual selection shaped the human mind. Whether through runaway selection or the brain acting as a fitness indicator, female choice led to increasing mental capacity and shaped our propensity to be humorous, create art or engage in other displays of mental fitness.
 
@@ -16,7 +16,7 @@ The concept behind the hypothesis is relatively simple. Men who signal their qua
 
 The evolutionary part of the model is more interesting than the economic as there is minimal feedback from the economy back into the evolutionary dynamics. The lack of feedback also means that it is not very representative of modern society, as conspicuous consumption in modern societies is of limited threat to survival. Still, the model provides a starting point and I have a few ideas to take it further.
 
-I have been introducing my talks on the paper with an example from Robert Frank’s [Luxury Fever](https://jasoncollins.blog/franks-luxury-fever/), in which Frank held up Patek Philippe’s Calibre 89 watch as an example of conspicuous consumption. Only four were made, with the first selling for $2.5 million and the latest auction price being over $5 million. Frank mocks the watch for its need for a tourbillon, a mechanism to account for the earth’s rotation, when his cheap quartz watch does not require such a mechanism, as gravity does not affect the vibrations of the crystal.
+I have been introducing my talks on the paper with an example from Robert Frank’s [Luxury Fever](https://www.jasoncollins.blog/franks-luxury-fever/), in which Frank held up Patek Philippe’s Calibre 89 watch as an example of conspicuous consumption. Only four were made, with the first selling for $2.5 million and the latest auction price being over $5 million. Frank mocks the watch for its need for a tourbillon, a mechanism to account for the earth’s rotation, when his cheap quartz watch does not require such a mechanism, as gravity does not affect the vibrations of the crystal.
 
 Now consider the innovation and thought that went into the Patek Philippe watch, including that tourbillon. This watch has 1728 components, gives you the date of Easter each year, and unlike most mechanical watches, will not record the years 2100, 2200 and 2300 as leap years while still recording 2400 as one (as per the order of Pope Gregory XIII in 1582). If you look at Patek Philippe’s [list of patents](http://www.patek.com/contents/default/en/patents.html), you get a feel for the innovation involved in making watches for what is largely conspicuous consumption.
 

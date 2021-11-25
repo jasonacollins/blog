@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-05-30 13:25:24+00:00
 draft: no
-link: https://jasoncollins.blog/the-consequences-of-shrinking-brains/
+link: https://www.jasoncollins.blog/the-consequences-of-shrinking-brains/
 slug: the-consequences-of-shrinking-brains
 title: The consequences of shrinking brains
 wordpress_id: 3344
@@ -17,7 +17,7 @@ wordpress_id: 3344
 
 Ridley's reason for not worrying is at odds with evidence that the return to an increase in an individual persons IQ is lower than that for an equivalent increase in average IQ for a population.
 
-Take this factoid from [Garett Jones's website](http://mason.gmu.edu/~gjonesb/) (I have blogged about work by Jones before, including [here](https://jasoncollins.blog/jones-on-iq-and-productivity/) and [here](https://jasoncollins.blog/immigration-externalities/)):
+Take this factoid from [Garett Jones's website](http://mason.gmu.edu/~gjonesb/) (I have blogged about work by Jones before, including [here](https://www.jasoncollins.blog/jones-on-iq-and-productivity/) and [here](https://www.jasoncollins.blog/immigration-externalities/)):
 
 
 <blockquote>A two standard deviation rise in an individual person’s IQ predicts only about a 30% increase in her wage.  But the same rise in a country’s average IQ score predicts a 700% increase in the average wage in that country.</blockquote>

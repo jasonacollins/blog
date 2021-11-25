@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-08-28 09:41:18+00:00
 draft: no
-link: https://jasoncollins.blog/hunter-gatherer-workouts/
+link: https://www.jasoncollins.blog/hunter-gatherer-workouts/
 slug: hunter-gatherer-workouts
 title: Hunter-gatherer workouts
 wordpress_id: 3919
@@ -23,4 +23,4 @@ Razib at Gene Expression [also makes an interesting point](http://blogs.discover
 
 
 
-As I [recently posted about](https://jasoncollins.blog/not-quite-paleo/), we may still reflect our ancestral state, but recent human evolution means that it should not be assumed.
+As I [recently posted about](https://www.jasoncollins.blog/not-quite-paleo/), we may still reflect our ancestral state, but recent human evolution means that it should not be assumed.

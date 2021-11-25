@@ -30,4 +30,4 @@ The giving and receipt of food by babblers is more akin to charity. Charitable g
 
 Of course, the charity auction example lacks the lower status person as an unwilling recipient. Examples with that feature might include insisting on paying a restaurant bill, or that someone accept $50 in a time of need. “I insist”. I expect there are many government interventions that also have this characteristic.
 
-As a side note and following [my recent post](https://jasoncollins.blog/a-nobel-prize-for-biology/) on biologists being important players in economics, I rate *The Handicap Principle: A Missing Piece of Darwin's Puzzle* as one of the best economics books.
+As a side note and following [my recent post](https://www.jasoncollins.blog/a-nobel-prize-for-biology/) on biologists being important players in economics, I rate *The Handicap Principle: A Missing Piece of Darwin's Puzzle* as one of the best economics books.

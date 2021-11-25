@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-11-12 10:00:31+00:00
 draft: no
-link: https://jasoncollins.blog/monkey-inequality/
+link: https://www.jasoncollins.blog/monkey-inequality/
 slug: monkey-inequality
 title: Monkey inequality
 wordpress_id: 2015

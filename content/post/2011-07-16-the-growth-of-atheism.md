@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-07-16 05:39:35+00:00
 draft: no
-link: https://jasoncollins.blog/the-growth-of-atheism/
+link: https://www.jasoncollins.blog/the-growth-of-atheism/
 slug: the-growth-of-atheism
 title: The growth of atheism
 wordpress_id: 1515
@@ -23,9 +23,9 @@ Barber pulls out some interesting evidence in support of his claim. For example,
 
 This is one of those articles where I am happy to agree with the results. However, on Barber's longer term prediction of increasing atheism as developing countries develop, Barber did not discuss the higher fertility of those with religion and the heritability of religious belief.
 
-Take the United States. Religiosity has undergone significant long-term decline, consistent with Barber's findings. However, among the remaining religious people in the population, [fertility rates are higher](https://jasoncollins.blog/heritability-of-religion-and-fertility/). With religiosity heritable, it is open to ask which dynamic will win in the long-term - the decline due to higher quality of life or the higher fertility of those who maintain religious beliefs despite the increase in quality of life. As the security dynamic has largely played out in most people's lives in developed countries, my money is on the latter.
+Take the United States. Religiosity has undergone significant long-term decline, consistent with Barber's findings. However, among the remaining religious people in the population, [fertility rates are higher](https://www.jasoncollins.blog/heritability-of-religion-and-fertility/). With religiosity heritable, it is open to ask which dynamic will win in the long-term - the decline due to higher quality of life or the higher fertility of those who maintain religious beliefs despite the increase in quality of life. As the security dynamic has largely played out in most people's lives in developed countries, my money is on the latter.
 
-One way of putting this might be to consider the increase in quality of life as a shock. Some people respond to this shock by dropping their religious belief. As they form the majority of the population, the rate of religious belief initially drops. However, those who are immune to the shock maintain their religious belief. As those with religious belief have higher fertility, they eventually come to form the larger proportion of the population - as Rowthorn suggested in [a paper I previously posted about](https://jasoncollins.blog/heritability-of-religion-and-fertility/).
+One way of putting this might be to consider the increase in quality of life as a shock. Some people respond to this shock by dropping their religious belief. As they form the majority of the population, the rate of religious belief initially drops. However, those who are immune to the shock maintain their religious belief. As those with religious belief have higher fertility, they eventually come to form the larger proportion of the population - as Rowthorn suggested in [a paper I previously posted about](https://www.jasoncollins.blog/heritability-of-religion-and-fertility/).
 
 From this, we would support Barber's prediction that as the quality of life in developing countries increases, religiosity might decrease. In developed countries however, the trend will start to head the other way.
 

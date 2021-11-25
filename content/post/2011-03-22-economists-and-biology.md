@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-03-22 11:31:05+00:00
 draft: no
-link: https://jasoncollins.blog/economists-and-biology/
+link: https://www.jasoncollins.blog/economists-and-biology/
 slug: economists-and-biology
 title: Economists and biology
 wordpress_id: 629

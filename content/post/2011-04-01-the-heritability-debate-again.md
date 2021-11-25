@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-04-01 09:06:16+00:00
 draft: no
-link: https://jasoncollins.blog/the-heritability-debate-again/
+link: https://www.jasoncollins.blog/the-heritability-debate-again/
 slug: the-heritability-debate-again
 title: The heritability debate, again
 wordpress_id: 670
@@ -33,4 +33,4 @@ Further, these results matter. They suggest that poverty is affecting the IQ of 
 
 Implicit in Kaufman's post was the "its all too complex" argument.  Social and biological sciences are complex (which is why I find them interesting). However, if we fully accepted Kaufman's argument that "our understanding of the factors that contribute to the development of   human traits ... is currently so   deficient that we typically do not know if the environmental factors   important in the development of a particular trait are stable across   testing situations", it would put into question most of the data analysis in economics, sociology and biology. Econometrics operates on the idea of all other things being equal.
 
-Fortunately, Kaufman has not taken the [Gladwell-esque](https://jasoncollins.blog/gladwells-outliers/) approach of suggesting that we forget about genetic factors. Kaufman suggests further research into how nature and nurture are intertwined. If it is all too complex, we should start unwinding the complexity. However, I believe that, in the meantime, this complexity does not mean that we should throw out all the results that have previously been obtained.
+Fortunately, Kaufman has not taken the [Gladwell-esque](https://www.jasoncollins.blog/gladwells-outliers/) approach of suggesting that we forget about genetic factors. Kaufman suggests further research into how nature and nurture are intertwined. If it is all too complex, we should start unwinding the complexity. However, I believe that, in the meantime, this complexity does not mean that we should throw out all the results that have previously been obtained.

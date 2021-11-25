@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2015-03-30 08:00:45+00:00
 draft: no
-link: https://jasoncollins.blog/the-gender-reading-gap-and-love-of-learning/
+link: https://www.jasoncollins.blog/the-gender-reading-gap-and-love-of-learning/
 slug: the-gender-reading-gap-and-love-of-learning
 title: The gender reading gap and love of learning
 wordpress_id: 20959

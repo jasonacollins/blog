@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2014-01-13 13:52:32+00:00
 draft: no
-link: https://jasoncollins.blog/doing-cultural-evolution-right/
+link: https://www.jasoncollins.blog/doing-cultural-evolution-right/
 slug: doing-cultural-evolution-right
 title: Doing cultural evolution right
 wordpress_id: 17027
@@ -11,11 +11,11 @@ wordpress_id: 17027
 
 A sojourn into the literature on cultural evolution can be confusing. Authors use the same terms in different ways. Unique models are used to reach opposite conclusions. And each author seems to find their own way to intertwine genetic evolution into the analysis.
 
-In that light, [a new article in the Journal of Evolutionary Biology](https://doi.org/10.1111/jeb.12296) (ungated [pdf](http://www.staff.ncl.ac.uk/daniel.nettle/ElMoudenJEB.pdf) and [supporting information](http://www.staff.ncl.ac.uk/daniel.nettle/ElMoudenJEBSI.pdf)) by Claire El Mouden and friends seeks to nail down some of the concepts of cultural evolution and to set up a general framework (thank you!). The paper is at a more basic level than that of Geoffrey Hodgson and Thorbjørn Knudsen's book [Darwin's Conjecture](https://jasoncollins.blog/darwins-conjecture-generalising-darwinism/), which also sought to define and generalise concepts in this area.
+In that light, [a new article in the Journal of Evolutionary Biology](https://doi.org/10.1111/jeb.12296) (ungated [pdf](http://www.staff.ncl.ac.uk/daniel.nettle/ElMoudenJEB.pdf) and [supporting information](http://www.staff.ncl.ac.uk/daniel.nettle/ElMoudenJEBSI.pdf)) by Claire El Mouden and friends seeks to nail down some of the concepts of cultural evolution and to set up a general framework (thank you!). The paper is at a more basic level than that of Geoffrey Hodgson and Thorbjørn Knudsen's book [Darwin's Conjecture](https://www.jasoncollins.blog/darwins-conjecture-generalising-darwinism/), which also sought to define and generalise concepts in this area.
 
 El Mouden and her colleagues' paper covers a lot of interesting terrain, so I will cover it in two posts. In the first, I'll cover the basics of a cultural evolution framework. In the second, I will look at how cultural and genetic evolution interact in this framework.
 
-The authors set up their framework using the [Price equation](http://en.wikipedia.org/wiki/Price_equation) from evolutionary biology. The Price equation divides evolutionary change of a trait into two components. The first is a natural selection component resulting from the covariance between a trait and relative fitness. Where there is large covariance, evolution will be fast. Second is a transmission component, which is the fitness-weighted change in trait value between generations (for example, increasing height with improved nutrition across the population would be considered transmission). The Price equation has the neat property that it can be decomposed into within-group and between-group components, allowing analysis in a [multilevel selection](https://jasoncollins.blog/what-is-multilevel-selection/) framework (although [not everyone is happy with this decomposition](https://doi.org/10.1016/j.jtbi.2011.07.025)).
+The authors set up their framework using the [Price equation](http://en.wikipedia.org/wiki/Price_equation) from evolutionary biology. The Price equation divides evolutionary change of a trait into two components. The first is a natural selection component resulting from the covariance between a trait and relative fitness. Where there is large covariance, evolution will be fast. Second is a transmission component, which is the fitness-weighted change in trait value between generations (for example, increasing height with improved nutrition across the population would be considered transmission). The Price equation has the neat property that it can be decomposed into within-group and between-group components, allowing analysis in a [multilevel selection](https://www.jasoncollins.blog/what-is-multilevel-selection/) framework (although [not everyone is happy with this decomposition](https://doi.org/10.1016/j.jtbi.2011.07.025)).
 
 But to use this framework, it is important to clarify some terms (which is one of my bugbears about the cultural evolution literature). First, _relatedness_. As the units of inheritance are cultural traits, the measure of relatedness is similarity in cultural traits. In a simple model where we have one cultural trait, anyone with that same cultural trait has a relatedness of one. In effect, when passing on a cultural trait to another person, they become kin.
 
@@ -37,4 +37,4 @@ Under this definition, cultural kin selection becomes a relatively parsimonious 
 
 However, this story of spreading cultural altruism falls somewhat short of covering the examples in much of the gene-culture evolution literature. The issue is that, while culture is a part of the model and analysis, people are typically interested in _genetic_ altruism.
 
-Thus, the question of interest is how cultural evolution affects the evolution of genetic altruism? That will be the subject of my [next post](https://jasoncollins.blog/the-interplay-of-genetic-and-cultural-evolution/).
+Thus, the question of interest is how cultural evolution affects the evolution of genetic altruism? That will be the subject of my [next post](https://www.jasoncollins.blog/the-interplay-of-genetic-and-cultural-evolution/).

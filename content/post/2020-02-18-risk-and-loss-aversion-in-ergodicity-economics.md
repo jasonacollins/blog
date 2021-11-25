@@ -7,17 +7,17 @@ draft: false
 slug: risk-and-loss-aversion-in-ergodicity-economics
 ---
 
-In a [previous post](https://jasoncollins.blog/ergodicity-economics-a-primer/) I posed the following bet:
+In a [previous post](https://www.jasoncollins.blog/ergodicity-economics-a-primer/) I posed the following bet:
 
 >Suppose you have \$100 and are offered a gamble involving a series of coin flips. For each flip, heads will increase your wealth by 50%. Tails will decrease it by 40%. Flip 100 times.
 
-The changes in wealth under a sequence of flips of this nature is "non-ergodic", as the expected value of the bet does not converge with its time-average growth rate. The bet has a positive expected value, 5% of the bettor's wealth per flip, and the ensemble average across a large enough population will approximate this expected value in growth in overall wealth. But, the time-average growth rate for an individual is approximately a loss of 5% of their wealth with each flip. Most individuals will experience a loss, and in the long-run everyone will. (To understand why this is so, see my [primer post on ergodicity economics](https://jasoncollins.blog/ergodicity-economics-a-primer/).)
+The changes in wealth under a sequence of flips of this nature is "non-ergodic", as the expected value of the bet does not converge with its time-average growth rate. The bet has a positive expected value, 5% of the bettor's wealth per flip, and the ensemble average across a large enough population will approximate this expected value in growth in overall wealth. But, the time-average growth rate for an individual is approximately a loss of 5% of their wealth with each flip. Most individuals will experience a loss, and in the long-run everyone will. (To understand why this is so, see my [primer post on ergodicity economics](https://www.jasoncollins.blog/ergodicity-economics-a-primer/).)
 
 That many people decline bets of this nature suggests that there may be some wisdom in our decision making process. But what is that process?
 
 **Are we risk averse?**
 
-As I noted in that [previous post](https://jasoncollins.blog/ergodicity-economics-a-primer/), economists have a readily available explanation for the rejection of this bet. People are risk averse expected utility maximisers. As I wrote there:
+As I noted in that [previous post](https://www.jasoncollins.blog/ergodicity-economics-a-primer/), economists have a readily available explanation for the rejection of this bet. People are risk averse expected utility maximisers. As I wrote there:
 
 >A risk averse person will value the expected outcome of a gamble lower than the same sum with certainty.
 >
@@ -51,7 +51,7 @@ You can see the tweak from the original bet, with dollar sums rather than percen
 
 An important feature of this second series of flips is that the system is ergodic. The expected value of each flip is \$5 (0.5\*\$50-0.5\*\$40=\$5). The time-average growth rate is also \$5.
 
-Let's simulate as we did for multiplicative bets in the [ergodicity economics primer post](https://jasoncollins.blog/ergodicity-economics-a-primer/), with 10,000 people starting with $100 and flipping the coin 100 times. The below plot shows the average wealth of the population, together with the paths of the first 20 of the 10,000 people (in red).
+Let's simulate as we did for multiplicative bets in the [ergodicity economics primer post](https://www.jasoncollins.blog/ergodicity-economics-a-primer/), with 10,000 people starting with $100 and flipping the coin 100 times. The below plot shows the average wealth of the population, together with the paths of the first 20 of the 10,000 people (in red).
 
 _Average wealth of population and path of first 20 people_ 
 ![](/img/2020-02-18-risk-and-loss-aversion-in-ergodicity-economics/Ergodic_Figure_1.jpeg)
@@ -182,7 +182,7 @@ Some of my other observations on the experiment include:
 
 - I'm not convinced that the experiment had a design with the strength necessary to elicit a loss aversion parameter of prospect theory (assuming it exists). Every bet involved a choice between a two gambles involving a gain and a loss, rather than having a mix of gain-gain and gain-loss options that might highlight loss aversion. Shifting between those frames would also provide more power to tease out the risk aversion coefficients in the loss and gain domains. (I should note that I'm not confident that the experiment _doesn't_ have the necessary strength - I use the words "I'm not convinced" deliberately.)
 
-- There was a required choice between the gambles, which eliminates status quo effects, an arguable driver of many behavioural dynamics (as argued by [David Gal](https://jasoncollins.blog/the-case-against-loss-aversion/)).
+- There was a required choice between the gambles, which eliminates status quo effects, an arguable driver of many behavioural dynamics (as argued by [David Gal](https://www.jasoncollins.blog/the-case-against-loss-aversion/)).
 
 - The elicitation of preferences where people need to learn the probabilities through experience is one of the experimental circumstances where loss aversion has generally not been shown to occur (see this literature review by [Yechiam and Hochman](https://doi.org/10.1037/a0029383) ([pdf](https://www.researchgate.net/profile/Guy_Hochman/publication/229551616_Losses_as_Modulators_of_Attention_Review_and_Analysis_of_the_Unique_Effects_of_Losses_Over_Gains/links/00b7d53395fa4bc08b000000/Losses-as-Modulators-of-Attention-Review-and-Analysis-of-the-Unique-Effects-of-Losses-Over-Gains.pdf?origin=publication_detail))). This provides another reason we might not not expect to elicit loss aversion in this experiment.
 
@@ -196,7 +196,7 @@ Where does this leave us? I take the following lessons from ergodicity economics
 
 - We don't need to throw everything out of the window. Maximising expected utility through using the logarithm of wealth is equivalent to maximising the growth rate in a multiplicative environment. We can continue to use this functional form in much economics work, but should consider a different interpretation on its use.
 
-- For decision-making under uncertainty, there is a case for placing greater weight on the logarithmic "utility function" over other more highly-specified utility models that do not maximise the growth rate. On this point, Paul Samuelson led a somewhat acrimonious debate about whether an investment strategy using the Kelly criterion - which maximises the geometric growth rate (discussed in my [ergodicity economics primer post](https://jasoncollins.blog/ergodicity-economics-a-primer/)) - was an appropriate investment strategy. I'll cover that debate in more detail in a future post, but one of Samuelson's central points was that Kelly criterion investments are only optimal for an expected log utility maximiser, not for people with other utility functions. The ergodicity economics approach attempts to circumvent this debate by suggesting that our utility function _is_ growth rate maximisation.
+- For decision-making under uncertainty, there is a case for placing greater weight on the logarithmic "utility function" over other more highly-specified utility models that do not maximise the growth rate. On this point, Paul Samuelson led a somewhat acrimonious debate about whether an investment strategy using the Kelly criterion - which maximises the geometric growth rate (discussed in my [ergodicity economics primer post](https://www.jasoncollins.blog/ergodicity-economics-a-primer/)) - was an appropriate investment strategy. I'll cover that debate in more detail in a future post, but one of Samuelson's central points was that Kelly criterion investments are only optimal for an expected log utility maximiser, not for people with other utility functions. The ergodicity economics approach attempts to circumvent this debate by suggesting that our utility function _is_ growth rate maximisation.
 
 - A behavioural response to possible absorbing states (i.e. ruin, death) would seem to require an addition to the growth-rate maximisation model, rather than being directly derived from it. The growth-rate maximisation model also says little about risk-return trade-offs, particularly in an additive environment. (This was also a point raised by Samuelson in the debate about the Kelly criterion, as growth-rate maximisation over finite time horizons can result in catastrophic loss.)
 
@@ -204,15 +204,15 @@ Where does this leave us? I take the following lessons from ergodicity economics
 
 On that final point, Peters often mentions that expected utility theory was an attempt to rescue the failure of expected wealth maximisation to capture decision dynamics. One of the benefits of his model is that the need for psychological explanations is removed.
 
-However, an attempt to remove psychology from decision models will leave a lot of behaviour unexplained. There is a fair questions about "what psychology?" is required, and whether this is the psychology of behavioural economics, ecological decision making, resource rationality or something else (see my [critical behavioural economics and behavioural science reading list](https://jasoncollins.blog/a-critical-behavioural-economics-and-behavioural-science-reading-list/) for a flavour of this). But in many situations people do not appear to maximise the growth rate of wealth.
+However, an attempt to remove psychology from decision models will leave a lot of behaviour unexplained. There is a fair questions about "what psychology?" is required, and whether this is the psychology of behavioural economics, ecological decision making, resource rationality or something else (see my [critical behavioural economics and behavioural science reading list](https://www.jasoncollins.blog/a-critical-behavioural-economics-and-behavioural-science-reading-list/) for a flavour of this). But in many situations people do not appear to maximise the growth rate of wealth.
 
 My other posts on loss aversion can be found here:
 
-1. [Kahneman and Tversky's debatable loss aversion assumption](https://jasoncollins.blog/kahneman-and-tverskys-debatable-loss-aversion-assumption/)
-2. [What can we infer about someone who rejects a 50:50 bet to win \$110 or lose \$100? The Rabin paradox explored](https://jasoncollins.blog/what-can-we-infer-about-someone-who-rejects-a-5050-bet-to-win-110-or-lose-100-the-rabin-paradox-explored/)
-3. [The case against loss aversion](https://jasoncollins.blog/the-case-against-loss-aversion/)
-4. [Ergodicity economics - a primer](https://jasoncollins.blog/ergodicity-economics-a-primer/)
-5. [Ergodicity economics - Do we need risk or loss aversion to explain our failure to accept some gambles?](https://jasoncollins.blog/risk-and-loss-aversion-in-ergodicity-economics) (this post)
+1. [Kahneman and Tversky's debatable loss aversion assumption](https://www.jasoncollins.blog/kahneman-and-tverskys-debatable-loss-aversion-assumption/)
+2. [What can we infer about someone who rejects a 50:50 bet to win \$110 or lose \$100? The Rabin paradox explored](https://www.jasoncollins.blog/what-can-we-infer-about-someone-who-rejects-a-5050-bet-to-win-110-or-lose-100-the-rabin-paradox-explored/)
+3. [The case against loss aversion](https://www.jasoncollins.blog/the-case-against-loss-aversion/)
+4. [Ergodicity economics - a primer](https://www.jasoncollins.blog/ergodicity-economics-a-primer/)
+5. [Ergodicity economics - Do we need risk or loss aversion to explain our failure to accept some gambles?](https://www.jasoncollins.blog/risk-and-loss-aversion-in-ergodicity-economics) (this post)
 
 
 **Code**

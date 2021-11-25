@@ -6,7 +6,7 @@ draft: no
 slug: debating-the-conjunction-fallacy
 ---
 
-From [Eliezer Yudkowsky on Less Wrong](https://www.lesswrong.com/posts/cXzTpSiCrNGzeoRAz/conjunction-controversy-or-how-they-nail-it-down) (a few years old, but worth revisiting in the light of my [recent Gigerenzer v Kahneman and Tversky post](https://jasoncollins.blog/gigerenzer-versus-kahneman-and-tversky-the-1996-face-off/)):
+From [Eliezer Yudkowsky on Less Wrong](https://www.lesswrong.com/posts/cXzTpSiCrNGzeoRAz/conjunction-controversy-or-how-they-nail-it-down) (a few years old, but worth revisiting in the light of my [recent Gigerenzer v Kahneman and Tversky post](https://www.jasoncollins.blog/gigerenzer-versus-kahneman-and-tversky-the-1996-face-off/)):
 
 >When a single experiment seems to show that subjects are guilty of some horrifying sinful bias - such as thinking that the proposition "Bill is an accountant who plays jazz" [has a higher probability](https://www.lesswrong.com/lw/ji/conjunction_fallacy/) than "Bill is an accountant" - people may try to dismiss (not [defy](https://www.lesswrong.com/lw/ig/i_defy_the_data/)) the experimental data. Most commonly, by questioning whether the subjects interpreted the experimental instructions in some unexpected fashion - perhaps they misunderstood what you meant by "more probable".
 >

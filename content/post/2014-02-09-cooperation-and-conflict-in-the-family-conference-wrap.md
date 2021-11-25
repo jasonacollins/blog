@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2014-02-09 01:01:16+00:00
 draft: no
-link: https://jasoncollins.blog/cooperation-and-conflict-in-the-family-conference-wrap/
+link: https://www.jasoncollins.blog/cooperation-and-conflict-in-the-family-conference-wrap/
 slug: cooperation-and-conflict-in-the-family-conference-wrap
 title: Cooperation and Conflict in the Family Conference wrap
 wordpress_id: 19864
@@ -11,7 +11,7 @@ wordpress_id: 19864
 
 Over the past year I have posted several times about the Cooperation and Conflict in the Family Conference, which was held in Sydney this week. It turned out to be a great conference, and I am very pleased with how it panned out.
 
-The conference has increased my optimism about the potential for more work to be carried out at the inter-disciplinary boundaries between economics, evolutionary biology, anthropology, psychology and so on. When I compare it to the [Social Decision Making: Bridging Economics and Biology](https://jasoncollins.blog/social-decision-making-bridging-economics-and-biology/) conference I attended almost three years ago (an excellent conference), we managed to drag in a broader range of economists and other social scientists to this event. I suspect this is evidence for increasing interest on the part of social scientists in how sciences such as biology can add to the social science toolkit.
+The conference has increased my optimism about the potential for more work to be carried out at the inter-disciplinary boundaries between economics, evolutionary biology, anthropology, psychology and so on. When I compare it to the [Social Decision Making: Bridging Economics and Biology](https://www.jasoncollins.blog/social-decision-making-bridging-economics-and-biology/) conference I attended almost three years ago (an excellent conference), we managed to drag in a broader range of economists and other social scientists to this event. I suspect this is evidence for increasing interest on the part of social scientists in how sciences such as biology can add to the social science toolkit.
 
 As a result, I hope this conference is the first of a continuing series (although hopefully with a wider group of organisers). An interesting challenge for the next iteration will be to pick an appropriate theme. In this case, the Cooperation and Conflict in the Family theme was useful in pulling together people who may not have necessarily considered that there were useful insights in other disciplines. We would not have gotten such an interesting mix of people if we had pitched the topic specifically around the integration of disciplines.
 

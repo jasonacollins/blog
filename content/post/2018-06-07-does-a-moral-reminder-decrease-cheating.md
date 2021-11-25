@@ -6,7 +6,7 @@ slug: does-a-moral-reminder-decrease-cheating
 title: Does a moral reminder decrease cheating?
 ---
 
-In [The (Honest) Truth About Dishonesty](https://jasoncollins.blog/arielys-the-honest-truth-about-dishonesty/), Dan Ariely describes an experiment to determine how much people cheat:
+In [The (Honest) Truth About Dishonesty](https://www.jasoncollins.blog/arielys-the-honest-truth-about-dishonesty/), Dan Ariely describes an experiment to determine how much people cheat:
 
 >[P]articipants entered a room where they sat in chairs with small desks attached (the typical exam-style setup). Next, each participant received a sheet of paper containing a series of twenty different matrices ... and were told that their task was to find in each of these matrices two numbers that added up to 10 ...
 >

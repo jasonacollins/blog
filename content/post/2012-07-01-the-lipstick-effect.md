@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-07-01 11:56:28+00:00
 draft: no
-link: https://jasoncollins.blog/the-lipstick-effect/
+link: https://www.jasoncollins.blog/the-lipstick-effect/
 slug: the-lipstick-effect
 title: The lipstick effect
 wordpress_id: 3552

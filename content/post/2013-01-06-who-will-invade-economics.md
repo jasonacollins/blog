@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-01-06 04:27:45+00:00
 draft: no
-link: https://jasoncollins.blog/who-will-invade-economics/
+link: https://www.jasoncollins.blog/who-will-invade-economics/
 slug: who-will-invade-economics
 title: Who will invade economics?
 wordpress_id: 4907
@@ -27,19 +27,19 @@ As you might expect me to say, evolutionary biology will be part of the move int
   1. Evolutionary psychology will form the bedrock on which behavioural economics sits, and will provide the basis for reconciling rational choice and behavioural economics approaches to decision making.
 
 	
-  2. As economists become increasingly interested in the foundations of our economic preferences, such as risk or time preference, they will turn to the work already being done in the area (see my [evolutionary biology and economics reading list](https://jasoncollins.blog/economics-and-evolutionary-biology-reading-list/) for some examples).
+  2. As economists become increasingly interested in the foundations of our economic preferences, such as risk or time preference, they will turn to the work already being done in the area (see my [evolutionary biology and economics reading list](https://www.jasoncollins.blog/economics-and-evolutionary-biology-reading-list/) for some examples).
 
 	
   3. Many areas of economic imperialism, such as Becker's work on the economics of the family and crime, will be updated from an evolutionary perspective. Economics added much to these fields, but the work was incomplete.
 
 	
-  4. Biology will be a source of the understanding of the economy as a complex system. This might include the study of the [financial system as an ecosystem](https://jasoncollins.blog/banking-as-an-ecosystem/) or broader consideration of when competition leads to positive outcomes.
+  4. Biology will be a source of the understanding of the economy as a complex system. This might include the study of the [financial system as an ecosystem](https://www.jasoncollins.blog/banking-as-an-ecosystem/) or broader consideration of when competition leads to positive outcomes.
 
 	
   5. Economic policy debates will gain more of an evolutionary flavour. [The Evolution Institute](http://evolution-institute.org/) is a part of that movement.
 
 
-In addition, many economists underestimate how many tools and ideas used in economics are from other fields. I continue to run into economists who label [John Maynard Smith](http://en.wikipedia.org/wiki/John_Maynard_Smith) as an economist, and who don't consider how many of their statistical and mathematical tools were developed and used outside of economics. This is reflected in Sveriges Riksbank Prizes in Economic Sciences in Memory of Alfred Nobel  going to psychologists, political scientists and [mathematicians](https://jasoncollins.blog/nobel-prizes-and-marriage-markets/). If anything, the skill of economists is recognising good tools and using them, with much economic imperialism the adoption of tools developed by others and claiming them as their own. But is an economist's use of game theoretic tools developed by John Maynard Smith classed as economics or evolutionary biology? If an economist uses a tool from a field outside of economics in another field outside of economics, is it economics simply because the user labels themselves as an economist? (I often ask this last question about some of my work.)
+In addition, many economists underestimate how many tools and ideas used in economics are from other fields. I continue to run into economists who label [John Maynard Smith](http://en.wikipedia.org/wiki/John_Maynard_Smith) as an economist, and who don't consider how many of their statistical and mathematical tools were developed and used outside of economics. This is reflected in Sveriges Riksbank Prizes in Economic Sciences in Memory of Alfred Nobel  going to psychologists, political scientists and [mathematicians](https://www.jasoncollins.blog/nobel-prizes-and-marriage-markets/). If anything, the skill of economists is recognising good tools and using them, with much economic imperialism the adoption of tools developed by others and claiming them as their own. But is an economist's use of game theoretic tools developed by John Maynard Smith classed as economics or evolutionary biology? If an economist uses a tool from a field outside of economics in another field outside of economics, is it economics simply because the user labels themselves as an economist? (I often ask this last question about some of my work.)
 
 As an aside, Fox credits the success of economic imperialism on the scientific foundations of economics, and quotes a passage from Edward Lazear's 2002 [QJE article on economic imperialism](http://qje.oxfordjournals.org/content/115/1/99.abstract):
 

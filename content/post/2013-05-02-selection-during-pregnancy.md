@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-05-02 11:39:55+00:00
 draft: no
-link: https://jasoncollins.blog/selection-during-pregnancy/
+link: https://www.jasoncollins.blog/selection-during-pregnancy/
 slug: selection-during-pregnancy
 title: Selection during pregnancy
 wordpress_id: 6113

@@ -3,13 +3,13 @@ author: jasonacollins
 comments: true
 date: 2012-10-13 10:50:38+00:00
 draft: no
-link: https://jasoncollins.blog/genetic-diversity-and-economic-development-ashraf-and-galor-respond/
+link: https://www.jasoncollins.blog/genetic-diversity-and-economic-development-ashraf-and-galor-respond/
 slug: genetic-diversity-and-economic-development-ashraf-and-galor-respond
 title: 'Genetic diversity and economic development: Ashraf and Galor respond'
 wordpress_id: 4304
 ---
 
-As I noted in a postscript [to my last post](https://jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/), Quamrul Ashraf and Oded Galor have prepared a response [Update: the response is no longer online] to the Harvard academic critique of their paper on [genetic diversity and economic development](https://jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/) (I recommend having a look through the comments on [that post](https://jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/), where Jade d'Alpoim Guedes, Nick Patterson (both authors of the critique), Henry Harpending and others continue the debate).
+As I noted in a postscript [to my last post](https://www.jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/), Quamrul Ashraf and Oded Galor have prepared a response [Update: the response is no longer online] to the Harvard academic critique of their paper on [genetic diversity and economic development](https://www.jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/) (I recommend having a look through the comments on [that post](https://www.jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/), where Jade d'Alpoim Guedes, Nick Patterson (both authors of the critique), Henry Harpending and others continue the debate).
 
 Apart from the broader question of whether this work should even be undertaken, the Harvard critique focused on two issues: causation and the statistical foundations of the work. Ashraf and Galor are quick to dismiss the statistical critique:
 
@@ -48,25 +48,25 @@ My posts on Ashraf and Galor's paper on genetic diversity and economic growth ar
 
 
 	
-  1. [A summary of the paper methodology and findings](https://jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/)
+  1. [A summary of the paper methodology and findings](https://www.jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/)
 
 	
-  2. [Does genetic diversity increase innovation?](https://jasoncollins.blog/does-genetic-diversity-increase-innovation/)
+  2. [Does genetic diversity increase innovation?](https://www.jasoncollins.blog/does-genetic-diversity-increase-innovation/)
 
 	
-  3. [Does genetic diversity increase conflict?](https://jasoncollins.blog/does-genetic-diversity-increase-conflict/)
+  3. [Does genetic diversity increase conflict?](https://www.jasoncollins.blog/does-genetic-diversity-increase-conflict/)
 
 	
-  4. [Is genetic diversity a proxy for phenotypic diversity?](https://jasoncollins.blog/is-genetic-diversity-a-proxy-for-phenotypic-diversity/)
+  4. [Is genetic diversity a proxy for phenotypic diversity?](https://www.jasoncollins.blog/is-genetic-diversity-a-proxy-for-phenotypic-diversity/)
 
 	
-  5. [Is population density a good measure of technological progress?](https://jasoncollins.blog/using-the-malthusian-model-to-measure-technology/)
+  5. [Is population density a good measure of technological progress?](https://www.jasoncollins.blog/using-the-malthusian-model-to-measure-technology/)
 
 	
-  6. [What are the policy implications of the effects of genetic diversity on economic development?](https://jasoncollins.blog/genetic-diversity-economic-development-and-policy/)
+  6. [What are the policy implications of the effects of genetic diversity on economic development?](https://www.jasoncollins.blog/genetic-diversity-economic-development-and-policy/)
 
 	
-  7. [Should this paper have been published?](https://jasoncollins.blog/publishing-on-genetic-diversity-and-economic-growth/)
+  7. [Should this paper have been published?](https://www.jasoncollins.blog/publishing-on-genetic-diversity-and-economic-growth/)
 
 
-Other debate on this paper can also be found [here](https://jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/), [here](https://jasoncollins.blog/genetic-diversity-and-economic-development-ashraf-and-galor-respond/), [here](https://jasoncollins.blog/is-poverty-in-our-genes/) and [here](https://jasoncollins.blog/is-poverty-in-our-genes-from-the-comments/).
+Other debate on this paper can also be found [here](https://www.jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/), [here](https://www.jasoncollins.blog/genetic-diversity-and-economic-development-ashraf-and-galor-respond/), [here](https://www.jasoncollins.blog/is-poverty-in-our-genes/) and [here](https://www.jasoncollins.blog/is-poverty-in-our-genes-from-the-comments/).

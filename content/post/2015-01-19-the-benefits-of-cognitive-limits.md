@@ -6,7 +6,7 @@ draft: no
 slug: the-benefits-of-cognitive-limits
 ---
 
-Cleaning up some notes recently, I was reminded of another interesting piece from Gerd Gigerenzer's [Rationality for Mortals](https://jasoncollins.blog/gerd-gigerenzers-rationality-for-mortals-how-people-cope-with-uncertainty/):
+Cleaning up some notes recently, I was reminded of another interesting piece from Gerd Gigerenzer's [Rationality for Mortals](https://www.jasoncollins.blog/gerd-gigerenzers-rationality-for-mortals-how-people-cope-with-uncertainty/):
 
 
 >Is perfect memory desirable, without error? The answer seems to be no. The “sins” of our memory seem to be good errors, that is, by-products (“spandrels”) of a system adapted to the demands of our environments. In this view, forgetting prevents the sheer mass of details stored in an unlimited memory from critically slowing down and inhibiting the retrieval of the few important experiences. Too much memory would impair the mind’s ability to abstract, to infer, and to learn. Moreover, the nature of memory is not simply storing and retrieving. Memory actively “makes up” memories—that is, it makes inferences and reconstructs the past from the present. This is in contrast to perception, which also makes uncertain inferences but reconstructs the present from the past. Memory needs to be functional, not veridical. To build a system that does not forget will not result in human intelligence.

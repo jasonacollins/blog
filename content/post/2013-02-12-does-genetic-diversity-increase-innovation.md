@@ -3,13 +3,13 @@ author: jasonacollins
 comments: true
 date: 2013-02-12 12:42:40+00:00
 draft: no
-link: https://jasoncollins.blog/does-genetic-diversity-increase-innovation/
+link: https://www.jasoncollins.blog/does-genetic-diversity-increase-innovation/
 slug: does-genetic-diversity-increase-innovation
 title: Does genetic diversity increase innovation?
 wordpress_id: 5215
 ---
 
-[Last week I presented a summary](https://jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/) of the method and findings of Ashraf and Galor's American Economic Review paper [The ‘Out of Africa’ Hypothesis, Human Genetic Diversity, and Comparative Economic Development](https://doi.org/10.1257/aer.103.1.1) (for the latest ungated version, go [here](http://ideas.repec.org/p/iza/izadps/dp6330.html)). As discussed in that post, one limb of Ashraf and Galor's argument is that genetic diversity provides a greater range of traits for the development and implementation of new technologies (which I'll call innovation). In this post, I look at that claim in more detail.
+[Last week I presented a summary](https://www.jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/) of the method and findings of Ashraf and Galor's American Economic Review paper [The ‘Out of Africa’ Hypothesis, Human Genetic Diversity, and Comparative Economic Development](https://doi.org/10.1257/aer.103.1.1) (for the latest ungated version, go [here](http://ideas.repec.org/p/iza/izadps/dp6330.html)). As discussed in that post, one limb of Ashraf and Galor's argument is that genetic diversity provides a greater range of traits for the development and implementation of new technologies (which I'll call innovation). In this post, I look at that claim in more detail.
 
 The measure of genetic diversity used by Ashraf and Galor is based on non-protein coding regions of the genome. This is common in population studies to prevent selection from distorting attempts to track evolutionary history. However, Ashraf and Galor note that the genetic diversity shaped by the founder effect as populations moved out of Africa likely included other phenotypically expressed genetic diversity. For example, they note [one study](http://www.nature.com/doifinder/10.1038/nature05951) in which craniometric (head shape) diversity declines with distance from Africa.
 
@@ -33,7 +33,7 @@ I lean toward the second pathway. Different forms of intelligence are highly c
 
 However, having favoured this second pathway, I am not convinced that either is the case. I prefer a hypothesis that selection pressures pushed traits in a certain direction, with diversity a secondary factor (if a factor at all). Partly this comes from the nature of innovative activity, which is affected by diversity but relies heavily on the innovative capacity of those involved. Innovative capacity is also only a subset of the traits that affect evolutionary success. If the hypothesis was one of evolutionary success, I would give more weight to a diversity hypothesis. This is also one of the many reasons that extrapolating bee or other studies to humans can be problematic. For the bees, we are measuring proxies for evolutionary success, while innovative activity is only one of many factors that may affect evolutionary success for humans.
 
-Given the above, further research is required to give the diversity-innovation hypothesis standing. But what approach should be used to tease out this question? [Cross-species comparison](https://jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/#comment-1001) provides one potential avenue, but how would levels of diversity across species be compared or levels of innovation measured? The low genetic diversity in humans relative to other species may complicate the analysis. I also suspect that a cross-species approach might be more useful in assessing the effect of diversity on levels of cooperation (the subject of a forthcoming post) as it may be too difficult to develop useful indexes of innovative behaviour in other species. Alternatively, further work on isolated human populations could be useful.
+Given the above, further research is required to give the diversity-innovation hypothesis standing. But what approach should be used to tease out this question? [Cross-species comparison](https://www.jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/#comment-1001) provides one potential avenue, but how would levels of diversity across species be compared or levels of innovation measured? The low genetic diversity in humans relative to other species may complicate the analysis. I also suspect that a cross-species approach might be more useful in assessing the effect of diversity on levels of cooperation (the subject of a forthcoming post) as it may be too difficult to develop useful indexes of innovative behaviour in other species. Alternatively, further work on isolated human populations could be useful.
 
 My preferred direction of research would be to directly analyse the selection that has occurred on the various populations, genetic evidence permitting. I would also examine what other controls are useful in the analysis. IQ is one option, although a [Flynn](http://en.wikipedia.org/wiki/James_R._Flynn)-like hypothesis of economic development and IQ ratcheting up together would make that difficult.
 
@@ -41,24 +41,24 @@ As an end note, some of the debate about the paper raises the question of whethe
 
 My posts on Ashraf and Galor's paper on genetic diversity and economic growth are as follows:
  	
-  1. [A summary of the paper methodology and findings](https://jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/)
+  1. [A summary of the paper methodology and findings](https://www.jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/)
 
  	
-  2. [Does genetic diversity increase innovation?](https://jasoncollins.blog/does-genetic-diversity-increase-innovation/) (this post)
+  2. [Does genetic diversity increase innovation?](https://www.jasoncollins.blog/does-genetic-diversity-increase-innovation/) (this post)
 
  	
-  3. [Does genetic diversity increase conflict?](https://jasoncollins.blog/does-genetic-diversity-increase-conflict/)
+  3. [Does genetic diversity increase conflict?](https://www.jasoncollins.blog/does-genetic-diversity-increase-conflict/)
 
  	
-  4. [Is genetic diversity a proxy for phenotypic diversity?](https://jasoncollins.blog/is-genetic-diversity-a-proxy-for-phenotypic-diversity/)
+  4. [Is genetic diversity a proxy for phenotypic diversity?](https://www.jasoncollins.blog/is-genetic-diversity-a-proxy-for-phenotypic-diversity/)
 
  	
-  5. [Is population density a good measure of technological progress?](https://jasoncollins.blog/using-the-malthusian-model-to-measure-technology/)
+  5. [Is population density a good measure of technological progress?](https://www.jasoncollins.blog/using-the-malthusian-model-to-measure-technology/)
 
  	
-  6. [What are the policy implications of the effects of genetic diversity on economic development?](https://jasoncollins.blog/genetic-diversity-economic-development-and-policy/)
+  6. [What are the policy implications of the effects of genetic diversity on economic development?](https://www.jasoncollins.blog/genetic-diversity-economic-development-and-policy/)
 
  	
-  7. [Should this paper have been published?](https://jasoncollins.blog/publishing-on-genetic-diversity-and-economic-growth/)
+  7. [Should this paper have been published?](https://www.jasoncollins.blog/publishing-on-genetic-diversity-and-economic-growth/)
 
-Earlier debate on this paper can also be found [here](https://jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/), [here](https://jasoncollins.blog/genetic-diversity-and-economic-development-ashraf-and-galor-respond/), [here](https://jasoncollins.blog/is-poverty-in-our-genes/) and [here](https://jasoncollins.blog/is-poverty-in-our-genes-from-the-comments/).
+Earlier debate on this paper can also be found [here](https://www.jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/), [here](https://www.jasoncollins.blog/genetic-diversity-and-economic-development-ashraf-and-galor-respond/), [here](https://www.jasoncollins.blog/is-poverty-in-our-genes/) and [here](https://www.jasoncollins.blog/is-poverty-in-our-genes-from-the-comments/).

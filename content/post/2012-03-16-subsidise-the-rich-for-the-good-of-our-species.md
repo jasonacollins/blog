@@ -6,7 +6,7 @@ draft: no
 slug: subsidise-the-rich-for-the-good-of-our-species
 ---
 
-From [Michael Shermer’s review](http://www.skepticblog.org/2012/03/13/another-fatal-conceit/) of Robert Frank’s [The Darwin Economy](https://jasoncollins.blog/franks-the-darwin-economy/):
+From [Michael Shermer’s review](http://www.skepticblog.org/2012/03/13/another-fatal-conceit/) of Robert Frank’s [The Darwin Economy](https://www.jasoncollins.blog/franks-the-darwin-economy/):
 
 >[S]exual selection may very well account for most of characteristics that we so admire about our species: art, music, humor, literature, poetry, fashion, dance and, more generally, creativity and intelligence. Science itself may be a byproduct of the cognitive process of trying to impress others in order to gain status and mates by making breakthrough discoveries and formulating important new theories. ...
 >

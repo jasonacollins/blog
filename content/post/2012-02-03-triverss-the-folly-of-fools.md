@@ -6,7 +6,7 @@ slug: triverss-the-folly-of-fools
 title: Trivers's The Folly of Fools
 ---
 
-Robert Trivers is one of the giants of biology. His work in altruism, parental investment and parent-offspring conflict is seminal. For this, he has been [justly rewarded](https://jasoncollins.blog/a-nobel-prize-for-biology/).
+Robert Trivers is one of the giants of biology. His work in altruism, parental investment and parent-offspring conflict is seminal. For this, he has been [justly rewarded](https://www.jasoncollins.blog/a-nobel-prize-for-biology/).
 
 Trivers's later work on deception and self-deception is also important. His basic argument is that self-deception is not irrationality in the way we might normally categorise it. Rather self-deception plays an important role in convincing others of the "truth". Believing in something prevents one from giving signs of deception, while possibly reducing cognitive load.
 

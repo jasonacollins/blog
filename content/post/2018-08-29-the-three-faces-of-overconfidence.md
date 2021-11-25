@@ -6,9 +6,9 @@ draft: no
 slug: the-three-faces-of-overconfidence
 ---
 
-I have [complained before](https://jasoncollins.blog/overconfident-about-overconfidence/) about people being somewhat quick to label poor decisions as being due to "overconfidence". For one, overconfidence has several distinct forms. It is a mistake to treat each as the same. Further, these forms vary in their pervasiveness.
+I have [complained before](https://www.jasoncollins.blog/overconfident-about-overconfidence/) about people being somewhat quick to label poor decisions as being due to "overconfidence". For one, overconfidence has several distinct forms. It is a mistake to treat each as the same. Further, these forms vary in their pervasiveness.
 
-The [last time I made this complaint](https://jasoncollins.blog/overconfident-about-overconfidence/) I drew on an article by Don Moore and Paul Healy, “[The Trouble with Overconfidence](https://dx.doi.org/10.1037/0033-295X.115.2.502)” ([pdf](http://healy.econ.ohio-state.edu/papers/Moore_Healy-TroubleWithOverconfidence.pdf)). A more [recent article](https://doi.org/10.1111/spc3.12331) by Don Moore and Derek Schatz ([pdf](http://learnmoore.org/mooredata/3FOC.pdf)) provides some further colour on this point (HT: [Julia Galef](https://twitter.com/juliagalef/status/1000096948660011008)). It's worth pulling out a few excerpts.
+The [last time I made this complaint](https://www.jasoncollins.blog/overconfident-about-overconfidence/) I drew on an article by Don Moore and Paul Healy, “[The Trouble with Overconfidence](https://dx.doi.org/10.1037/0033-295X.115.2.502)” ([pdf](http://healy.econ.ohio-state.edu/papers/Moore_Healy-TroubleWithOverconfidence.pdf)). A more [recent article](https://doi.org/10.1111/spc3.12331) by Don Moore and Derek Schatz ([pdf](http://learnmoore.org/mooredata/3FOC.pdf)) provides some further colour on this point (HT: [Julia Galef](https://twitter.com/juliagalef/status/1000096948660011008)). It's worth pulling out a few excerpts.
 
 So what are these distinct forms? Overestimation, overplacement and overprecision. (It's also useful to disambiguate overoptimism, which I'll touch on at the end of this post.)
 
@@ -34,7 +34,7 @@ In a reverse of the pattern for overestimation, people tend to overplace on easy
 >
 >Within the small set of studies not vulnerable to these critiques, the prevalence of overplacement shrinks. Indeed, underplacement is rife. People think they are less likely than others to win difficult competitions (Moore & Kim, 2003). When the teacher decides to make the exam harder for everyone, students expect their grades to be worse than others’ even when it is common knowledge that the exam will be graded on a forced curve (Windschitl, Kruger, & Simms, 2003). People believe they are worse jugglers than others, that they are less likely than others to win the lottery, and less likely than others to live past 100 (Kruger, 1999; Kruger & Burrus, 2004; Moore, Oesch, & Zietsma, 2007; Moore & Small, 2008). These underplacement results are striking, not only because they vitiate claims of universal overplacement, but also because they seem to contradict the hard-easy effect in overestimation, which finds that people most overestimate their performance on difficult tasks.
 
-Moore and Healy offer an explanation for the different effects of task difficulty on overestimation and overplacement - myopia. I wrote about that in the [earlier post](https://jasoncollins.blog/overconfident-about-overconfidence/).
+Moore and Healy offer an explanation for the different effects of task difficulty on overestimation and overplacement - myopia. I wrote about that in the [earlier post](https://www.jasoncollins.blog/overconfident-about-overconfidence/).
 
 ## Overprecision
 

@@ -6,7 +6,7 @@ draft: no
 slug: the-winner-effect-in-humans
 ---
 
-I am using some material from John Coates's excellent [The Hour Between Dog and Wolf](https://jasoncollins.blog/the-biology-of-boom-and-bust/) for a presentation I am giving next week, and decided it was worth sharing here:
+I am using some material from John Coates's excellent [The Hour Between Dog and Wolf](https://www.jasoncollins.blog/the-biology-of-boom-and-bust/) for a presentation I am giving next week, and decided it was worth sharing here:
 
 >During moments of risk-taking, competition and triumph, of exuberance, there is one steroid in particular that makes its presence felt and guides our actions – testosterone. At Rockefeller University I came across a model of testosterone-fuelled behaviour that offered a tantalising explanation of trader behaviour during market bubbles, a model taken from animal behaviour called ‘the winner effect’.
 >

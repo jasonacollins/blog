@@ -30,7 +30,7 @@ Links this week:
 And if you missed it, my one post this week:
 
 	
-  1. [Predicting replication](https://jasoncollins.blog/predicting-replication/).
+  1. [Predicting replication](https://www.jasoncollins.blog/predicting-replication/).
 
 
-And a blast from the past: [Why isn't economics evolutionary?](https://jasoncollins.blog/why-isnt-economics-evolutionary/)
+And a blast from the past: [Why isn't economics evolutionary?](https://www.jasoncollins.blog/why-isnt-economics-evolutionary/)

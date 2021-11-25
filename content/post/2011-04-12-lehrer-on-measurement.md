@@ -3,13 +3,13 @@ author: jasonacollins
 comments: true
 date: 2011-04-12 08:38:45+00:00
 draft: no
-link: https://jasoncollins.blog/lehrer-on-measurement/
+link: https://www.jasoncollins.blog/lehrer-on-measurement/
 slug: lehrer-on-measurement
 title: Lehrer on measurement
 wordpress_id: 708
 ---
 
-Jonah Lehrer has [expanded](http://www.wired.com/wiredscience/2011/04/the-emotional-quarterback/) his recent focus on measurement and grit (on which I [recently posted](https://jasoncollins.blog/measurement-nihilism/)) in an article on the usefulness of the Wonderlic test, a quasi-IQ test, in predicting quarterback performance. Lehrer cites [a paper](https://doi.org/10.1007/s11123-009-0154-6) by David Berri and Rob Simmons which suggests that some metrics, including the Wonderlic test, are influencing draft position even though they are not predictive of performance. Lehrer writes:
+Jonah Lehrer has [expanded](http://www.wired.com/wiredscience/2011/04/the-emotional-quarterback/) his recent focus on measurement and grit (on which I [recently posted](https://www.jasoncollins.blog/measurement-nihilism/)) in an article on the usefulness of the Wonderlic test, a quasi-IQ test, in predicting quarterback performance. Lehrer cites [a paper](https://doi.org/10.1007/s11123-009-0154-6) by David Berri and Rob Simmons which suggests that some metrics, including the Wonderlic test, are influencing draft position even though they are not predictive of performance. Lehrer writes:
 
 
 >While they found that Wonderlic scores play a large role in determining  when QBs are selected in the draft -- the only equally important  variables are height and the 40-yard dash -- the metric proved all but  useless in predicting performance. The only correlation the researchers  could find suggested that higher Wonderlic scores actually led to  slightly worse QB performance, at least during rookie years.

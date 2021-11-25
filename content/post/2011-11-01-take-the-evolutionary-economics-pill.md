@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-11-01 13:19:13+00:00
 draft: no
-link: https://jasoncollins.blog/take-the-evolutionary-economics-pill/
+link: https://www.jasoncollins.blog/take-the-evolutionary-economics-pill/
 slug: take-the-evolutionary-economics-pill
 title: Take the evolutionary economics pill
 wordpress_id: 1958

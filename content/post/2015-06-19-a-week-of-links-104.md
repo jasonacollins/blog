@@ -24,9 +24,9 @@ Links this week:
 
 And if you missed them, my posts from the last week:
 	
-  1. [MSiX 2015 is on July 30 in Sydney, and features yours truly](https://jasoncollins.blog/marketing-science-ideas-xchange-msix-2015/).
+  1. [MSiX 2015 is on July 30 in Sydney, and features yours truly](https://www.jasoncollins.blog/marketing-science-ideas-xchange-msix-2015/).
 
 	
-  2. [Humans cause accidents](https://jasoncollins.blog/the-human-factor-in-accidents/).
+  2. [Humans cause accidents](https://www.jasoncollins.blog/the-human-factor-in-accidents/).
 
 

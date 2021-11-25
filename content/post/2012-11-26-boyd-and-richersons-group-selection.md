@@ -3,13 +3,13 @@ author: jasonacollins
 comments: true
 date: 2012-11-26 05:27:02+00:00
 draft: no
-link: https://jasoncollins.blog/boyd-and-richersons-group-selection/
+link: https://www.jasoncollins.blog/boyd-and-richersons-group-selection/
 slug: boyd-and-richersons-group-selection
 title: Boyd and Richerson’s group selection
 wordpress_id: 4484
 ---
 
-In my [review of Boyd and Richerson's The Origin and Evolution of Cultures](https://jasoncollins.blog/boyd-and-richersons-the-origin-and-evolution-of-cultures/), I noted that I was not completely happy with their treatment of group selection. This post catalogues some of my thoughts.
+In my [review of Boyd and Richerson's The Origin and Evolution of Cultures](https://www.jasoncollins.blog/boyd-and-richersons-the-origin-and-evolution-of-cultures/), I noted that I was not completely happy with their treatment of group selection. This post catalogues some of my thoughts.
 
 Boyd and Richerson open their group selection discussion by noting that selection can be broken down into between-group and within-group selection (as per the Price equation - and given this equation can be developed for multiple levels, we refer to "multi-level selection"). But in their analysis of what they call group selection, they do not practically use this framework and there are no attempts to decompose the levels of selection despite the initial framing of the problem around the ability to do this. Part of the reason for the lack of decomposition between the levels is that Boyd and Richerson generally (but not always) have another conception of group selection in mind - differential reproduction and spread of groups. But that is part of what makes the initial framing deceiving.
 
@@ -30,4 +30,4 @@ In other parts of the book, it is difficult to disentangle what the trait under 
 
 These examples indicate a degree of looseness in Boyd and Richerson's use of the term group selection. At times the term seems to be thrown at any dynamics that involve groups, with no clear definition of what group selection is and no attempt to place the observed behaviour in the context of the definition. This is, of course, a broader issue in much of the literature concerning group selection.
 
-Having said this, as I [mentioned in my review](https://jasoncollins.blog/boyd-and-richersons-the-origin-and-evolution-of-cultures/), I am not averse to the idea of examining cultural evolution in a group selection framework. I like many of Boyd and Richerson's models and the descriptions of the dynamics, even if I consider the group selection label has been incorrectly applied. And it is possible that some of my complaints above could be dealt with through better explanation. But Boyd and Richerson use the term group selection so loosely that it is hard to agree with their use, particularly as I'm not sure what exactly I would be agreeing with. For the moment I prefer to describe their overall approach as "cultural group dynamics".
+Having said this, as I [mentioned in my review](https://www.jasoncollins.blog/boyd-and-richersons-the-origin-and-evolution-of-cultures/), I am not averse to the idea of examining cultural evolution in a group selection framework. I like many of Boyd and Richerson's models and the descriptions of the dynamics, even if I consider the group selection label has been incorrectly applied. And it is possible that some of my complaints above could be dealt with through better explanation. But Boyd and Richerson use the term group selection so loosely that it is hard to agree with their use, particularly as I'm not sure what exactly I would be agreeing with. For the moment I prefer to describe their overall approach as "cultural group dynamics".

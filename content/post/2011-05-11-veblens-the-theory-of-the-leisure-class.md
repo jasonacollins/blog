@@ -6,7 +6,7 @@ draft: no
 slug: veblens-the-theory-of-the-leisure-class-part-i
 ---
 
-I have started reading Thorstein Veblen's [The Theory of the Leisure Class](https://jasoncollins.blog/thorstein-veblens-the-theory-of-the-leisure-class/). The book was published in 1899 and was one of the earliest books to explore the classical economic concept that people wish to consume more.
+I have started reading Thorstein Veblen's [The Theory of the Leisure Class](https://www.jasoncollins.blog/thorstein-veblens-the-theory-of-the-leisure-class/). The book was published in 1899 and was one of the earliest books to explore the classical economic concept that people wish to consume more.
 
 I am finding it hard to read the book straight through (despite some classic satire), so I will break up my review into parts. This post covers the first five chapters. As I finish the book over the next week or so, I'll post on the rest.
 
@@ -26,4 +26,4 @@ Veblen suggests that the use of additional production for conspicuous consumptio
 
 I am also interested in whether Veblen explores the basis of the desire for status and reputation. As my previous posts suggest, I consider that it has biological foundations. From flipping through the book on previous occasions, Veblen had clearly read Darwin, although I am not sure to what use Darwin's work has been put.
 
-_The link to a full review is [here](https://jasoncollins.blog/thorstein-veblens-the-theory-of-the-leisure-class/)._
+_The link to a full review is [here](https://www.jasoncollins.blog/thorstein-veblens-the-theory-of-the-leisure-class/)._

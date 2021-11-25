@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-05-26 10:12:29+00:00
 draft: no
-link: https://jasoncollins.blog/conflict-and-social-evolution/
+link: https://www.jasoncollins.blog/conflict-and-social-evolution/
 slug: conflict-and-social-evolution
 title: Conflict and social evolution
 wordpress_id: 3312

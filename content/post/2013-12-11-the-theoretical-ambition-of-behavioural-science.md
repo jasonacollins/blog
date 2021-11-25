@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-12-11 13:54:20+00:00
 draft: no
-link: https://jasoncollins.blog/the-theoretical-ambition-of-behavioural-science/
+link: https://www.jasoncollins.blog/the-theoretical-ambition-of-behavioural-science/
 slug: the-theoretical-ambition-of-behavioural-science
 title: The theoretical ambition of behavioural science
 wordpress_id: 12605

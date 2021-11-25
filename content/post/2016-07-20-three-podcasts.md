@@ -8,7 +8,7 @@ slug: three-podcasts
 
 Here are three I recently enjoyed:
 
-  1. Econtalk:[ Brian Nosek on the Reproducibility Project](http://www.econtalk.org/archives/2015/11/brian_nosek_on.html) - Contains a lot of interesting context about the reproducibility crisis (of which you can get a flavour from my presentation [Bad Behavioural Science: Failures, bias and fairy tales](https://jasoncollins.blog/bad-behavioural-science-failures-bias-and-fairy-tales/)).
+  1. Econtalk:[ Brian Nosek on the Reproducibility Project](http://www.econtalk.org/archives/2015/11/brian_nosek_on.html) - Contains a lot of interesting context about the reproducibility crisis (of which you can get a flavour from my presentation [Bad Behavioural Science: Failures, bias and fairy tales](https://www.jasoncollins.blog/bad-behavioural-science-failures-bias-and-fairy-tales/)).
 
   2. Econtalk: [Phil Rosenzweig on Leadership, Decisions, and Behavioral Economics](http://www.econtalk.org/archives/2015/04/phil_rosenzweig.html) - The problems with taking behavioural economics findings out of the lab and applying them to business decision making.
 

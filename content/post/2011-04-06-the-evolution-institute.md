@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-04-06 10:35:37+00:00
 draft: no
-link: https://jasoncollins.blog/the-evolution-institute/
+link: https://www.jasoncollins.blog/the-evolution-institute/
 slug: the-evolution-institute
 title: The Evolution Institute
 wordpress_id: 687
@@ -21,4 +21,4 @@ The Institute frames its [economics focal topic](http://evolution-institute.org/
 
 If a project of this type succeeds, behavioural economics would be much more useful. It might actually extend beyond being a catalogue of paradoxes and biases and offer a framework under which economic decisions might be understood.
 
-*My four posts on David Sloan Wilson's Economics and Evolution as Different Paradigms can be found [here](https://jasoncollins.blog/the-evolution-institute/), [here](https://jasoncollins.blog/wilson-on-economics-and-evolution/), [here](https://jasoncollins.blog/evolution-and-the-invisible-hand/) and [here](https://jasoncollins.blog/what-can-evolutionary-biology-offer-economics/).
+*My four posts on David Sloan Wilson's Economics and Evolution as Different Paradigms can be found [here](https://www.jasoncollins.blog/the-evolution-institute/), [here](https://www.jasoncollins.blog/wilson-on-economics-and-evolution/), [here](https://www.jasoncollins.blog/evolution-and-the-invisible-hand/) and [here](https://www.jasoncollins.blog/what-can-evolutionary-biology-offer-economics/).

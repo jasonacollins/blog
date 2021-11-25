@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-06-22 08:04:09+00:00
 draft: no
-link: https://jasoncollins.blog/crime-and-biology/
+link: https://www.jasoncollins.blog/crime-and-biology/
 slug: crime-and-biology
 title: Crime and biology
 wordpress_id: 1402
@@ -31,7 +31,7 @@ Deeper biological insight into behavior will foster a better   understanding of 
 
 While I agree the criminal justice system should ask what the law-breaker is likely to do in the future, it cannot desert the look in the rearview mirror. If you wish the justice system to offer an incentive to not commit crimes, it needs to act retrospectively or the threat of punishment will not be credible. If people have a biological propensity to commit a crime, you may need to make these incentives even stronger (Steven Pinker discusses this argument in *The Blank Slate*.
 
-To make his forward-looking approach work, Eagleman suggests that the courts use statistically based sentencing. Statistical analysis can be used to find out which factors have the highest link to re-offending - and the evidence suggests that this is more accurate than leaving it to judges. I [suggested this recently](https://jasoncollins.blog/hungry-judges/) in response to the finding that the timing of lunch breaks in Israeli courts. Human judgement is a primary weakness in the criminal justice system. However, there will need to be a component of the algorithm that provides a certain, strong punishment that potential criminals can take into account.
+To make his forward-looking approach work, Eagleman suggests that the courts use statistically based sentencing. Statistical analysis can be used to find out which factors have the highest link to re-offending - and the evidence suggests that this is more accurate than leaving it to judges. I [suggested this recently](https://www.jasoncollins.blog/hungry-judges/) in response to the finding that the timing of lunch breaks in Israeli courts. Human judgement is a primary weakness in the criminal justice system. However, there will need to be a component of the algorithm that provides a certain, strong punishment that potential criminals can take into account.
 
 While Eagleman's article is thorough, there is one biological element missing from his analysis - the dynamic effects. Incarceration removes young men from the mating market during their mating prime. As the propensity to commit crime is heritable, the removal of criminals from the mating market will reduce the frequency of the genes associated with crime in the next generation. As Eagleman notes:
 

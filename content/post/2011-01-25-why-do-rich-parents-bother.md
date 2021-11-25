@@ -19,10 +19,10 @@ So, here are a few suggestions to rationalise (or not) the investment, with vary
 
 
 	
-  1. The old chestnut - people are irrational. We could use an evolutionary argument that we evolved in a Malthusian era in which humans had to dedicate a high proportion of their income to increasing child quality. Now that wealth is abundant, people are inclined to invest a similar proportion of their income in education despite it having severely diminishing returns. If this argument holds, we would expect that in this era of abundance, those who invest less in quality and direct those resources to quantity will grow in proportion of the population (this reflects the result of the [Galor and Moav model](https://jasoncollins.blog/a-model-of-the-quantity-quality-trade-off/)).
+  1. The old chestnut - people are irrational. We could use an evolutionary argument that we evolved in a Malthusian era in which humans had to dedicate a high proportion of their income to increasing child quality. Now that wealth is abundant, people are inclined to invest a similar proportion of their income in education despite it having severely diminishing returns. If this argument holds, we would expect that in this era of abundance, those who invest less in quality and direct those resources to quantity will grow in proportion of the population (this reflects the result of the [Galor and Moav model](https://www.jasoncollins.blog/a-model-of-the-quantity-quality-trade-off/)).
 
 	
-  2. The investment in children is a signal by the parents ([conspicuous consumption](https://jasoncollins.blog/an-evolutionary-explanation-of-consumption/)), who still seek status.
+  2. The investment in children is a signal by the parents ([conspicuous consumption](https://www.jasoncollins.blog/an-evolutionary-explanation-of-consumption/)), who still seek status.
 
 	
   3. The investment is a signal for the child. Those years in a top school may not deliver more educational benefit, but it looks good on the CV. This does assume, however, that the person looking at the CV believes that the investment matters.

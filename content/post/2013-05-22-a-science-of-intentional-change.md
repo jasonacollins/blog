@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-05-22 12:39:22+00:00
 draft: no
-link: https://jasoncollins.blog/a-science-of-intentional-change/
+link: https://www.jasoncollins.blog/a-science-of-intentional-change/
 slug: a-science-of-intentional-change
 title: A science of intentional change
 wordpress_id: 6237

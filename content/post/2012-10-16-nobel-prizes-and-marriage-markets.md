@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-10-16 10:45:44+00:00
 draft: no
-link: https://jasoncollins.blog/nobel-prizes-and-marriage-markets/
+link: https://www.jasoncollins.blog/nobel-prizes-and-marriage-markets/
 slug: nobel-prizes-and-marriage-markets
 title: Nobel prizes and marriage markets
 wordpress_id: 4333

@@ -43,4 +43,4 @@ And on science done right (well done Brendan Nyhan and Jason Reifler):
 
 Read [Engber's full article](https://slate.com/health-and-science/2018/01/weve-been-told-were-living-in-a-post-truth-age-dont-believe-it.html). It covers a lot more territory, including some interesting history on how the idea spread.
 
-I have added this to the growing catalogue of readings on my [critical behavioural economics and behavioural science reading list](https://jasoncollins.blog/a-critical-behavioural-economics-and-behavioural-science-reading-list/). (Daniel Engber makes a few appearances.)
+I have added this to the growing catalogue of readings on my [critical behavioural economics and behavioural science reading list](https://www.jasoncollins.blog/a-critical-behavioural-economics-and-behavioural-science-reading-list/). (Daniel Engber makes a few appearances.)

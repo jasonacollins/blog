@@ -47,7 +47,7 @@ But is this belief in the "hot hand" a rational belief? Or is the hot hand an il
 
 In a famous examination of this question, [Thomas Gilovich, Robert Vallone and Amos Tversky](https://doi.org/10.1016/0010-0285(85)90010-6) took shot data from a variety of sources, including the Philadelphia 76ers and Boston Celtics, and examined it for evidence of a hot hand.
 
-What did they find? The hot hand was an illusion. As Daniel Kahneman wrote in [Thinking, Fast and Slow](https://jasoncollins.blog/re-reading-kahnemans-thinking-fast-and-slow/) when describing this research:
+What did they find? The hot hand was an illusion. As Daniel Kahneman wrote in [Thinking, Fast and Slow](https://www.jasoncollins.blog/re-reading-kahnemans-thinking-fast-and-slow/) when describing this research:
 
 >The hot hand is entirely in the eye of the beholders, who are consistently too quick to perceive order and causality in randomness. The hot hand is a massive and widespread cognitive illusion.
 
@@ -125,7 +125,7 @@ This is a persistent characteristic of much applied behavioural science. It was 
 
 Here's another example. There is a body of behavioural science research known as priming, that suggests that even slight cues in the environment can change our actions. A lot of priming research has bitten the dust through the replication crisis - ideas such as words associated with old people slow our walking pace, known as the Florida effect, or that images of money make us selfish, or that priming us with the ten commandments can make us more honest. It simply hasn't stood the test of time.
 
-Yet here's a passage from [Daniel Kahneman's Thinking, Fast and Slow](https://jasoncollins.blog/kahnemans-thinking-fast-and-slow/):
+Yet here's a passage from [Daniel Kahneman's Thinking, Fast and Slow](https://www.jasoncollins.blog/kahnemans-thinking-fast-and-slow/):
 
 >When I describe priming studies to audiences, the reaction is often disbelief. ...
 >

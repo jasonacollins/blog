@@ -3,13 +3,13 @@ author: jasonacollins
 comments: true
 date: 2011-06-17 07:16:27+00:00
 draft: no
-link: https://jasoncollins.blog/diversity-and-consumerism/
+link: https://www.jasoncollins.blog/diversity-and-consumerism/
 slug: diversity-and-consumerism
 title: Diversity and consumerism
 wordpress_id: 1328
 ---
 
-In Geoffrey Miller's *Spent: Sex, Evolution, and Consumer Behavior* (earlier posts on his book [here](/maslows-hierarchy/), [here](/millers-spent-sex-evolution-and-consumer-behavior/) and [here](https://jasoncollins.blog/the-evolution-of-conscientiousness/) - this is the last one for now), Miller discusses how there might be a move away from a consumerist culture. To do this, there is a need to develop and maintain social norms that could act as an alternative to the typical displays of wealth. For example, in a religious community, signalling could be through time and resources given to the church.
+In Geoffrey Miller's *Spent: Sex, Evolution, and Consumer Behavior* (earlier posts on his book [here](/maslows-hierarchy/), [here](/millers-spent-sex-evolution-and-consumer-behavior/) and [here](https://www.jasoncollins.blog/the-evolution-of-conscientiousness/) - this is the last one for now), Miller discusses how there might be a move away from a consumerist culture. To do this, there is a need to develop and maintain social norms that could act as an alternative to the typical displays of wealth. For example, in a religious community, signalling could be through time and resources given to the church.
 
 However, Miller stated that there is a major legal obstacle to establishing these norms. The obstacle is that the laws about property ownership and rental do not allow discrimination. Despite the good intentions, Miller considers that "they have toxic side effects on the ability of voluntarily organized communities to create the physical, social, and moral environments that their members want."
 

@@ -3,15 +3,15 @@ author: jasonacollins
 comments: true
 date: 2013-02-05 13:30:58+00:00
 draft: no
-link: https://jasoncollins.blog/a-model-of-the-quantity-quality-trade-off/
+link: https://www.jasoncollins.blog/a-model-of-the-quantity-quality-trade-off/
 slug: a-model-of-the-quantity-quality-trade-off
 title: A model of the quantity-quality trade-off
 wordpress_id: 5228
 ---
 
-Following [my last post](https://jasoncollins.blog/there-is-no-quantity-quality-trade-off/) suggesting that there was no quality-quantity trade-off in modern societies (at least to an extent that mattered), I wanted to point to a nice model that makes this argument. The interesting thing about the model is that the purpose of the authors in developing it was not primarily to make that point.
+Following [my last post](https://www.jasoncollins.blog/there-is-no-quantity-quality-trade-off/) suggesting that there was no quality-quantity trade-off in modern societies (at least to an extent that mattered), I wanted to point to a nice model that makes this argument. The interesting thing about the model is that the purpose of the authors in developing it was not primarily to make that point.
 
-The model is by Oded Galor and Omer Moav model in their article _Natural Selection and the Origin of Economic Growth_. [I've posted on the paper before](https://jasoncollins.blog/natural-selection-and-economic-growth/) and [my first working paper](http://ssrn.com/abstract=1851251) simulated this model (a post about that [paper is here](https://jasoncollins.blog/natural-selection-and-the-collapse-of-economic-growth/)).
+The model is by Oded Galor and Omer Moav model in their article _Natural Selection and the Origin of Economic Growth_. [I've posted on the paper before](https://www.jasoncollins.blog/natural-selection-and-economic-growth/) and [my first working paper](http://ssrn.com/abstract=1851251) simulated this model (a post about that [paper is here](https://www.jasoncollins.blog/natural-selection-and-the-collapse-of-economic-growth/)).
 
 The basic idea of the model is as follows. In the population there are two genotypes - those who prefer higher quality children, and those who prefer a greater quantity of children. Those with a preference for higher quality invest more in educating their children.
 

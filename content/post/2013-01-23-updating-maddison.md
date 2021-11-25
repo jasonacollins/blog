@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-01-23 12:44:04+00:00
 draft: no
-link: https://jasoncollins.blog/updating-maddison/
+link: https://www.jasoncollins.blog/updating-maddison/
 slug: updating-maddison
 title: Updating Maddison
 wordpress_id: 5099

@@ -12,7 +12,7 @@ Tyler Cowen [writes](http://marginalrevolution.com/marginalrevolution/why-econom
 <blockquote>How much of immobility is due to “inherited talent plus diminishing role for random circumstance”?  Is not this cause of immobility very different — both practically and morally — from such factors as discrimination, bad schools, occupational licensing, etc.?  What are you supposed to get when you combine genetics with meritocracy?</blockquote>
 
 
-I have  [written](https://jasoncollins.blog/low-social-mobility-equals-success/) before about how decreased social mobility may be a sign of equalised opportunity. In a perfect meritocracy, assortment will largely be through genes.
+I have  [written](https://www.jasoncollins.blog/low-social-mobility-equals-success/) before about how decreased social mobility may be a sign of equalised opportunity. In a perfect meritocracy, assortment will largely be through genes.
 
 However, there can still be social mobility even though assortment is through genetic factors. This is through differential reproductive success. If an economic class has  more children, many of those children move up or down the social scale as there is no longer room for them in their cohort.
 

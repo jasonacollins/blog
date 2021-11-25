@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-09-17 11:14:06+00:00
 draft: no
-link: https://jasoncollins.blog/agriculture-and-population-growth/
+link: https://www.jasoncollins.blog/agriculture-and-population-growth/
 slug: agriculture-and-population-growth
 title: Agriculture and population growth
 wordpress_id: 4071

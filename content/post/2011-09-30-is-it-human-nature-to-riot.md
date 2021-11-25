@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-09-30 10:26:02+00:00
 draft: no
-link: https://jasoncollins.blog/is-it-human-nature-to-riot/
+link: https://www.jasoncollins.blog/is-it-human-nature-to-riot/
 slug: is-it-human-nature-to-riot
 title: Is it human nature to riot?
 wordpress_id: 1866

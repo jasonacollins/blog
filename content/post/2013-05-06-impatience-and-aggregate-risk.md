@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-05-06 12:52:44+00:00
 draft: no
-link: https://jasoncollins.blog/impatience-and-aggregate-risk/
+link: https://www.jasoncollins.blog/impatience-and-aggregate-risk/
 slug: impatience-and-aggregate-risk
 title: Impatience and aggregate risk
 wordpress_id: 6076
@@ -15,7 +15,7 @@ In the second population, each person also has a 50 per cent chance of having no
 
 This difference between aggregate and idiosyncratic risk was used by [Arthur Robson and Larry Samuelson](http://doi.org/10.1257/aer.99.5.1925) (ungated version [here](http://www.sfu.ca/~robson/AggUn.pdf))  to partly explain the problem that the rate of time preference (also called the discount rate, or level of patience) estimated in many theoretical evolutionary papers is lower than we see - often around a couple of per cent per year compared to empirical findings that people discount the future at rates of 10 per cent per year or higher. People are far more impatient than many theoretical models predict.
 
-Theoretical evolutionary estimates of the rate of time preference are typically tied to the rate of population growth and the chance of death, as was the case in work by [Ronald Fisher](https://jasoncollins.blog/fisher-on-the-evolution-of-time-preference/), [Ingemar Hansson and Charles Stuart](https://jasoncollins.blog/natural-selection-and-savings/) and [Alan Rogers](https://jasoncollins.blog/evolution-of-time-preference-by-natural-selection/). If population is growing, investments in the future are worth less. More obviously, death before reproduction erases all future benefit, so a higher probability of death should lead you to discount the future more. But with long-term population growth through our evolutionary history being near flat and death rates each year a couple of per cent at most, theoretical calculations often come out at around two per cent per year.
+Theoretical evolutionary estimates of the rate of time preference are typically tied to the rate of population growth and the chance of death, as was the case in work by [Ronald Fisher](https://www.jasoncollins.blog/fisher-on-the-evolution-of-time-preference/), [Ingemar Hansson and Charles Stuart](https://www.jasoncollins.blog/natural-selection-and-savings/) and [Alan Rogers](https://www.jasoncollins.blog/evolution-of-time-preference-by-natural-selection/). If population is growing, investments in the future are worth less. More obviously, death before reproduction erases all future benefit, so a higher probability of death should lead you to discount the future more. But with long-term population growth through our evolutionary history being near flat and death rates each year a couple of per cent at most, theoretical calculations often come out at around two per cent per year.
 
 To resolve this problem, Robson and Samuelson argue that idiosyncratic and aggregate risk affects the optimal discount rates. In a population with idiosyncratic risk, the rate of time preference should approximate the population growth rate and the death rate. But in a population with aggregate risk, the expected population growth rate is not what we should look at.
 

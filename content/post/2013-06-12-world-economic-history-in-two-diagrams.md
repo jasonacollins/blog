@@ -13,7 +13,7 @@ Gregory Clark opens *A Farewell to Alms* with a strong claim:
 >
 >![](/img/clark-2007-figure-1-1.jpg)
 
-I like Clark's claim, but I'm now convinced that we need a second. From Michael Kremer's [Population Growth and Technological Change: One Million B.C. to 1990](https://jasoncollins.blog/more-people-more-ideas-in-the-long-run/):
+I like Clark's claim, but I'm now convinced that we need a second. From Michael Kremer's [Population Growth and Technological Change: One Million B.C. to 1990](https://www.jasoncollins.blog/more-people-more-ideas-in-the-long-run/):
 
 >Figure I plots the growth rate of population against its level from prehistoric times to the present.
 >

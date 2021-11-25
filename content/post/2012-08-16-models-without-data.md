@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-08-16 10:21:17+00:00
 draft: no
-link: https://jasoncollins.blog/models-without-data/
+link: https://www.jasoncollins.blog/models-without-data/
 slug: models-without-data
 title: Models without data
 wordpress_id: 3838
@@ -25,4 +25,4 @@ David Reich dismissed the new paper by Eriksson and Manica as "obsolete". I agre
 
 
 
-If we set up a continuum between the rare data of paleoanthropology and the abundant data of genomics, economics is closer to the genomics end of the continuum. Yet papers with models and no reference to the empirical evidence abound, even where the data is plentiful. I suspect that this is at least partly due to the culture in economics. As [I wrote earlier this year](https://jasoncollins.blog/game-theory-and-the-peacocks-tail/), a beautiful model in economics is often appreciated, even where it is in direct conflict with empirical evidence. And the pile of economic models that have been discarded as they are inconsistent with empirical observation is very small.
+If we set up a continuum between the rare data of paleoanthropology and the abundant data of genomics, economics is closer to the genomics end of the continuum. Yet papers with models and no reference to the empirical evidence abound, even where the data is plentiful. I suspect that this is at least partly due to the culture in economics. As [I wrote earlier this year](https://www.jasoncollins.blog/game-theory-and-the-peacocks-tail/), a beautiful model in economics is often appreciated, even where it is in direct conflict with empirical evidence. And the pile of economic models that have been discarded as they are inconsistent with empirical observation is very small.

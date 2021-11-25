@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2015-03-25 08:00:42+00:00
 draft: no
-link: https://jasoncollins.blog/an-evolutionary-perspective-on-behavioural-economics/
+link: https://www.jasoncollins.blog/an-evolutionary-perspective-on-behavioural-economics/
 slug: an-evolutionary-perspective-on-behavioural-economics
 title: An evolutionary perspective on behavioural economics
 wordpress_id: 20936
@@ -11,7 +11,7 @@ wordpress_id: 20936
 
 I often complain that behavioural economics (behavioural science) often appears to be no more than a loosely connected set of heuristics and biases, crying out for theoretical unification. Evolutionary biology is likely the source of that unification.
 
-Over the last few years, I've spotted the occasional attempt to analyse a bias through an evolutionary lens. But late last year, I came across Owen D Jones, a professor of law and professor of biological sciences at Vanderbilt University. At the time, I posted on his forthcoming book chapter [Why Behavioral Economics Isn't Better, and How it Could Be](https://jasoncollins.blog/improving-behavioural-economics/), but since then have been working through his impressive back catalogue (his [SSRN page is here](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=142209#reg)). For around 15 years Jones has published on the link between behavioural economics (or in his case, behavioural law and economics) and evolutionary biology, but this work has barely carried across from the law to the economics literature.
+Over the last few years, I've spotted the occasional attempt to analyse a bias through an evolutionary lens. But late last year, I came across Owen D Jones, a professor of law and professor of biological sciences at Vanderbilt University. At the time, I posted on his forthcoming book chapter [Why Behavioral Economics Isn't Better, and How it Could Be](https://www.jasoncollins.blog/improving-behavioural-economics/), but since then have been working through his impressive back catalogue (his [SSRN page is here](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=142209#reg)). For around 15 years Jones has published on the link between behavioural economics (or in his case, behavioural law and economics) and evolutionary biology, but this work has barely carried across from the law to the economics literature.
 
 I plan to post on a few of his papers, and I'll start with a 2000 article [Time-Shifted Rationality and the Law of Law's Leverage: Behavioral Economics Meets Behavioral Biology](http://ssrn.com/abstract=249419). As in the chapter I linked above, Jones starts by critiquing the lack of theoretical background in behavioural economics, a claim that is still fair today:
 
@@ -23,7 +23,7 @@ Nevertheless, in the absence of buttressing theory such efforts represent isola
 
 Jones argues that an evolutionary analysis can provide that theoretical foundation, primarily through distinguishing proximate from ultimate causes. Proximate causes relate to the internal mechanisms or physical processes that underlie behaviour. Ultimate causes are the evolutionary processes by which a behaviour came to be commonly observable in a species. Jones argues that there is a general failure to analyse the biases through the lens of ultimate causation, which would allow us to understand the patterns of biases and why some biases are so widespread.
 
-I am tempted to go further and would say that often there is not even an analysis of the proximate causes of biases. [Gerd Gigerenzer tends to operate in this territory](https://jasoncollins.blog/four-perspectives-on-human-decision-making/), looking to understand what decision rules are being exercised in particular environments, which allows you to understand the _ecological_ rationality of the decision. A lot of behavioural economics research simply finds a deviation from what they consider a rational decision and moves on - with no thought as to how the decision making process led to the decision. Prospect theory, for instance, bears practically no resemblance to mechanisms or processes by which people actually make decisions.
+I am tempted to go further and would say that often there is not even an analysis of the proximate causes of biases. [Gerd Gigerenzer tends to operate in this territory](https://www.jasoncollins.blog/four-perspectives-on-human-decision-making/), looking to understand what decision rules are being exercised in particular environments, which allows you to understand the _ecological_ rationality of the decision. A lot of behavioural economics research simply finds a deviation from what they consider a rational decision and moves on - with no thought as to how the decision making process led to the decision. Prospect theory, for instance, bears practically no resemblance to mechanisms or processes by which people actually make decisions.
 
 Back to Jones, he argues that under the lens of ultimate causation, many biases turn out to be features, not bugs:
 

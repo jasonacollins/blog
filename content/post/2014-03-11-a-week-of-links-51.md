@@ -14,7 +14,7 @@ More like a month of links, but here goes:
   1. We're going to be hearing a lot about Greg Clark's new book on social mobility - [The Son Also Rises: Surnames and the History of Social Mobility](/the-genetic-basis-of-social-mobility/). [Clark gives a synopsis in the NYT](http://opinionator.blogs.nytimes.com/2014/02/21/your-fate-thank-your-ancestors/). In short, Clark and his colleagues estimate "that 50 to 60 percent of variation in overall status is determined by your lineage."
 
 	
-  2. Kolk and colleagues present a paper in [The Proceedings of the Royal Society B](https://doi.org/10.1098/rspb.2013.2561) presents a model in which intergenerational fertility correlations drive a long-term fertility increase. They cite my [working paper](https://jasoncollins.blog/fertility-is-going-to-go-up/) a source for genetic correlations driving fertility up. When (if) I get that paper published, do I now cite back?
+  2. Kolk and colleagues present a paper in [The Proceedings of the Royal Society B](https://doi.org/10.1098/rspb.2013.2561) presents a model in which intergenerational fertility correlations drive a long-term fertility increase. They cite my [working paper](https://www.jasoncollins.blog/fertility-is-going-to-go-up/) a source for genetic correlations driving fertility up. When (if) I get that paper published, do I now cite back?
 
 	
   3. [The germs made you do it](http://www.psmag.com/navigation/health-and-behavior/bugs-like-made-germ-theory-democracy-beliefs-73958/). (A good long read)

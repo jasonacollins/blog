@@ -1,1 +1,1 @@
-Website, including posts, for https://jasoncollins.blog
+Website, including posts, for https://www.jasoncollins.blog

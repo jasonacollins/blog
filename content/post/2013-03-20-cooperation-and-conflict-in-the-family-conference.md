@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-03-20 12:50:51+00:00
 draft: no
-link: https://jasoncollins.blog/cooperation-and-conflict-in-the-family-conference/
+link: https://www.jasoncollins.blog/cooperation-and-conflict-in-the-family-conference/
 slug: cooperation-and-conflict-in-the-family-conference
 title: Cooperation and Conflict in the Family Conference
 wordpress_id: 5675

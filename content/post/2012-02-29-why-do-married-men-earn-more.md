@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-02-29 12:21:39+00:00
 draft: no
-link: https://jasoncollins.blog/why-do-married-men-earn-more/
+link: https://www.jasoncollins.blog/why-do-married-men-earn-more/
 slug: why-do-married-men-earn-more
 title: Why do married men earn more?
 wordpress_id: 2589

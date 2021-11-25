@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2015-03-20 08:00:53+00:00
 draft: no
-link: https://jasoncollins.blog/a-week-of-links-94/
+link: https://www.jasoncollins.blog/a-week-of-links-94/
 slug: a-week-of-links-94
 title: A week of links
 wordpress_id: 20941
@@ -39,12 +39,12 @@ And no posts this week, although with [Robert Frank joining Twitter](https://tw
 
 
 	
-  1. [The Darwin Economy](https://jasoncollins.blog/franks-the-darwin-economy/)
+  1. [The Darwin Economy](https://www.jasoncollins.blog/franks-the-darwin-economy/)
 
 	
-  2. [Passions Within Reason](https://jasoncollins.blog/franks-passions-within-reason/)
+  2. [Passions Within Reason](https://www.jasoncollins.blog/franks-passions-within-reason/)
 
 	
-  3. [Luxury Fever](https://jasoncollins.blog/franks-luxury-fever/).
+  3. [Luxury Fever](https://www.jasoncollins.blog/franks-luxury-fever/).
 
 

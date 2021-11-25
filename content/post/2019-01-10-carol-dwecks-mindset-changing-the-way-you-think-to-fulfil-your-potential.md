@@ -36,7 +36,7 @@ But Dwecks's strong statements about growth mindset through the book make it cle
 >
 >It’s not just that some people happen to recognize the value of challenging themselves and the importance of effort. Our research has shown that this comes directly from the growth mindset.
 
-Although Dweck marshals her stories from business and sports to support these "controversial position" claims, it does't work absent the evidence of beliefs. Add in the survivorship bias in the examples at hand, plus the [halo effect](https://jasoncollins.blog/rosenzweigs-the-halo-effect-and-the-eight-other-business-delusions-that-deceive-managers/) in assessing whether the successful people have a "growth mindset", and there is little compelling evidence that these people held a growth or fixed mindset (as per the "controversial position) and that the mindset in turn caused the outcomes.
+Although Dweck marshals her stories from business and sports to support these "controversial position" claims, it does't work absent the evidence of beliefs. Add in the survivorship bias in the examples at hand, plus the [halo effect](https://www.jasoncollins.blog/rosenzweigs-the-halo-effect-and-the-eight-other-business-delusions-that-deceive-managers/) in assessing whether the successful people have a "growth mindset", and there is little compelling evidence that these people held a growth or fixed mindset (as per the "controversial position) and that the mindset in turn caused the outcomes.
 
 To find evidence in support of Dweck's statements you need to turn to the academic work, but Dweck covers her research in little detail. From the limited descriptions in the book, it was often hard to know what the experiment involved and how much weight to give it. The book pointed me to interesting papers, but absent that visit to the academic literature I felt lost.
 
@@ -68,7 +68,7 @@ Similarly, Mike Tyson is labelled as someone who "reached the top, but ... didn'
 
 On a personal angle. Dweck's picture of someone with "fixed mindset" is a good description of me. Through primary and high-school I was always the "smartest" kid in (my small rural then regional) school, despite investing close to zero effort outside of the classroom. I spent the evenings before my university entrance exams shooting a basketball.
 
-My results gave me the pick of Australian universities and scholarships, but I then dropped out of my first two attempts at university, and followed that by dropping out of Duntroon (Australia's army officer training establishment, our equivalent to West Point). For the universities, lecture attendance alone was not enough. I was simply too lazy and immature to make it through Duntroon. (Maybe I lacked "[grit](https://jasoncollins.blog/angela-duckworths-grit-the-power-of-passion-and-perseverance/)".)
+My results gave me the pick of Australian universities and scholarships, but I then dropped out of my first two attempts at university, and followed that by dropping out of Duntroon (Australia's army officer training establishment, our equivalent to West Point). For the universities, lecture attendance alone was not enough. I was simply too lazy and immature to make it through Duntroon. (Maybe I lacked "[grit](https://www.jasoncollins.blog/angela-duckworths-grit-the-power-of-passion-and-perseverance/)".)
 
 After working in a chicken factory to fund a return to university (not recommended), I finally obtained a law degree, although I did so with a basic philosophy of doing just enough to pass.
 

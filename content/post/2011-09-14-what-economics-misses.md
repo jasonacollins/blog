@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-09-14 12:49:20+00:00
 draft: no
-link: https://jasoncollins.blog/what-economics-misses/
+link: https://www.jasoncollins.blog/what-economics-misses/
 slug: what-economics-misses
 title: What economics misses
 wordpress_id: 1783

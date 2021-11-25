@@ -22,6 +22,6 @@ Another issue is that we can find examples of one-off inventions or evolutionary
 
 I lean towards the view that biology is not repeatable . Small chance events have large effects. Although I am open to the idea that intelligence might be likely to evolve, a one-off example in over 4 billion years is hardly a strong case and doesn't provide very many sample points.
 
-If you pull that theoretical pin out of What Technology Wants, the argument that technology has direction lacks a solid thesis. As Matt Ridley did in [The Rational Optimist](https://jasoncollins.blog/ridleys-the-rational-optimist/), Kelly takes a general direction and tries to use evolution to turn it into an iron law. But it is the wrong tool to do so.
+If you pull that theoretical pin out of What Technology Wants, the argument that technology has direction lacks a solid thesis. As Matt Ridley did in [The Rational Optimist](https://www.jasoncollins.blog/ridleys-the-rational-optimist/), Kelly takes a general direction and tries to use evolution to turn it into an iron law. But it is the wrong tool to do so.
 
 Regardless, I enjoyed the book greatly. It is full of interesting observations and ideas by an astute observer of technology. Just don't look to it for the all encompassing theory of technology.

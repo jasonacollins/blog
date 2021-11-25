@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-10-28 13:48:29+00:00
 draft: no
-link: https://jasoncollins.blog/six-signs-youre-reading-good-criticism-of-economics/
+link: https://www.jasoncollins.blog/six-signs-youre-reading-good-criticism-of-economics/
 slug: six-signs-youre-reading-good-criticism-of-economics
 title: Six signs you're reading good criticism of economics
 wordpress_id: 7776

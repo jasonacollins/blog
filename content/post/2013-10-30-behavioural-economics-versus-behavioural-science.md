@@ -6,7 +6,7 @@ draft: no
 slug: behavioural-economics-versus-behavioural-science
 ---
 
-[In the comments](https://jasoncollins.blog/a-week-of-links-37), [Rory Sutherland](https://twitter.com/rorysutherland) writes:
+[In the comments](https://www.jasoncollins.blog/a-week-of-links-37), [Rory Sutherland](https://twitter.com/rorysutherland) writes:
 
 
 <blockquote>One favour to ask. I completely agree with you that Behavioural Economics should be called Behavioural Science. But

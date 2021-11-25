@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-06-13 12:35:09+00:00
 draft: no
-link: https://jasoncollins.blog/some-perspectives-on-elinor-ostrom/
+link: https://www.jasoncollins.blog/some-perspectives-on-elinor-ostrom/
 slug: some-perspectives-on-elinor-ostrom
 title: Some perspectives on Elinor Ostrom
 wordpress_id: 3439

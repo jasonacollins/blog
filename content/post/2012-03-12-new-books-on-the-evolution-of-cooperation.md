@@ -28,7 +28,7 @@ This excerpt from the Amazon review is of a similar vein:
 <blockquote>In this provocative, revelatory tour de force, Jesse Prinz reveals how the cultures we live in - not biology - determine how we think and feel. ... He is not interested in finding universal laws but, rather, in understanding, explaining and celebrating our differences.</blockquote>
 
 
-There is a case to be made for the power of situation and culture, as shown in Zimbardo’s [The Lucifer Effect](https://jasoncollins.blog/zimbardos-the-lucifer-effect/) or evidenced through the decline in violence argued by Pinker, but is there a human culture where pub fights (or their equivalents) are not predominantly the domain of young males? Can any focus on the differences completely ignore the universals?
+There is a case to be made for the power of situation and culture, as shown in Zimbardo’s [The Lucifer Effect](https://www.jasoncollins.blog/zimbardos-the-lucifer-effect/) or evidenced through the decline in violence argued by Pinker, but is there a human culture where pub fights (or their equivalents) are not predominantly the domain of young males? Can any focus on the differences completely ignore the universals?
 
 I also came across the following [review in The Age](http://www.theage.com.au/entertainment/books/dna-is-not-destiny-20120218-1tfrv.html) by Nick Miller. Miller interviewed Geoffrey Miller for some context:
 

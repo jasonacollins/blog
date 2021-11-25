@@ -8,7 +8,7 @@ math: true
 slug: Ergodicity-economics-a-primer
 ---
 
-In my previous posts on loss aversion ([here](https://jasoncollins.blog/kahneman-and-tverskys-debatable-loss-aversion-assumption/), [here](https://jasoncollins.blog/what-can-we-infer-about-someone-who-rejects-a-5050-bet-to-win-110-or-lose-100-the-rabin-paradox-explored/) and [here](https://jasoncollins.blog/the-case-against-loss-aversion/)), I foreshadowed a post on how "ergodicity economics" might shed some light on whether we need loss aversion to explain people's choices under uncertainty. This was to be that post, but the background material that I drafted is long enough to be a stand alone piece. I'll turn to the application of ergodicity economics to loss aversion in a future post.
+In my previous posts on loss aversion ([here](https://www.jasoncollins.blog/kahneman-and-tverskys-debatable-loss-aversion-assumption/), [here](https://www.jasoncollins.blog/what-can-we-infer-about-someone-who-rejects-a-5050-bet-to-win-110-or-lose-100-the-rabin-paradox-explored/) and [here](https://www.jasoncollins.blog/the-case-against-loss-aversion/)), I foreshadowed a post on how "ergodicity economics" might shed some light on whether we need loss aversion to explain people's choices under uncertainty. This was to be that post, but the background material that I drafted is long enough to be a stand alone piece. I'll turn to the application of ergodicity economics to loss aversion in a future post.
 
 The below is largely drawn from presentations and papers by [Ole Peters](https://ergodicityeconomics.com/) and [friends](http://lml.org.uk/research/economics/), with my own evolutionary take at the end. For a deeper dive, see the [lecture notes by Peters and Alexander Adamou](https://ergodicityeconomics.com/lecture-notes/), or a recent [Perspective by Peters in Nature Physics](https://doi.org/10.1038/s41567-019-0732-0).
 
@@ -184,7 +184,7 @@ There are a lot of wrinkles that could be thrown into this simulation. How many 
 
 ## 7. Risk and loss aversion in ergodicity economics
 
-In my [next post on this topic](https://jasoncollins.blog/risk-and-loss-aversion-in-ergodicity-economics) I ask whether, given the above, we need risk and loss aversion to explain our choices.
+In my [next post on this topic](https://www.jasoncollins.blog/risk-and-loss-aversion-in-ergodicity-economics) I ask whether, given the above, we need risk and loss aversion to explain our choices.
 
 ## 8. Code
 

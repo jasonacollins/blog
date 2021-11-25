@@ -24,7 +24,7 @@ This result is unsurprising. It is standard knowledge that genetic effects can 
 <blockquote>This idea, that genetic effects could vary by geographic or temporal context is somewhat self-evident, yet has been relatively unexplored and raises the question of whether some association results and genetic risk estimates may be less stable than we might hope.</blockquote>
 
 
-It is great that the authors have provided a particular example of this change. And also useful, the study provides another response to [the claim genetics is not relevant to increases in obesity](https://jasoncollins.blog/genetics-and-the-increase-in-obesity/) because there has been limited genetic change since levels of obesity took off. The high heritability of obesity has always pointed to the relevance of genetics, but this paper strengthens the case.
+It is great that the authors have provided a particular example of this change. And also useful, the study provides another response to [the claim genetics is not relevant to increases in obesity](https://www.jasoncollins.blog/genetics-and-the-increase-in-obesity/) because there has been limited genetic change since levels of obesity took off. The high heritability of obesity has always pointed to the relevance of genetics, but this paper strengthens the case.
 
 In [his NY Times piece](http://www.nytimes.com/2015/01/01/science/gene-linked-to-obesity-hasnt-always-been-a-problem-study-finds.html), Carl Zimmer quotes study co-author Nicholas Christakis on whether the changing role of genes may be a more general phenomenon:
 
@@ -40,4 +40,4 @@ Before the demographic transition when fertility rates plunged in the world's de
 
 But when you look at the heritability of fertility after the demographic transition, things have changed. The heritability of fertility as derived from twin studies is around 0.2 to 0.4. That is, 20 to 40 per cent of the variation in fertility is due to genetic variation. People with different genes have responded to changes in environment in different ways.
 
-The non-zero heritability of fertility has some interesting implications for long-term fertility. [My working paper](http://ssrn.com/abstract=2208886) outlines the research on the heritability of fertility in discussing these long-term implications. I have posted on the working paper [here](https://jasoncollins.blog/fertility-is-going-to-go-up/).
+The non-zero heritability of fertility has some interesting implications for long-term fertility. [My working paper](http://ssrn.com/abstract=2208886) outlines the research on the heritability of fertility in discussing these long-term implications. I have posted on the working paper [here](https://www.jasoncollins.blog/fertility-is-going-to-go-up/).

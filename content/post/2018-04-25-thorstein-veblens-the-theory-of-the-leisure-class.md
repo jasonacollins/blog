@@ -12,7 +12,7 @@ The Theory of the Leisure Class, published in 1899, was one of the earliest boo
 
 **Conspicuous leisure and consumption**
 
-To turn wealth into status and reputation, you needs to signal your wealth. Veblen explored two possible signals, conspicuous leisure and conspicuous consumption, with Veblen's coining of the latter term his best known claim to fame. Veblen has a relatively modern take on these two concepts, recognising the need for waste. [Signalling theory tells us](https://jasoncollins.blog/economists-1-biologists-0/) that waste required for a signal to be reliable.
+To turn wealth into status and reputation, you needs to signal your wealth. Veblen explored two possible signals, conspicuous leisure and conspicuous consumption, with Veblen's coining of the latter term his best known claim to fame. Veblen has a relatively modern take on these two concepts, recognising the need for waste. [Signalling theory tells us](https://www.jasoncollins.blog/economists-1-biologists-0/) that waste required for a signal to be reliable.
 
 When there are few goods for conspicuous consumption, as would be the case in primitive societies, conspicuous leisure is a more accessible way to signal wealth. Conspicuous leisure might involve reaching a level of manners and etiquette that could only be achieved through an excessive use of time, or becoming proficient at sports. Veblen also considers what he calls "vicarious conspicuous leisure", whereby the head of the house employs servants (or even the housewife) in exercises that waste time.
 
@@ -66,4 +66,4 @@ On education, Veblen saw the alignment of education institutions with sport and 
 
 One interesting sideline is Veblen’s view on how industrialisation has affected the status of women. Industrialisation allows women to revert to a more primitive type (Veblen’s primitive type being peaceful and industrial). The leisure class, however, needs to keep women in their place to engage in vicarious conspicuous leisure (they are, after all, a signal for the man). As a result, when educational institutions finally began to admit women, they were primarily enrolled in courses with a quasi-artistic quality, which help women in performing vicarious conspicuous leisure.
 
-[This post is a combined and edited version of three previous posts exploring the book. Those old posts are [here](https://jasoncollins.blog/veblens-the-theory-of-the-leisure-class/), [here](https://jasoncollins.blog/veblens-the-theory-of-the-leisure-class-part-ii/) and [here](https://jasoncollins.blog/veblens-the-theory-of-the-leisure-class-part-iii/).]
+[This post is a combined and edited version of three previous posts exploring the book. Those old posts are [here](https://www.jasoncollins.blog/veblens-the-theory-of-the-leisure-class/), [here](https://www.jasoncollins.blog/veblens-the-theory-of-the-leisure-class-part-ii/) and [here](https://www.jasoncollins.blog/veblens-the-theory-of-the-leisure-class-part-iii/).]

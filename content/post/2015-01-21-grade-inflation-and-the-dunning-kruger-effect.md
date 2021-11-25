@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2015-01-21 08:00:26+00:00
 draft: no
-link: https://jasoncollins.blog/grade-inflation-and-the-dunning-kruger-effect/
+link: https://www.jasoncollins.blog/grade-inflation-and-the-dunning-kruger-effect/
 slug: grade-inflation-and-the-dunning-kruger-effect
 title: Grade inflation and the Dunning-Kruger effect
 wordpress_id: 20751

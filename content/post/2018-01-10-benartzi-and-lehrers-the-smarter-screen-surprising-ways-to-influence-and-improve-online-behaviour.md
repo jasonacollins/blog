@@ -7,11 +7,11 @@ draft: no
 slug: benartzi-and-lehrers-the-smarter-screen-surprising-ways-to-influence-and-improve-online-behaviour
 ---
 
-The [replication crisis](https://jasoncollins.blog/bad-behavioural-science-failures-bias-and-fairy-tales/) has ruined my ability to relax while reading a book built on social psychology foundations. The rolling sequence of interesting but small sample and possibly not replicable findings leaves me somewhat on edge. Shlomo Benartzi's (with Jonah Lehrer) *The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior* (2015) is one such case.
+The [replication crisis](https://www.jasoncollins.blog/bad-behavioural-science-failures-bias-and-fairy-tales/) has ruined my ability to relax while reading a book built on social psychology foundations. The rolling sequence of interesting but small sample and possibly not replicable findings leaves me somewhat on edge. Shlomo Benartzi's (with Jonah Lehrer) *The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior* (2015) is one such case.
 
 Sure, I accept there is a non-zero probability that a 30 millisecond exposure to the Apple logo could make someone more creative than exposure to the IBM logo. Closing a menu after making my choice might make me more satisfied by giving me closure. Reading something in Comic Sans might lead me to think about it in a different way. But on net, most of these interesting results won't hold up. Which? I don't know.
 
-That said, like a [Malcolm Gladwell book](https://jasoncollins.blog/in-praise-of-malcolm-gladwell/), The Smarter Screen does have some interesting points and directed me to plenty of interesting material elsewhere. Just don't bet your house on the parade of results being right.
+That said, like a [Malcolm Gladwell book](https://www.jasoncollins.blog/in-praise-of-malcolm-gladwell/), The Smarter Screen does have some interesting points and directed me to plenty of interesting material elsewhere. Just don't bet your house on the parade of results being right.
 
 The central thesis in The Smarter Screen is that since so many of our decisions are now made on screens, we should invest more time in designing these screens for better decision making. Agreed.
 
@@ -27,7 +27,7 @@ The choice overload experienced on screens is a theme through the book, with man
 
 One interesting complaint of Benartzi's is about Amazon's massive range. They have over 1,000 black roller-ball pens! An academic critiquing one of the world's largest companies built on offering massive choice (and with a reputation for A/B testing) is somewhat circumspect. Maybe Amazon could be even bigger? (Interestingly, after critiquing Amazon for not allowing "closure" and reducing satisfaction by suggesting similar products after purchase, Benartzi suggests Amazon already knows this issue).
 
-The material on choice overload reflects Benartzi's habit through the book of giving a relatively uncritical discussion of his preferred underlying literature. Common examples such as the [jam experiment](https://jasoncollins.blog/not-the-jam-study-again/) are trotted out, with no mention of the failed replications or the meta-analysis showing a mean effect of changing the number of choices of zero. Benartzi's message that we need to test these ideas covers him to a degree, but a more sceptical reporting of the literature would have been helpful.
+The material on choice overload reflects Benartzi's habit through the book of giving a relatively uncritical discussion of his preferred underlying literature. Common examples such as the [jam experiment](https://www.jasoncollins.blog/not-the-jam-study-again/) are trotted out, with no mention of the failed replications or the meta-analysis showing a mean effect of changing the number of choices of zero. Benartzi's message that we need to test these ideas covers him to a degree, but a more sceptical reporting of the literature would have been helpful.
 
 Some other sections have a similar shallowness. The material on subliminal advertising ignores the debates around it. Some of the cited studies have all the hallmarks of a spurious result, with multiple comparisons and effects only under specific conditions. For example, people are more likely to buy Mountain Dew if the Mountain Dew ad played at 10 times speed is preceded by an ad for a dissimilar product like a Honda. There is no effect when an ad for a (similar) Hummer is played first. Really?
 

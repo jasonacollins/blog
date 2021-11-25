@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2014-01-27 03:32:50+00:00
 draft: no
-link: https://jasoncollins.blog/a-week-of-links-48/
+link: https://www.jasoncollins.blog/a-week-of-links-48/
 slug: a-week-of-links-48
 title: A week of links
 wordpress_id: 19260

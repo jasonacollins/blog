@@ -6,7 +6,7 @@ draft: no
 slug: gigerenzer-versus-kahneman-and-tversky-the-1996-face-off
 ---
 
-Through the late 1980s and early 1990s, Gerd Gigerenzer and friends wrote a series of articles critiquing Daniel Kahneman and Amos Tversky's work on heuristic and biases. They hit hard. As Michael Lewis wrote in [The Undoing Project](https://jasoncollins.blog/michael-lewiss-the-undoing-project-a-friendship-that-changed-the-world/):
+Through the late 1980s and early 1990s, Gerd Gigerenzer and friends wrote a series of articles critiquing Daniel Kahneman and Amos Tversky's work on heuristic and biases. They hit hard. As Michael Lewis wrote in [The Undoing Project](https://www.jasoncollins.blog/michael-lewiss-the-undoing-project-a-friendship-that-changed-the-world/):
 
 >Gigerenzer had taken the same angle of attack as most of their other critics. But in Danny and Amos’s view he’d ignored the usual rules of intellectual warfare, distorting their work to make them sound even more fatalistic about their fellow man than they were. He also downplayed or ignored most of their evidence, and all of their strongest evidence. He did what critics sometimes do: He described the object of his scorn as he wished it to be rather than as it was. Then he debunked his description. ... “Amos says we absolutely must do something about Gigerenzer,” recalled Danny. ... Amos didn’t merely want to counter Gigerenzer; he wanted to destroy him. (“Amos couldn’t mention Gigerenzer’s name without using the word ‘sleazeball,’ ” said UCLA professor Craig Fox, Amos’s former student.) Danny, being Danny, looked for the good in Gigerenzer’s writings. He found this harder than usual to do.
 
@@ -67,7 +67,7 @@ A typical question from the overconfidence literature reads as follows:
 >
 >50% 60% 70% 80% 90% 100%
 
-After answering many questions of this form, the usual finding is that where people are 100% confident they had the correct answer, they might be correct only 80% of the time. When 80% confident, they might get only 65% correct. This discrepancy is often called "overconfidence". [I've [written elsewhere](https://jasoncollins.blog/the-three-faces-of-overconfidence/) about the need to disambiguate different forms of overconfidence.]
+After answering many questions of this form, the usual finding is that where people are 100% confident they had the correct answer, they might be correct only 80% of the time. When 80% confident, they might get only 65% correct. This discrepancy is often called "overconfidence". [I've [written elsewhere](https://www.jasoncollins.blog/the-three-faces-of-overconfidence/) about the need to disambiguate different forms of overconfidence.]
 
 There are numerous explanations for this overconfidence, such as confirmation bias, although in Gigerenzer's view this is "a robust fact waiting for a theory".
 

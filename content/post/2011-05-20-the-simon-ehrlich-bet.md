@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-05-20 07:25:08+00:00
 draft: no
-link: https://jasoncollins.blog/the-simon-ehrlich-bet/
+link: https://www.jasoncollins.blog/the-simon-ehrlich-bet/
 slug: the-simon-ehrlich-bet
 title: The Simon-Ehrlich bet
 wordpress_id: 997

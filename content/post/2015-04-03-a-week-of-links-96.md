@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2015-04-03 08:00:30+00:00
 draft: no
-link: https://jasoncollins.blog/a-week-of-links-96/
+link: https://www.jasoncollins.blog/a-week-of-links-96/
 slug: a-week-of-links-96
 title: A week of links
 wordpress_id: 20975
@@ -45,9 +45,9 @@ And if you missed them, my posts this week:
 
 
 	
-  1. [The gender reading gap and love of learning](https://jasoncollins.blog/the-gender-reading-gap-and-love-of-learning/).
+  1. [The gender reading gap and love of learning](https://www.jasoncollins.blog/the-gender-reading-gap-and-love-of-learning/).
 
 	
-  2. [The law of law's leverage](https://jasoncollins.blog/the-law-of-laws-leverage/).
+  2. [The law of law's leverage](https://www.jasoncollins.blog/the-law-of-laws-leverage/).
 
 

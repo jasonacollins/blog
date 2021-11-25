@@ -3,15 +3,15 @@ author: jasonacollins
 comments: true
 date: 2013-02-21 13:55:04+00:00
 draft: no
-link: https://jasoncollins.blog/does-genetic-diversity-increase-conflict/
+link: https://www.jasoncollins.blog/does-genetic-diversity-increase-conflict/
 slug: does-genetic-diversity-increase-conflict
 title: Does genetic diversity increase conflict?
 wordpress_id: 5217
 ---
 
-[Ashraf and Galor's hypothesis](https://jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/) linking genetic diversity to economic growth has two limbs. The first, which I [posted about last week](https://jasoncollins.blog/does-genetic-diversity-increase-innovation/), is that genetic diversity pushes out the production possibility frontier through increasing the range of traits in the population for developing and implementing new technologies. The second, the subject of today's post, is that genetic diversity decreases trust and cooperation between people, increasing social disorder and conflict.
+[Ashraf and Galor's hypothesis](https://www.jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/) linking genetic diversity to economic growth has two limbs. The first, which I [posted about last week](https://www.jasoncollins.blog/does-genetic-diversity-increase-innovation/), is that genetic diversity pushes out the production possibility frontier through increasing the range of traits in the population for developing and implementing new technologies. The second, the subject of today's post, is that genetic diversity decreases trust and cooperation between people, increasing social disorder and conflict.
 
-The measure of genetic diversity used by Ashraf and Galor is expected heterozygosity, which is a measure of the probability that two people selected from the population will have the same allele (variety of a gene), averaged across all measured genes. Genetic diversity is often confused with genetic distance, a measure of the time since two populations had a common ancestor. Genetic distance can be calculated using data of the type used by Ashraf and Galor, with that measure being the probability that two alleles from a given genetic locus selected from two different populations will be different. Genetic distance has a resemblance to the genetic diversity measure, but is across populations, not within them. Spolaore and Wacziarg used genetic distance in their [2009 paper](https://jasoncollins.blog/genetic-distance-and-economic-development/) where they proposed that genetic distance (or other measures proxied by genetic distance) hindered the transfer of technology, leading to technological and income differences between countries.
+The measure of genetic diversity used by Ashraf and Galor is expected heterozygosity, which is a measure of the probability that two people selected from the population will have the same allele (variety of a gene), averaged across all measured genes. Genetic diversity is often confused with genetic distance, a measure of the time since two populations had a common ancestor. Genetic distance can be calculated using data of the type used by Ashraf and Galor, with that measure being the probability that two alleles from a given genetic locus selected from two different populations will be different. Genetic distance has a resemblance to the genetic diversity measure, but is across populations, not within them. Spolaore and Wacziarg used genetic distance in their [2009 paper](https://www.jasoncollins.blog/genetic-distance-and-economic-development/) where they proposed that genetic distance (or other measures proxied by genetic distance) hindered the transfer of technology, leading to technological and income differences between countries.
 
 Genetic diversity should also be distinguished from relatedness. Relatedness is the genetic similarity of two individuals, relative to average similarity of all individuals in the population. Since relatedness is measured relative to average similarity, relatedness does not increase in a less genetically diverse population. However, the average similarity between population members is higher where diversity is low.
 
@@ -33,7 +33,7 @@ At the close of the article, Ashraf and Galor seek to build their case by using
 
 As was the case for the regressions of genetic diversity on measures of scientific output, I find this result unconvincing. The range of controls used and the question of whether there are other relevant variables (such as IQ), combined with the lack of causative pathway, leaves me needing much more evidence.
 
-So, where to from here? As I noted in the discussion of innovation, [cross-species comparison](https://jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/#comment-1001) is one potential avenue for further research, as is examination of isolated human populations. Inbred human populations might also be an interesting source of evidence, although it can be difficult to separate relatedness, diversity and inbreeding effects. One consideration is that genetic diversity in particularly low in humans relative to other species due to some bottlenecks in our past. Could that low diversity be linked to the generally high levels of cooperative behaviour in humans?
+So, where to from here? As I noted in the discussion of innovation, [cross-species comparison](https://www.jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/#comment-1001) is one potential avenue for further research, as is examination of isolated human populations. Inbred human populations might also be an interesting source of evidence, although it can be difficult to separate relatedness, diversity and inbreeding effects. One consideration is that genetic diversity in particularly low in humans relative to other species due to some bottlenecks in our past. Could that low diversity be linked to the generally high levels of cooperative behaviour in humans?
 
 As was the case for my post on the effect of genetic diversity on innovation, I have deliberately avoided the question of whether Ashraf and Galor were directly relating genetic diversity to economic development, or whether genetic diversity is a proxy for phenotypic diversity unrelated to that genetic diversity (such as language). As you can see below, my thoughts on that point are forthcoming.
 
@@ -42,25 +42,25 @@ My posts on Ashraf and Galor's paper on genetic diversity and economic growth ar
 
 
 	
-  1. [A summary of the paper methodology and findings](https://jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/)
+  1. [A summary of the paper methodology and findings](https://www.jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/)
 
 	
-  2. [Does genetic diversity increase innovation?](https://jasoncollins.blog/does-genetic-diversity-increase-innovation/)
+  2. [Does genetic diversity increase innovation?](https://www.jasoncollins.blog/does-genetic-diversity-increase-innovation/)
 
 	
-  3. [Does genetic diversity increase conflict?](https://jasoncollins.blog/does-genetic-diversity-increase-conflict/) (this post)
+  3. [Does genetic diversity increase conflict?](https://www.jasoncollins.blog/does-genetic-diversity-increase-conflict/) (this post)
 
 	
-  4. [Is genetic diversity a proxy for phenotypic diversity?](https://jasoncollins.blog/is-genetic-diversity-a-proxy-for-phenotypic-diversity/)
+  4. [Is genetic diversity a proxy for phenotypic diversity?](https://www.jasoncollins.blog/is-genetic-diversity-a-proxy-for-phenotypic-diversity/)
 
 	
-  5. [Is population density a good measure of technological progress?](https://jasoncollins.blog/using-the-malthusian-model-to-measure-technology/)
+  5. [Is population density a good measure of technological progress?](https://www.jasoncollins.blog/using-the-malthusian-model-to-measure-technology/)
 
 	
-  6. [What are the policy implications of the effects of genetic diversity on economic development?](https://jasoncollins.blog/genetic-diversity-economic-development-and-policy/)
+  6. [What are the policy implications of the effects of genetic diversity on economic development?](https://www.jasoncollins.blog/genetic-diversity-economic-development-and-policy/)
 
 	
-  7. [Should this paper have been published?](https://jasoncollins.blog/publishing-on-genetic-diversity-and-economic-growth/)
+  7. [Should this paper have been published?](https://www.jasoncollins.blog/publishing-on-genetic-diversity-and-economic-growth/)
 
 
-Earlier debate on this paper can also be found [here](https://jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/), [here](https://jasoncollins.blog/genetic-diversity-and-economic-development-ashraf-and-galor-respond/), [here](https://jasoncollins.blog/is-poverty-in-our-genes/) and [here](https://jasoncollins.blog/is-poverty-in-our-genes-from-the-comments/).
+Earlier debate on this paper can also be found [here](https://www.jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/), [here](https://www.jasoncollins.blog/genetic-diversity-and-economic-development-ashraf-and-galor-respond/), [here](https://www.jasoncollins.blog/is-poverty-in-our-genes/) and [here](https://www.jasoncollins.blog/is-poverty-in-our-genes-from-the-comments/).

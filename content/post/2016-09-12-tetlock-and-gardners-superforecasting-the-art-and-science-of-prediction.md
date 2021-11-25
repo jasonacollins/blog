@@ -6,7 +6,7 @@ slug: tetlock-and-gardners-superforecasting-the-art-and-science-of-prediction
 title: 'Tetlock and Gardner''s Superforecasting: The Art and Science of Prediction'
 ---
 
-Philip Tetlock and Dan Gardner's *Superforecasting: The Art and Science of Prediction* doesn't quite measure up to Tetlock's superb [Expert Political Judgment](https://jasoncollins.blog/tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know/) (read EPJ first), but it contains more than enough interesting material to make it worth the read.
+Philip Tetlock and Dan Gardner's *Superforecasting: The Art and Science of Prediction* doesn't quite measure up to Tetlock's superb [Expert Political Judgment](https://www.jasoncollins.blog/tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know/) (read EPJ first), but it contains more than enough interesting material to make it worth the read.
 
 The book emerged from a [tournament conducted by the Intelligence Advanced Research Projects Activity](https://en.wikipedia.org/wiki/Aggregative_Contingent_Estimation) (IARPA), designed to pit teams of forecasters against each other in predicting political and economic events. These teams included Tetlock's Good Judgment Project (also run by Barbara Mellers and Don Moore), a team from George Mason University (for which I was a limited participant), and teams from MIT and the University of Michigan.
 
@@ -38,7 +38,7 @@ A couple of the characteristics Tetlock gives to the superforecasters seem a bit
 
 Similarly, Tetlock labels the superforecasters as having "grit". I'll just call them conscientious.
 
-Beyond the characteristics of superforecasters, Tetlock revisits a couple of themes from [Expert Political Judgment](https://jasoncollins.blog/tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know/). As a start, there is a need to apply numbers to forecasts, or else they are fluff. Tetlock relates the story of Sharman Kent asking intelligence officers what they took the words "serious possibility" in a National Intelligence estimate to mean (this wording relating to the possibility of a Soviet invasion of Yugoslavia in 1951). The answer turned out to be anything between a 20% and an 80% probability.
+Beyond the characteristics of superforecasters, Tetlock revisits a couple of themes from [Expert Political Judgment](https://www.jasoncollins.blog/tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know/). As a start, there is a need to apply numbers to forecasts, or else they are fluff. Tetlock relates the story of Sharman Kent asking intelligence officers what they took the words "serious possibility" in a National Intelligence estimate to mean (this wording relating to the possibility of a Soviet invasion of Yugoslavia in 1951). The answer turned out to be anything between a 20% and an 80% probability.
 
 Then there is a need for scoring against appropriate benchmarks - such as no change or the base rate. As Tetlock points out, lauding Nate Silver for picking 50 of 50 states in the 2012 Presidential election is a "tad overwrought" if compared to the no-change prediction of 48.
 

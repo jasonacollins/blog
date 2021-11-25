@@ -3,13 +3,13 @@ author: jasonacollins
 comments: true
 date: 2013-04-08 11:22:08+00:00
 draft: no
-link: https://jasoncollins.blog/the-evolution-of-happiness/
+link: https://www.jasoncollins.blog/the-evolution-of-happiness/
 slug: the-evolution-of-happiness
 title: The evolution of happiness
 wordpress_id: 5814
 ---
 
-When we experience positive events, we feel happy. But [happiness adjusts](https://jasoncollins.blog/happiness-adjusts/), with the effects of a positive event normally short-lived. Over the long-term, happiness tends to float around a stable mean. Happiness is also strongly related to our position relative to our peers. How happy we are with our income depends on everyone else's income.
+When we experience positive events, we feel happy. But [happiness adjusts](https://www.jasoncollins.blog/happiness-adjusts/), with the effects of a positive event normally short-lived. Over the long-term, happiness tends to float around a stable mean. Happiness is also strongly related to our position relative to our peers. How happy we are with our income depends on everyone else's income.
 
 In line with the [first law of behavioural genetics](http://people.virginia.edu/~ent3c/papers2/three_laws.pdf), it is worth looking for an evolutionary foundation to this pattern. How does happiness motivate us to do things in our evolutionary interest?
 

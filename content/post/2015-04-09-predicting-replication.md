@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2015-04-09 14:00:21+00:00
 draft: no
-link: https://jasoncollins.blog/predicting-replication/
+link: https://www.jasoncollins.blog/predicting-replication/
 slug: predicting-replication
 title: Predicting replication
 wordpress_id: 20978

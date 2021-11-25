@@ -6,7 +6,7 @@ draft: no
 slug: the-beauty-of-self-interest
 ---
 
-In [my review of E.O. Wilson's The Social Conquest of Earth](https://jasoncollins.blog/e-o-wilsons-the-social-conquest-of-earth/), I quoted this passage which captures Wilson's conception of the origin of cooperation in humans.
+In [my review of E.O. Wilson's The Social Conquest of Earth](https://www.jasoncollins.blog/e-o-wilsons-the-social-conquest-of-earth/), I quoted this passage which captures Wilson's conception of the origin of cooperation in humans.
 
 >Selection at the individual level tends to create competitiveness and selfish behaviour among group members - in status, mating, and the securing of resources. In opposition, selection between groups tends to create selfless behavior, expressed in greater generosity and altruism, which in turn promote stronger cohesion and strength of the group as a whole.
 

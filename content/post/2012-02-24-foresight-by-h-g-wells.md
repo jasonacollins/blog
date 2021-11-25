@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-02-24 12:46:53+00:00
 draft: no
-link: https://jasoncollins.blog/foresight-by-h-g-wells/
+link: https://www.jasoncollins.blog/foresight-by-h-g-wells/
 slug: foresight-by-h-g-wells
 title: Foresight by H. G. Wells
 wordpress_id: 2558

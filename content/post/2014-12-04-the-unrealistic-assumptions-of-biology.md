@@ -38,4 +38,4 @@ But are animals more likely to use heuristics than humans? Gigerenzer suggests t
 
 Another interesting question is whether animals are also predisposed to the "biases" of humans. Is it possible that "animals in their natural environments do not commit various fallacies because they do not need to generalize their rules of thumb to novel circumstances." The equivalent for humans is mismatch theory, which proposes that a lot of modern behaviour (and likely the "biases" we exhibit) is due to a mismatch between the environment in which our decision making tools evolved and the environments we exercise them in today.
 
-Finally, last year [I wrote about why economics is not more "evolutionary"](https://jasoncollins.blog/why-isnt-economics-evolutionary/). Part of the answer there reflects a similar pattern to the above - biologists aren't that evolutionary either.
+Finally, last year [I wrote about why economics is not more "evolutionary"](https://www.jasoncollins.blog/why-isnt-economics-evolutionary/). Part of the answer there reflects a similar pattern to the above - biologists aren't that evolutionary either.

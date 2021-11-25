@@ -6,7 +6,7 @@ slug: ridleys-the-rational-optimist
 title: Matt Ridley's The Rational Optimist
 ---
 
-A common recommendation for an addition to my [evolution and economics reading list](https://jasoncollins.blog/economics-and-evolutionary-biology-reading-list/) is Matt Ridley's *The Rational Optimist: How Prosperity Evolves*. These thoughts are designed, in part, to explain why I don't plan to add it.
+A common recommendation for an addition to my [evolution and economics reading list](https://www.jasoncollins.blog/economics-and-evolutionary-biology-reading-list/) is Matt Ridley's *The Rational Optimist: How Prosperity Evolves*. These thoughts are designed, in part, to explain why I don't plan to add it.
 
 The core theme of The Rational Optimist is that exchange is the major driver of human progress. Exchange allows specialisation and division of labour, which results in people doing the tasks they do best.
 
@@ -32,7 +32,7 @@ Despite Ridley's claims that he is no Panglossian, he sometimes veers in that di
 
 I would have liked Ridley to discuss in more detail how he sees his expectation of increasing wilderness areas and protection for ecosystems coming to fruition. He argues that organic farming is land intensive and notes that by adopting more intensive forms of agriculture, we could return land to wilderness. If organic farming were as inefficient in its use of space as Ridley suggests, and was demanded by an increasingly rich population, what would Ridley propose we do about it? Ban it? Many of Ridley's targets for criticism are the product of the choices of rich people, and there are going to be more rich people.
 
-Ultimately, I also take Ridley's plea for optimism with a grain of salt. Contrast Ridley's plea for optimism to Julian Simon's suggestion that it is [worry that actually delivers the benefits](https://jasoncollins.blog/would-julian-simon-worry/).
+Ultimately, I also take Ridley's plea for optimism with a grain of salt. Contrast Ridley's plea for optimism to Julian Simon's suggestion that it is [worry that actually delivers the benefits](https://www.jasoncollins.blog/would-julian-simon-worry/).
 
 
 <blockquote>I have never said that we don’t need to worry about anything. We need to worry about everything, in the same sense that you had to worry whether you’d get here on time, whether there’ll be enough food in your kitchen for next week, and so on. The world needs the best effort of all of us. I’m saying that the result of all this worry – and of your constructive work, of your throwing your life into trying to do good things for the world and for other people – is that on balance you will create more than you will use in your lifetime, and you will leave the world a little better than before, on average.</blockquote>

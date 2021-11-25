@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-05-18 08:39:07+00:00
 draft: no
-link: https://jasoncollins.blog/ultimate-population-limits/
+link: https://www.jasoncollins.blog/ultimate-population-limits/
 slug: ultimate-population-limits
 title: Ultimate population limits
 wordpress_id: 978

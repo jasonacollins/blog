@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-08-30 12:44:23+00:00
 draft: no
-link: https://jasoncollins.blog/does-equality-increase-conspicuous-consumption/
+link: https://www.jasoncollins.blog/does-equality-increase-conspicuous-consumption/
 slug: does-equality-increase-conspicuous-consumption
 title: Does equality increase conspicuous consumption?
 wordpress_id: 3905

@@ -3,13 +3,13 @@ author: jasonacollins
 comments: true
 date: 2013-11-25 12:11:41+00:00
 draft: no
-link: https://jasoncollins.blog/conspicuous-consumption-as-a-handicap/
+link: https://www.jasoncollins.blog/conspicuous-consumption-as-a-handicap/
 slug: conspicuous-consumption-as-a-handicap
 title: Conspicuous consumption as a handicap
 wordpress_id: 480
 ---
 
-In a [recent post](https://jasoncollins.blog/an-evolutionary-explanation-of-consumption/), I discussed Gianni De Fraja's paper in which he proposed that sexual selection shaped the nature of conspicuous consumption by men. In his model, conspicuous consumption by men serves as a fitness indicator to women. Low and high quality men signal their differing wealth "honestly" (under certain conditions) as the consumption level of the high quality men is too large a handicap for the low quality men to copy.
+In a [recent post](https://www.jasoncollins.blog/an-evolutionary-explanation-of-consumption/), I discussed Gianni De Fraja's paper in which he proposed that sexual selection shaped the nature of conspicuous consumption by men. In his model, conspicuous consumption by men serves as a fitness indicator to women. Low and high quality men signal their differing wealth "honestly" (under certain conditions) as the consumption level of the high quality men is too large a handicap for the low quality men to copy.
 
 One of the unsatisfying elements of the paper (although through no fault of De Fraja's) was that the conditions under which high and low quality men signal honestly were not readily interpretable. The mathematics were too ugly.
 
@@ -25,4 +25,4 @@ The question becomes whether this condition could exist in the conspicuous consu
 
 This condition is important. Previous mathematical attempts to explain the handicap principle had generally not succeeded as they had not incorporated this higher cost of the handicap for lower quality males. In this [interview](http://www.webofstories.com/play/7305), John Maynard Smith explains how his [earlier work](https://doi.org/10.1016/S0022-5193%2876%2980016-1) on the handicap principle had failed to support Zahavi's claims for this reason.
 
-There is actually an economics model which mirrors this situation (and pre-dates Grafen's model by 17 years) - the [job market signalling model](https://jasoncollins.blog/economists-1-biologists-0/) of Michael Spence. The model works similarly. Suppose there are low and high quality employees and they need to signal their unobservable quality to an employer. Spence showed that there could be a separating equilibrium where each signals their quality accurately through their level of education. The condition for this is that education must be more costly for low quality people. This makes sense - it is easier to learn something and pass the tests if the person is higher quality.
+There is actually an economics model which mirrors this situation (and pre-dates Grafen's model by 17 years) - the [job market signalling model](https://www.jasoncollins.blog/economists-1-biologists-0/) of Michael Spence. The model works similarly. Suppose there are low and high quality employees and they need to signal their unobservable quality to an employer. Spence showed that there could be a separating equilibrium where each signals their quality accurately through their level of education. The condition for this is that education must be more costly for low quality people. This makes sense - it is easier to learn something and pass the tests if the person is higher quality.

@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-05-19 12:49:26+00:00
 draft: no
-link: https://jasoncollins.blog/entanglement/
+link: https://www.jasoncollins.blog/entanglement/
 slug: entanglement
 title: Entanglement
 wordpress_id: 2775
@@ -19,4 +19,4 @@ The consequence of this is that when something goes wrong, we no longer have the
 
 Unlike Y2K, which they (not sure which of the two said this) were optimistic about, the entanglement has moved far beyond the level of complication that existed at that time.
 
-This sounds somewhat like the concept of [normal accidents](https://jasoncollins.blog/harfords-adapt-why-success-always-starts-with-failure/), whereby complex systems will fail. The solution does not lie in preventing accidents, but in decoupling from that system so that the collateral damage is minimised when it surely fails.
+This sounds somewhat like the concept of [normal accidents](https://www.jasoncollins.blog/harfords-adapt-why-success-always-starts-with-failure/), whereby complex systems will fail. The solution does not lie in preventing accidents, but in decoupling from that system so that the collateral damage is minimised when it surely fails.

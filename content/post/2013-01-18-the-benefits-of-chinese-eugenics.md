@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-01-18 12:04:00+00:00
 draft: no
-link: https://jasoncollins.blog/the-benefits-of-chinese-eugenics/
+link: https://www.jasoncollins.blog/the-benefits-of-chinese-eugenics/
 slug: the-benefits-of-chinese-eugenics
 title: The benefits of Chinese eugenics
 wordpress_id: 5032
@@ -42,4 +42,4 @@ Miller notes at the end, however, that his real concern is the Western response:
 <blockquote>The most likely response, given Euro-American ideological biases, would be a bioethical panic that leads to criticism of Chinese population policy with the same self-righteous hypocrisy that we have shown in criticizing various Chinese socio-cultural policies. But the global stakes are too high for us to act that stupidly and short-sightedly. A more mature response would be based on mutual civilizational respect, asking—what can we learn from what the Chinese are doing, how can we help them, and how can they help us to keep up as they create their brave new world?</blockquote>
 
 
-The Western response will be interesting, but I do not expect that the response to actions in China will be the most important in this area. Rather, it will be the response to "[positive eugenics](https://jasoncollins.blog/positive-eugenics/)" within Western Countries' own borders as people increasingly take their genetic future into their own hands. If someone wishes to select the embryo with the highest predicted IQ, will they be allowed?
+The Western response will be interesting, but I do not expect that the response to actions in China will be the most important in this area. Rather, it will be the response to "[positive eugenics](https://www.jasoncollins.blog/positive-eugenics/)" within Western Countries' own borders as people increasingly take their genetic future into their own hands. If someone wishes to select the embryo with the highest predicted IQ, will they be allowed?

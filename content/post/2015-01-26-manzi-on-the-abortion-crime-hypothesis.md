@@ -6,7 +6,7 @@ draft: no
 slug: manzi-on-the-abortion-crime-hypothesis
 ---
 
-My recent reading of David Colander and Roland Kupers's [Complexity and the Art of Public Policy](https://jasoncollins.blog/complexity-and-the-art-of-public-policy/) prompted me to re-read James Manzi's [Uncontrolled: The Surprising Payoff of Trial-and-Error for Business, Politics, and Society](https://jasoncollins.blog/manzis-uncontrolled/). I see the two books as riffs on a similar theme.
+My recent reading of David Colander and Roland Kupers's [Complexity and the Art of Public Policy](https://www.jasoncollins.blog/complexity-and-the-art-of-public-policy/) prompted me to re-read James Manzi's [Uncontrolled: The Surprising Payoff of Trial-and-Error for Business, Politics, and Society](https://www.jasoncollins.blog/manzis-uncontrolled/). I see the two books as riffs on a similar theme.
 
 I'll post a review of Uncontrolled later this week, but in the meantime, Manzi provides an interesting take on the Donohue-Levitt [abortion-crime hypothesis](http://en.wikipedia.org/wiki/Legalized_abortion_and_crime_effect). Their hypothesis is that abortion reduces crime as unwanted children are more likely to become criminals. As the legalisation of abortion increased access to abortion and decreased the number of unwanted children, decreases in crime through the 1990s and 2000s could be due to this legalisation.
 

@@ -6,7 +6,7 @@ slug: janet-brownes-charles-darwin-voyaging
 title: 'Janet Browne''s Charles Darwin: Voyaging'
 ---
 
-Having put it in [the top ten books I had read](https://jasoncollins.blog/top-10-books-in-2010/) in 2010 despite being only halfway through it then, I feel somewhat obliged to offer a review of Janet Browne's *Charles Darwin: Voyaging* (or more accurately, some observations). I have now finished it, and I am pleased to say that it can stay in the Top 10 and that I don't intend to make any late retractions.
+Having put it in [the top ten books I had read](https://www.jasoncollins.blog/top-10-books-in-2010/) in 2010 despite being only halfway through it then, I feel somewhat obliged to offer a review of Janet Browne's *Charles Darwin: Voyaging* (or more accurately, some observations). I have now finished it, and I am pleased to say that it can stay in the Top 10 and that I don't intend to make any late retractions.
 
 Voyaging is the first volume of a two-part biography. Voyaging covers Darwin's life to 1856, three years before the Origin of Species was published, which is the point where Darwin has decided to put his theory of natural selection into a book. The second volume, *Charles Darwin: The Power of Place*, takes off from there.
 

@@ -22,4 +22,4 @@ On the first of these, Zuk pushes too far by highlighting cases of rapid evoluti
 
 Having said all the above, I still enjoyed the book. There is a lot of punchy writing, many important research results and underneath her advocacy style, some interesting questions about diet, exercise and other "Paleo" lifestyle features. However, my instinct is that many people won't see these points due to Zuk's approach, which will lead to a less interesting debate than we could have had. I suppose this post is further evidence of that.
 
-*To avoid getting completely derailed by style instead of substance, next week I'll write a post on what I consider to be the most interesting questions about recent evolution and the Paleo lifestyle (read it [here](https://jasoncollins.blog/paleo-hypotheses/)).
+*To avoid getting completely derailed by style instead of substance, next week I'll write a post on what I consider to be the most interesting questions about recent evolution and the Paleo lifestyle (read it [here](https://www.jasoncollins.blog/paleo-hypotheses/)).

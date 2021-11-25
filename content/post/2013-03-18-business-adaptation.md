@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-03-18 12:59:36+00:00
 draft: no
-link: https://jasoncollins.blog/business-adaptation/
+link: https://www.jasoncollins.blog/business-adaptation/
 slug: business-adaptation
 title: Business adaptation
 wordpress_id: 5650
@@ -19,7 +19,7 @@ While there's much chatter in the management world about the need to be adaptabl
 
 Sagarin's four practices are decentralisation, redundancy, symbiotic relationships and recursive processes.
 
-I'm sympathetic to the idea that businesses might benefit by experimenting more (small failures) and taking advantage of the collective wisdom of their employees. But there is one fundamental difference between a business wanting to be adaptable and the operation of natural selection in nature. Evolution does not work through each organism surviving no matter what the circumstances. Rather, a few selected organisms that are more adapted to the current environment will have higher fitness and form the population of the future. Each individual organism does not actually adapt. This concept was the part of [Tim Harford's Adapt](https://jasoncollins.blog/harfords-adapt-why-success-always-starts-with-failure/) that I thought was done particularly well.
+I'm sympathetic to the idea that businesses might benefit by experimenting more (small failures) and taking advantage of the collective wisdom of their employees. But there is one fundamental difference between a business wanting to be adaptable and the operation of natural selection in nature. Evolution does not work through each organism surviving no matter what the circumstances. Rather, a few selected organisms that are more adapted to the current environment will have higher fitness and form the population of the future. Each individual organism does not actually adapt. This concept was the part of [Tim Harford's Adapt](https://www.jasoncollins.blog/harfords-adapt-why-success-always-starts-with-failure/) that I thought was done particularly well.
 
 As a result, carrying a costly trait on the possibility that it might be required in the future is perilous in evolutionary terms. Even though we see some organisms carrying redundant features, evolution tends to eliminate costly traits if they are not required, or more particularly, those individuals still possessing the costly traits.
 

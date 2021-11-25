@@ -6,7 +6,7 @@ slug: opposing-biases
 title: Opposing biases
 ---
 
-From the preface of one print of Philip Tetlock's [Expert Political Judgement](https://jasoncollins.blog/tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know/) (hat tip to Robert Wiblin who quoted this passage[ in the introduction to an 80,000 hours podcast episode](https://80000hours.org/2017/11/prof-tetlock-predicting-the-future/)):
+From the preface of one print of Philip Tetlock's [Expert Political Judgement](https://www.jasoncollins.blog/tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know/) (hat tip to Robert Wiblin who quoted this passage[ in the introduction to an 80,000 hours podcast episode](https://80000hours.org/2017/11/prof-tetlock-predicting-the-future/)):
 
 
 <blockquote>The experts surest of their big-picture grasp of the deep drivers of history, the Isaiah Berlin–style “hedgehogs,” performed worse than their more diffident colleagues, or “foxes,” who stuck closer to the data at hand and saw merit in clashing schools of thought. That differential was particularly pronounced for long-range forecasts inside experts’ domains of expertise.

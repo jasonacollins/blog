@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-09-29 10:12:48+00:00
 draft: no
-link: https://jasoncollins.blog/markets-and-family-values/
+link: https://www.jasoncollins.blog/markets-and-family-values/
 slug: markets-and-family-values
 title: Markets and family values
 wordpress_id: 1860
@@ -39,4 +39,4 @@ Arnhart’s closing paragraph is interesting.
 <blockquote>We might also notice that this special role of the family in transmitting social learning about how best to succeed in society could explain the great transformation that came with the Industrial Revolution. If we accept Gregory Clark's argument about the importance of an evolutionary process of "survival of the richest" by which families that taught their children the bourgeois virtues were more successful in England in the 18th century, which led to the Industrial Revolution, then we could explain this great transition into Hayek's Great Society as a product of an evolutionary transformation in family life.</blockquote>
 
 
-How much of the transmission was by families and how much by genes? Clark seems to [lean towards the latter](https://jasoncollins.blog/clark-on-the-remnants-of-rural-idiocy/).
+How much of the transmission was by families and how much by genes? Clark seems to [lean towards the latter](https://www.jasoncollins.blog/clark-on-the-remnants-of-rural-idiocy/).

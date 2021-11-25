@@ -6,7 +6,7 @@ draft: no
 slug: whitfield-on-the-darwin-economy
 ---
 
-There have been a few reviews of Robert Frank's [The Darwin Economy: Liberty, Competition, and the Common Good](https://jasoncollins.blog/franks-the-darwin-economy/) recently, but [John Whitfield's in Slate](http://www.slate.com/articles/health_and_science/science/2011/09/libertarians_with_antlers.single.html) is one of the more interesting.
+There have been a few reviews of Robert Frank's [The Darwin Economy: Liberty, Competition, and the Common Good](https://www.jasoncollins.blog/franks-the-darwin-economy/) recently, but [John Whitfield's in Slate](http://www.slate.com/articles/health_and_science/science/2011/09/libertarians_with_antlers.single.html) is one of the more interesting.
 
 First, Whitfield picks on Frank's choice of evolutionary metaphor:
 

@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-09-24 09:52:27+00:00
 draft: no
-link: https://jasoncollins.blog/socioeconomic-status-versus-fitness/
+link: https://www.jasoncollins.blog/socioeconomic-status-versus-fitness/
 slug: socioeconomic-status-versus-fitness
 title: Socioeconomic status versus fitness
 wordpress_id: 4137

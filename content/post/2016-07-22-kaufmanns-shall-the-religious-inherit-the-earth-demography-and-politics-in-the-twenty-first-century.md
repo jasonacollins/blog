@@ -7,7 +7,7 @@ title: 'Kaufmann''s Shall the Religious Inherit the Earth?: Demography and Polit
   in the Twenty-First Century'
 ---
 
-While I suggested in my post on [Jonathan Last's What to Expect When No One's Expecting](https://jasoncollins.blog/lasts-what-to-expect-when-no-ones-expecting-americas-coming-demographic-disaster/) that reading about demographics in developed countries was not uplifting, the consequences described by Last could be considered pretty minor.
+While I suggested in my post on [Jonathan Last's What to Expect When No One's Expecting](https://www.jasoncollins.blog/lasts-what-to-expect-when-no-ones-expecting-americas-coming-demographic-disaster/) that reading about demographics in developed countries was not uplifting, the consequences described by Last could be considered pretty minor.
 
 A slight tightening of government budgets could be dealt with by raising pension ages by a few years. Incomes may be lower than otherwise, but as Last states, "A decline in lifestyle for a middle-class American retiree might mean canceling cable, moving to a smaller apartment, and not eating out." Not exactly disastrous - although of more consequence than the subject of almost every other economic debate.
 

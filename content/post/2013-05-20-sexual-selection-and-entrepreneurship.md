@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-05-20 12:33:03+00:00
 draft: no
-link: https://jasoncollins.blog/sexual-selection-and-entrepreneurship/
+link: https://www.jasoncollins.blog/sexual-selection-and-entrepreneurship/
 slug: sexual-selection-and-entrepreneurship
 title: Sexual selection and entrepreneurship
 wordpress_id: 6225

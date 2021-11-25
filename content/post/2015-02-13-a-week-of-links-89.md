@@ -29,13 +29,13 @@ Links this week:
   7. [Yet more on lead and crime](http://www.motherjones.com/kevin-drum/2015/02/lead-and-crime-brennan-center-weighs).
 
 	
-  8. [Greg Clark on social mobility](http://www.theguardian.com/commentisfree/2015/feb/04/social-mobility-equality-class-society?CMP=share_btn_tw). And [my review of his book](https://jasoncollins.blog/the-genetic-basis-of-social-mobility/).
+  8. [Greg Clark on social mobility](http://www.theguardian.com/commentisfree/2015/feb/04/social-mobility-equality-class-society?CMP=share_btn_tw). And [my review of his book](https://www.jasoncollins.blog/the-genetic-basis-of-social-mobility/).
 
 And if you missed them, my posts this week:
 
-  1. [Will defaults lose their power in the digital age](https://jasoncollins.blog/the-death-of-defaults/). Or, [as put by Eric Crampton](https://twitter.com/EricCrampton/status/564721317216137217), Will nudges survive the Lucs Critique?
+  1. [Will defaults lose their power in the digital age](https://www.jasoncollins.blog/the-death-of-defaults/). Or, [as put by Eric Crampton](https://twitter.com/EricCrampton/status/564721317216137217), Will nudges survive the Lucs Critique?
 
 	
-  2. [I recommend using a story other than organ donation rates to support defaults](https://jasoncollins.blog/charts-that-dont-seem-quite-right-organ-donation-edition/).
+  2. [I recommend using a story other than organ donation rates to support defaults](https://www.jasoncollins.blog/charts-that-dont-seem-quite-right-organ-donation-edition/).
 
 

@@ -7,7 +7,7 @@ draft: no
 slug: critique-of-conspicuous-consumption-and-economic-growth
 ---
 
-Last week, I presented my [paper on conspicuous consumption and economic growth](https://jasoncollins.blog/sexual-selection-conspicuous-consumption-and-economic-growth/) at the [annual PhD Conference in Economics and Business](http://www.business.uwa.edu.au/research/conferences/phd). The basic argument of the paper is that the evolution of the propensity to engage in conspicuous consumption is a factor underlying modern economic growth, as conspicuous consumption requires productive activity to produce the resources to consume.
+Last week, I presented my [paper on conspicuous consumption and economic growth](https://www.jasoncollins.blog/sexual-selection-conspicuous-consumption-and-economic-growth/) at the [annual PhD Conference in Economics and Business](http://www.business.uwa.edu.au/research/conferences/phd). The basic argument of the paper is that the evolution of the propensity to engage in conspicuous consumption is a factor underlying modern economic growth, as conspicuous consumption requires productive activity to produce the resources to consume.
 
 One of the great features of the conference is that each presenter is allocated a discussant who reviews the paper and presents a critique - and the task is taken seriously. [Paul Frijters](https://twitter.com/FrijtersPaul) from the University of Queensland was my discussant, and he made a few interesting points (a copy of his presentation [is here](/pdf/phd-conference-2012-discussant-uwa.pdf)).
 

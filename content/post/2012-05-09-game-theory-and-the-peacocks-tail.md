@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-05-09 12:19:12+00:00
 draft: no
-link: https://jasoncollins.blog/game-theory-and-the-peacocks-tail/
+link: https://www.jasoncollins.blog/game-theory-and-the-peacocks-tail/
 slug: game-theory-and-the-peacocks-tail
 title: Game theory and the peacock's tail
 wordpress_id: 3145
@@ -23,7 +23,7 @@ Consider what happens when a small-tailed peacock population is invaded by a mut
 On the other hand the big-tailed male peacocks are there for the taking and its going to be the healthy female peacocks who will have the greatest incentive to switch to the market for big tail. The small cost they pay in terms of reduced quantity of offspring will be offset by their increased chance of mating. The big tails have successfully invaded.</blockquote>
 
 
-Szentes's theory illustrates the mixed feelings I expressed [in my recent post](https://jasoncollins.blog/the-biological-basis-of-preferences-and-behaviour-conference/) about some of the presentations at the conference. The model underlying the theory is clever and interesting, but Szentes's focus is more on the game theory than the evolutionary problem that the model is proposed to address. The model offers limited insight into the evolution of the peacock's tail as the assumptions underpinning the model do not hold.
+Szentes's theory illustrates the mixed feelings I expressed [in my recent post](https://www.jasoncollins.blog/the-biological-basis-of-preferences-and-behaviour-conference/) about some of the presentations at the conference. The model underlying the theory is clever and interesting, but Szentes's focus is more on the game theory than the evolutionary problem that the model is proposed to address. The model offers limited insight into the evolution of the peacock's tail as the assumptions underpinning the model do not hold.
 
 First, the model requires an assumption of monogamy, which peacocks are not. As for most males with ornaments, the peacock's tail is used to attract multiple partners to make up for the handicap that the ornament imposes (as the more established theory suggests). The model also assumes that the males are indifferent as to who they mate with (despite being monogamous), with high quality females unable to attract male interest above that of females of low quality.
 
@@ -33,4 +33,4 @@ I expect that these issues are of less concern to Szentes (or, based on his post
 
 If the model is not useful in explaining the peacock's tail, what situation might the model describe? Instead of talking of disadvantaged males with tails, could we talk of low quality males and use the model to explain the persistence of low quality males in a population? This is an interesting model looking for a use.
 
-*The videos are many of the presentations [are now up](https://jasoncollins.blog/videos-for-the-biological-basis-of-preferences-and-behavior-conference/).
+*The videos are many of the presentations [are now up](https://www.jasoncollins.blog/videos-for-the-biological-basis-of-preferences-and-behavior-conference/).

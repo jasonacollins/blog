@@ -3,17 +3,17 @@ author: jasonacollins
 comments: true
 date: 2013-03-06 13:46:20+00:00
 draft: no
-link: https://jasoncollins.blog/is-genetic-diversity-a-proxy-for-phenotypic-diversity/
+link: https://www.jasoncollins.blog/is-genetic-diversity-a-proxy-for-phenotypic-diversity/
 slug: is-genetic-diversity-a-proxy-for-phenotypic-diversity
 title: Genetic diversity, phenotypic diversity and the founder effect
 wordpress_id: 5458
 ---
 
-In two recent posts I examined the causative mechanisms underlying [Ashraf and Galor's hypothesis](https://jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/) linking genetic diversity to economic growth ([innovation](https://jasoncollins.blog/does-genetic-diversity-increase-innovation/) and [conflict](https://jasoncollins.blog/does-genetic-diversity-increase-conflict/)). In those posts, I avoided examining whether genetic diversity could be considered a proxy of phenotypic diversity unrelated to that genetic diversity (such as language).
+In two recent posts I examined the causative mechanisms underlying [Ashraf and Galor's hypothesis](https://www.jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/) linking genetic diversity to economic growth ([innovation](https://www.jasoncollins.blog/does-genetic-diversity-increase-innovation/) and [conflict](https://www.jasoncollins.blog/does-genetic-diversity-increase-conflict/)). In those posts, I avoided examining whether genetic diversity could be considered a proxy of phenotypic diversity unrelated to that genetic diversity (such as language).
 
-Part of the reason for this is that Ashraf and Galor do not indicate in their paper or web appendix that they intended to use genetic diversity as a proxy in this way. As I have [posted about before](https://jasoncollins.blog/genetic-diversity-and-economic-development-ashraf-and-galor-respond/), the language of the paper is focused on genetic diversity and the phenotypic expression of that genetic diversity. In dissecting the paper, I wanted to focus on what the paper states.
+Part of the reason for this is that Ashraf and Galor do not indicate in their paper or web appendix that they intended to use genetic diversity as a proxy in this way. As I have [posted about before](https://www.jasoncollins.blog/genetic-diversity-and-economic-development-ashraf-and-galor-respond/), the language of the paper is focused on genetic diversity and the phenotypic expression of that genetic diversity. In dissecting the paper, I wanted to focus on what the paper states.
 
-However, given that Ashraf and Galor have now made an argument [Update: the response is no longer online] that genetic diversity is a proxy in their response to [a critique of their paper](https://jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/), the argument is worth assessing. Ashraf and Galor write:
+However, given that Ashraf and Galor have now made an argument [Update: the response is no longer online] that genetic diversity is a proxy in their response to [a critique of their paper](https://www.jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/), the argument is worth assessing. Ashraf and Galor write:
 
 
 <blockquote>The key is that the measure of intra-population genetic diversity that we employ should be interpreted as a proxy (i.e., a correlated summary measure) for diversity amongst individuals in a myriad of observable and unobservable personal traits that may be physiological, behavioral, socially-constructed, or otherwise. …
@@ -56,25 +56,25 @@ My posts on Ashraf and Galor's paper on genetic diversity and economic growth ar
 
 
 	
-  1. [A summary of the paper methodology and findings](https://jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/)
+  1. [A summary of the paper methodology and findings](https://www.jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/)
 
 	
-  2. [Does genetic diversity increase innovation?](https://jasoncollins.blog/does-genetic-diversity-increase-innovation/)
+  2. [Does genetic diversity increase innovation?](https://www.jasoncollins.blog/does-genetic-diversity-increase-innovation/)
 
 	
-  3. [Does genetic diversity increase conflict?](https://jasoncollins.blog/does-genetic-diversity-increase-conflict/)
+  3. [Does genetic diversity increase conflict?](https://www.jasoncollins.blog/does-genetic-diversity-increase-conflict/)
 
 	
-  4. [Is genetic diversity a proxy for phenotypic diversity?](https://jasoncollins.blog/is-genetic-diversity-a-proxy-for-phenotypic-diversity/) (this post)
+  4. [Is genetic diversity a proxy for phenotypic diversity?](https://www.jasoncollins.blog/is-genetic-diversity-a-proxy-for-phenotypic-diversity/) (this post)
 
 	
-  5. [Is population density a good measure of technological progress?](https://jasoncollins.blog/using-the-malthusian-model-to-measure-technology/)
+  5. [Is population density a good measure of technological progress?](https://www.jasoncollins.blog/using-the-malthusian-model-to-measure-technology/)
 
 	
-  6. [What are the policy implications of the effects of genetic diversity on economic development?](https://jasoncollins.blog/genetic-diversity-economic-development-and-policy/)
+  6. [What are the policy implications of the effects of genetic diversity on economic development?](https://www.jasoncollins.blog/genetic-diversity-economic-development-and-policy/)
 
 	
-  7. [Should this paper have been published?](https://jasoncollins.blog/publishing-on-genetic-diversity-and-economic-growth/)
+  7. [Should this paper have been published?](https://www.jasoncollins.blog/publishing-on-genetic-diversity-and-economic-growth/)
 
 
-Earlier debate on this paper can also be found [here](https://jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/), [here](https://jasoncollins.blog/genetic-diversity-and-economic-development-ashraf-and-galor-respond/) and [here](https://jasoncollins.blog/is-poverty-in-our-genes/).
+Earlier debate on this paper can also be found [here](https://www.jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/), [here](https://www.jasoncollins.blog/genetic-diversity-and-economic-development-ashraf-and-galor-respond/) and [here](https://www.jasoncollins.blog/is-poverty-in-our-genes/).

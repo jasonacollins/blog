@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-04-29 08:46:33+00:00
 draft: no
-link: https://jasoncollins.blog/rotten-kids-and-altruism/
+link: https://www.jasoncollins.blog/rotten-kids-and-altruism/
 slug: rotten-kids-and-altruism
 title: Rotten kids and altruism
 wordpress_id: 802
@@ -15,7 +15,7 @@ Gary Becker's 1976 article [Altruism, Egoism and Genetic Fitness: Economics and 
 <blockquote>I have argued that both economics and sociobiology would gain from combining the analytical techniques of economists with the techniques in population genetics, entomology, and other biological foundations of sociobiology. The preferences taken as given by economists and vaguely attributed to "human nature" or something similar - the emphasis on self-interest, altruism toward kin, social distinction, and other enduring aspects of preferences - may be largely explained by the selection over time of traits having greater genetic fitness and survival value.</blockquote>
 
 
-Despite my regular references to the article, I have not spent much time dwelling on the article's substance, an analysis of altruism as an extension of Becker's "rotten-kid" theorem. At the recent conference [Social Decision Making: Bridging Economics and Biology](https://jasoncollins.blog/social-decision-making-bridging-economics-and-biology/), [Alan Grafen](http://users.ox.ac.uk/~grafen/) addressed Becker's paper in his plenary presentation. This triggered me to revisit the paper.
+Despite my regular references to the article, I have not spent much time dwelling on the article's substance, an analysis of altruism as an extension of Becker's "rotten-kid" theorem. At the recent conference [Social Decision Making: Bridging Economics and Biology](https://www.jasoncollins.blog/social-decision-making-bridging-economics-and-biology/), [Alan Grafen](http://users.ox.ac.uk/~grafen/) addressed Becker's paper in his plenary presentation. This triggered me to revisit the paper.
 
 Becker's "rotten-kid" theorem, first laid out in a [1974 paper](http://www.jstor.org/stable/1830662), works on the following premise. Suppose there is a parent who cares about the welfare of their children and will give them wealth and other gifts. Suppose further that one of the kids is rotten and he would like to harm his fellow siblings. Becker argued that if the parent redirected money to the hurt sibling when the rotten kid acted on his impulses, the rotten kid would have an incentive not to harm his siblings as it would cost him in the form of lost transfers from his parent. This induces to rotten child to act benevolently.
 

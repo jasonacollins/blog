@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-12-22 12:49:45+00:00
 draft: no
-link: https://jasoncollins.blog/the-rationale-of-the-family/
+link: https://www.jasoncollins.blog/the-rationale-of-the-family/
 slug: the-rationale-of-the-family
 title: The rationale of the family
 wordpress_id: 4851

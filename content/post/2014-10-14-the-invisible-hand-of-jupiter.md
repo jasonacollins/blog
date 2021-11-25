@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2014-10-14 08:17:24+00:00
 draft: no
-link: https://jasoncollins.blog/the-invisible-hand-of-jupiter/
+link: https://www.jasoncollins.blog/the-invisible-hand-of-jupiter/
 slug: the-invisible-hand-of-jupiter
 title: The invisible hand of Jupiter
 wordpress_id: 20220

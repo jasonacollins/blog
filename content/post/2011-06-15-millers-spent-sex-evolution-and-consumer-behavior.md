@@ -36,6 +36,6 @@ Miller ends the book with a series of exercise for the reader. You can go throug
 
 If your intention was to send a signal with this product, forget it. But if it is useful, that's another thing.
 
-  * Follow up posts on Spent can be found [here](https://jasoncollins.blog/the-evolution-of-conscientiousness/), [here ](https://jasoncollins.blog/diversity-and-consumerism/)and [here](https://jasoncollins.blog/happiness-is-not-the-objective/).
+  * Follow up posts on Spent can be found [here](https://www.jasoncollins.blog/the-evolution-of-conscientiousness/), [here ](https://www.jasoncollins.blog/diversity-and-consumerism/)and [here](https://www.jasoncollins.blog/happiness-is-not-the-objective/).
 
 

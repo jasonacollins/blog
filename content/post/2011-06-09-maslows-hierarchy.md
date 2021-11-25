@@ -6,7 +6,7 @@ draft: no
 slug: maslows-hierarchy
 ---
 
-I've just read Geoffrey Miller's [Spent](https://jasoncollins.blog/millers-spent-sex-evolution-and-consumer-behavior/), which I enjoyed. There are many interesting threads to the book, which I'll blog about over the coming weeks.
+I've just read Geoffrey Miller's [Spent](https://www.jasoncollins.blog/millers-spent-sex-evolution-and-consumer-behavior/), which I enjoyed. There are many interesting threads to the book, which I'll blog about over the coming weeks.
 
 In one of the earlier chapters, Miller discusses [Maslow's hierarchy of needs](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). The hierarchy, from the base to the top, consists of physiological,  safety, love, esteem and self-actualisation needs. It is only on  satisfaction of the first four needs that one will focus on self  actualisation, which includes (among other things) morality, creativity  and discovery.
 

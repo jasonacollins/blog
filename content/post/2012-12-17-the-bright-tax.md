@@ -3,13 +3,13 @@ author: jasonacollins
 comments: true
 date: 2012-12-17 09:05:47+00:00
 draft: no
-link: https://jasoncollins.blog/the-bright-tax/
+link: https://www.jasoncollins.blog/the-bright-tax/
 slug: the-bright-tax
 title: The bright tax
 wordpress_id: 4825
 ---
 
-The [Smithsonian magazine has an interview](http://www.smithsonianmag.com/science-nature/Are-You-Smarter-Than-Your-Grandfather-Probably-Not-181842991.html?c=y&page=1) with James Flynn about his book [Are We Getting Smarter?](https://jasoncollins.blog/flynns-are-we-getting-smarter/) (HT: [Annie Murphy Paul](http://anniemurphypaul.com/2012/12/why-were-doing-better-on-iq-tests/)) First, Flynn on the "bright tax:
+The [Smithsonian magazine has an interview](http://www.smithsonianmag.com/science-nature/Are-You-Smarter-Than-Your-Grandfather-Probably-Not-181842991.html?c=y&page=1) with James Flynn about his book [Are We Getting Smarter?](https://www.jasoncollins.blog/flynns-are-we-getting-smarter/) (HT: [Annie Murphy Paul](http://anniemurphypaul.com/2012/12/why-were-doing-better-on-iq-tests/)) First, Flynn on the "bright tax:
 
 
 <blockquote>The wisdom always was that the brighter you were, the less your mental abilities declined in old age. I found that was an oversimplification. It is true of verbal intelligence. The brighter you are, the more you get a bonus for verbal skills. I call that a “bright bonus.” Your vocabulary declines at a much less steep rate in old age than an ordinary or below average person. But to my amazement I found that for analytic abilities it was just the reverse. There is a “bright tax.” The brighter you are, the quicker after the age of 65 you have a downward curve for your analytic abilities. For a bright person, you go downhill faster than an average person.

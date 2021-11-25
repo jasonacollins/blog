@@ -6,7 +6,7 @@ draft: no
 slug: the-illusion-of-the-illusion-of-control
 ---
 
-In the spirit of my [recent post on overconfidence](https://jasoncollins.blog/overconfident-about-overconfidence/), the illusion of control is another "bias" where imperfect information might be a better explanation for what is occurring.
+In the spirit of my [recent post on overconfidence](https://www.jasoncollins.blog/overconfident-about-overconfidence/), the illusion of control is another "bias" where imperfect information might be a better explanation for what is occurring.
 
 The illusion of control is a common finding in psychology that people believe they can control things that they cannot. People would prefer to pick their lottery numbers than have them randomly allocated - being willing to even pay for the privilege. In laboratory games, people often report having control over outcomes that were randomly generated.
 
@@ -16,7 +16,7 @@ But when you ask about people's control of random events, which is the typical e
 
 So what do people believe in situations where they do have some control?
 
-In [Left Brain, Right Stuff](https://jasoncollins.blog/rosenzweigs-left-brain-right-stuff-how-leaders-make-winning-decisions/), Phil Rosenzweig reports on [research](https://doi.org/10.1016/j.obhdp.2010.10.002) ([pdf](https://www.researchgate.net/profile/Don_Moore2/publication/266009496_The_Illusion_of_the_Illusion_of_Control/links/56ddd3d808ae46f1e99f8d1c/The-Illusion-of-the-Illusion-of-Control.pdf)) by Francesca Gino, Zachariah Sharek and Don Moore in which people have varying degrees of control over whether clicking a mouse would change the colour of the screen. For those that had no or little control (clicking the mouse worked 0% or 15% of the time), the participants tended to believe they had more control than they did - an illusion of control.
+In [Left Brain, Right Stuff](https://www.jasoncollins.blog/rosenzweigs-left-brain-right-stuff-how-leaders-make-winning-decisions/), Phil Rosenzweig reports on [research](https://doi.org/10.1016/j.obhdp.2010.10.002) ([pdf](https://www.researchgate.net/profile/Don_Moore2/publication/266009496_The_Illusion_of_the_Illusion_of_Control/links/56ddd3d808ae46f1e99f8d1c/The-Illusion-of-the-Illusion-of-Control.pdf)) by Francesca Gino, Zachariah Sharek and Don Moore in which people have varying degrees of control over whether clicking a mouse would change the colour of the screen. For those that had no or little control (clicking the mouse worked 0% or 15% of the time), the participants tended to believe they had more control than they did - an illusion of control.
 
 But when it came to those who had high control (clicking the mouse worked 85% of the time), they believed they had less control than they did. Rather than having an illusion of control, they failed to recognise the degree of control that they had. The one point where there was accurate calibration was when there was 100% control.
 

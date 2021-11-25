@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-11-20 13:31:47+00:00
 draft: no
-link: https://jasoncollins.blog/does-mathematical-training-increase-our-risk-tolerance/
+link: https://www.jasoncollins.blog/does-mathematical-training-increase-our-risk-tolerance/
 slug: does-mathematical-training-increase-our-risk-tolerance
 title: Does mathematical training increase our risk tolerance?
 wordpress_id: 398

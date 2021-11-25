@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-08-23 10:45:13+00:00
 draft: no
-link: https://jasoncollins.blog/does-epigenetics-matter/
+link: https://www.jasoncollins.blog/does-epigenetics-matter/
 slug: does-epigenetics-matter
 title: Does epigenetics matter?
 wordpress_id: 1689

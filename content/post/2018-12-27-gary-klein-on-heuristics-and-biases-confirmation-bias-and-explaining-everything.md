@@ -8,7 +8,7 @@ slug: gary-klein-on-heuristics-and-biases-confirmation-bias-and-explaining-every
 
 ## Confirmation bias
 
-In [Sources of Power: How People Make Decisions](https://jasoncollins.blog/gary-kleins-sources-of-power-how-people-make-decisions/), Gary Klein writes:
+In [Sources of Power: How People Make Decisions](https://www.jasoncollins.blog/gary-kleins-sources-of-power-how-people-make-decisions/), Gary Klein writes:
 
 >Kahneman, Slovic, and Tversky (1982) present a range of studies showing that decision makers use a variety of heuristics, simple procedures that usually produce an answer but are not foolproof. ... The research strategy was not to demonstrate how poorly we make judgments but to use these findings to uncover the cognitive processes underlying judgments of likelihood.
 >
@@ -16,7 +16,7 @@ In [Sources of Power: How People Make Decisions](https://jasoncollins.blog/gary-
 >
 >Lola Lopes (1991) has shown that the original studies did not demonstrate biases, in the common use of the term. For example, Kahneman and Tversky (1973) used questions such as this: “Consider the letter R. Is R more likely to appear in the first position of a word or the third position of a word?” The example taps into our heuristic of availability. We have an easier time recalling words that begin with R than words with R in the third position. Most people answer that R is more likely to occur in the first position. This is incorrect. It shows how we rely on availability.
 >
->Lopes points out that examples such as the one using the letter R were carefully chosen. Of the twenty possible consonants, twelve are more common in the first position. Kahneman and Tversky (1973) used the eight that are more common in the third position. They used stimuli only where the availability heuristic would result in a wrong answer. ... [I have posted some extracts of Lopes's article [here](https://jasoncollins.blog/the-rhetoric-of-irrationality/).]
+>Lopes points out that examples such as the one using the letter R were carefully chosen. Of the twenty possible consonants, twelve are more common in the first position. Kahneman and Tversky (1973) used the eight that are more common in the third position. They used stimuli only where the availability heuristic would result in a wrong answer. ... [I have posted some extracts of Lopes's article [here](https://www.jasoncollins.blog/the-rhetoric-of-irrationality/).]
 >
 >There is an irony here. One of the primary “biases” is confirmation bias—the search for information that confirms your hypothesis even though you would learn more by searching for evidence that might disconfirm it. The confirmation bias has been shown in many laboratory studies (and has not been found in a number of studies conducted in natural settings). Yet one of the most common strategies of scientific research is to derive a prediction from a favorite theory and test it to show that it is accurate, thereby strengthening the reputation of that theory. Scientists search for confirmation all the time, even though philosophers of science, such as Karl Popper (1959), have urged scientists to try instead to disconfirm their favorite theories. Researchers working in the heuristics and biases paradigm condemn this sort of bias in their subjects, even as those same researchers perform more laboratory studies confirming their theories.
 

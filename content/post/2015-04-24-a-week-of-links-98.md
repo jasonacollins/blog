@@ -45,10 +45,10 @@ And if you missed them, my posts from the last two weeks:
 
 
 	
-  1. [Unemployment and self control](https://jasoncollins.blog/returns-to-self-control-unemployment-edition/).
+  1. [Unemployment and self control](https://www.jasoncollins.blog/returns-to-self-control-unemployment-edition/).
 
 	
-  2. [Uncertainty and understanding behaviour](https://jasoncollins.blog/uncertainty-and-understanding-behaviour/).
+  2. [Uncertainty and understanding behaviour](https://www.jasoncollins.blog/uncertainty-and-understanding-behaviour/).
 
 
 Life is busy at the moment, so posting will continue to be sparse over the next month.

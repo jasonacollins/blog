@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-10-04 13:17:33+00:00
 draft: no
-link: https://jasoncollins.blog/ayn-rand-and-altruism/
+link: https://www.jasoncollins.blog/ayn-rand-and-altruism/
 slug: ayn-rand-and-altruism
 title: Ayn Rand and altruism
 wordpress_id: 4245

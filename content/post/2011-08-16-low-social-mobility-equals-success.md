@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-08-16 12:10:22+00:00
 draft: no
-link: https://jasoncollins.blog/low-social-mobility-equals-success/
+link: https://www.jasoncollins.blog/low-social-mobility-equals-success/
 slug: low-social-mobility-equals-success
 title: Low social mobility equals success
 wordpress_id: 1653

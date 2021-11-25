@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-11-27 13:09:00+00:00
 draft: no
-link: https://jasoncollins.blog/sexual-selection-on-the-american-frontier/
+link: https://www.jasoncollins.blog/sexual-selection-on-the-american-frontier/
 slug: sexual-selection-on-the-american-frontier
 title: Sexual selection on the American frontier
 wordpress_id: 538

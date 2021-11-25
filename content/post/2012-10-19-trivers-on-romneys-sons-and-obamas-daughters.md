@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-10-19 06:14:58+00:00
 draft: no
-link: https://jasoncollins.blog/trivers-on-romneys-sons-and-obamas-daughters/
+link: https://www.jasoncollins.blog/trivers-on-romneys-sons-and-obamas-daughters/
 slug: trivers-on-romneys-sons-and-obamas-daughters
 title: Trivers on Romney's sons and Obama's daughters
 wordpress_id: 4367

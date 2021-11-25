@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-02-15 12:32:14+00:00
 draft: no
-link: https://jasoncollins.blog/quantifying-children/
+link: https://www.jasoncollins.blog/quantifying-children/
 slug: quantifying-children
 title: Quantifying children
 wordpress_id: 2498

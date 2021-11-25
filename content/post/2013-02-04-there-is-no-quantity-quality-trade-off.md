@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-02-04 12:01:02+00:00
 draft: no
-link: https://jasoncollins.blog/there-is-no-quantity-quality-trade-off/
+link: https://www.jasoncollins.blog/there-is-no-quantity-quality-trade-off/
 slug: there-is-no-quantity-quality-trade-off
 title: There is no quantity-quality trade-off
 wordpress_id: 5178

@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-01-19 12:36:00+00:00
 draft: no
-link: https://jasoncollins.blog/the-mating-reservation-wage/
+link: https://www.jasoncollins.blog/the-mating-reservation-wage/
 slug: the-mating-reservation-wage
 title: The mating reservation wage
 wordpress_id: 2310

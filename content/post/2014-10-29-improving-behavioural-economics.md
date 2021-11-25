@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2014-10-29 09:39:44+00:00
 draft: no
-link: https://jasoncollins.blog/improving-behavioural-economics/
+link: https://www.jasoncollins.blog/improving-behavioural-economics/
 slug: improving-behavioural-economics
 title: Improving behavioural economics
 wordpress_id: 20400

@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-06-28 14:22:33+00:00
 draft: no
-link: https://jasoncollins.blog/inequality-persistence-circa-5000-bce/
+link: https://www.jasoncollins.blog/inequality-persistence-circa-5000-bce/
 slug: inequality-persistence-circa-5000-bce
 title: Inequality persistence circa 5000 BCE
 wordpress_id: 3544

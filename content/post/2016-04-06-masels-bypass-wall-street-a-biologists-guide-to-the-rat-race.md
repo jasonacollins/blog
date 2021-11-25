@@ -10,7 +10,7 @@ slug: masels-bypass-wall-street-a-biologists-guide-to-the-rat-race
 
 I agree with Cowen's description of the book as unorthodox and interesting, although I was looking forward to more Darwin and more of a biological lens. As the title of the book implies, it provides a biologist's view on savings and investment, and Masel's background as a biologist - she is Associate Professor of Ecology & Evolutionary Biology at the University of Arizona - has likely guided her as to what arguments she is sympathetic to.
 
-But the examination is not on the face of it from a biological perspective. Only two biological arguments directly referenced. The first is the distinction between absolute and relative competition. Relative competition can lead to wasteful arms races that are, on net, destructive of value. The second is a brief pointer to the competition between siblings for their parents' finite attention and resources. If you asked someone to read Masel's book and Robert Frank's [The Darwin Economy](https://jasoncollins.blog/franks-the-darwin-economy/) and guess who is the economist and who is the biologist, they'd likely guess their occupations the wrong way around.
+But the examination is not on the face of it from a biological perspective. Only two biological arguments directly referenced. The first is the distinction between absolute and relative competition. Relative competition can lead to wasteful arms races that are, on net, destructive of value. The second is a brief pointer to the competition between siblings for their parents' finite attention and resources. If you asked someone to read Masel's book and Robert Frank's [The Darwin Economy](https://www.jasoncollins.blog/franks-the-darwin-economy/) and guess who is the economist and who is the biologist, they'd likely guess their occupations the wrong way around.
 
 A stronger influence has been some of Masel's reading in economics. In the preface, she points to two books to which she owes an intellectual debt - Keynes's [The General Theory of Employment, Interest and Money](https://en.wikipedia.org/wiki/The_General_Theory_of_Employment,_Interest_and_Money), and Fred Hirsch's *Social Limits to Growth*. Her analysis of savings and investment rests heavily on Keynes, and Hirsch's views on positional goods provides a hook for her biological intuition that competition can be wasteful and zero sum.
 
@@ -30,14 +30,14 @@ One other argument I have sympathy for is the role of education as a signal. Edu
 
 To close, I will suggest a short reading list for Masel. Maybe she has already read some of these, but I expect she will find a lot of material of interest.
 	
-  * Robert Frank's [The Darwin Economy](https://jasoncollins.blog/franks-the-darwin-economy/) and [Luxury Fever](https://jasoncollins.blog/franks-luxury-fever/): A more explicit incorporation of the biological insight that competition can be wasteful. Frank's views on public investment will also appeal to Masel.
+  * Robert Frank's [The Darwin Economy](https://www.jasoncollins.blog/franks-the-darwin-economy/) and [Luxury Fever](https://www.jasoncollins.blog/franks-luxury-fever/): A more explicit incorporation of the biological insight that competition can be wasteful. Frank's views on public investment will also appeal to Masel.
 
-  * Thorstein Veblen's [The Theory of the Leisure Class](https://jasoncollins.blog/thorstein-veblens-the-theory-of-the-leisure-class/): Not an easy read, but if you can make it through Keynes's General Theory...
+  * Thorstein Veblen's [The Theory of the Leisure Class](https://www.jasoncollins.blog/thorstein-veblens-the-theory-of-the-leisure-class/): Not an easy read, but if you can make it through Keynes's General Theory...
 
   * Tyler Cowen's *The Great Stagnation* and Robert Gordon's *The Rise and Fall of American Growth*: Further arguments that many of the big innovations have already occurred (and for a counterpoint, Erik Brynjolfsson and Andrew McAfee's *The Second Machine Age*.
 
   * Bryan Caplan's The Case Against Education ([picked up by Princeton University Press and due out in 2017](http://econlog.econlib.org/archives/2016/03/the_case_agains_11.html)): Still to come out. What does a biological framework add to the analysis of a specific issue such as this?
 
-  * Richard Nelson and Sidney Winter's [An Evolutionary Theory of Economic Change](https://jasoncollins.blog/nelson-and-winters-an-evolutionary-theory-of-economic-change/): Masel might find this interesting, and I'd like to know what she thinks of it.
+  * Richard Nelson and Sidney Winter's [An Evolutionary Theory of Economic Change](https://www.jasoncollins.blog/nelson-and-winters-an-evolutionary-theory-of-economic-change/): Masel might find this interesting, and I'd like to know what she thinks of it.
 
 

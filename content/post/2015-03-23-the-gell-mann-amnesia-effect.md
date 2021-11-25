@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2015-03-23 10:15:50+00:00
 draft: no
-link: https://jasoncollins.blog/the-gell-mann-amnesia-effect/
+link: https://www.jasoncollins.blog/the-gell-mann-amnesia-effect/
 slug: the-gell-mann-amnesia-effect
 title: The Gell-Mann amnesia effect
 wordpress_id: 20946

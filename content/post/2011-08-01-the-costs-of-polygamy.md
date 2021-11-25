@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-08-01 13:19:09+00:00
 draft: no
-link: https://jasoncollins.blog/the-costs-of-polygamy/
+link: https://www.jasoncollins.blog/the-costs-of-polygamy/
 slug: the-costs-of-polygamy
 title: The costs of polygamy
 wordpress_id: 1590
@@ -29,7 +29,7 @@ There is another argument against polygamy that I find more convincing. In a pol
 In Bare Branches: The Security Implications of Asia's Surplus Male Population, political scientists Valerie Hudson and Andrea den Boer argue that violent crime, gambling, drugs and the kidnapping and trafficking of women are rampant in places where there are too many men.</blockquote>
 
 
-In his book [Sex, Genes and Rock & Roll](https://jasoncollins.blog/brookss-sex-genes-rock-n-roll/), Brooks addresses polygamy more directly:
+In his book [Sex, Genes and Rock & Roll](https://www.jasoncollins.blog/brookss-sex-genes-rock-n-roll/), Brooks addresses polygamy more directly:
 
 
 <blockquote>The first possibility is that legal polygyny is incompatible with mature democracy. More than a century ago, George Bernard Shaw observed that ‘Any marriage system which condemns a majority of the population to celibacy will be violently wrecked on the pretext that it outrages morality'. He had the then-recent Mormon experience in mind when he observed that ‘Polygamy, when tried under modern democratic conditions…is wrecked by the revolt of the mass of inferior men who are condemned to celibacy by it'. Late in the twentieth century, biologists picked up on this idea. Richard Alexander argued that it becomes ever more difficult for wealthy polygynous leaders to retain the political support of lower-status men when those men cannot marry and reproduce.

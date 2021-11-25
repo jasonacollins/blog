@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-09-09 12:18:55+00:00
 draft: no
-link: https://jasoncollins.blog/monkeys-respond-malthusian-limit/
+link: https://www.jasoncollins.blog/monkeys-respond-malthusian-limit/
 slug: monkeys-respond-malthusian-limit
 title: Monkeys respond to the Malthusian limit
 wordpress_id: 7376

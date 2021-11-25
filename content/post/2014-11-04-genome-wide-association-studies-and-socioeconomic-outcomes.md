@@ -3,13 +3,13 @@ author: jasonacollins
 comments: true
 date: 2014-11-04 08:31:27+00:00
 draft: no
-link: https://jasoncollins.blog/genome-wide-association-studies-and-socioeconomic-outcomes/
+link: https://www.jasoncollins.blog/genome-wide-association-studies-and-socioeconomic-outcomes/
 slug: genome-wide-association-studies-and-socioeconomic-outcomes
 title: Genome Wide Association Studies and socioeconomic outcomes
 wordpress_id: 20406
 ---
 
-A few months back, I posted about a [Conference on Genetics and Behaviour](https://hceconomics.uchicago.edu/events/conference-genetics-and-behavior) held by the Human Capital and Economic Opportunity Global Working Group at the University of Chicago. [In that post](https://jasoncollins.blog/genes-and-socioeconomic-aggregates/), I linked to a series of videos from the first session on the effect of genes on socioeconomic aggregates.
+A few months back, I posted about a [Conference on Genetics and Behaviour](https://hceconomics.uchicago.edu/events/conference-genetics-and-behavior) held by the Human Capital and Economic Opportunity Global Working Group at the University of Chicago. [In that post](https://www.jasoncollins.blog/genes-and-socioeconomic-aggregates/), I linked to a series of videos from the first session on the effect of genes on socioeconomic aggregates.
 
 Over the last couple of days, I watched the videos from the session on Genome Wide Association Studies (GWAS). As for the first set of videos, they are technical (as you might expect for a bunch of academics) - particularly the questions - but cover some important points.
 
@@ -55,7 +55,7 @@ In the questions to Fletcher's presentation, Benjamin makes the important point 
 
 http://youtu.be/eA52b-PzGx4
 
-The last speaker, Dalton Conley, returned to the population stratification problem. His argument is that it may not be as easy to solve as it seems. Conley refers mainly to a technique called Genomic-relatedness-matrix restricted maximum likelihood (GREML) or Genome-wide complex trait analysis (GCTA) (which I have [posted about before](https://jasoncollins.blog/the-genetic-architecture-of-economic-and-political-preferences/)). This technique seeks to determine the contribution of all the sampled SNPs combined to variation in a trait. The output is a lower bound estimate of heritability. This technique relies, however, on an assumption that among those who are less related than second cousins (higher degrees of relatedness are removed), they share alleles in a way that is uncorrelated with any similarity in environment.
+The last speaker, Dalton Conley, returned to the population stratification problem. His argument is that it may not be as easy to solve as it seems. Conley refers mainly to a technique called Genomic-relatedness-matrix restricted maximum likelihood (GREML) or Genome-wide complex trait analysis (GCTA) (which I have [posted about before](https://www.jasoncollins.blog/the-genetic-architecture-of-economic-and-political-preferences/)). This technique seeks to determine the contribution of all the sampled SNPs combined to variation in a trait. The output is a lower bound estimate of heritability. This technique relies, however, on an assumption that among those who are less related than second cousins (higher degrees of relatedness are removed), they share alleles in a way that is uncorrelated with any similarity in environment.
 
 Conley argues that this assumption is false, and shows that using GREML, he can obtain a finding that birth in an urban or rural environment is heritable, in direct violation of the assumption. This result does not disappear after controlling for population stratification.
 

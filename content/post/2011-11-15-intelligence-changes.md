@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-11-15 04:29:21+00:00
 draft: no
-link: https://jasoncollins.blog/intelligence-changes/
+link: https://www.jasoncollins.blog/intelligence-changes/
 slug: intelligence-changes
 title: Intelligence changes
 wordpress_id: 2030

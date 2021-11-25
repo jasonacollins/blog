@@ -6,7 +6,7 @@ draft: no
 slug: genetically-testing-similarity
 ---
 
-In my [last post](https://jasoncollins.blog/in-the-company-of-a-stranger/), I questioned whether a stranger sitting next to you on a train would be more similar to you than an ancestor from 10,000 years ago and suggested that this could be tested genetically.
+In my [last post](https://www.jasoncollins.blog/in-the-company-of-a-stranger/), I questioned whether a stranger sitting next to you on a train would be more similar to you than an ancestor from 10,000 years ago and suggested that this could be tested genetically.
 
 A few issues arise in testing this. First, as I suggested in the last post, the particular ancestor we choose might affect the result. If an ancestor contributed through only a single ancestral line (of the approximately 10^120 lines), any similarity due to ancestry will be very low to negligible, unless that person is, say, a direct male-male ancestor and has contributed the Y-chromosome, much of which does not engage in recombination (that is, the crossover of genes between the chromosomes inherited from ones parents).
 

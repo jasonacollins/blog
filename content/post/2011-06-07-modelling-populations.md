@@ -3,13 +3,13 @@ author: jasonacollins
 comments: true
 date: 2011-06-07 08:06:52+00:00
 draft: no
-link: https://jasoncollins.blog/modelling-populations/
+link: https://www.jasoncollins.blog/modelling-populations/
 slug: modelling-populations
 title: Modelling populations
 wordpress_id: 1212
 ---
 
-In my previous two posts, I [described the model](https://jasoncollins.blog/natural-selection-and-economic-growth/) contained in Galor and Moav's paper [Natural Selection and the Origin of Economic Growth](http://qje.oxfordjournals.org/content/117/4/1133.short) and [an extension](https://jasoncollins.blog/natural-selection-and-the-collapse-of-economic-growth/) in which we introduced genotypes with a low preference for educating their children.
+In my previous two posts, I [described the model](https://www.jasoncollins.blog/natural-selection-and-economic-growth/) contained in Galor and Moav's paper [Natural Selection and the Origin of Economic Growth](http://qje.oxfordjournals.org/content/117/4/1133.short) and [an extension](https://www.jasoncollins.blog/natural-selection-and-the-collapse-of-economic-growth/) in which we introduced genotypes with a low preference for educating their children.
 
 Having been through the process of parametrising and simulating a complex economic model, I would recommend it as a method of increasing understanding of the basic model mechanics. More importantly, it can also highlight issues that are not clear from the mathematical consideration that is traditionally given to models.
 

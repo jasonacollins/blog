@@ -6,7 +6,7 @@ slug: baumeister-and-tierneys-willpower-rediscovering-the-greatest-human-strengt
 title: 'Baumeister and Tierney''s Willpower: Rediscovering the Greatest Human Strength'
 ---
 
-After the [recent hullabaloo about whether ego depletion was a real phenomenon](https://jasoncollins.blog/failure-to-replicate-ego-depletion-edition/), I decided to finally read Roy Baumeister and John Tierney's *Willpower* cover to cover (I've only flicked through it before).
+After the [recent hullabaloo about whether ego depletion was a real phenomenon](https://www.jasoncollins.blog/failure-to-replicate-ego-depletion-edition/), I decided to finally read Roy Baumeister and John Tierney's *Willpower* cover to cover (I've only flicked through it before).
 
 My hope was that I'd find some interesting additions to my understanding of the debate, but the book tended into the pop science/self-help genre and there was rarely enough depth to add anything to the current debates ([see Scott Alexander on that point](http://slatestarcodex.com/2015/03/12/book-review-willpower/)). That said, it was an easy read and pointed me to a few studies that seem worth checking out.
 

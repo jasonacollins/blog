@@ -12,6 +12,6 @@ The data in the chart is based on the low estimate by the [United States Census 
 
 ![](/img/mcevedy-and-jones.png)
 
-The growth in population is not beyond that which might be expected from a scale effect in the development of technology (more people, more ideas - such as that proposed by [Kremer](https://jasoncollins.blog/more-people-more-ideas-in-the-long-run/)). In such a case, you would expect the population to increase at greater than an exponential rate (an exponential increase would be a straight line with the logarithmic scale on the y-axis).
+The growth in population is not beyond that which might be expected from a scale effect in the development of technology (more people, more ideas - such as that proposed by [Kremer](https://www.jasoncollins.blog/more-people-more-ideas-in-the-long-run/)). In such a case, you would expect the population to increase at greater than an exponential rate (an exponential increase would be a straight line with the logarithmic scale on the y-axis).
 
 One point of interest which does remain is why population growth slowed after this point, and looking at the Biraben data, there was a marked decrease in population. At this time, Europe entered the Dark Ages. Was the technological stagnation and economic decay through this period responsible for the population decline?

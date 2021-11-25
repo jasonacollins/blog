@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-05-13 09:19:44+00:00
 draft: no
-link: https://jasoncollins.blog/heritability-of-religion-and-fertility/
+link: https://www.jasoncollins.blog/heritability-of-religion-and-fertility/
 slug: heritability-of-religion-and-fertility
 title: Heritability of religion and fertility
 wordpress_id: 940
@@ -35,8 +35,8 @@ Rowthorn does not venture far into the implications of his findings beyond the s
 
 Is the growing conservatism among youth, which seems to be a common media topic in recent years, an early reflection this effect?
 
-Rowthorn does not specifically explore the question of overall population size. If the religious allele(s) spread through society, fertility would be expected to be higher and overall population higher. This could have significant implications for the debate on population size I have posted about in the last week (such as [here](https://jasoncollins.blog/libertarians-and-fertility/), [here](https://jasoncollins.blog/caplans-selfish-reasons-to-have-more-kids/) and [here](https://jasoncollins.blog/population-and-the-tragedy-of-the-commons/)).
+Rowthorn does not specifically explore the question of overall population size. If the religious allele(s) spread through society, fertility would be expected to be higher and overall population higher. This could have significant implications for the debate on population size I have posted about in the last week (such as [here](https://www.jasoncollins.blog/libertarians-and-fertility/), [here](https://www.jasoncollins.blog/caplans-selfish-reasons-to-have-more-kids/) and [here](https://www.jasoncollins.blog/population-and-the-tragedy-of-the-commons/)).
 
 Further, Rowthorn's findings show the general result that any genetically based predisposition that increases fertility can be expected to spread through the population. Whether that predisposition is religion, dislike of contraception, urge to have a larger family or some other trait, the effect is the same. The alleles responsible for higher fertility spread and, barring further environmental shocks, population growth increases. The only question is how long this will take.
 
-*As an extension to this idea, [I have a working paper](https://jasoncollins.blog/fertility-is-going-to-go-up/) that examines the consequences of heritability of fertility more generally.
+*As an extension to this idea, [I have a working paper](https://www.jasoncollins.blog/fertility-is-going-to-go-up/) that examines the consequences of heritability of fertility more generally.

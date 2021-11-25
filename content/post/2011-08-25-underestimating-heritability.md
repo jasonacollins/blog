@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-08-25 12:44:54+00:00
 draft: no
-link: https://jasoncollins.blog/underestimating-heritability/
+link: https://www.jasoncollins.blog/underestimating-heritability/
 slug: underestimating-heritability
 title: Underestimating heritability
 wordpress_id: 1696

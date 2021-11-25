@@ -36,4 +36,4 @@ But for how long will this hold? Don Norman again:
 
 I suspect much of this, at least in the short term, will only relate to _some_ humans. The masses will experience these changes with some lag.
 
-(See also my [last post on the human-machine mix](https://jasoncollins.blog/getting-the-right-human-machine-mix/).)
+(See also my [last post on the human-machine mix](https://www.jasoncollins.blog/getting-the-right-human-machine-mix/).)

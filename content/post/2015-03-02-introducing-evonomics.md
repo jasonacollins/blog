@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2015-03-02 08:00:19+00:00
 draft: no
-link: https://jasoncollins.blog/introducing-evonomics/
+link: https://www.jasoncollins.blog/introducing-evonomics/
 slug: introducing-evonomics
 title: Introducing Evonomics
 wordpress_id: 20887

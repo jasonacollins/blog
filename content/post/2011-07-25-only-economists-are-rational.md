@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-07-25 09:09:47+00:00
 draft: no
-link: https://jasoncollins.blog/only-economists-are-rational/
+link: https://www.jasoncollins.blog/only-economists-are-rational/
 slug: only-economists-are-rational
 title: Only economists are rational
 wordpress_id: 1559

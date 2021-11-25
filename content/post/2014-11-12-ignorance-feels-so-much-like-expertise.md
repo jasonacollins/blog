@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2014-11-12 08:02:49+00:00
 draft: no
-link: https://jasoncollins.blog/ignorance-feels-so-much-like-expertise/
+link: https://www.jasoncollins.blog/ignorance-feels-so-much-like-expertise/
 slug: ignorance-feels-so-much-like-expertise
 title: Ignorance feels so much like expertise
 wordpress_id: 20445

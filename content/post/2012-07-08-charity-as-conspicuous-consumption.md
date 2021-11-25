@@ -3,13 +3,13 @@ author: jasonacollins
 comments: false
 date: 2012-07-08 07:26:59+00:00
 draft: no
-link: https://jasoncollins.blog/charity-as-conspicuous-consumption/
+link: https://www.jasoncollins.blog/charity-as-conspicuous-consumption/
 slug: charity-as-conspicuous-consumption
 title: Charity as conspicuous consumption
 wordpress_id: 441
 ---
 
-At the end of [Moav and Neeman's paper](http://doi.org/10.1111/j.1468-0297.2012.02516.x) on conspicuous consumption and poverty traps, about which [I posted yesterday](https://jasoncollins.blog/conspicuous-consumption-and-poverty-traps/), the authors suggest an experiment:
+At the end of [Moav and Neeman's paper](http://doi.org/10.1111/j.1468-0297.2012.02516.x) on conspicuous consumption and poverty traps, about which [I posted yesterday](https://www.jasoncollins.blog/conspicuous-consumption-and-poverty-traps/), the authors suggest an experiment:
 
 
 <blockquote>It is well known that the rich spend a lot more on charitable contributions than the poor. There are at least three different explanations for this behaviour: charitable contribution is a luxury good, there is stronger social pressure on the rich to contribute more to society and our suggestion that charitable contributions provide a signal about unobserved income ('success'). Consider the effect of the revelation of information about individuals' incomes. Such a revelation should have no effect on charitable contributions if they are mostly a luxury good. It should lead to a rise in charitable contributions if they are mostly due to social pressure on the rich to contribute to society and it should lead to a decrease in charitable contributions if they are mostly about signalling. It ought to be possible to examine empiricaly the effect of such a revelation of information on charitable giving.</blockquote>

@@ -8,7 +8,7 @@ slug: bad-nudges-organ-donation-edition
 
 It's a favourite behavioural science story. Countries that have opt-in organ donation have lower rates of organ donation than countries where you have to opt out of being an organ donor. If we change the way the choice is framed from opt in to opt out, we can dramatically increase the rate of organ donation.
 
-[Except, it's not that simple](https://jasoncollins.blog/charts-that-dont-seem-quite-right-organ-donation-edition/). For countries where there is an opt-out system, there is no simple point where the choice is presented to them as the default and they can easily tick the box to be removed from the organ donation register. Instead, they need to find and fill out forms or call various government agencies to overcome a presumed consent.
+[Except, it's not that simple](https://www.jasoncollins.blog/charts-that-dont-seem-quite-right-organ-donation-edition/). For countries where there is an opt-out system, there is no simple point where the choice is presented to them as the default and they can easily tick the box to be removed from the organ donation register. Instead, they need to find and fill out forms or call various government agencies to overcome a presumed consent.
 
 Further, [although opt-out countries tend to have higher donation rates](http://www.biomedcentral.com/1741-7015/12/131), some countries with opt-in systems have higher donation rates than those with opt-out. The high numbers that get reported - 99.98% of Austrians are organ donors - are the numbers who haven't opted out, not the number who donate. When it comes to the point of donation, other issues become more relevant, including the wishes of the family. It's no surprise that the family might wish to intervene, particularly given that in an opt-out system there is no moment where the donor is required to express their wish.
 
@@ -22,6 +22,6 @@ Then there are the more interesting options that could be tested - markets for o
 
 Instead of increasing the freedom to develop new solutions, we have a misunderstood story about a nudge gaining momentum, inadvertently placing the burden on family members at the time of death.
 
-As an aside, [I'm still hunting for examples](https://jasoncollins.blog/nudging-for-freedom/) of nudges introduced explicitly to increase freedom by allowing a hard requirement to be relaxed. Current count remains at zero.
+As an aside, [I'm still hunting for examples](https://www.jasoncollins.blog/nudging-for-freedom/) of nudges introduced explicitly to increase freedom by allowing a hard requirement to be relaxed. Current count remains at zero.
 
 *Searching around for information on the changes in Wales, [I came across another perspective from Eric Crampton](http://offsettingbehaviour.blogspot.com.au/2013/09/organ-nudges.html).

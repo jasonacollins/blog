@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2014-06-15 13:32:47+00:00
 draft: no
-link: https://jasoncollins.blog/the-benefit-of-uncertainty/
+link: https://www.jasoncollins.blog/the-benefit-of-uncertainty/
 slug: the-benefit-of-uncertainty
 title: The benefit of uncertainty
 wordpress_id: 19961

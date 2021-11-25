@@ -11,7 +11,7 @@ My [conversation with Julia Galef on Rationally Speaking](http://rationallyspeak
 There are links to a lot of the academic articles we discuss on the [Rationally Speaking ](http://rationallyspeakingpodcast.org/show/rs-219-jason-collins-on-a-skeptical-take-on-behavioral-econo.html)[site](http://rationallyspeakingpodcast.org/show/rs-219-jason-collins-on-a-skeptical-take-on-behavioral-econo.html). We also talk about several of my own articles, including:
 
 
-[Please not another bias! An evolutionary take on behavioural economics](https://jasoncollins.blog/please-not-another-bias-an-evolutionary-take-on-behavioural-economics/) (This article is my presentation script for a marketing conference. I've been meaning to rewrite it as an article for some time to remove the marketing flavour and to replace the evolutionary discussion with something more robust. Much of the evolutionary psychology experimental literature relies on priming, and I'm not confident the particular experiments I reference will replicate.)
+[Please not another bias! An evolutionary take on behavioural economics](https://www.jasoncollins.blog/please-not-another-bias-an-evolutionary-take-on-behavioural-economics/) (This article is my presentation script for a marketing conference. I've been meaning to rewrite it as an article for some time to remove the marketing flavour and to replace the evolutionary discussion with something more robust. Much of the evolutionary psychology experimental literature relies on priming, and I'm not confident the particular experiments I reference will replicate.)
 
 
 
@@ -26,7 +26,7 @@ There are links to a lot of the academic articles we discuss on the [Rationally 
 
 
 
-[The difference between knowing the name of something and knowing something](https://jasoncollins.blog/the-difference-between-knowing-the-name-of-something-and-knowing-something/)
+[The difference between knowing the name of something and knowing something](https://www.jasoncollins.blog/the-difference-between-knowing-the-name-of-something-and-knowing-something/)
 
 
 There were a couple of questions for which I could have given different (better) answers, so here are some additional thoughts.
@@ -70,7 +70,7 @@ Third, even if we understand the proximate and ultimate objectives, we might fai
 
 To illustrate, even if we know that someone is only seeking further education to increase their employment prospects, you would expect different behaviour if education was a signal and not a source of skills for use on the job. If education is purely a signal, people may only care about getting the credential, not what they learn. If education serves a more direct purpose, we would expect students to invest much more in learning.
 
-I discuss a couple of these points in my Behavioral Scientist article [Rationalizing the ](https://behavioralscientist.org/rationalizing-the-irrational/)["](https://behavioralscientist.org/rationalizing-the-irrational/)[Irrationa](https://behavioralscientist.org/rationalizing-the-irrational/)[l"](https://behavioralscientist.org/rationalizing-the-irrational/). Evolutionary biology is a great source of material on signalling, although as I have written about before, [economists did have ](https://jasoncollins.blog/economists-1-biologists-0/)[at least one](https://jasoncollins.blog/economists-1-biologists-0/)[ crucial insight earlier](https://jasoncollins.blog/economists-1-biologists-0/).
+I discuss a couple of these points in my Behavioral Scientist article [Rationalizing the ](https://behavioralscientist.org/rationalizing-the-irrational/)["](https://behavioralscientist.org/rationalizing-the-irrational/)[Irrationa](https://behavioralscientist.org/rationalizing-the-irrational/)[l"](https://behavioralscientist.org/rationalizing-the-irrational/). Evolutionary biology is a great source of material on signalling, although as I have written about before, [economists did have ](https://www.jasoncollins.blog/economists-1-biologists-0/)[at least one](https://www.jasoncollins.blog/economists-1-biologists-0/)[ crucial insight earlier](https://www.jasoncollins.blog/economists-1-biologists-0/).
 
 Finally, I've plugged Rationally Speaking before, and here is a list of some of the episodes I enjoyed the most (there are transcripts if you prefer to read):
 

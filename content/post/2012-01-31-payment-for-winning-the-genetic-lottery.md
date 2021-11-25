@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-01-31 12:08:06+00:00
 draft: no
-link: https://jasoncollins.blog/payment-for-winning-the-genetic-lottery/
+link: https://www.jasoncollins.blog/payment-for-winning-the-genetic-lottery/
 slug: payment-for-winning-the-genetic-lottery
 title: Payment for winning the genetic lottery
 wordpress_id: 2381

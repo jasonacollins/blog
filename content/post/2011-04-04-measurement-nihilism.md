@@ -6,7 +6,7 @@ draft: no
 slug: measurement-nihilism
 ---
 
-Following from my recent post on Scott Barry Kaufman's [heritability measurement nihilism](https://jasoncollins.blog/the-heritability-debate-again/), Jonah Lehrer has gone a step further and [taken a swipe at measurement](http://online.wsj.com/article/SB10001424052748704471904576230931647955902.html) in general, and in particular, at short-term tests. Lehrer argues that:
+Following from my recent post on Scott Barry Kaufman's [heritability measurement nihilism](https://www.jasoncollins.blog/the-heritability-debate-again/), Jonah Lehrer has gone a step further and [taken a swipe at measurement](http://online.wsj.com/article/SB10001424052748704471904576230931647955902.html) in general, and in particular, at short-term tests. Lehrer argues that:
 
 
 <blockquote>The larger lesson is that we've built our society around tests of performance that fail to predict what really matters: what happens once the test is over.</blockquote>

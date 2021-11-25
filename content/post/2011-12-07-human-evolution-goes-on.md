@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-12-07 13:59:16+00:00
 draft: no
-link: https://jasoncollins.blog/human-evolution-goes-on/
+link: https://www.jasoncollins.blog/human-evolution-goes-on/
 slug: human-evolution-goes-on
 title: Human evolution goes on
 wordpress_id: 2079

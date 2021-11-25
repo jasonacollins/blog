@@ -18,5 +18,5 @@ Links this week:
   2. [Does The Hunter-Gatherer Style Of Education Work?](http://www.thisviewoflife.com/index.php/magazine/articles/1082/free-to-learn-hunter-gatherer-style-education)
 
 	
-  3. I came across the idea of pathological altruism when Barbara Oakley presented at last year's [Consilience Conference](https://jasoncollins.blog/consilience-conference/). I don't like the idea, and [neither does Robert Kurzban](http://www.epjournal.net/blog/2013/06/pathological-altruism-a-new-idea-that-robert-burns-discussed-in-1785/).
+  3. I came across the idea of pathological altruism when Barbara Oakley presented at last year's [Consilience Conference](https://www.jasoncollins.blog/consilience-conference/). I don't like the idea, and [neither does Robert Kurzban](http://www.epjournal.net/blog/2013/06/pathological-altruism-a-new-idea-that-robert-burns-discussed-in-1785/).
 

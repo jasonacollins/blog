@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-11-05 12:26:35+00:00
 draft: no
-link: https://jasoncollins.blog/is-loss-aversion-a-bias/
+link: https://www.jasoncollins.blog/is-loss-aversion-a-bias/
 slug: is-loss-aversion-a-bias
 title: Is loss aversion a bias?
 wordpress_id: 1969
@@ -29,4 +29,4 @@ In another evolutionary scenario, where losses were clearly more costly than gai
 <blockquote>When we put participants in a self-protective frame of mind (by having them imagine being alone in the house on a dark night and hearing an intruder breaking in), both men and women became more loss averse in their judgments.</blockquote>
 
 
-The way I prefer to think about loss aversion is to consider [what the objective of the person is](https://jasoncollins.blog/what-is-the-objective/) - and that is normally an evolutionary objective. Once the gains and losses are framed in evolutionary terms, what is loss aversion in one dimension is not loss aversion in the dimension that matters. For example, if a small cash win will not increase the number of mates but a small cash loss might cost them the mate that they have, a loss averse response to the potential cash pay-offs can be contrasted to the zero-gain potential in the mating dimension. It is not loss aversion to reject a bet with no upside.
+The way I prefer to think about loss aversion is to consider [what the objective of the person is](https://www.jasoncollins.blog/what-is-the-objective/) - and that is normally an evolutionary objective. Once the gains and losses are framed in evolutionary terms, what is loss aversion in one dimension is not loss aversion in the dimension that matters. For example, if a small cash win will not increase the number of mates but a small cash loss might cost them the mate that they have, a loss averse response to the potential cash pay-offs can be contrasted to the zero-gain potential in the mating dimension. It is not loss aversion to reject a bet with no upside.

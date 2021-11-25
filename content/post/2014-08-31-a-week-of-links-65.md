@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2014-08-31 09:46:52+00:00
 draft: no
-link: https://jasoncollins.blog/a-week-of-links-65/
+link: https://www.jasoncollins.blog/a-week-of-links-65/
 slug: a-week-of-links-65
 title: A week of links
 wordpress_id: 20116

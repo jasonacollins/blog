@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-07-10 09:53:53+00:00
 draft: no
-link: https://jasoncollins.blog/the-origins-of-savings-behaviour/
+link: https://www.jasoncollins.blog/the-origins-of-savings-behaviour/
 slug: the-origins-of-savings-behaviour
 title: The Origins of Savings Behaviour
 wordpress_id: 3604

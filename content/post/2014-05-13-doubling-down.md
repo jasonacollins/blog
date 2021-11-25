@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2014-05-13 13:23:51+00:00
 draft: no
-link: https://jasoncollins.blog/doubling-down/
+link: https://www.jasoncollins.blog/doubling-down/
 slug: doubling-down
 title: Doubling down
 wordpress_id: 19928

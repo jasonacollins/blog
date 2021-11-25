@@ -3,13 +3,13 @@ author: jasonacollins
 comments: true
 date: 2013-10-24 13:38:29+00:00
 draft: no
-link: https://jasoncollins.blog/warfare-and-the-transition-to-agriculture/
+link: https://www.jasoncollins.blog/warfare-and-the-transition-to-agriculture/
 slug: warfare-and-the-transition-to-agriculture
 title: Warfare and the transition to agriculture
 wordpress_id: 357
 ---
 
-As I pointed out in [my last post](https://jasoncollins.blog/life-expectancy-and-the-dawn-of-agriculture/), Jared Diamond called the transition to agriculture [the worst mistake in the history of the human race](http://www.scribd.com/doc/2100251/Jared-Diamond-The-Worst-Mistake-in-the-History-of-the-Human-Race). Yet despite evidence that the early adopters of agriculture were shorter and had worse nutrition and health than the hunter-gatherers that preceded them, the agricultural way of life came to dominate human society. [Health may have rebounded as humans adapted to their new lifestyles](https://jasoncollins.blog/height-through-the-millennia/), and the long-term benefits are now clear, but why would the early adopters of agriculture shift to what would appear to be a much a poorer way of life?
+As I pointed out in [my last post](https://www.jasoncollins.blog/life-expectancy-and-the-dawn-of-agriculture/), Jared Diamond called the transition to agriculture [the worst mistake in the history of the human race](http://www.scribd.com/doc/2100251/Jared-Diamond-The-Worst-Mistake-in-the-History-of-the-Human-Race). Yet despite evidence that the early adopters of agriculture were shorter and had worse nutrition and health than the hunter-gatherers that preceded them, the agricultural way of life came to dominate human society. [Health may have rebounded as humans adapted to their new lifestyles](https://www.jasoncollins.blog/height-through-the-millennia/), and the long-term benefits are now clear, but why would the early adopters of agriculture shift to what would appear to be a much a poorer way of life?
 
 One answer to that question is offered by Paul Seabright and Robert Rowthorn in [a 2010 working paper](http://idei.fr/display.php?a=23850). Seabright and Rowthorn's idea is that early farming communities needed to develop defences to protect their stationary stores of food. With increased defensive ability comes increased offensive potential and ability to steal from neighbours. As a result, it is optimal for an individual group to adopt agriculture where the benefit from theft exceeds the cost of moving to agriculture.
 

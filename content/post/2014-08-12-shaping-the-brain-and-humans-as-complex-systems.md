@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2014-08-12 10:30:13+00:00
 draft: no
-link: https://jasoncollins.blog/shaping-the-brain-and-humans-as-complex-systems/
+link: https://www.jasoncollins.blog/shaping-the-brain-and-humans-as-complex-systems/
 slug: shaping-the-brain-and-humans-as-complex-systems
 title: Shaping the brain and humans as complex systems
 wordpress_id: 20085

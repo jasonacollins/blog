@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-07-10 10:50:25+00:00
 draft: no
-link: https://jasoncollins.blog/jones-on-iq-and-productivity/
+link: https://www.jasoncollins.blog/jones-on-iq-and-productivity/
 slug: jones-on-iq-and-productivity
 title: Jones on IQ and productivity
 wordpress_id: 1499

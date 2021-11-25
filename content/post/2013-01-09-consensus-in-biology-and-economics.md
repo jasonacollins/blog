@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-01-09 11:36:48+00:00
 draft: no
-link: https://jasoncollins.blog/consensus-in-biology-and-economics/
+link: https://www.jasoncollins.blog/consensus-in-biology-and-economics/
 slug: consensus-in-biology-and-economics
 title: Consensus in economics and biology
 wordpress_id: 4929
@@ -23,4 +23,4 @@ On a historical note, would Stephen Jay Gould have been able to rally more than 
 
 In this light, it's probably right to consider the level of consensus in economics as being strong, but to note that some of the areas have less consensus than we'd normally see in a field such as biology. Compare the consensus in economics to anthropology, however, and economists could appear quite unified.
 
-But what of the future? Gordon and Dahl noted that consensus is generally strongest where the area in question has a larger body of literature behind it. That makes sense, but for the areas of dispute (particularly the public disputes that created the perception of a rift between economists), I don't expect to see much short-term change. I have never been very confident on the [rejection of controversial theories in economics through data](https://jasoncollins.blog/who-will-invade-economics/) and [Wolfers shows evidence](http://users.nber.org/~jwolfers/Papers/OpinionsofEconomists.pdf) of ideology behind the division for some issues, so I suspect that at a minimum we may need to wait for a few funerals to occur.
+But what of the future? Gordon and Dahl noted that consensus is generally strongest where the area in question has a larger body of literature behind it. That makes sense, but for the areas of dispute (particularly the public disputes that created the perception of a rift between economists), I don't expect to see much short-term change. I have never been very confident on the [rejection of controversial theories in economics through data](https://www.jasoncollins.blog/who-will-invade-economics/) and [Wolfers shows evidence](http://users.nber.org/~jwolfers/Papers/OpinionsofEconomists.pdf) of ideology behind the division for some issues, so I suspect that at a minimum we may need to wait for a few funerals to occur.

@@ -26,6 +26,6 @@ One option is to discourage having a family, which tends not to be the preferre
 
 Alternatively, you can provide subsidised or free childcare, which will reduce the cost of having a family and enable the mother to return to work faster. But this also increases the attractiveness of having a family, which increases the number of children and constrains potential hours worked. And even with free childcare, the mother will likely take some time off.
 
-Alternatively, take Paul Seabright's argument in [War of the Sexes](https://jasoncollins.blog/seabrights-the-war-of-the-sexes/) that much of the wage gap is due to gender differences in networks. When you take time out of the workforce, your networks suffer. Women are more likely to take time out of the workforce.
+Alternatively, take Paul Seabright's argument in [War of the Sexes](https://www.jasoncollins.blog/seabrights-the-war-of-the-sexes/) that much of the wage gap is due to gender differences in networks. When you take time out of the workforce, your networks suffer. Women are more likely to take time out of the workforce.
 
 One of Seabright's ideas to counter this is compulsory paternity leave. Gender neutral parental leave arrangements are also floated at the end of the NYT article. However, compulsory paternity leave effectively converts the penalty on women into a penalty on families. The gap will be between those with and without children. And now that the birth may be timed to fit in with the man's career, it is possible that the birth may be timed even less suitably for the woman.

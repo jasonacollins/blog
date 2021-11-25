@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2014-07-17 13:01:06+00:00
 draft: no
-link: https://jasoncollins.blog/the-wisdom-of-crowds-of-people-who-dont-believe-in-the-wisdom-of-crowds/
+link: https://www.jasoncollins.blog/the-wisdom-of-crowds-of-people-who-dont-believe-in-the-wisdom-of-crowds/
 slug: the-wisdom-of-crowds-of-people-who-dont-believe-in-the-wisdom-of-crowds
 title: The wisdom of crowds of people who don't believe in the wisdom of crowds
 wordpress_id: 20004

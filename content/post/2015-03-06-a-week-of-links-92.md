@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2015-03-06 08:00:56+00:00
 draft: no
-link: https://jasoncollins.blog/a-week-of-links-92/
+link: https://www.jasoncollins.blog/a-week-of-links-92/
 slug: a-week-of-links-92
 title: A week of links
 wordpress_id: 20896
@@ -54,9 +54,9 @@ And if you missed them, my posts this week:
 
 
 	
-  1. [Introducing Evonomics](https://jasoncollins.blog/introducing-evonomics/).
+  1. [Introducing Evonomics](https://www.jasoncollins.blog/introducing-evonomics/).
 
 	
-  2. [Can government policy overcome implicit bias?](https://jasoncollins.blog/overcoming-implicit-bias/)
+  2. [Can government policy overcome implicit bias?](https://www.jasoncollins.blog/overcoming-implicit-bias/)
 
 

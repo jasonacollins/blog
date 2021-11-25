@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-09-17 10:37:00+00:00
 draft: no
-link: https://jasoncollins.blog/human-nature-and-libertarianism/
+link: https://www.jasoncollins.blog/human-nature-and-libertarianism/
 slug: human-nature-and-libertarianism
 title: Human nature and libertarianism
 wordpress_id: 1789

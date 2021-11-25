@@ -30,9 +30,9 @@ Links this week:
 
 And if you missed them, my posts from the last week:
 
-  1. [Sam Bowles on the death of Homo Economicus](https://jasoncollins.blog/sam-bowles-on-the-death-of-homo-economicus/).
+  1. [Sam Bowles on the death of Homo Economicus](https://www.jasoncollins.blog/sam-bowles-on-the-death-of-homo-economicus/).
 
 	
-  2. [A grumpy rant on behavioural economics](https://jasoncollins.blog/a-grumpy-take-on-behavioural-economics/).
+  2. [A grumpy rant on behavioural economics](https://www.jasoncollins.blog/a-grumpy-take-on-behavioural-economics/).
 
 

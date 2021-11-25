@@ -68,9 +68,9 @@ Below is a collection of book reviews that I have posted - click the links to g
 
 19. Sheldon Garon’s [Beyond Our Means: Why America Spends While the World Saves](http://jasoncollins.blog/garons-beyond-our-means/): Plenty of interesting historical fodder on savings but feels incomplete.
 
-20. Gerd Gigerenzer's [Gut Feelings: Short Cuts to Better Decision Making](https://jasoncollins.blog/gerd-gigerenzers-gut-feelings-short-cuts-to-better-decision-making/): Perhaps the best balance between nuance and accessibility of Gigerenzer's popular books. While it still leaves an impression about the accuracy of our instincts that I'm not completely in agreement with, it provides a good overview of how our gut feelings can lead togood decisions.
+20. Gerd Gigerenzer's [Gut Feelings: Short Cuts to Better Decision Making](https://www.jasoncollins.blog/gerd-gigerenzers-gut-feelings-short-cuts-to-better-decision-making/): Perhaps the best balance between nuance and accessibility of Gigerenzer's popular books. While it still leaves an impression about the accuracy of our instincts that I'm not completely in agreement with, it provides a good overview of how our gut feelings can lead togood decisions.
 
-21. Gerd Gigerenzer's [Rationality for Mortals: How People Cope with Uncertainty](https://jasoncollins.blog/gerd-gigerenzers-rationality-for-mortals-how-people-cope-with-uncertainty/): Great. Good coverage of ecological rationality, heuristics that make us smart, and understanding risk.
+21. Gerd Gigerenzer's [Rationality for Mortals: How People Cope with Uncertainty](https://www.jasoncollins.blog/gerd-gigerenzers-rationality-for-mortals-how-people-cope-with-uncertainty/): Great. Good coverage of ecological rationality, heuristics that make us smart, and understanding risk.
 
 22. Gerd Gigerenzer's [Risk Savvy](http://jasoncollins.blog/nudging-citizens-to-be-risk-savvy/): Gigerenzer's least satisfactory but still interesting book.
 
@@ -86,13 +86,13 @@ Below is a collection of book reviews that I have posted - click the links to g
 
 28. Tim Harford's [Adapt: Why Success Always Starts with Failure](http://jasoncollins.blog/harfords-adapt-why-success-always-starts-with-failure/): Harford applies evolutionary thinking to business, war, accidents and other human pursuits. Excellent.
 
-29. Joe Henrich’s [The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter](https://jasoncollins.blog/henrichs-the-secret-of-our-success-how-culture-is-driving-human-evolution-domesticating-our-species-and-making-us-smarter/): A lot of interesting ideas, but left me with a lot of questions.
+29. Joe Henrich’s [The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter](https://www.jasoncollins.blog/henrichs-the-secret-of-our-success-how-culture-is-driving-human-evolution-domesticating-our-species-and-making-us-smarter/): A lot of interesting ideas, but left me with a lot of questions.
 
 30. Victor Hwang and Greg Horowitt’s [The Rainforest: The Secret to Building the Next Silicon Valley](http://jasoncollins.blog/hwang-and-horowitts-the-rainforest/): Entrepreneurship though a biological lens.
 
 31. Greg Ip's [Foolproof: Why Safety Can Be Dangerous and How Danger Makes Us Safe](http://jasoncollins.blog/ips-foolproof-why-safety-can-be-dangerous-and-how-danger-makes-us-safe/): Engineers seek to use the sum of our human knowledge to make us safer. Ecologists recognise that many of our solutions will have unintended consequences that can be worse than the problems we are trying to solve. Much of Ip’s book is a catalogue of the failures of engineering.
 
-32. Garett Jones’s [Hive Mind: How Your Nation’s IQ Matters So Much More Than Your Own](https://jasoncollins.blog/joness-hive-mind-how-your-nations-iq-matters-so-much-more-than-your-own/): A fantastic exposition of some important but neglected features of the world.
+32. Garett Jones’s [Hive Mind: How Your Nation’s IQ Matters So Much More Than Your Own](https://www.jasoncollins.blog/joness-hive-mind-how-your-nations-iq-matters-so-much-more-than-your-own/): A fantastic exposition of some important but neglected features of the world.
 
 33. Daniel Kahneman's [Thinking, Fast and Slow](http://jasoncollins.blog/kahnemans-thinking-fast-and-slow/): While the field of behavioural economics has not yet made the step into evolutionary biology, this overview is the best. However, it is [not standing the test of time particularly well](http://jasoncollins.blog/re-reading-kahnemans-thinking-fast-and-slow/).
     
@@ -106,7 +106,7 @@ Below is a collection of book reviews that I have posted - click the links to g
 
 38. Doug Kenrick and Vlad Griskevicius’s [The Rational Animal: How Evolution Made Us Smarter Than We Think](http://jasoncollins.blog/kenrick-and-griskeviciuss-the-rational-animal/): A good introduction to the idea that evolutionary psychology could add a lot of value to behavioural economics, but has the occasional straw man discussion of economics and a heavy reliance on priming research.
 
-39. Jonathan Last’s [What to Expect When No One’s Expecting: America’s Coming Demographic Disaster](https://jasoncollins.blog/lasts-what-to-expect-when-no-ones-expecting-americas-coming-demographic-disaster/): Much to disagree or argue with, but entertaining and a lot to like.
+39. Jonathan Last’s [What to Expect When No One’s Expecting: America’s Coming Demographic Disaster](https://www.jasoncollins.blog/lasts-what-to-expect-when-no-ones-expecting-americas-coming-demographic-disaster/): Much to disagree or argue with, but entertaining and a lot to like.
 
 40. David Levine’s [Is Behavioural Economics Doomed?](http://jasoncollins.blog/levines-is-behavioural-economics-doomed/): A good but slightly frustrating read. Littered with straw man arguments.
 
@@ -154,13 +154,13 @@ Below is a collection of book reviews that I have posted - click the links to g
 
 62. Nate Silver’s [The Signal and the Noise: Why So Many Predictions Fail— but Some Don’t](http://jasoncollins.blog/silvers-the-signal-and-the-noise/): Not a “how to” book, although there are plenty of principles (and suggestions to be humble) worth following.
 
-63. Robert Sugden's [The Community of Advantage: A Behavioural Economist’s Defence of the Market](https://jasoncollins.blog/robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market/): A well-balanced critique on how the behavioural research has been interpreted and used as part of the “nudge” movement to develop recommendations for the “planner”, “benevolent autocrat” or “choice architect”.
+63. Robert Sugden's [The Community of Advantage: A Behavioural Economist’s Defence of the Market](https://www.jasoncollins.blog/robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market/): A well-balanced critique on how the behavioural research has been interpreted and used as part of the “nudge” movement to develop recommendations for the “planner”, “benevolent autocrat” or “choice architect”.
 
 64. Cass Sunstein and Reid Hastie's [Wiser: Getting Beyond Groupthink to Make Groups Smarter](http://jasoncollins.blog/cass-sunstein-and-reid-hasties-wiser-getting-beyond-groupthink-to-make-groups-smarter/): Not an exciting read, but a good catalogue of group decision-making research.
 
-65. Philip Tetlock’s [Expert Political Judgment: How Good Is It? How Can We Know?](https://jasoncollins.blog/tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know/): One of the grander undertakings in social science.
+65. Philip Tetlock’s [Expert Political Judgment: How Good Is It? How Can We Know?](https://www.jasoncollins.blog/tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know/): One of the grander undertakings in social science.
 
-66. Philip Tetlock and Dan Gardner’s [Superforecasting: The Art and Science of Prediction](http://jasoncollins.blog/tetlock-and-gardners-superforecasting-the-art-and-science-of-prediction/): Doesn’t quite measure up to Tetlock’s superb [Expert Political Judgment](https://jasoncollins.blog/tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know/) (read EPJ first), but it contains more than enough interesting material to make it worth the read.
+66. Philip Tetlock and Dan Gardner’s [Superforecasting: The Art and Science of Prediction](http://jasoncollins.blog/tetlock-and-gardners-superforecasting-the-art-and-science-of-prediction/): Doesn’t quite measure up to Tetlock’s superb [Expert Political Judgment](https://www.jasoncollins.blog/tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know/) (read EPJ first), but it contains more than enough interesting material to make it worth the read.
 
 67. Richard Thaler and Cass Sunstein’s [Nudge](http://jasoncollins.blog/thaler-and-sunsteins-nudge/): If you’re familiar with much of the behavioural science literature, the book covers a lot of stuff you already know. But there are a lot of bureaucrats and politicians who, among others, should read the whole book.
 

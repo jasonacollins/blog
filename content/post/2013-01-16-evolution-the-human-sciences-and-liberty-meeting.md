@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-01-16 13:28:41+00:00
 draft: no
-link: https://jasoncollins.blog/evolution-the-human-sciences-and-liberty-meeting/
+link: https://www.jasoncollins.blog/evolution-the-human-sciences-and-liberty-meeting/
 slug: evolution-the-human-sciences-and-liberty-meeting
 title: Evolution, the Human Sciences and Liberty meeting
 wordpress_id: 5022

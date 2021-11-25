@@ -33,12 +33,12 @@ Links this week:
 
 And if you missed them, my posts from the last week:
 
-  1. [The Evolutionary Foundations of Economics](https://jasoncollins.blog/the-evolutionary-foundations-of-economics/).
+  1. [The Evolutionary Foundations of Economics](https://www.jasoncollins.blog/the-evolutionary-foundations-of-economics/).
 
 	
-  2. [Please experiment on us](https://jasoncollins.blog/please-experiment-on-us/).
+  2. [Please experiment on us](https://www.jasoncollins.blog/please-experiment-on-us/).
 
 	
-  3. [The more we can send the message we have no idea, the better](https://jasoncollins.blog/we-have-no-idea/).
+  3. [The more we can send the message we have no idea, the better](https://www.jasoncollins.blog/we-have-no-idea/).
 
 

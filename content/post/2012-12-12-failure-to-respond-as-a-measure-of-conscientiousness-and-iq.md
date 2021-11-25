@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-12-12 10:06:27+00:00
 draft: no
-link: https://jasoncollins.blog/failure-to-respond-as-a-measure-of-conscientiousness-and-iq/
+link: https://www.jasoncollins.blog/failure-to-respond-as-a-measure-of-conscientiousness-and-iq/
 slug: failure-to-respond-as-a-measure-of-conscientiousness-and-iq
 title: Failure to respond as a measure of conscientiousness and IQ
 wordpress_id: 4802

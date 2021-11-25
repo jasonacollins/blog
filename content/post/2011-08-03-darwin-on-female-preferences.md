@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-08-03 12:22:19+00:00
 draft: no
-link: https://jasoncollins.blog/darwin-on-female-preferences/
+link: https://www.jasoncollins.blog/darwin-on-female-preferences/
 slug: darwin-on-female-preferences
 title: Darwin on female preferences
 wordpress_id: 1433

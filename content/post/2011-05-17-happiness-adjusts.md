@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-05-17 07:51:55+00:00
 draft: no
-link: https://jasoncollins.blog/happiness-adjusts/
+link: https://www.jasoncollins.blog/happiness-adjusts/
 slug: happiness-adjusts
 title: Happiness adjusts
 wordpress_id: 965

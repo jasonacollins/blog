@@ -84,7 +84,7 @@ From this, it is hard to use a rigorous analytical approach in many natural sett
 
 **Diagnosing poor decisions**
 
-I [previously posted](https://jasoncollins.blog/gary-klein-on-heuristics-and-biases-confirmation-bias-and-explaining-everything/) some of Klein's views on the heuristics and biases approach to assessing decision quality. Needless to say, Klein is sceptical that poor decisions are largely due to faulty reasoning. More effort should be expended in finding the sources of poor decisions, rather than blaming the operator.
+I [previously posted](https://www.jasoncollins.blog/gary-klein-on-heuristics-and-biases-confirmation-bias-and-explaining-everything/) some of Klein's views on the heuristics and biases approach to assessing decision quality. Needless to say, Klein is sceptical that poor decisions are largely due to faulty reasoning. More effort should be expended in finding the sources of poor decisions, rather than blaming the operator.
 
 Klein describes a review a sample of 25 decisions with poor outcomes (from 600 he had available) to assess what went wrong. Sixteen outcomes were due to lack of experience, such as someone not realising that construction of the building on fire was problematic. The second most common issue was lack of information. The third most common involved noticing but explaining away problems during mental simulation - possibly involving bias.
 

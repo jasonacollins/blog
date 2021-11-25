@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2015-01-12 08:00:07+00:00
 draft: no
-link: https://jasoncollins.blog/bad-statistics-cancer-edition/
+link: https://www.jasoncollins.blog/bad-statistics-cancer-edition/
 slug: bad-statistics-cancer-edition
 title: Bad statistics - cancer edition
 wordpress_id: 20699

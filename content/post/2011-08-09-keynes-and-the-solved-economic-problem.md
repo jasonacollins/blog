@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-08-09 13:09:12+00:00
 draft: no
-link: https://jasoncollins.blog/keynes-and-the-solved-economic-problem/
+link: https://www.jasoncollins.blog/keynes-and-the-solved-economic-problem/
 slug: keynes-and-the-solved-economic-problem
 title: Keynes and the solved economic problem
 wordpress_id: 1608

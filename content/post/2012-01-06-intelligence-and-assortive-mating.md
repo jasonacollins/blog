@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-01-06 12:32:33+00:00
 draft: no
-link: https://jasoncollins.blog/intelligence-and-assortive-mating/
+link: https://www.jasoncollins.blog/intelligence-and-assortive-mating/
 slug: intelligence-and-assortive-mating
 title: Intelligence and assortive mating
 wordpress_id: 2223

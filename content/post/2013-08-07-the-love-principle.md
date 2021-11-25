@@ -3,13 +3,13 @@ author: jasonacollins
 comments: true
 date: 2013-08-07 12:51:37+00:00
 draft: no
-link: https://jasoncollins.blog/the-love-principle/
+link: https://www.jasoncollins.blog/the-love-principle/
 slug: the-love-principle
 title: The love principle
 wordpress_id: 6709
 ---
 
-In [my recent post](https://jasoncollins.blog/an-economic-theory-of-greed-love-groups-and-networks/) reviewing Paul Frijters and Gigi Foster's *An Economic Theory of Greed, Love, Groups, and Networks*, I flagged that they considered their new theoretical contribution to be "the love principle". In this post, I want to pull the idea apart. I'm not going to offer a perfect alternative to the love principle, but I hope that by giving it a good going over I can possibly understand it better.
+In [my recent post](https://www.jasoncollins.blog/an-economic-theory-of-greed-love-groups-and-networks/) reviewing Paul Frijters and Gigi Foster's *An Economic Theory of Greed, Love, Groups, and Networks*, I flagged that they considered their new theoretical contribution to be "the love principle". In this post, I want to pull the idea apart. I'm not going to offer a perfect alternative to the love principle, but I hope that by giving it a good going over I can possibly understand it better.
 
 Frijters and Foster state the love principle as follows:
 
@@ -39,7 +39,7 @@ For these non-kin cases I take a different reading of the process leading to "lo
 
 Consider this in the context of another example they give, a reasonably well matched couple. If each has what the other wants but they can't simply take it, love will flow both ways. Social conditions may affect that power balance, such as the social stigma associated with one of the couple receiving services from elsewhere. There may be similar neurological and biochemical processes associated with this form of love to those that occur with children. But the relationship is different - reciprocal rather than becoming one. An indication of the difference is the likelihood that love between a couple will fade if conditions change, such as the male gaining more wealth and resources, which is markedly different to the usual case with children.
 
-I've never come across a completely convincing evolutionary explanation for love outside of kin relationships, but lean towards love being a bootstrapped evolutionary solution to providing a commitment device. As [argued by Robert Frank](https://jasoncollins.blog/franks-passions-within-reason/), love results in behaviour that honestly signals commitment to the other party. Or, my generally preferred explanation, it simply focuses the loving parties on the actions that will maximise their reproductive success.
+I've never come across a completely convincing evolutionary explanation for love outside of kin relationships, but lean towards love being a bootstrapped evolutionary solution to providing a commitment device. As [argued by Robert Frank](https://www.jasoncollins.blog/franks-passions-within-reason/), love results in behaviour that honestly signals commitment to the other party. Or, my generally preferred explanation, it simply focuses the loving parties on the actions that will maximise their reproductive success.
 
 Although the evolutionary biology approach doesn't offer a perfect answer, it does work for the out-of-sample predictions. Power is an aphrodisiac, as a woman wants a powerful man's genes and resources. As a person becomes more powerful, love fades as they simply have more opportunity or resources. Parental investment theory provides a basis for sex differences in the response to power.
 

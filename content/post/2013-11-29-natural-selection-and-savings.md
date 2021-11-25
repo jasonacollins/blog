@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-11-29 13:56:59+00:00
 draft: no
-link: https://jasoncollins.blog/natural-selection-and-savings/
+link: https://www.jasoncollins.blog/natural-selection-and-savings/
 slug: natural-selection-and-savings
 title: Natural selection and saving
 wordpress_id: 716
@@ -15,7 +15,7 @@ One of the [first articles](http://www.jstor.org/stable/2006682) to ask what rat
 
 This paper is another of those that, at least for the headline result, should strike one as obvious. Time preference would evolve such that when the person seeks to maximise utility (in an economic sense), they will also be maximising fitness. In this case, they would follow the "golden rule" of saving, which is the rate of saving that maximises the steady-state level of consumption across generations.
 
-This outcome contrasts with empirical evidence that the golden rule tends not to be followed, with savings rate in developed, Western countries well below the golden rule. Savings rates are somewhat closer to (and sometimes argued to be higher) than the golden rule level in Asian countries.  Why there is this departure requires consideration of other factors, such as aggregate risk (as Robson and Samuelson consider in [this paper](https://jasoncollins.blog/impatience-and-aggregate-risk/)).
+This outcome contrasts with empirical evidence that the golden rule tends not to be followed, with savings rate in developed, Western countries well below the golden rule. Savings rates are somewhat closer to (and sometimes argued to be higher) than the golden rule level in Asian countries.  Why there is this departure requires consideration of other factors, such as aggregate risk (as Robson and Samuelson consider in [this paper](https://www.jasoncollins.blog/impatience-and-aggregate-risk/)).
 
 Hansson and Stuart determined that, if people followed the golden rule of saving, the discount rate would reflect the long-term population growth rate. This requires that no generation be weighted less than any other generation, which indicates a strong concern about future generations.
 

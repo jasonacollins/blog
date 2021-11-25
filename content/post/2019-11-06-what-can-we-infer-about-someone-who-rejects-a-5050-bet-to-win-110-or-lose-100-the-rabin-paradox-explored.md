@@ -117,10 +117,10 @@ From the argument above, I would say not much. We could craft a utility function
 
 My other posts on loss aversion can be found here:
 
-1. [Kahneman and Tversky's debatable loss aversion assumption](https://jasoncollins.blog/kahneman-and-tverskys-debatable-loss-aversion-assumption/)
-2. [What can we infer about someone who rejects a 50:50 bet to win \$110 or lose \$100? The Rabin paradox explored](https://jasoncollins.blog/what-can-we-infer-about-someone-who-rejects-a-5050-bet-to-win-110-or-lose-100-the-rabin-paradox-explored/) (this post)
-3. [The case against loss aversion](https://jasoncollins.blog/the-case-against-loss-aversion/)
-4. [Ergodicity economics - a primer](https://jasoncollins.blog/ergodicity-economics-a-primer/)
+1. [Kahneman and Tversky's debatable loss aversion assumption](https://www.jasoncollins.blog/kahneman-and-tverskys-debatable-loss-aversion-assumption/)
+2. [What can we infer about someone who rejects a 50:50 bet to win \$110 or lose \$100? The Rabin paradox explored](https://www.jasoncollins.blog/what-can-we-infer-about-someone-who-rejects-a-5050-bet-to-win-110-or-lose-100-the-rabin-paradox-explored/) (this post)
+3. [The case against loss aversion](https://www.jasoncollins.blog/the-case-against-loss-aversion/)
+4. [Ergodicity economics - a primer](https://www.jasoncollins.blog/ergodicity-economics-a-primer/)
 
 --
 

@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-12-18 13:33:08+00:00
 draft: no
-link: https://jasoncollins.blog/the-benefits-of-math-skills-to-forager-farmers/
+link: https://www.jasoncollins.blog/the-benefits-of-math-skills-to-forager-farmers/
 slug: the-benefits-of-math-skills-to-forager-farmers
 title: The benefits of math skills to forager-farmers
 wordpress_id: 13759

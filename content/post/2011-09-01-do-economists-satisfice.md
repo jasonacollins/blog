@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-09-01 04:38:39+00:00
 draft: no
-link: https://jasoncollins.blog/do-economists-satisfice/
+link: https://www.jasoncollins.blog/do-economists-satisfice/
 slug: do-economists-satisfice
 title: Do economists satisfice?
 wordpress_id: 1731

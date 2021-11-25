@@ -3,15 +3,15 @@ author: jasonacollins
 comments: true
 date: 2014-09-24 11:22:56+00:00
 draft: no
-link: https://jasoncollins.blog/kahnemans-optimistic-view-of-the-mind/
+link: https://www.jasoncollins.blog/kahnemans-optimistic-view-of-the-mind/
 slug: kahnemans-optimistic-view-of-the-mind
 title: Kahneman's optimistic view of the mind
 wordpress_id: 20180
 ---
 
-In the [Gerd Gigerenzer versus Daniel Kahneman wars](https://jasoncollins.blog/gigerenzer-versus-nudge/), most of the projectiles seem to fly one way. Gigerenzer attacks directly, Kahneman expends little effort in defence.
+In the [Gerd Gigerenzer versus Daniel Kahneman wars](https://www.jasoncollins.blog/gigerenzer-versus-nudge/), most of the projectiles seem to fly one way. Gigerenzer attacks directly, Kahneman expends little effort in defence.
 
-As one test of whether my impression was correct, I searched Kahneman's [Thinking, Fast and Slow](https://jasoncollins.blog/kahnemans-thinking-fast-and-slow/) for how many times Kahneman directly mentions Gigerenzer. The answer is six, once in the index and five times in the notes. Gigerenzer is not alluded to in the main text.
+As one test of whether my impression was correct, I searched Kahneman's [Thinking, Fast and Slow](https://www.jasoncollins.blog/kahnemans-thinking-fast-and-slow/) for how many times Kahneman directly mentions Gigerenzer. The answer is six, once in the index and five times in the notes. Gigerenzer is not alluded to in the main text.
 
 Of the notes, only one is substantive, but it is an interesting point. In a slight reversal of their usual roles, Kahneman defends the power of the human mind:
 

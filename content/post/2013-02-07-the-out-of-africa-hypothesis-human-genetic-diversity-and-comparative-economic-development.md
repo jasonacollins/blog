@@ -3,14 +3,14 @@ author: jasonacollins
 comments: true
 date: 2013-02-07 13:33:43+00:00
 draft: no
-link: https://jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/
+link: https://www.jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/
 slug: the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development
 title: The 'Out of Africa' Hypothesis, Human Genetic Diversity, and Comparative Economic
   Development
 wordpress_id: 5158
 ---
 
-Although the debate it triggered has been going for a few months (see [here](https://jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/), [here](https://jasoncollins.blog/genetic-diversity-and-economic-development-ashraf-and-galor-respond/), [here](https://jasoncollins.blog/is-poverty-in-our-genes/) and [here](https://jasoncollins.blog/is-poverty-in-our-genes-from-the-comments/).), Quamrul Ashraf and Oded Galor's paper [The 'Out of Africa' Hypothesis, Human Genetic Diversity, and Comparative Economic Development](https://doi.org/10.1257/aer.103.1.1) has been published in the February edition of the American Economic Review (for the latest ungated version, go [here](http://ideas.repec.org/p/iza/izadps/dp6330.html) - although you can download the data and supplementary materials from the AER site without a subscription).
+Although the debate it triggered has been going for a few months (see [here](https://www.jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/), [here](https://www.jasoncollins.blog/genetic-diversity-and-economic-development-ashraf-and-galor-respond/), [here](https://www.jasoncollins.blog/is-poverty-in-our-genes/) and [here](https://www.jasoncollins.blog/is-poverty-in-our-genes-from-the-comments/).), Quamrul Ashraf and Oded Galor's paper [The 'Out of Africa' Hypothesis, Human Genetic Diversity, and Comparative Economic Development](https://doi.org/10.1257/aer.103.1.1) has been published in the February edition of the American Economic Review (for the latest ungated version, go [here](http://ideas.repec.org/p/iza/izadps/dp6330.html) - although you can download the data and supplementary materials from the AER site without a subscription).
 
 Over the next few weeks I will dissect parts of Ashraf and Galor's argument, and look at some of the criticisms that people have made. As a start, however, I'll present a basic description of the method and findings.
 
@@ -42,25 +42,25 @@ The paper closes with a brief look at the evidence for the costs and benefits of
 
 My posts on Ashraf and Galor's paper on genetic diversity and economic growth are as follows:
 	
-  1. [A summary of the paper methodology and findings](https://jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/) (this post)
+  1. [A summary of the paper methodology and findings](https://www.jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/) (this post)
 
 	
-  2. [Does genetic diversity increase innovation?](https://jasoncollins.blog/does-genetic-diversity-increase-innovation/)
+  2. [Does genetic diversity increase innovation?](https://www.jasoncollins.blog/does-genetic-diversity-increase-innovation/)
 
 	
-  3. [Does genetic diversity increase conflict?](https://jasoncollins.blog/does-genetic-diversity-increase-conflict/)
+  3. [Does genetic diversity increase conflict?](https://www.jasoncollins.blog/does-genetic-diversity-increase-conflict/)
 
 	
-  4. [Is genetic diversity a proxy for phenotypic diversity?](https://jasoncollins.blog/is-genetic-diversity-a-proxy-for-phenotypic-diversity/)
+  4. [Is genetic diversity a proxy for phenotypic diversity?](https://www.jasoncollins.blog/is-genetic-diversity-a-proxy-for-phenotypic-diversity/)
 
 	
-  5. [Is population density a good measure of technological progress?](https://jasoncollins.blog/using-the-malthusian-model-to-measure-technology/)
+  5. [Is population density a good measure of technological progress?](https://www.jasoncollins.blog/using-the-malthusian-model-to-measure-technology/)
 
 	
-  6. [What are the policy implications of the effects of genetic diversity on economic development?](https://jasoncollins.blog/genetic-diversity-economic-development-and-policy/)
+  6. [What are the policy implications of the effects of genetic diversity on economic development?](https://www.jasoncollins.blog/genetic-diversity-economic-development-and-policy/)
 
 	
-  7. [Should this paper have been published?](https://jasoncollins.blog/publishing-on-genetic-diversity-and-economic-growth/)
+  7. [Should this paper have been published?](https://www.jasoncollins.blog/publishing-on-genetic-diversity-and-economic-growth/)
 
 
-Other debate on this paper can also be found [here](https://jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/), [here](https://jasoncollins.blog/genetic-diversity-and-economic-development-ashraf-and-galor-respond/), [here](https://jasoncollins.blog/is-poverty-in-our-genes/) and [here](https://jasoncollins.blog/is-poverty-in-our-genes-from-the-comments/).
+Other debate on this paper can also be found [here](https://www.jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/), [here](https://www.jasoncollins.blog/genetic-diversity-and-economic-development-ashraf-and-galor-respond/), [here](https://www.jasoncollins.blog/is-poverty-in-our-genes/) and [here](https://www.jasoncollins.blog/is-poverty-in-our-genes-from-the-comments/).

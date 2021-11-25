@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-10-23 08:53:29+00:00
 draft: no
-link: https://jasoncollins.blog/long-term-social-mobility-is-low/
+link: https://www.jasoncollins.blog/long-term-social-mobility-is-low/
 slug: long-term-social-mobility-is-low
 title: Long-term social mobility is low
 wordpress_id: 4387

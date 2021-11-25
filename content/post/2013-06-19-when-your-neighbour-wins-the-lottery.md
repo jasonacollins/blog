@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-06-19 12:10:13+00:00
 draft: no
-link: https://jasoncollins.blog/when-your-neighbour-wins-the-lottery/
+link: https://www.jasoncollins.blog/when-your-neighbour-wins-the-lottery/
 slug: when-your-neighbour-wins-the-lottery
 title: When your neighbour wins the lottery
 wordpress_id: 6433

@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-07-24 08:34:24+00:00
 draft: no
-link: https://jasoncollins.blog/is-everyone-the-same/
+link: https://www.jasoncollins.blog/is-everyone-the-same/
 slug: is-everyone-the-same
 title: Is everyone the same?
 wordpress_id: 1545

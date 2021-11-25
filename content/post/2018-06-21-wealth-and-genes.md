@@ -8,7 +8,7 @@ title: Wealth and genes
 
 Go back ten years, and most published attempts to link specific genetic variants to a trait were false. These [candidate-gene studies](https://en.wikipedia.org/wiki/Candidate_gene) were your classic, yet typically rubbish, "gene for X" paper.
 
-The proliferation of poor papers was in part because the studies were too small to discover the effects they were looking for (see [here](https://jasoncollins.blog/genome-wide-association-studies-and-socioeconomic-outcomes/) for some good videos describing the problems). As has become increasingly evident, most human traits are affected by thousands of genes, each with tiny effects. With a small sample - many of the early candidate-gene studies involved hundreds of people - all you can discover is noise.
+The proliferation of poor papers was in part because the studies were too small to discover the effects they were looking for (see [here](https://www.jasoncollins.blog/genome-wide-association-studies-and-socioeconomic-outcomes/) for some good videos describing the problems). As has become increasingly evident, most human traits are affected by thousands of genes, each with tiny effects. With a small sample - many of the early candidate-gene studies involved hundreds of people - all you can discover is noise.
 
 But there was some optimism that robust links would eventually be drawn. Get genetic samples from a large enough population (say, hundreds of thousands), and you can detect these weak genetic effects. You can also replicate the findings across multiple samples to ensure the results are robust
 

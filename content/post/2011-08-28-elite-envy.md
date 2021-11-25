@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-08-28 03:58:41+00:00
 draft: no
-link: https://jasoncollins.blog/elite-envy/
+link: https://www.jasoncollins.blog/elite-envy/
 slug: elite-envy
 title: Elite envy
 wordpress_id: 1717

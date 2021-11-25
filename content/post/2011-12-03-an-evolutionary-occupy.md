@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-12-03 02:23:11+00:00
 draft: no
-link: https://jasoncollins.blog/an-evolutionary-occupy/
+link: https://www.jasoncollins.blog/an-evolutionary-occupy/
 slug: an-evolutionary-occupy
 title: An evolutionary Occupy
 wordpress_id: 2055

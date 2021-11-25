@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-06-19 10:37:13+00:00
 draft: no
-link: https://jasoncollins.blog/europeans-and-economic-growth/
+link: https://www.jasoncollins.blog/europeans-and-economic-growth/
 slug: europeans-and-economic-growth
 title: Europeans and economic growth
 wordpress_id: 3497

@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-07-30 04:19:08+00:00
 draft: no
-link: https://jasoncollins.blog/return-to-equilibrium/
+link: https://www.jasoncollins.blog/return-to-equilibrium/
 slug: return-to-equilibrium
 title: Return to equilibrium
 wordpress_id: 1567
@@ -34,7 +34,7 @@ While this is a theoretical example and rests on the assumption that there is no
 
 That brings me to the economics. Fisher's basic principle, which is the best starting point for discussions of sex ratios, sounds much like a neo-classical economic description of the world. If things tend away from equilibrium, there is a clear strategy that can be exploited - and we would expect it to exploited - that will return the system to equilibrium. However, when someone plays a novel, fast acting strategy, things can move quickly. The question is whether the responding strategy is played immediately or may take some time. In the above case of the mosquito, restraining mutations have occurred, preventing extinction.
 
-Some evolutionary or neo-Schumpeterian economics seeks to deal with this, particularly in the form put forward by [Nelson and Winter](https://jasoncollins.blog/nelson-and-winters-an-evolutionary-theory-of-economic-change/). Firms search for technological and organisational solutions based on habitual methods and those which succeed in finding them replicate and spread. The process is not immediate and can be lumpy and crude. Arnold Kling, with his patterns of sustainable specialisation and trade (PSST), also notes that time is an important consideration. Take [the following](http://econlog.econlib.org/archives/2011/07/psst_and_aggreg.html):
+Some evolutionary or neo-Schumpeterian economics seeks to deal with this, particularly in the form put forward by [Nelson and Winter](https://www.jasoncollins.blog/nelson-and-winters-an-evolutionary-theory-of-economic-change/). Firms search for technological and organisational solutions based on habitual methods and those which succeed in finding them replicate and spread. The process is not immediate and can be lumpy and crude. Arnold Kling, with his patterns of sustainable specialisation and trade (PSST), also notes that time is an important consideration. Take [the following](http://econlog.econlib.org/archives/2011/07/psst_and_aggreg.html):
 
 
 <blockquote>It is the task of entrepreneurs to organize the economy so that people produce stuff that has value. Sometimes, entrepreneurs are not quite up to that task. Then you get unemployment. There is an incentive for entrepreneurs to try to figure out ways to create patterns of sustainable specialization and trade that utilize workers who are currently unemployed.</blockquote>

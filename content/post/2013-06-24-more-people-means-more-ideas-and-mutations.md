@@ -8,7 +8,7 @@ slug: more-people-means-more-ideas-and-mutations
 
 A core ideas in economics is that more people means more ideas. To take an extreme case, you would expect a population of one person to generate fewer ideas that a population of one million people. The precise relationship between population and ideas depends on factors such as the fishing-out of ideas, network effects, the composition of the population and the like, but it would seem to be strongly positive.
 
-When you combine this assumption with the Malthusian concept that the level of technology constrains population, a larger population grows faster than a smaller population as a larger population generates more ideas to ease this Malthusian constraint. [Michael Kremer used this argument](https://jasoncollins.blog/more-people-more-ideas-in-the-long-run/) to explain the greater than exponential population growth of the last million or so years (although that pattern has broken down since 1950).
+When you combine this assumption with the Malthusian concept that the level of technology constrains population, a larger population grows faster than a smaller population as a larger population generates more ideas to ease this Malthusian constraint. [Michael Kremer used this argument](https://www.jasoncollins.blog/more-people-more-ideas-in-the-long-run/) to explain the greater than exponential population growth of the last million or so years (although that pattern has broken down since 1950).
 
 This argument has a counterpart in evolutionary biology. More people means more mutations. From R.A. Fisher:
 

@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2014-04-09 13:32:07+00:00
 draft: no
-link: https://jasoncollins.blog/the-magic-of-commerce/
+link: https://www.jasoncollins.blog/the-magic-of-commerce/
 slug: the-magic-of-commerce
 title: The magic of commerce
 wordpress_id: 19896

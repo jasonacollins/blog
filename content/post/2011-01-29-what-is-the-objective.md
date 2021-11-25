@@ -8,7 +8,7 @@ slug: what-is-the-objective
 
 An economist typically bases their economic models on an assumption that the economy is composed of agents who gain utility from consumption. From the beginning of the model, they take consumption to be the objective and all decisions by the agents aim to maximise their level of consumption within the budget constraint that they face.
 
-While I recently posted on how most economists' fixation on consumption [might be biologically justified](https://jasoncollins.blog/an-evolutionary-explanation-of-consumption/), I would like to approach the issue from another angle. To do that, it is worth going back a few years to a [1979 article](https://doi.org/10.1111/j.1465-7295.1979.tb00549.x) by Paul Rubin and Chris Paul II on risk preferences.
+While I recently posted on how most economists' fixation on consumption [might be biologically justified](https://www.jasoncollins.blog/an-evolutionary-explanation-of-consumption/), I would like to approach the issue from another angle. To do that, it is worth going back a few years to a [1979 article](https://doi.org/10.1111/j.1465-7295.1979.tb00549.x) by Paul Rubin and Chris Paul II on risk preferences.
 
 Rubin and Paul’s starting point is the obvious step (from a biological perspective, not so obvious from an economic perspective) of defining utility as [fitness](https://en.wikipedia.org/wiki/Fitness_(biology)). In their model, utility depends on the number of mates that each man gets.
 

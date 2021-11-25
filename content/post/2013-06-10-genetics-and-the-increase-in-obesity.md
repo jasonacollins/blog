@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-06-10 12:17:36+00:00
 draft: no
-link: https://jasoncollins.blog/genetics-and-the-increase-in-obesity/
+link: https://www.jasoncollins.blog/genetics-and-the-increase-in-obesity/
 slug: genetics-and-the-increase-in-obesity
 title: Genetics and the increase in obesity
 wordpress_id: 6366
@@ -27,7 +27,7 @@ Frijters's point on the response of the rich and the poor to food prices also ha
 
 These traits might also be relevant for cross-country comparison. Should we be surprised that East Asian countries where populations have higher measured IQ, lower rates of time preference and higher savings rates also have lower rates of obesity? (Obviously, on a cross-national basis, this is not the complete explanation. For example, East Asians in the United States have higher levels of obesity than their counterparts still in East Asia, although they are obese at rates lower than Caucasians and other ethnic groups).
 
-We should also not be too quick to dismiss price. It is not only absolute price that matters, but also relative price of different food types. As [argued by Rob Brooks, Steve Simpson and David Raubenheimer](https://jasoncollins.blog/evolution-and-obesity/), simple carbohydrates have never been cheaper relative to protein. If you are price sensitive, you may shift consumption towards simple carbohydrates. As someone who tends to avoid simple carbohydrates, I can also attest that a large part of the relative price of food is the search effort in finding a low carbohydrate option.
+We should also not be too quick to dismiss price. It is not only absolute price that matters, but also relative price of different food types. As [argued by Rob Brooks, Steve Simpson and David Raubenheimer](https://www.jasoncollins.blog/evolution-and-obesity/), simple carbohydrates have never been cheaper relative to protein. If you are price sensitive, you may shift consumption towards simple carbohydrates. As someone who tends to avoid simple carbohydrates, I can also attest that a large part of the relative price of food is the search effort in finding a low carbohydrate option.
 
 The reason this matters also has an evolutionary basis. Eating food is not a simple "eat calories and feel full" process. Different foods create different responses in appetite. Brooks and his colleagues base their argument on the protein leverage hypothesis, which is a hypothesis that humans have a stronger propensity to regulate protein intake than they do for other non-protein calories. Humans eat until we satisfy out basic daily protein need. If the food we are eating has low protein content, we need to eat more before hitting that satiation point. These extra calories are what make someone obese. [Trends in carbohydrate, protein and fat consumption](https://doi.org/10.3945/ajcn.110.000141) in the United States over the last 40 years offer support for this argument.
 

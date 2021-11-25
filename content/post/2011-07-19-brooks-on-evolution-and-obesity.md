@@ -8,7 +8,7 @@ title: Brooks on evolution and obesity
 
 [Rob Brooks](http://www.robbrooks.net/) has [posted an article](http://www.robbrooks.net/rob-brooks/1724) (also published in [The Conversation](http://theconversation.edu.au/from-scraping-by-to-pizza-and-pie-how-protein-price-drives-obesity-2360)) outlining his argument that the relatively cheap price of carbohydrates compared to the price of protein is driving the obesity crisis. Drawing on material from his book *Sex, Genes and Rock 'n' Roll: How Evolution Has Shaped the Modern World*, Rob argues that as our recent evolutionary history involved a diet of lean meat and high fibre plant foods, modern humans are poorly evolved for the cheap simple carbohydrates that dominate many modern diets.
 
-I have considered Rob's arguments and policy suggestions in [an earlier post](https://jasoncollins.blog/evolution-and-obesity/), but there is one element in Rob's post that I would like to discuss. At the end of his post, he writes:
+I have considered Rob's arguments and policy suggestions in [an earlier post](https://www.jasoncollins.blog/evolution-and-obesity/), but there is one element in Rob's post that I would like to discuss. At the end of his post, he writes:
 
 
 <blockquote>New York’s mayor, Michael Bloomberg, infuriated civil liberties groups and the sugar and soda lobbies last October when he asked the US Department of Agriculture to allow New York City to ban the 1.7 million citizens who receive [food stamps from using them to buy soda](http://www.nytimes.com/2010/10/07/nyregion/07stamps.html?_r=1).

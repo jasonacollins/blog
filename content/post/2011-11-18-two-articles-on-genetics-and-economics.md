@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2011-11-18 00:54:30+00:00
 draft: no
-link: https://jasoncollins.blog/two-articles-on-genetics-and-economics/
+link: https://www.jasoncollins.blog/two-articles-on-genetics-and-economics/
 slug: two-articles-on-genetics-and-economics
 title: Two articles on genetics and economics
 wordpress_id: 2041

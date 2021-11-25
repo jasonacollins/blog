@@ -18,6 +18,6 @@ Links this week:
   3. [Should human genes be patented](http://bleedingheartlibertarians.com/2013/04/patents-property-and-genes)? I wonder how much of this debate will be surpassed by technological progress. Cheap genomes and the ability to upload to free or near free websites for analysis will make attempts to prevent unauthorised testing of a patented gene impossible.
 
 	
-  4. I've updated my [economics and evolutionary biology reading list](https://jasoncollins.blog/economics-and-evolutionary-biology-reading-list/), including adding a couple more articles on the evolution of preferences and genoeconomics.
+  4. I've updated my [economics and evolutionary biology reading list](https://www.jasoncollins.blog/economics-and-evolutionary-biology-reading-list/), including adding a couple more articles on the evolution of preferences and genoeconomics.
 
 

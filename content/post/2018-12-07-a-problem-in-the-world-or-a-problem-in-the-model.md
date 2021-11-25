@@ -6,7 +6,7 @@ draft: no
 slug: a-problem-in-the-world-or-a-problem-in-the-model
 ---
 
-In reviewing Michael Lewis's [The Undoing Project](https://jasoncollins.blog/michael-lewiss-the-undoing-project-a-friendship-that-changed-the-world/), [John Kay writes](https://www.johnkay.com/2017/01/20/review-undoing-project-michael-lewis/):
+In reviewing Michael Lewis's [The Undoing Project](https://www.jasoncollins.blog/michael-lewiss-the-undoing-project-a-friendship-that-changed-the-world/), [John Kay writes](https://www.johnkay.com/2017/01/20/review-undoing-project-michael-lewis/):
 
 >Since Paul Samuelson’s _Foundations of Economic Analysis_, published in 1947, mainstream economics has focused on an axiomatic approach to rational behaviour. The overriding requirement is for consistency of choice: if A is chosen when B is available, B will never be selected when A is available. If choices are consistent in this sense, their outcomes can be described as the result of optimisation in the light of a well-defined preference ordering.
 >

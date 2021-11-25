@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2012-06-08 10:19:14+00:00
 draft: no
-link: https://jasoncollins.blog/economists-on-autopilot/
+link: https://www.jasoncollins.blog/economists-on-autopilot/
 slug: economists-on-autopilot
 title: Economists on autopilot
 wordpress_id: 3406

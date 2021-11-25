@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-07-11 12:51:29+00:00
 draft: no
-link: https://jasoncollins.blog/observations-on-happiness-biases-and-preferences/
+link: https://www.jasoncollins.blog/observations-on-happiness-biases-and-preferences/
 slug: observations-on-happiness-biases-and-preferences
 title: Observations on happiness, biases and preferences
 wordpress_id: 6625
@@ -17,4 +17,4 @@ From Glenn Harrison: Don't rest on the work done by Kahneman and other behaviour
 
 From [Graham Loomes](http://www2.warwick.ac.uk/fac/soc/economics/staff/academic/loomes/): Considering preferences as probabilistic and not deterministic (that is, "I will choose the first alternative X per cent of the time") can shed light on some observations such as preference reversals.
 
-From [Robert Sugden](http://www.uea.ac.uk/economics/people/All+People/Academic/rsugden) (author of [one of my favourite papers](https://jasoncollins.blog/spontaneous-order/)): Behavioural economists have taken on every challenge thrown down by those who believe in rational choice. Almost every "rational" explanation for these biases has tested and they almost never explain the anomaly, even if they are partially "true". For example, using the income effect to explain differences between willingness-to-pay and willingness-to-accept explains only a fraction of the observed disparity (this was more from a panel session than Sugden's main presentation).
+From [Robert Sugden](http://www.uea.ac.uk/economics/people/All+People/Academic/rsugden) (author of [one of my favourite papers](https://www.jasoncollins.blog/spontaneous-order/)): Behavioural economists have taken on every challenge thrown down by those who believe in rational choice. Almost every "rational" explanation for these biases has tested and they almost never explain the anomaly, even if they are partially "true". For example, using the income effect to explain differences between willingness-to-pay and willingness-to-accept explains only a fraction of the observed disparity (this was more from a panel session than Sugden's main presentation).

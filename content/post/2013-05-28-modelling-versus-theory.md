@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-05-28 12:46:12+00:00
 draft: no
-link: https://jasoncollins.blog/modelling-versus-theory/
+link: https://www.jasoncollins.blog/modelling-versus-theory/
 slug: modelling-versus-theory
 title: Modelling versus theory
 wordpress_id: 6255

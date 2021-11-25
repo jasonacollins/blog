@@ -6,7 +6,7 @@ draft: no
 slug: dan-arielys-payoff-the-hidden-logic-that-shapes-our-motivations
 ---
 
-If you have read Dan Ariely's [The Upside of Irrationality](https://jasoncollins.blog/arielys-upside-irrationality/), there will be few surprises for you in his TED book *Payoff: The Hidden Logic That Shapes Our Motivations*. TED books are designed to be slightly longer explorations of topics from TED talks, but short enough to be read in one sitting. That makes it an easy, enjoyable, but not particularly deep read, with most of the results covered in The Upside. (Ariely's TED talk can be viewed at the bottom of this post.)
+If you have read Dan Ariely's [The Upside of Irrationality](https://www.jasoncollins.blog/arielys-upside-irrationality/), there will be few surprises for you in his TED book *Payoff: The Hidden Logic That Shapes Our Motivations*. TED books are designed to be slightly longer explorations of topics from TED talks, but short enough to be read in one sitting. That makes it an easy, enjoyable, but not particularly deep read, with most of the results covered in The Upside. (Ariely's TED talk can be viewed at the bottom of this post.)
 
 The focus of Payoff is how we are motivated in the workplace, how easy it is to kill that motivation, and why we value the things we have made ourselves. It also touches on (in a slightly out-of-place and underdeveloped final chapter) how our actions are affected by what people will think about us after death.
 

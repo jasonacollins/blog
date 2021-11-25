@@ -20,7 +20,7 @@ Clark also makes some interesting comments on how he approached the genetic ques
 <blockquote>I must admit that when I wrote the book I was a little hesitant and so I talked about cultural or genetic link. That led to a firestorm of criticism and it led me to actually examine that proposition more carefully and I've actually come to realise that I was being too hesitant. There's absolutely a genetic link. We absolutely have changed genetically over this pre-industrial period.</blockquote>
 
 
-Finally, Clark on human ecology and the policy implications (which has some relevance to [my earlier post](https://jasoncollins.blog/jones-on-iq-and-productivity/)):
+Finally, Clark on human ecology and the policy implications (which has some relevance to [my earlier post](https://www.jasoncollins.blog/jones-on-iq-and-productivity/)):
 
 
 <blockquote>There may be some groups that do face a disadvantage in operating in a capitalist economy, that their ecology is just not that of modern capitalism. But what I would argue is that might help us have some more understanding of why, these groups are not just being resistant or indolent. That really we have to understand that people have their own ecology and that these things are very hard to change suddenly.</blockquote>

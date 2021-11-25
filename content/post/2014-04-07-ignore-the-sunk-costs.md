@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2014-04-07 13:23:36+00:00
 draft: no
-link: https://jasoncollins.blog/ignore-the-sunk-costs/
+link: https://www.jasoncollins.blog/ignore-the-sunk-costs/
 slug: ignore-the-sunk-costs
 title: Ignore the sunk costs
 wordpress_id: 19894

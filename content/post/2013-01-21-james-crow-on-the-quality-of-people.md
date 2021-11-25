@@ -3,7 +3,7 @@ author: jasonacollins
 comments: true
 date: 2013-01-21 12:46:31+00:00
 draft: no
-link: https://jasoncollins.blog/james-crow-on-the-quality-of-people/
+link: https://www.jasoncollins.blog/james-crow-on-the-quality-of-people/
 slug: james-crow-on-the-quality-of-people
 title: James Crow on the quality of people
 wordpress_id: 5054
@@ -35,4 +35,4 @@ Crow also foreshadows the challenges that the development of genetic technologie
 <blockquote>It is clear that biological and chemical possibilities for influencing human evolution and development are certain to come, probably before we have thought them through. Eugenics could be a far more potent force in the future than previously. In the past it has been tolerated partly because it was not likely to make an appreciable genetic change. The early eugenics was genetically naive and was connected with various dubious and even tragic political movements. I think the time is here when the subject should be reopened and discussed by everyone - not just biologists - with a serious consideration of the consequences of misjudgments as well as the possibilities for good.</blockquote>
 
 
-Over 40 years later, those possibilities are starting to crystallise (particularly with the rise of [positive eugenics](https://jasoncollins.blog/positive-eugenics/)). The serious consideration is still to come.
+Over 40 years later, those possibilities are starting to crystallise (particularly with the rise of [positive eugenics](https://www.jasoncollins.blog/positive-eugenics/)). The serious consideration is still to come.
