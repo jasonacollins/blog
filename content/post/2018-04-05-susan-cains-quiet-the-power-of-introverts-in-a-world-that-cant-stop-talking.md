@@ -48,8 +48,8 @@ I also struggled with the final two substantive chapters of the book - on relati
 
 *Disclosure of interest: Here are the percentiles for the last time I did a Big 5 test. I'm not far from Cain's introvert ideal (possibly a touch low on neuroticism):
 
-Openness: 88
-Conscientiousness: 80
-Extroversion: 29
-Agreeableness: 51
-Neuroticism: 48
+- Openness: 88
+- Conscientiousness: 80
+- Extroversion: 29
+- Agreeableness: 51
+- Neuroticism: 48
