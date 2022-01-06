@@ -6,7 +6,7 @@ draft: no
 slug: conspicuous-consumption-and-economic-growth-2
 ---
 
-A paper of mine has just been published in the Journal of Bioeconomics - [Sexual selection, conspicuous consumption and economic growth](http://link.springer.com/article/10.1007%2Fs10818-015-9200-9).
+A paper of mine has just been published in the Journal of Bioeconomics - [Sexual selection, conspicuous consumption and economic growth](http://link.springer.com/article/10.1007%2Fs10818-015-9200-9) ([pdf](/pdf/Collins_et_al_2015_Sexual_Selection_Conspicuous_Consumption_and_Economic_Growth.pdf)).
 
 [I posted about this article](https://www.jasoncollins.blog/sexual-selection-conspicuous-consumption-and-economic-growth/) when the working paper was first released, and that post still does a good job of explaining the motivation behind the paper. In that post I wrote:
 
@@ -26,6 +26,4 @@ A paper of mine has just been published in the Journal of Bioeconomics - [Sexual
 >
 >When you also consider the innovation undertaken by the potential buyers as they seek to amass the wealth necessary to obtain such a watch, the positive angle to conspicuous consumption grows. As a result, curbing conspicuous consumption may have costs (although, I still prefer taxing consumption to income). If nothing else, we should appreciate the historical role of conspicuous consumption – competition for sexual partners is a driving force for many productive activities, and one generation’s conspicuous consumption is another generation’s day-to-day tool.
 
-In its life as [a working paper](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2111740) over the last few years the paper has received a variety of comments, including from Matt Ridley in [The Wall Street Journal](http://online.wsj.com/article/SB10001424127887323551004578116903873762428.html), Rob Brooks in [The Huffington Post](http://www.huffingtonpost.com/rob-brooks/sexual-signalling-powers-_b_1845337.html) and Chris Dillow at [Stumbling and Mumbling](http://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2012/10/sex-growth.html).
-
-If you want a copy of the paper and can't get through the Journal of Bioeconomics paywall, you can download [the working paper version](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2111740) or drop me a line. The major difference between the two versions are that the simulations have been shunted into the electronic supplementary material for final publication.
+In its life as [a working paper](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2111740) over the last few years the paper has received a variety of comments, including from Matt Ridley in [The Wall Street Journal](http://online.wsj.com/article/SB10001424127887323551004578116903873762428.html), Rob Brooks in [The Huffington Post](http://www.huffingtonpost.com/rob-brooks/sexual-signalling-powers-_b_1845337.html) and Chris Dillow at [Stumbling and Mumbling](http://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2012/10/sex-growth.html). The major difference between the working paper and published version is that the simulations have been shunted into the electronic supplementary material for final publication.

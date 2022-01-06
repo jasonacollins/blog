@@ -7,7 +7,7 @@ draft: no
 slug: population-technological-progress-and-the-evolution-of-innovative-potential
 ---
 
-In his seminal paper [Population Growth and Technological Change: One Million B.C. to 1990](https://www.jasoncollins.blog/more-people-more-ideas-in-the-long-run/), Michael Kremer combined two basic concepts to explain the greater than exponential population growth in human populations over the last million years.
+In his seminal paper [Population Growth and Technological Change: One Million B.C. to 1990](/more-people-more-ideas-in-the-long-run/), Michael Kremer combined two basic concepts to explain the greater than exponential population growth in human populations over the last million years.
 
 The first concept is that more people means more ideas. A larger population will generate more ideas to feed technological progress.
 
@@ -17,7 +17,7 @@ When you combine these two concepts, a larger population generates more ideas, w
 
 ![](/img/2013-07-02-population-technological-progress-and-the-evolution-of-innovative-potential/kremer-model.jpg)
 
-When I first read Kremer's paper, the title caught my attention, particularly the reference to One Million B.C. Humans have evolved markedly in the last one million years. One million years ago, _Homo sapiens_ did not exist as a distinct species, with _Homo erectus_ found in Africa, Europe and Asia. Since then, cranial capacity (a proxy for brain size) has increased from around 900 cubic centimeters to 1,350 cubic centimeters. And not only have humans evolved, but [adaptive human evolution appears to be accelerating](https://www.jasoncollins.blog/accelerating-adaptive-evolution-in-humans/). As [more people means more mutations](https://www.jasoncollins.blog/more-people-means-more-ideas-and-mutations/), natural selection has greater material on which it can act.
+When I first read Kremer's paper, the title caught my attention, particularly the reference to One Million B.C. Humans have evolved markedly in the last one million years. One million years ago, _Homo sapiens_ did not exist as a distinct species, with _Homo erectus_ found in Africa, Europe and Asia. Since then, cranial capacity (a proxy for brain size) has increased from around 900 cubic centimeters to 1,350 cubic centimeters. And not only have humans evolved, but [adaptive human evolution appears to be accelerating](/accelerating-adaptive-evolution-in-humans/). As [more people means more mutations](/more-people-means-more-ideas-and-mutations/), natural selection has greater material on which it can act.
 
 It was this consideration that forms the basis of my latest working paper, [Population, Technological Progress and the Evolution of Innovative Potential](http://ssrn.com/abstract=2284456), co-authored with my supervisors Juerg Weber and Boris Baer.
 

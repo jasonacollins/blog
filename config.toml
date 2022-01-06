@@ -29,10 +29,10 @@ copyright = ""            # default: author.name ↓
   filename = "sitemap.xml"
 
 [[menu.main]]             # config your menu
-  name = "Home"
-  weight = 10
-  identifier = "home"
-  url = "/"
+#  name = "Home"
+#  weight = 10
+#  identifier = "home"
+#  url = "/"
 [[menu.main]]
   name = "Posts"
   weight = 20

@@ -8,15 +8,15 @@ slug: phd-thesis-passed
 
 A couple of months ago I was notified that my PhD thesis had been passed ([full pdf here](/pdf/2015-11-16-phd-thesis-passed/jason-collins-thesis-final-20151025.pdf)). I have posted about each chapter before:
 	
-1. [The Evolutionary Foundations of Economics](https://www.jasoncollins.blog/the-evolutionary-foundations-of-economics/)
+1. [The Evolutionary Foundations of Economics](/the-evolutionary-foundations-of-economics/)
 
-2. [Economic Growth and Evolution: Parental Preference for Quality and Quantity of Offspring](https://www.jasoncollins.blog/economic-growth-and-evolution-parental-preference-for-quality-and-quantity-of-offspring/)
+2. [Economic Growth and Evolution: Parental Preference for Quality and Quantity of Offspring](/economic-growth-and-evolution-parental-preference-for-quality-and-quantity-of-offspring/)
 
-3. [Population, Technological Progress and the Evolution of Innovative Potential](https://www.jasoncollins.blog/population-technological-progress-and-the-evolution-of-innovative-potential/)
+3. [Population, Technological Progress and the Evolution of Innovative Potential](/population-technological-progress-and-the-evolution-of-innovative-potential/)
 
-4. [Sexual selection, conspicuous consumption and economic growth](https://www.jasoncollins.blog/conspicuous-consumption-and-economic-growth-2/)
+4. [Sexual selection, conspicuous consumption and economic growth](/conspicuous-consumption-and-economic-growth-2/)
 
-5. [Evolution, Fertility and the Ageing Population](https://www.jasoncollins.blog/fertility-is-going-to-go-up/).
+5. [Evolution, Fertility and the Ageing Population](/fertility-is-going-to-go-up/).
 
 Here are links to the three (anonymised) examiner reports - one from an [economist at an Australian university](/pdf/2015-11-16-phd-thesis-passed/aus-econ.pdf), another from a [US based economist](/pdf/2015-11-16-phd-thesis-passed/us-econ1.pdf), and a third from a [biologist](/pdf/2015-11-16-phd-thesis-passed/biologist.pdf). A few excerpts follow. First, from the Australian-based economist on the overarching thesis:
 
@@ -36,4 +36,4 @@ Now that the thesis is complete, I have mixed feelings about the process. I sens
 
 I'm not planning to do much more work in the style of academic papers. Partly that reflects my existence outside of the world of academia - I'm not facing any publication incentives. I'll try to get the as-yet unpublished chapters published, and I have two other papers in progress, but that will likely be it.
 
-Otherwise, I'm hoping to climb back on to the blogging bandwagon, which has been on and off over the last year for a range of personal reasons. Blogging is a much more satisfying way of communicating than producing academic articles. As a start, my first published paper receives around [400 abstract views and 30 downloads per year](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9421680&fileId=S1365100513000163) (I expect largely due to click-throughs from the blog), compared to an average of several hundred blog visitors each day. And as a medium for collecting and distilling my thoughts, blogging is more effective. So hopefully there will be more posts in the near future.
+Otherwise, I'm hoping to climb back on to the blogging bandwagon, which has been on and off over the last year for a range of personal reasons. Blogging is a much more satisfying way of communicating than producing academic articles. As a start, my first published paper receives around [400 abstract views and 30 downloads per year](https://doi.org/10.1017/S1365100513000163) (I expect largely due to click-throughs from the blog), compared to an average of several hundred blog visitors each day. And as a medium for collecting and distilling my thoughts, blogging is more effective. So hopefully there will be more posts in the near future.

@@ -6,7 +6,7 @@ draft: no
 slug: me-on-rationally-speaking-plus-some-additional-thoughts
 ---
 
-My [conversation with Julia Galef on Rationally Speaking](http://rationallyspeakingpodcast.org/show/rs-219-jason-collins-on-a-skeptical-take-on-behavioral-econo.html) is out, exploring territory on how behavioural economics and its applications could be better.
+My [conversation with Julia Galef on Rationally Speaking](http://rationallyspeakingpodcast.org/219-a-skeptical-take-on-behavioral-economics-jason-collins/) is out, exploring territory on how behavioural economics and its applications could be better.
 
 There are links to a lot of the academic articles we discuss on the [Rationally Speaking ](http://rationallyspeakingpodcast.org/show/rs-219-jason-collins-on-a-skeptical-take-on-behavioral-econo.html)[site](http://rationallyspeakingpodcast.org/show/rs-219-jason-collins-on-a-skeptical-take-on-behavioral-econo.html). We also talk about several of my own articles, including:
 
