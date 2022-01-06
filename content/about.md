@@ -37,7 +37,7 @@ For direct contact, use the form below (it goes direct to my email).
   <div class="form-group row">
     <label for="message" class="col-4 col-form-label">Message</label>
     <div class="col-8">
-      <textarea id="message" name="message" cols="80" rows="10" required="required" class="form-control"></textarea>
+      <textarea id="message" name="message" cols="40" rows="5" required="required" class="form-control"></textarea>
     </div>
   </div>
   <div class="form-group row">
