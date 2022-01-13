@@ -16,7 +16,7 @@ pygmentsCodefencesGuessSyntax = true
 
 hasCJKLanguage = true     # has chinese/japanese/korean ?
 paginate = 10                                              
-disqusShortname = ""      # disqus_shortname
+disqusShortname = "jason-collins-blog"      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓
 
