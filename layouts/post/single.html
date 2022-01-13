@@ -1,0 +1,62 @@
+{{ define "content" -}}
+  <article class="post">
+    <!-- post-header -->
+    <header class="post-header">
+      <h1 class="post-title">{{ .Title }}</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> {{ .Date.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }} </span>
+      </div>
+    </header>
+
+    <!-- TOC -->
+    {{- partial "post/toc.html" . -}}
+
+    <!-- Content -->
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+
+    <!-- Copyright -->
+    {{- partial "post/copyright.html" . -}}
+
+    <footer class="post-footer">
+      {{ with .Params.tags -}}
+        <div class="post-tags">
+          {{ range . -}}
+            <a href="{{ "tags" | relLangURL }}/{{ . | urlize }}{{ if $.Site.Params.uglyURLs }}.html{{ else }}/{{ end }}">{{ . }}</a>
+          {{ end -}}
+        </div>
+      {{- end -}}
+
+      <!-- Comments -->
+      <!-- <div id="hyvor-talk-view"></div>
+      <script type="text/javascript">
+        var HYVOR_TALK_WEBSITE = 5039;
+        var HYVOR_TALK_CONFIG = {
+          url: false,
+          id: false
+        };
+      </script>
+      <script async type="text/javascript" src="//talk.hyvor.com/web-api/embed.js"></script> -->
+
+      <!-- Post Pagination -->
+      <nav class="post-nav">
+        {{ with .NextInSection -}}
+          <a class="prev" href="{{ .RelPermalink }}">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">{{ .Title }}</span>
+            <span class="prev-text nav-mobile">{{ T "prevPost" }}</span>
+          </a>
+        {{- end }}
+        {{ with .PrevInSection -}}
+          <a class="next" href="{{ .RelPermalink }}">
+            <span class="next-text nav-default">{{ .Title }}</span>
+            <span class="next-text nav-mobile">{{ T "nextPost" }}</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+        {{- end }}
+      </nav>
+    </footer>
+  </article>
+{{- end }}
