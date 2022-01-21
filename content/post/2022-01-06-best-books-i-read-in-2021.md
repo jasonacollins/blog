@@ -30,7 +30,7 @@ I've also included a list of books commenced but abandoned. There are 9 on that 
 - Antonio Garcia Martinez, *Chaos Monkeys: Inside the Silicon Valley Money Machine*
 - Gary Marcus and Jeremy Freeman (eds), *The Future of the Brain*
 - Hugo Mercier and Dan Sperber, *The Enigma of Reason: A New Theory of Human Understanding*
-- Siddhartha Mukherjee, *The Gene: An Intimate History*
+- Siddhartha Mukherjee, *The Gene: An Intimate History* ([Stuart Ritchie's review](https://www.spectator.co.uk/article/principles-of-heredity) captures some of my headline thoughts)
 - Cal Newport, *A World Without Email*
 - C. Northcote Parkinson, *Parkinson's Law or The Pursuit of Progress*
 - Thomas Piketty, *Capital and Ideology*

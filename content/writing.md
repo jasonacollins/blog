@@ -8,7 +8,7 @@ Apart from this blog and my [academic publications](/research/), I have written 
 
 ### 2019
 
-“[Principles for the Application of Human Intelligence](https://behavioralscientist.org/principles-for-the-application-of-human-intelligence/)”, Behavioral Scientist
+“[Principles for the Application of Human Intelligence](https://behavioralscientist.org/principles-for-the-application-of-human-intelligence/)”, Behavioral Scientist. Discussed in [The Guardian](https://www.theguardian.com/commentisfree/2019/dec/14/err-is-human-why-fear-machines-made-to-err-less-algorithmic-bias).
 
 ### 2018
 
