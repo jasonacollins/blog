@@ -1,3 +1,7 @@
+/:year/:month/   /   301
+
+/:year/:month/:day/:slug/amp   /:slug   301
+
 /:slug/amp   /:slug   301
 
 /feed   /feed.xml   301
