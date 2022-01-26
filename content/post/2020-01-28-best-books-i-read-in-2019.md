@@ -9,13 +9,13 @@ Better late than never....
 
 The best books I <em>read</em> in 2019 - generally released in other years - are below. Where I have reviewed, the link leads to that review (not many reviews this year).
 
-- Nick Chater, [_The Mind is Flat_](https://www.jasoncollins.blog/nick-chaters-the-mind-is-flat-the-illusion-of-mental-depth-and-the-improvised-mind/): A great book in which Chater argues that there are no ‘hidden depths’ to our minds.
+- Nick Chater, [_The Mind is Flat_](/nick-chaters-the-mind-is-flat-the-illusion-of-mental-depth-and-the-improvised-mind/): A great book in which Chater argues that there are no ‘hidden depths’ to our minds.
 
 - Stephan Guyenet, _The Hungry Brain: Outsmarting the Instincts that Make us Overeat_: Excellent summary of modern nutrition research and how the body "regulates" its weight.
 
 - Jonathan Morduch and Rachel Schneider, _The Financial Diaries: How American Families Cope in a World of Uncertainty_: I find a lot of value reading about the world outside of my bubble. I learnt a lot from this book.
 
-- Paul Seabright, _The Company of Strangers_: An excellent exploration of the evolutionary foundations of cooperation. A staple of my [evolutionary biology and economics reading list](https://www.jasoncollins.blog/economics-and-evolutionary-biology-reading-list/).
+- Paul Seabright, _The Company of Strangers_: An excellent exploration of the evolutionary foundations of cooperation. A staple of my [evolutionary biology and economics reading list](/economics-and-evolutionary-biology-reading-list/).
 
 - Lenore Skenazy, _Free-Range Kids: How to Raise Safe, Self-Reliant Children (Without Going Nuts with Worry)_: A fun read of some wise advice.
 
@@ -82,12 +82,12 @@ Below is the full list of books that I read in 2019 (with links where reviewed a
 - Chuck Palahniuk, _Fight Club_*
 - Edgar Allan Poe, _The Tell-Tale Heart and Other Stories_
 - J.K. Rowling, _Harry Potter and the Philosopher's Stone_
-- J.K. Rowling, _Harry Potter and  the Chamber of Secrets_
-- J.K. Rowling, _Harry Potter and  the Prisoner of Azkaban_
-- J.K. Rowling, _Harry Potter and  the Goblet of Fire_
-- J.K. Rowling, _Harry Potter and  the Order of the Phoenix_
+- J.K. Rowling, _Harry Potter and the Chamber of Secrets_
+- J.K. Rowling, _Harry Potter and the Prisoner of Azkaban_
+- J.K. Rowling, _Harry Potter and the Goblet of Fire_
+- J.K. Rowling, _Harry Potter and the Order of the Phoenix_
 - J.K. Rowling, _Harry Potter and the Half-Blood Prince_
 - J.K. Rowling, _Harry Potter and the Deathly Hallows_
 - Tim Winton, _Breath_
 
-Previous lists: [2010](https://www.jasoncollins.blog/top-10-books-in-2010/), [2011](https://www.jasoncollins.blog/best-books-i-read-in-2011/), [2012](https://www.jasoncollins.blog/the-best-books-i-read-in-2012/), [2013](https://www.jasoncollins.blog/best-books-i-read-in-2013/), [2014](https://www.jasoncollins.blog/best-books-i-read-in-2014/), [2015](https://www.jasoncollins.blog/best-books-i-read-in-2015/), [2016](https://www.jasoncollins.blog/best-books-i-read-in-2016/), [2017](https://www.jasoncollins.blog/best-books-i-read-in-2017/), [2018](https://www.jasoncollins.blog/books-i-read-in-2018/)
+Previous lists: [2010](/top-10-books-in-2010/), [2011](/best-books-i-read-in-2011/), [2012](/the-best-books-i-read-in-2012/), [2013](/best-books-i-read-in-2013/), [2014](/best-books-i-read-in-2014/), [2015](/best-books-i-read-in-2015/), [2016](/best-books-i-read-in-2016/), [2017](/best-books-i-read-in-2017/), [2018](/books-i-read-in-2018/)

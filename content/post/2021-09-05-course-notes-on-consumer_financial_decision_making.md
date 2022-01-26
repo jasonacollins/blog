@@ -1,7 +1,6 @@
 ---
 title: "Course notes on Applied Consumer Financial Decision Making"
 author: jasonacollins
-
 date: 2021-09-05T09:00:00+00:00
 lastmod: 2021-09-05T09:00:00+00:00
 math: true
