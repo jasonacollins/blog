@@ -11,7 +11,7 @@ Behavioural and data science. Economics. PhD economics and evolutionary biology.
 
 - [My research](/research/)
 - [My non-academic writing](/writing/)
-- [My podcast appearances](/podcasts/)
+- [Media](/media/)
 
 On [Twitter](https://twitter.com/jasonacollins) (checked only occasionally).
 
