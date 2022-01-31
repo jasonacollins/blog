@@ -1,8 +1,8 @@
 ---
 title: 'Megastudy scepticism'
 author: jasonacollins
-date: 2022-01-20 09:00:00+00:00
-lastmod: 2022-01-20 09:00:00+00:00
+date: 2022-02-28 09:00:00+00:00
+lastmod: 2022-02-28 09:00:00+00:00
 draft: true
 comments: true
 slug: megastudy-scepticism
@@ -17,11 +17,11 @@ I suppose the introduction is for those who missed May's paper by most of the sa
 Exercise social norms (included 6 text message reminders):
 
 | Intervention           | Description | Effect        | Predicted |
-| :---                   |    :----:   |          ---: |
-| 3. High and increasing | Title       | Here's this   |
-| 20. Low                | Text        | And more      |
-| 47. Low but increasing |             |               |
-| 53. High               |             |               |
+| :---                   |    :----:   |          ---: |      ---: |
+| 3. High and increasing | Title       | Here's this   |           |
+| 20. Low                | Text        | And more      |           |
+| 47. Low but increasing |             |               |           |
+| 53. High               |             |               |           |
 
 
 Rigidity rewarded - only 14 sig higher than 51

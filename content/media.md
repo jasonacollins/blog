@@ -28,6 +28,6 @@ The list includes several podcast episodes. I am definitely more a writer than a
 
 Discussion of my fertility paper with Lionel Page at [Forbes](https://www.forbes.com/sites/ebauer/2018/11/08/will-fertility-rebound-new-study-says-yes)
 
-## 2015
+### 2015
 
 Discussion on my paper on conspicuous consumption and sexual selection in [The Times](http://www.thetimes.co.uk/tto/science/article4453305.ece), [The Daily Mail](http://www.dailymail.co.uk/sciencetech/article-3100584/Peacocking-males-splash-cash-impress-women-help-boost-economy-Study-finds-link-sexual-selection-economic-growth.html), [The Huffington Post](http://www.huffingtonpost.com/rob-brooks/sexual-signalling-powers-_b_1845337.html) and the [The Wall Street Journal](http://online.wsj.com/article/SB10001424127887323551004578116903873762428.html).

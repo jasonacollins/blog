@@ -210,6 +210,7 @@ Power companies often want to limit their customers' electricity demand for envi
 One of the favourite tricks to do this is to provide a comparison of that person or household's power consumption with their neighbours. People have a desire to conform, and look to cues to inform their decisions. If shown that their power usage is above their neighbours, they tend to reduce their use.
 
 ![](/img/2020-06-12-arent-we-smart-fellow-behavioural-scientists/power.jpg)
+
 Source: [Opower, Allcott and Kessler (2019) AEJ: Applied Economics](https://doi.org/10.1257/app.20170328)
 
 What is this person or household's objective? If it were purely financial, success! They have saved on their power bill. Their reduction in use also happens to align with the environmental or peak demand reduction objectives of the nudger.
