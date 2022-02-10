@@ -12,7 +12,7 @@ Below is the text of my presentation to the [Sydney Behavioural Economics and Be
 
 The typical behavioural science or behavioural economics event is a love-in. We all get together to laugh at people's irrationality - that is, the irrationality of others - and opine that if only we designed the world more intelligently, people would make better decisions.
 
-We can point to a vast literature – described in books such as Dan Ariely's[ Predictably Irrational](https://www.jasoncollins.blog/arielys-predictably-irrational/), Daniel Kahneman's[ Thinking, Fast and Slow](https://www.jasoncollins.blog/kahnemans-thinking-fast-and-slow/), and Richard Thaler and Cass Sunstein's[ Nudge](https://www.jasoncollins.blog/thaler-and-sunsteins-nudge/) – all demonstrating the fallibility of humans, the vast array of biases we exhibit in our everyday decision making, and how we can help to overcome these problems.
+We can point to a vast literature – described in books such as Dan Ariely's[ Predictably Irrational](/arielys-predictably-irrational/), Daniel Kahneman's[ Thinking, Fast and Slow](/kahnemans-thinking-fast-and-slow/), and Richard Thaler and Cass Sunstein's[ Nudge](/thaler-and-sunsteins-nudge/) – all demonstrating the fallibility of humans, the vast array of biases we exhibit in our everyday decision making, and how we can help to overcome these problems.
 
 Today I want to muddy the waters. Not only is the "we can save the world" TED talk angle that tends to accompany behavioural science stories boring, but this angle also ignores the problems and debates in the field.
 
