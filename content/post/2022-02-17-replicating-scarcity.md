@@ -5,6 +5,7 @@ date: 2022-02-17 09:00:00+00:00
 lastmod: 2022-02-17 09:00:00+00:00
 draft: false
 comments: true
+images: ["/img/odonnell-et-al-2021-fig1.jpeg"]
 slug: replicating-scarcity
 ---
 
