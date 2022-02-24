@@ -85,3 +85,6 @@ Competition against marketers
 Where is the theory?!
 
 Sallis and friends as a model of getting the mega-study right.
+
+Parking lot:
+- anboither vaccination study: https://doi.org/10.1073/pnas.2115126119

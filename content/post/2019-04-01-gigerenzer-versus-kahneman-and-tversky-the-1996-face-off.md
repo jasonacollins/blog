@@ -44,7 +44,7 @@ I touch on four of Gigerenzer's arguments (using most of my word count on the fi
 
   * **Argument 3:** Are Kahneman and Tversky's norms content blind? For particular examples, yes. Generally? No.
 
-  * **Argument 4:** Should more effort be expended in understanding the underlying cognitive processes or mental models behind these various findings? This is where Gigerenzer's argument is strongest, and I agree that many of Kahneman and Tversky's proposed heuristics have weaknesses that need examination.
+  * **Argument 4:** Should more effort be expended in understanding the underlying cognitive processes or mental models behind these various findings? This is where Gigerenzer's argument is strongest, and I agree that many of Kahneman and Tversky's proposed heuristics have weaknesses that need examination.
 
 
 Putting these four together, I have sympathy for Gigerenzer's way of thinking and ultimate program of work, but I am much less sympathetic to his desire to pull down Kahneman and Tversky's findings on the way.
@@ -53,7 +53,7 @@ Now into the details.
 
 **Argument 1: Does the use of frequentist rather than probabilistic representations make many of the so-called biases disappear?**
 
-Gigerenzer's argues that many biases involving probabilistic decision-making can be "made to disappear" by framing the problems in terms of frequencies rather than probabilities. The back-and-forth on this point centres on three major biases: overconfidence, the conjunction fallacy and base-rate neglect. I'll take each in turn.
+Gigerenzer's argues that many biases involving probabilistic decision-making can be "made to disappear" by framing the problems in terms of frequencies rather than probabilities. The back-and-forth on this point centres on three major biases: overconfidence, the conjunction fallacy and base-rate neglect. I'll take each in turn.
 
 **_Overconfidence_**
 
@@ -170,7 +170,7 @@ Gigerenzer in part concedes, and in part battles on:
 >
 >[T]he between subjects version of the Linda problem is not a violation of internal consistency, because the effect depends on not presenting the two alternatives to the same subject.
 
-It's right not to describe this as a violation of internal consistency, but for evidence of representativeness affecting judgement and doing so even with frequentist representations, it makes a good case. It is also difficult to argue that the subjects are making a good judgment. Kahneman and Tversky write:
+It's right not to describe this as a violation of internal consistency, but for evidence of representativeness affecting judgement and doing so even with frequentist representations, it makes a good case. It is also difficult to argue that the subjects are making a good judgment. Kahneman and Tversky write:
 
 >Gigerenzer appears to deny the relevance of the between-subjects design on the ground that no individual subject can be said to have committed an error. In our view, this is hardly more reasonable than the claim that a randomized between-subject design cannot demonstrate that one drug is more effective than another because no individual subject has experienced the effects of both drugs.
 
@@ -188,7 +188,7 @@ Base-rate neglect (or the base-rate fallacy) describes situations where a known 
 
 The typical result is that around half of the people asked will guess a probability of 95% (even among medical professionals), with less than a quarter giving the correct answer of 2%. The positive result, which has associated errors, is weighted too heavily relative to the base rate of one in a thousand.
 
-Gigerenzer (1991) once again responds with the potential of a frequentist representation to eliminate the bias, drawing on work by Cosmides and Tooby (1990) [The 1990 paper was an unpublished conference paper, but this work was later published [here](https://doi.org/10.1016/0010-0277(95)00664-8) ([pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.131.8290&rep=rep1&type=pdf))]:
+Gigerenzer (1991) once again responds with the potential of a frequentist representation to eliminate the bias, drawing on work by Cosmides and Tooby (1990) [The 1990 paper was an unpublished conference paper, but this work was later published [here](https://doi.org/10.1016/0010-0277(95)00664-8) ([pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.131.8290&rep=rep1&type=pdf))]:
 
 >One our of 1000 Americans has disease X. A test has been developed to detect when a person has disease X. Every time the test is given to a person who has he disease, the test comes out positive. But sometimes the test also comes out positive when it is given to a person who is completely healthy. Specifically, out of every 1000 people who are perfectly healthy, 50 of them test positive for the disease.
 >
@@ -206,15 +206,15 @@ It seems we have agreement on the effect, although a differing interpretation.
 
 Kahneman and Tversky, however, more directly attack the idea that people are natural frequentists.
 
->He [Gigerenzer] offers a hypothetical example in which a physician in a nonliterate society learns quickly and accurately the posterior probability of a disease given the presence or absence of a symptom. ... However, Gigerenzer's speculation about what a nonliterate physician might learn from experience is not supported by existing evidence. Subjects in an experiment reported by Gluck and Bower (1988) learned to diagnose whether a patient has a rare (25%) or a common (75%) disease. For 250 trials the subjects guessed the patient's disease on the basis of a pattern of four binary symptoms, with immediate feedback. Following this learning phase, the subjects estimated the relative frequency of the rare disease, given each of the four symptoms separately.
+>He [Gigerenzer] offers a hypothetical example in which a physician in a nonliterate society learns quickly and accurately the posterior probability of a disease given the presence or absence of a symptom. ... However, Gigerenzer's speculation about what a nonliterate physician might learn from experience is not supported by existing evidence. Subjects in an experiment reported by Gluck and Bower (1988) learned to diagnose whether a patient has a rare (25%) or a common (75%) disease. For 250 trials the subjects guessed the patient's disease on the basis of a pattern of four binary symptoms, with immediate feedback. Following this learning phase, the subjects estimated the relative frequency of the rare disease, given each of the four symptoms separately.
 >
->If the mind is "a frequency monitoring device," as argued by Gigerenzer ..., we should expect subjects to be reasonably accurate in their assessments of the relative frequencies of the diseases, given each symptom. Contrary to this naive frequentist prediction, subjects' judgments of the relative frequency of the two diseases were determined entirely by the diagnosticity of the symptom, with no regard for the base-rate frequencies of the diseases. ... Contrary to Gigerenzer's unqualified claim, the replacement of subjective probability judgments by estimates of relative frequency and the introduction of sequential random sampling do not provide a panacea against base-rate neglect.
+>If the mind is "a frequency monitoring device," as argued by Gigerenzer ..., we should expect subjects to be reasonably accurate in their assessments of the relative frequencies of the diseases, given each symptom. Contrary to this naive frequentist prediction, subjects' judgments of the relative frequency of the two diseases were determined entirely by the diagnosticity of the symptom, with no regard for the base-rate frequencies of the diseases. ... Contrary to Gigerenzer's unqualified claim, the replacement of subjective probability judgments by estimates of relative frequency and the introduction of sequential random sampling do not provide a panacea against base-rate neglect.
 
 Gigerenzer (1996) responds:
 
 >Concerning base-rate neglect, Kahneman and Tversky ... created the impression that there is little evidence that certain types of frequency formats improve Bayesian reasoning. They do not mention that there is considerable evidence (e.g., Gigerenzer & Hoffrage, 1995) and back their disclaimer principally with a disease-classification study by Gluck and Bower (1988), which they summarized thus: "subjects' judgments of the relative frequency . . . were determined entirely by the diagnosticity of the symptom, with no regard for the base-rate frequencies of the diseases" ... To set the record straight, Gluck and Bower said their results were consistent with the idea that "base-rate information is not ignored, only underused" (p. 235). Furthermore, their study was replicated and elaborated on by Shanks (1991), who concluded that "we have no conclusive evidence for the claim . . . that systematic base-rate neglect occurs in this type of situation" (p. 153). Adding up studies in which base-rate neglect appears or disappears will lead us nowhere.
 
-Gigerenzer is right that Kahneman and Tversky were overly strong in their description of the findings of the Gluck and Bower study, but Gigerenzer's conclusion seems close to that of Kahneman and Tversky. As Kahneman and Tversky wrote:
+Gigerenzer is right that Kahneman and Tversky were overly strong in their description of the findings of the Gluck and Bower study, but Gigerenzer's conclusion seems close to that of Kahneman and Tversky. As Kahneman and Tversky wrote:
 
 >[I]t is evident that subjects sometimes use explicitly mentioned base-rate information to a much greater extent than they did in our original engineer- lawyer study [another demonstration of base-rate neglect], though generally less than required by Bayes' rule.
 
@@ -234,13 +234,13 @@ While I leave the question of frequency representations with a degree of agreeme
 >
 >... Seen from the Bayesian point of view, the conjunction fallacy is an error.
 >
->Thus, choosing T&F in the Linda problem is _not_ a reasoning error. What has been labelled the 'conjunction fallacy' here does not violate the laws of probability. It only looks so from one interpretation of probability.
+>Thus, choosing T&F in the Linda problem is _not_ a reasoning error. What has been labelled the 'conjunction fallacy' here does not violate the laws of probability. It only looks so from one interpretation of probability.
 
 He writes in his 1991 article somewhat more strongly (here talking in the context of overconfidence):
 
->For a frequentist like the mathematician Richard von Mises, the term "probability", when it refers to a _single event_, "has no meaning at all for us" ... Probability is about frequencies, not single events. To compare the two means comparing applies with oranges.
+>For a frequentist like the mathematician Richard von Mises, the term "probability", when it refers to a _single event_, "has no meaning at all for us" ... Probability is about frequencies, not single events. To compare the two means comparing applies with oranges.
 >
->Even the major opponents of the frequentists - subjectivists such as Bruno de Finetti - would not generally think of a discrepancy between confidence and relative frequency as a "bias", albeit for different reasons. For a subjectivist, probability _is_ about single events, but rationality is identified with the internal consistency of subjective probabilities. As de Finetti emphasized, "however an individual evaluates the probability of a particular event, no experience can prove him right, or wrong; nor, in general, could any conceivable criterion give any objective sense to the distinction one would like to draw, here, between right and wrong" ...
+>Even the major opponents of the frequentists - subjectivists such as Bruno de Finetti - would not generally think of a discrepancy between confidence and relative frequency as a "bias", albeit for different reasons. For a subjectivist, probability _is_ about single events, but rationality is identified with the internal consistency of subjective probabilities. As de Finetti emphasized, "however an individual evaluates the probability of a particular event, no experience can prove him right, or wrong; nor, in general, could any conceivable criterion give any objective sense to the distinction one would like to draw, here, between right and wrong" ...
 
 Kahneman and Tversky address this argument across a few of the biases under debate. First, on conjunction errors:
 
@@ -258,11 +258,11 @@ Kahneman and Tversky also address this frequentist argument in relation to over-
 
 Gigerenzer's response here is amusing:
 
->Kahneman and Tversky argued that the reluctance of statisticians to make probability theory of norm of all single events "is not generally shared by the public" (p. 585). If this was meant to shift the burden of justification for their norms from the _normative theory of probability_ to the intuitions of ordinary people, it is exceedingly puzzling. How can people's intuitions be called upon to substitute for the standards of statisticians, in order to prove that people's intuitions systematically violate the normative theory of probability?
+>Kahneman and Tversky argued that the reluctance of statisticians to make probability theory of norm of all single events "is not generally shared by the public" (p. 585). If this was meant to shift the burden of justification for their norms from the _normative theory of probability_ to the intuitions of ordinary people, it is exceedingly puzzling. How can people's intuitions be called upon to substitute for the standards of statisticians, in order to prove that people's intuitions systematically violate the normative theory of probability?
 
-Kahneman and Tversky did not come back on this particular argument, but several points could be made in their favour. First, and as noted above, there can still be errors under frequentist representations. Even if we discard the results with judgments of probability for single events, there is still a strong case for the use of heuristics leading to the various biases.
+Kahneman and Tversky did not come back on this particular argument, but several points could be made in their favour. First, and as noted above, there can still be errors under frequentist representations. Even if we discard the results with judgments of probability for single events, there is still a strong case for the use of heuristics leading to the various biases.
 
-Second, if a surgeon states they are confident that someone has a 99% probability of complete recovery when they are right only 75% of the time, they are making one of two errors. Either they are making a probability estimate of a single event, which has no meaning at all according to Gigerenzer and von Mises, or they are poorly calibrated according to Kahneman and Tversky.
+Second, if a surgeon states they are confident that someone has a 99% probability of complete recovery when they are right only 75% of the time, they are making one of two errors. Either they are making a probability estimate of a single event, which has no meaning at all according to Gigerenzer and von Mises, or they are poorly calibrated according to Kahneman and Tversky.
 
 Third, whatever the philosophically or statistically correct position, we have a practical problem. We have judgements being made and communicated, with subsequent decisions based on those communications. To the extent there are weaknesses in that chain, we will have sub-optimal outcomes.
 
@@ -294,7 +294,7 @@ We now come to an important point: what is the cognitive process behind all of t
 >
 >Progress can be made only when we can design precise models that predict when base rates are used, when not, and why
 
-I can see why Kahneman and Tversky focus on the claims regarding frequency representations  when Gigerenzer makes such strong statements about making biases "disappear". The statement that in no case have they attempted to figure out the cognitive processes involved is also overly strong, as a case could be made that the heuristics are those processes.
+I can see why Kahneman and Tversky focus on the claims regarding frequency representations when Gigerenzer makes such strong statements about making biases "disappear". The statement that in no case have they attempted to figure out the cognitive processes involved is also overly strong, as a case could be made that the heuristics are those processes.
 
 However, Gigerenzer believes Kahneman and Tversky's heuristics are too vague for this purpose. Gigerenzer (1996) wrote:
 
