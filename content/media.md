@@ -8,6 +8,10 @@ Below is a list of selected media about my writing or work.
 
 The list includes several podcast episodes. I am definitely more a writer than a speaker.
 
+### 2022
+
+[Nudge podcast - Beware of Behaviour Science BS](https://www.nudgepodcast.com/podcast/episode/31c2d373/75-beware-of-behaviour-science-bs)
+
 ### 2021
 
 [42courses - Behavioural Science & Evolutionary Biology](https://anchor.fm/42courses/episodes/Jason-Collins---Behavioural-Science--Evolutionary-Biology-epfoqs)
