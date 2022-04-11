@@ -15,4 +15,4 @@ Behavioural and data science. Economics. PhD economics and evolutionary biology.
 
 On [Twitter](https://twitter.com/jasonacollins) (checked only occasionally).
 
-For direct contact, email me at `contact` [at] `jasoncollins` [dot] `blog`.
+For direct contact, email me at `grants_trainee.0` [@] `icloud.com`. (Address regularly refreshed to eliminate spammers.  I don't host guest posts or advertising.)

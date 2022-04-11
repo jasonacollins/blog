@@ -8,7 +8,7 @@ image: []
 slug: megastudy-scepticism
 ---
 
-With much fanfare, in December a new "megastudy" was announced, a test of 54 different interventions to encourage exercise. But more that just testing these interventions, a very long list of authors stated:
+With a degree of fanfare, in December a new "megastudy" was announced, a test of 54 different interventions to encourage exercise. But more that just testing these interventions, a very long list of authors stated:
 
 >Policy-makers are increasingly turning to behavioural science for insights about how to improve citizens’ decisions and outcomes. Typically, different scientists test different intervention ideas in different samples using different outcomes over different time intervals. The lack of comparability of such individual investigations limits their potential to inform policy. Here, to address this limitation and accelerate the pace of discovery, we introduce the megastudy—a massive field experiment in which the effects of many different interventions are compared in the same population on the same objectively measured outcome for the same duration.
 
@@ -18,19 +18,35 @@ In this post I am going to pull apart what I don't like about this study. At its
 
 ### Comparability and generalisability
 
-As stated in the abstract, the fundamental problem that the megastudy is trying to solve is the lack of comparability of interventions across experiments. The context of two different experiments may be sufficiently different that it is not reasonable to compare the interventions used in each. How can you determine which is better?
+As stated in the abstract, the fundamental problem that the megastudy is designed to solve is the lack of comparability of interventions across experiments. The context of two different experiments may be sufficiently different that it is not reasonable to compare the interventions used in each. How can you determine which is better?
 
-On one level, the megastudy solves this problem. The interventions are in the same context. Comparison is easy - in fact, that is what the experiment is designed to allow.
+On one level, the megastudy solves this problem. The interventions are in the same context. Comparison is easy - in fact, that is what the experiment is designed to enable.
 
-But this belief that we cannot easily compare across different contexts limits the benefit of the comparison within the mega-study. What confidence can you have that the ordering or magnitude of intervention effect sizes will hold up inthe different context? 
+But this belief that we cannot easily compare across different contexts limits the benefit of the comparison within the mega-study. What confidence can you have that the ordering or magnitude of intervention effect sizes in the mega-study will reflect that in a different context? 
 
-We end up in a situation where the bigger the size of the problem about a lack of comparability that the mega-study is seeking to solve, the less useful the mega-study results are for application in other contexts.
+We are in a Catch-22 situation. The bigger the size of the comparability problem that the mega-study is seeking to solve, the less useful the mega-study results are for application in other contexts.
 
-Ultimately, this is why the better policy advice should typically be to run an experiment. The mega-study and other literature could provide some guidance. 
+Ultimately, this is why good policy advice should typically be to run an experiment. The mega-study and other literature could provide some guidance as to what might be more successful, but I am not convinced one mega-study provides more insight than a set of experiments across a few different contexts. 
 
 ### Theory
+$$
+On a first glance, the mega-study appears to have a philosophy of "throw enough things at a wall, and surely something will stick".
+
+The method is not quite that loose. If you read through the series of pre-analysis plans, you can see that the interventions aren't just plucked out of the air. There are subsets of interventions that are intended to be compared to tease out a point of interest. 
+
+But that said, the theoretical insight that you might get from this megastudy is somewhat underwhelming. Which theories would you have more or less confidence in given these results?
+
+Partly this is an issue of power - more on that below.
+
+Partly this is an the result of getting a whole bunch of people who want to test a hypothesis rather than having a more coordinated effort to design 50 interventions on a common basis and frame.
+
+For example, some interventions have 2 text messages sent to participants, others nine. Is the difference in response due to the number of text messages or the stated form of the intervention.
+
+You can come at the problem post hoc to examine some ideas. I play with that idea below in relation to incentives.
 
 The idea that you can run this one big, theory free study to answer a question.
+
+I also feel this lack of theoretical insight comes from what I can only describe as a rather half-hearted attempt to develop some of the interventions. 
 
 What if we had got some marketers to develop the messaging. 
 
