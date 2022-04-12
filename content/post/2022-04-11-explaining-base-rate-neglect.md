@@ -37,9 +37,9 @@ The correct answer becomes more apparent if I show an alternative representation
 >
 >You test positive. What is the chance that you have COVID-19?
 
-This use of natural frequencies was first proposed in an [article by Gigerenzer and Ulrich Hoffrage](https://journals.lww.com/academicmedicine/Abstract/1998/05000/Using_natural_frequencies_to_improve_diagnostic.24.aspx). Natural frequencies are derived from observing cases that have been representatively sampled from a population.
+This use of natural frequencies was first proposed by [Cosmides and Tooby (1996)](https://doi.org/10.1016/0010-0277(95)00664-8) ([pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.131.8290&rep=rep1&type=pdf))). (There are other papers pre-dating this 1996 publication, but the 1990 conference paper that led to this publification was the genesis of the literature.) Natural frequencies are derived from observing cases that have been representatively sampled from a population.
 
-In the Hoffrage and Gigerenzer paper, this change in representation increased the proportion of correct answers from 10% to 46%.
+In a [paper by Gigerenzer and Ulrich Hoffrage](https://journals.lww.com/academicmedicine/Abstract/1998/05000/Using_natural_frequencies_to_improve_diagnostic.24.aspx), they report that this change in representation increased the proportion of correct answers among physicians from 10% to 46%.
 
 There is some evidence ([e.g.](https://doi.org/10.54870/1551-3440.1329)) that you can get further gains through a frequency tree representation. Here's one such tree from [Gigerenzer (2011)](https://doi.org/10.1136/bmj.d6386), which also has the benefit of further highlighting the benefits of the natural frequency approach.
 

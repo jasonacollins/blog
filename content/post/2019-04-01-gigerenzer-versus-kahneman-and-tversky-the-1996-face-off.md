@@ -6,7 +6,7 @@ draft: no
 slug: gigerenzer-versus-kahneman-and-tversky-the-1996-face-off
 ---
 
-Through the late 1980s and early 1990s, Gerd Gigerenzer and friends wrote a series of articles critiquing Daniel Kahneman and Amos Tversky's work on heuristic and biases. They hit hard. As Michael Lewis wrote in [The Undoing Project](https://www.jasoncollins.blog/michael-lewiss-the-undoing-project-a-friendship-that-changed-the-world/):
+Through the late 1980s and early 1990s, Gerd Gigerenzer and friends wrote a series of articles critiquing Daniel Kahneman and Amos Tversky's work on heuristic and biases. They hit hard. As Michael Lewis wrote in [The Undoing Project](/michael-lewiss-the-undoing-project-a-friendship-that-changed-the-world/):
 
 >Gigerenzer had taken the same angle of attack as most of their other critics. But in Danny and Amos’s view he’d ignored the usual rules of intellectual warfare, distorting their work to make them sound even more fatalistic about their fellow man than they were. He also downplayed or ignored most of their evidence, and all of their strongest evidence. He did what critics sometimes do: He described the object of his scorn as he wished it to be rather than as it was. Then he debunked his description. ... “Amos says we absolutely must do something about Gigerenzer,” recalled Danny. ... Amos didn’t merely want to counter Gigerenzer; he wanted to destroy him. (“Amos couldn’t mention Gigerenzer’s name without using the word ‘sleazeball,’ ” said UCLA professor Craig Fox, Amos’s former student.) Danny, being Danny, looked for the good in Gigerenzer’s writings. He found this harder than usual to do.
 
@@ -216,7 +216,7 @@ Gigerenzer (1996) responds:
 
 Gigerenzer is right that Kahneman and Tversky were overly strong in their description of the findings of the Gluck and Bower study, but Gigerenzer's conclusion seems close to that of Kahneman and Tversky. As Kahneman and Tversky wrote:
 
->[I]t is evident that subjects sometimes use explicitly mentioned base-rate information to a much greater extent than they did in our original engineer- lawyer study [another demonstration of base-rate neglect], though generally less than required by Bayes' rule.
+>[I]t is evident that subjects sometimes use explicitly mentioned base-rate information to a much greater extent than they did in our original engineer-lawyer study [another demonstration of base-rate neglect], though generally less than required by Bayes' rule.
 
 **Argument 2: Can you attribute probabilities to single events?**
 
