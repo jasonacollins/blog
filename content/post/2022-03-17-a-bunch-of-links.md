@@ -15,7 +15,7 @@ Now for the partial resurrection, with links posts to be delivered at random int
 
 1. Unlearning Economics unloads in a [set of tweets](https://twitter.com/UnlearnEcon/status/1501212969924976646) about empirical economics research. I have a draft post on this idea, but this thread hits most my points plus more. In my view, the robustness of some subfields of empirical economics research is on par with early 2000s social psychology research. The problem, however, is that you can't run a replication of most of this empirical work, meaning it doesn't suffer the same public fate.
 
-    {{< tweet 1501212969924976646 >}}
+    {{< tweet user="UnlearnEcon" id="1501212969924976646" >}}
 
 2. Behavioural and Brain Sciences has a target article on [The generalizability crisis](https://doi.org/10.1017/S0140525X20001685) by Tal Yarkoni (ungated pdf [here](https://psyarxiv.com/jqw35/)). Many responses worth reading, including this [one from Gerd Gigerenzer](https://doi.org/10.1017/S0140525X21000327) (can't find an ungated version of the Gigerenzer response to share). Daniel Lakens [comments](http://daniellakens.blogspot.com/2020/01/review-of-generalizability-crisis-by.html).
 

@@ -26,6 +26,6 @@ And the "bias bias":
 
 On hearing that Gigerenzer had written the introduction to the Guide, Thaler tweeted:
 
-{{< tweet 744913926022893568 >}}
+{{< tweet user="R_Thaler" id="744913926022893568" >}}
 
 I suppose Thaler is now the establishment and Gigerenzer is "that jerk".
