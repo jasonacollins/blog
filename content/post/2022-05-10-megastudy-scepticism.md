@@ -2,7 +2,7 @@
 title: 'Megastudy scepticism'
 author: jasonacollins
 date: 2022-05-19 09:00:00+00:00
-draft: true
+draft: false
 toc: true
 math: true
 image: ["/img/milkman_et_al_2021_figure_1.png"]
