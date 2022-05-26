@@ -19,31 +19,53 @@ I've also included a list of books commenced but abandoned. There are 9 on that 
 *Non-Fiction*
 
 - Ananyo Bhattacharya, *The Man from the Future: The Visionary Life of John von Neumann*
+- Brian Christian, *The Alignment Problem*
 - David Epstein, *Range: Why Generalists Triumph in a Specialized world*
+- David Graeber, *Bullshit Jobs*
+- Adam Kay, *This Is Going to Hurt"
+- Micharel Lewis, *Moneyball*\*
 - Carl Rhodes, *Woke Capitalism: How Corporate Morality is Sabotaging Capitalism*
 - David Sinclair, *Lifespan: Why We Age--And Why We Don't Have to*
+- Richard Thaler, [*The Winner's Curse: Subtitle*]
 - Peter Wohlleben, *The Hidden Life of Trees*
 - Gregory Zuckerman, *The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution*
 
 *Fiction*
-- Arthur Conan Doyle, *The Adventures of Sherlock Holmes*
-- Arhtur Conan Doyle, *The Sign of Four*
+- Arthur Conan Doyle, *The Adventures of Sherlock Holmes*\*
+- Arthur Conan Doyle, *The Sign of Four*\*
+- Arthur Conan Doyle, *A Study in Scalet*\*
+- Arthur Conan Doyle, *The Memoirs of Sherlock Holmes*\*
+- Arthur Conan Doyle, *The Hound of the Baskervilles*\*
+- Arthur Conan Doyle, *The Return of Sherlock Holmes*\*
+- Arthur Conan Doyle, *The Valley of Fear*\*
+- Arthur Conan Doyle, *His Last Bow*\*
+- Arthur Conan Doyle, *The Case-Book of Sherlockl Holmes* (Conan Doyle had really given up by these final stories.)
 - Neal Stephenson, *Termination Shock*
 
-
 *Commenced but abandoned*
+- Scott Cunningham, *Causal Inference: The Mixtape*
 - Paul Gilding, *The Great Disruption*
+- Nick Hornby, *About a Boy*
+- Nick Hornby, *High Fidelity*
 - Marcel Proust, *Swann's Way*
-
+- M Mitchell Waldrop, *Complexity*
 
 *Read to the kids*
 - Jeffrey Brown, *Jedi Academy*
-- Lewis Carroll, *Alice's Adventures in Wonderland*
-- Lewis Carroll, *Through the Looking-glass*
+- Lewis Carroll, *Alice's Adventures in Wonderland*\*
+- Lewis Carroll, *Through the Looking-glass*\*
 - Gillian Cross, *The Iliad*
 - Gillian Cross, *The Odyssey*
+- Anna Sewell, *Black Beauty*
+- Lemony Snickett, *The Bad Beginning*
 - Johanna Spyri, *Heidi*
 - Tui T. Sutherland, *Dragonslayer*
-- 
+- Tui T. Sutherland, *The Lost Continent*
+- Tui T. Sutherland, *The Hive Queen*
+- Tui T. Sutherland, *The Poison Jungle*
+- Tui T. Sutherland, *The Dangerous Gift*
+- Tui T. Sutherland, *Flames of Hope*
+- [Add Geronimo Stilton Volcano of Fire]
+- J.R.R. Tolkein, *The Hobbit*\*
 
 Previous best book lists: [2010](/top-10-books-in-2010/), [2011](/best-books-i-read-in-2011/), [2012](/the-best-books-i-read-in-2012/), [2013](/best-books-i-read-in-2013/), [2014](/best-books-i-read-in-2014/), [2015](/best-books-i-read-in-2015/), [2016](/best-books-i-read-in-2016/), [2017](/best-books-i-read-in-2017/), [2018](/books-i-read-in-2018/), [2019](/best-books-i-read-in-2019/), [2020](/best-books-i-read-in-2020/), [2021](/best-books-i-read-in-2021/)
