@@ -5,7 +5,7 @@ date: 2022-05-27 07:00:00+10:00
 draft: false
 toc: true
 math: true
-image: ["/img/milkman_et_al_2021_figure_1.png"]
+images: ["/img/milkman_et_al_2021_figure_1.png"]
 slug: megastudy-scepticism
 ---
 
