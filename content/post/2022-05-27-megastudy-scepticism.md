@@ -1,7 +1,7 @@
 ---
 title: 'Megastudy scepticism'
 author: jasonacollins
-date: 2022-05-30 09:00:00+00:00
+date: 2022-05-27 07:00:00+10:00
 draft: false
 toc: true
 math: true
