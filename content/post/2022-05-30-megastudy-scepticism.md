@@ -1,7 +1,7 @@
 ---
 title: 'Megastudy scepticism'
 author: jasonacollins
-date: 2022-05-19 09:00:00+00:00
+date: 2022-05-30 09:00:00+00:00
 draft: false
 toc: true
 math: true
@@ -37,7 +37,7 @@ Those in the "47. Social norm (low and decreasing)" group received messages with
 
 As an aside, there don't seem be any qualms about using deception here.
 
-Some interventions involved incentives. For example, the "14. Rigidity Rewarded" intervention paid 500 Amazon points worth $1.79 each time they attended a planned gym visit, and 250 Amazon points worth $0.90 if they attended the gym at another time.
+Some interventions involved incentives. For example, the "14. Rigidity Rewarded" intervention paid 500 Amazon points worth \$1.79 each time they attended a planned gym visit, and 250 Amazon points worth \$0.90 if they attended the gym at another time.
 
 The headline results of all the interventions tested in the megastudy are in Figure 1 below. The intervention with the largest effect size involved incentives for returning to the gym after a missed workout.
 
@@ -55,7 +55,7 @@ As stated in the abstract, the fundamental problem that the megastudy is designe
 
 On one level, the megastudy solves this problem. The interventions are in the same context. Comparison is easy.
 
-But this belief that we cannot easily compare across experiments in different contexts implies a limit of what you learn from the megastudy. What confidence can you have that the ordering or magnitude of intervention effect sizes in the megastudy will be reflected in a different context? 
+But this belief that we cannot easily compare across experiments in different contexts implies a limit to what you learn from the megastudy. What confidence can you have that the ordering or magnitude of intervention effect sizes in the megastudy will be reflected in a different context? 
 
 We are in a Catch-22 situation. The bigger the comparability problem that the megastudy is seeking to solve, the less useful the megastudy results are for application in other contexts.
 
@@ -149,21 +149,21 @@ We see a similar pattern in collection of five interventions in Table 3 below in
 
 The experimental results kinda make sense. The largest incentive had the largest effect. Intervention 14 can be statistically differentiated from 51. But that's it. The others are not significantly different from each other.
 
-Then we look at the prediction column. The largest incentive was predicted to have the largest effect. All fine there. But intervention 28 with incentives of $0.52 and $0.18 intervention was predicted to have greater effect than the $1.08 and $0.54 associated with intervention 51. What's a plausible basis for that prediction ordering?
+Then we look at the prediction column. The largest incentive was predicted to have the largest effect. All fine there. But intervention 28 with incentives of \$0.52 and \$0.18 intervention was predicted to have greater effect than the \$1.08 and \$0.54 associated with intervention 51. What's a plausible basis for that prediction ordering?
 
 I can see one argument that people were ranking according to the Amazon points available rather than the value of those points. But accepting that argument further confuses the comparability of these interventions with each other and limits their generalisability if we want to take them to other domains.
 
-I think the claim that the observers are poor predictors is likely right. Practitioners, professors and the average punter don't have a great feel for the relative effectiveness of a bunch of weak interventions. But putting these critiques of these predictions together, I'd like to see a replication with more power on both sides: more power to differentiate interventions and a larger number of predictions in which the third-party observers get to see the full set of interventions and make direct comparisons between them.
+I think the claim that the observers are poor predictors is likely right. Practitioners, professors and the average punter don't have a great feel for the relative effectiveness of a bunch of weak interventions. But putting the critiques of these predictions together, I'd like to see a replication with more power on both sides: more power to differentiate interventions and a larger number of predictions in which the third-party observers get to see the full set of interventions and make direct comparisons between them.
 
 In the [newest megastudy on vaccinations](https://doi.org/10.1073/pnas.2115126119), those criteria were largely met. Another prediction competition was run, with lay people and the scientists who designed the interventions among the "competitors". They were asked to predict the vaccination rates for the people in all 22 treatment groups and the control
 
 Here we have a more promising result, for the lay people at least. The predictions of the scientists who contributed an intervention were did not correlate with observed observation rates. Conversely, lay people did well. The correlation between observed and predicted vaccination rates was 0.6. And beyond that, their estimate of the average lift in vaccinations was close to that observed. (The scientists underestimated the increase by around 25%.)
 
-Despite that success by the lay people, it was not without flaws. They did not anticipate the top-performing intervention. If you're purely in the applied behavioural science mindset and are want to maximise vaccinations, that's an important miss. That, of course, leads us to the usual conclusion:
+Despite that success by the lay people, it was not without flaws. They did not anticipate the top-performing intervention. If you're in the mindset that you simply want to maximise vaccinations, that's an important miss. That, of course, leads us to the usual conclusion:
 
 >Regardless, the inability of either scientists or laypeople to anticipate the top-performing intervention underscores the value of empirical testing when seeking the best policy.
 
-Finally, the success of the laypeople relative to the scientists hints at some of the following points I plan to make. Why are we just using behavioural scientists to design these interventions? Do they have any special skill in developing interventions? Why not give marketers a go at designing these! And if only we had some theory to guide our understanding. More on both those points below.
+Finally, the success of the laypeople relative to the scientists hints at some of the following points I plan to make. Why are we just using behavioural scientists to design these interventions? Do they have any special skill in developing interventions? Why not give marketers a go at designing them! And if only we had some theory to guide our understanding. More on those points below.
 
 ## 5. Intervention design
 
@@ -179,13 +179,13 @@ Here's two examples from this megastudy.
 
 First, some interventions have 2 text messages sent to participants, others nine. Is the difference in effect size due to the number of text messages or the stated form of the intervention?
 
-Second, the social norm experiments above rely on people responding to a quiz to get the full force of the intervention. Are we testing the effect of quizzes or norms?
+Second, the social norm experiments described above rely on people responding to a quiz to get the full force of the intervention. Are we testing the effect of quizzes or norms?
 
 And here's an example from the first megastudy on vaccinations.
 
 The worst performing message related to health, with the line "It's flu season & getting a flu shot at your appt is an easy thing you can do to be healthy!" Who are their copywriters?! Would anyone normally spruik the health benefits of a flu shot in this way? I would argue that the poor performance of this message gives little information about the effectiveness of health messaging.
 
-These implementation problems again point to that number one piece of advice: test in your own domain. It's hard to simply pick up a concept and transplant to your own space. Wording and delivery almost always have to change. You need to test which degrees of freedom matter.
+These implementation problems again point to that number one piece of advice: test in your own domain. It's hard to pick up a concept and simply transplant to your own space. Wording and delivery almost always have to change. You need to test which degrees of freedom matter.
 
 ## 6. Theory
 
@@ -227,13 +227,13 @@ Using this test, the authors of the megastudy argue that there is only a 5.07% c
 
 But what does this mean for interpreting the megastudy results? It tells us that this basic concept works. Yes you can get people going to the gym more. But does the test help us differentiate these interventions? No.
 
-As a final note for myself, I'm interested in whether the Storey and Tibshirani test is robust with the small number of interventions in the megastudy. Storey and Tibshirani developed the test for genomic analysis, where you might be conducting millions of comparisons (a typical micro-array will have 5 million SNPs), so would have a distribution of millions of p-values. The distribution of p-values in the megastudy comes from far fewer observations. I'll come back to this another time.
+As a final note for myself, I'm interested in whether the Storey and Tibshirani test is robust with the small number of interventions in the megastudy. Storey and Tibshirani developed the test for genomic analysis, where you might be conducting millions of comparisons, so would have a distribution of millions of p-values. The distribution of p-values in the megastudy comes from far fewer observations. I'll come back to this another time.
 
 ## 8. Return on investment
 
 Another strong feature of this study is that (buried in the supplementary material) the authors examine the fiscal cost and benefits of these interventions. A common refrain for much applied behavioural science is that the effects are small but the costs are also small. Thus, the return on investment pays off.
 
-On face value, this argument holds for the megastudy. Drawing on a couple of other studies, the authors estimated the benefit of a gym visit to society due to reduced health care expenditures as being between $1.66 and $3.71 per visit. Given the size of these benefits and the low cost of many of the megastudy interventions, they argue that four of the top five interventions have a positive cost-benefit and would be worth scaling.
+On face value, this argument holds for the megastudy. Drawing on a couple of other studies, the authors estimated the benefit of a gym visit to society due to reduced health care expenditures as being between \$1.66 and \$3.71 per visit. Given the size of these benefits and the low cost of many of the megastudy interventions, they argue that four of the top five interventions have a positive cost-benefit and would be worth scaling.
 
 The gap in this analysis is that it is better described as a *fiscal* analysis rather than a true cost-benefit analysis. It's ignoring many of the costs and benefits that a good public policy cost-benefit analysis would typically include.
 
@@ -243,7 +243,7 @@ Alternatively, you could attempt to capture those personal cost and benefits thr
 
 An interesting additional question would be whether the gym chain gets a return that makes it worthwhile from a business perspective. Do more people retain their gym membership? To the extent they do, this builds the business case but also creates another cost to individuals we should consider in our cost-benefit analysis.
 
-## 9, The common task approach
+## 9. The common task approach
 
 One interesting suggestion in the paper is that the megastudy drew inspiration from the common task framework.
 
@@ -258,7 +258,9 @@ Most common task frameworks also allow iterative exploration and progress. Teams
 Maybe the megastudy study teams should take the inspiration from the common task framework more seriously.
 
 - Why don't they run this experiment with the gym chain every year? Solicit open entries, with a process to whittle them down to the required number of interventions. Include a range of the best interventions from previous years. (And do it with more power.)
+
 - Introduce a version out-of-sample testing through replication. Take the top interventions from an initial run of four weeks, and run them with a new group of gym members over another four weeks. This will allow testing of the robustness of the ordering and another check on the magnitude of the winner effect.
+
 - Here's one half-baked idea: treat the prediction process as a tournament. Maybe one element could involve people submitting models (likely with some combination of Natural Language Processing and an underlying model of the decision maker) to predict which interventions will outperform. Use that to get an insight into theory.
 
 If we took these extra steps, however, a limitation to the common task framework will become of increasing importance to the megastudy: overfitting. If you run a contest to increase gym attendance again and again there's a higher probability that one of the interventions will capitalise on an idiosyncratic feature of that gym and its members. Great results, poor generalisation. Maybe we need a different gym each year, or another parallel context, but then you get into questions of comparability.
@@ -283,4 +285,4 @@ I've dedicated most of this post to examining limitations to the megastudy. I do
 
 - The "winning" message for that first vaccination study appears, to me at least, a bit deceptive: "...this is a reminder that a flu vaccine has been reserved for your appt..."
 
-- What is the threshold is for a megastudy? The vaccination megastudy involved 19 nudges. Does the Behavioural Insights team [trial of 7 different messages on organ donation](https://doi.org/10.1186/s13063-018-2855-5) make the cut? It had 1,085,322 participants. And it enabled the testing of multiple hypotheses in a single context while maintaining adequate power. I've seen industry trials in the digital realm with more treatments. Is the concept of the megastudy that new?
+- What is the threshold is for a megastudy? The vaccination megastudy involved 19 nudges. Does the Behavioural Insights team [trial of 7 different messages on organ donation](https://doi.org/10.1186/s13063-018-2855-5) make the cut? It had 1,085,322 participants. And it enabled the testing of multiple hypotheses in a single context while maintaining adequate power. I've seen industry trials in the digital realm with more treatments. Is the concept of the megastudy that new? What seems new to me in the emergence of star academic researchers with access to enough resources to run these projects.
