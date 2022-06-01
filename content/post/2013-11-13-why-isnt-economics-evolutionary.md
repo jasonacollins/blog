@@ -1,5 +1,5 @@
 ---
-title: "Why isn't economics evolutionary?""
+title: "Why isn't economics evolutionary?"
 author: Jason Collins"
 date: 2013-11-13 13:48:03+00:00
 draft: false
