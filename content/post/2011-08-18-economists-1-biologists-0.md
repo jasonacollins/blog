@@ -1,5 +1,5 @@
 ---
-title: "Economists 1, Biologists 0""
+title: "Economists 1, Biologists 0"
 author: "Jason Collins"
 date: 2011-08-18 11:36:53+00:00
 draft: false
