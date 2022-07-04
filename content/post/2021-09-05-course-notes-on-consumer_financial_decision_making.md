@@ -10,6 +10,10 @@ slug: course-notes-on-applied-consumer-financial-decision-making
 
 ---
 
+These notes are now out-of-date. See the updated notes [here](https://cfdm.jasoncollins.blog).
+
+--
+
 Below are the notes I developed in preparing content for a unit in Applied Consumer Financial Decision Making as part of UTS's Graduate Certificate in Behavioural Economics. (It was titled [*Behavioural Approach to Investment and Insurance Decisions*](https://www.handbook.uts.edu.au/subjects/23712.html)).
 
 The course was for post-graduates with no assumed prior knowledge of economics or behavioural economics. This unit taken taken after introductory economics and behavioural economics units.
