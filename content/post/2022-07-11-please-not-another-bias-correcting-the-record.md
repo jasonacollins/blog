@@ -2,7 +2,7 @@
 title: 'Please not another bias: correcting the record'
 author: "Jason Collins"
 date: 2022-07-11 09:00:00+10:00
-draft: true
+draft: false
 math: true
 images: ["/img/ronay-and-von-hippel-2010-figure-1.jpg"]
 slug: please-not-another-bias-correcting-the-record
