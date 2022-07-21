@@ -3,7 +3,7 @@ title: 'Please, not another bias! An evolutionary take on behavioural economics'
 author: "Jason Collins"
 date: 2015-07-30 06:00:45+00:00
 draft: false
-images: ["/img/2015-07-30-please-not-another-bias-an-evolutionary-take-on-behavioural-economics/cassini.jpg?w=300"]
+images: ["/img/2015-07-30-please-not-another-bias-an-evolutionary-take-on-behavioural-economics/cassini.jpg"]
 slug: please-not-another-bias-an-evolutionary-take-on-behavioural-economics
 ---
 
