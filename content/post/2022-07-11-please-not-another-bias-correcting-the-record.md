@@ -8,7 +8,7 @@ images: ["/img/ronay-and-von-hippel-2010-figure-1.jpg"]
 slug: please-not-another-bias-correcting-the-record
 ---
 
-In 2015 I gave a presentation titled "Please Not Another Bias! An Evolutionary Take on Behavioural Economics" at the Marketing and Science Ideas Exchange (MSIX) conference. I posted my presentation [on this blog](/2015-07-30-please-not-another-bias-an-evolutionary-take-on-behavioural-economics/), where it had around 100,000 readers in the first month (a lot for this blog). [A copy of the post](https://evonomics.com/please-not-another-bias-the-problem-with-behavioral-economics/) was the most popular post on Evonomics in its first year.
+In 2015 I gave a presentation titled "Please Not Another Bias! An Evolutionary Take on Behavioural Economics" at the Marketing and Science Ideas Exchange (MSIX) conference. I posted my presentation [on this blog](/please-not-another-bias-an-evolutionary-take-on-behavioural-economics/), where it had around 100,000 readers in the first month (a lot for this blog). [A copy of the post](https://evonomics.com/please-not-another-bias-the-problem-with-behavioral-economics/) was the most popular post on Evonomics in its first year.
 
 I still see the post shared, which brings a slight cringe, as its not the article I would write today. I stand by the general argument, but there are several points that I would like to change.
 
