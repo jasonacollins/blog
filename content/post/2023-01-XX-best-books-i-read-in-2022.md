@@ -22,8 +22,9 @@ I've also included a list of books commenced but abandoned. There are 9 on that 
 - Brian Christian, *The Alignment Problem*
 - David Epstein, *Range: Why Generalists Triumph in a Specialized world*
 - David Graeber, *Bullshit Jobs*
-- Adam Kay, *This Is Going to Hurt"
-- Micharel Lewis, *Moneyball*\*
+- Adam Kay, *This Is Going to Hurt*\*
+- Michael Lewis, *Moneyball*\*
+- Murakami Running
 - Carl Rhodes, *Woke Capitalism: How Corporate Morality is Sabotaging Capitalism*
 - David Sinclair, *Lifespan: Why We Age--And Why We Don't Have to*
 - Richard Thaler, [*The Winner's Curse: Subtitle*]
@@ -40,22 +41,30 @@ I've also included a list of books commenced but abandoned. There are 9 on that 
 - Arthur Conan Doyle, *The Valley of Fear*\*
 - Arthur Conan Doyle, *His Last Bow*\*
 - Arthur Conan Doyle, *The Case-Book of Sherlockl Holmes* (Conan Doyle had really given up by these final stories.)
+- 
+- Muakami, *1Q84*
 - Neal Stephenson, *Termination Shock*
 
 *Commenced but abandoned*
+- Tommy Caldwell, *The Push*
 - Scott Cunningham, *Causal Inference: The Mixtape*
 - Paul Gilding, *The Great Disruption*
+- Alex Honnold, *Alone on the Wall*
 - Nick Hornby, *About a Boy*
 - Nick Hornby, *High Fidelity*
+- Michael Houellebecq, *Serotonin*
 - Marcel Proust, *Swann's Way*
 - M Mitchell Waldrop, *Complexity*
+- Underground
 
 *Read to the kids*
 - Jeffrey Brown, *Jedi Academy*
 - Lewis Carroll, *Alice's Adventures in Wonderland*\*
 - Lewis Carroll, *Through the Looking-glass*\*
-- Gillian Cross, *The Iliad*
-- Gillian Cross, *The Odyssey*
+- Gillian Cross, *The Iliad* (twice)
+- Gillian Cross, *The Odyssey* (twice)
+- xxx *Charlie and the Chocolate Factory*\*
+- xxx *Charlie and the Great Glass Elevator*
 - Anna Sewell, *Black Beauty*
 - Lemony Snickett, *The Bad Beginning*
 - Johanna Spyri, *Heidi*
@@ -67,5 +76,8 @@ I've also included a list of books commenced but abandoned. There are 9 on that 
 - Tui T. Sutherland, *Flames of Hope*
 - [Add Geronimo Stilton Volcano of Fire]
 - J.R.R. Tolkein, *The Hobbit*\*
+- J.R.R. Tolkein, *The Fellowship of the Ring*
+- Zac Powers
+- Percy Jackson book 1
 
 Previous best book lists: [2010](/top-10-books-in-2010/), [2011](/best-books-i-read-in-2011/), [2012](/the-best-books-i-read-in-2012/), [2013](/best-books-i-read-in-2013/), [2014](/best-books-i-read-in-2014/), [2015](/best-books-i-read-in-2015/), [2016](/best-books-i-read-in-2016/), [2017](/best-books-i-read-in-2017/), [2018](/books-i-read-in-2018/), [2019](/best-books-i-read-in-2019/), [2020](/best-books-i-read-in-2020/), [2021](/best-books-i-read-in-2021/)
