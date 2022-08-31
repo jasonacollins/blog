@@ -6,6 +6,10 @@ title: "Writing"
 
 Apart from this blog and my [academic publications](/research/), I have written for a range of other venues. Below is a selection:
 
+### 2022
+
+"[We don’t have a hundred biases, we have the wrong model](https://www.worksinprogress.co/issue/biases-the-wrong-model/)", Works in progress
+
 ### 2019
 
 “[Principles for the Application of Human Intelligence](https://behavioralscientist.org/principles-for-the-application-of-human-intelligence/)”, Behavioral Scientist. Discussed in [The Guardian](https://www.theguardian.com/commentisfree/2019/dec/14/err-is-human-why-fear-machines-made-to-err-less-algorithmic-bias).
