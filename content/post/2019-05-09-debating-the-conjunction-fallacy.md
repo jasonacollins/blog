@@ -20,14 +20,21 @@ From [Eliezer Yudkowsky on Less Wrong](https://www.lesswrong.com/posts/cXzTpSiCr
 >>
 >> Please rank the following statements by their probability, using 1 for the most probable and 8 for the least probable:
 >>
->>(5.2)  Linda is a teacher in elementary school.
->>(3.3)  Linda works in a bookstore and takes Yoga classes.
->>(2.1)  Linda is active in the feminist movement. (F)
->>(3.1)  Linda is a psychiatric social worker.
->>(5.4)  Linda is a member of the League of Women Voters.
->>(6.2)  Linda is a bank teller. (T)
->>(6.4)  Linda is an insurance salesperson.
->>(4.1)  Linda is a bank teller and is active in the feminist movement. (T & F)
+>>(5.2) Linda is a teacher in elementary school.
+>>
+>>(3.3) Linda works in a bookstore and takes Yoga classes.
+>>
+>>(2.1) Linda is active in the feminist movement. (F)
+>>
+>>(3.1) Linda is a psychiatric social worker.
+>>
+>>(5.4) Linda is a member of the League of Women Voters.
+>>
+>>(6.2) Linda is a bank teller. (T)
+>>
+>>(6.4) Linda is an insurance salesperson.
+>>
+>>(4.1) Linda is a bank teller and is active in the feminist movement. (T & F)
 >
 >(The numbers at the start of each line are the mean ranks of each proposition, lower being more probable.)
 >
@@ -39,17 +46,17 @@ From [Eliezer Yudkowsky on Less Wrong](https://www.lesswrong.com/posts/cXzTpSiCr
 >
 >>A 55-year-old woman had pulmonary embolism documented angiographically 10 days after a cholecstectomy. Please rank order the following in terms of the probability that they will be among the conditions experienced by the patient (use 1 for the most likely and 6 for the least likely). Naturally, the patient could experience more than one of these conditions.
 >>
->>* Dyspnea and hemiparesis
+>>- Dyspnea and hemiparesis
 >>
->>* Calf pain
+>>- Calf pain
 >>
->>* Pleuritic chest pain
+>>- Pleuritic chest pain
 >>
->>* Syncope and tachycardia
+>>- Syncope and tachycardia
 >>
->>* Hemiparesis
+>>- Hemiparesis
 >>
->>* Hemoptysis
+>>- Hemoptysis
 >
 >As Tversky and Kahneman note, "The symptoms listed for each problem included one, denoted B, that was judged by our consulting physicians to be nonrepresentative of the patient's condition, and the conjunction of B with another highly representative symptom denoted A. In the above example of pulmonary embolism (blood clots in the lung), dyspnea (shortness of breath) is a typical symptom, whereas hemiparesis (partial paralysis) is very atypical."
 >
@@ -58,10 +65,12 @@ From [Eliezer Yudkowsky on Less Wrong](https://www.lesswrong.com/posts/cXzTpSiCr
 >The experiment was designed to eliminate, in four ways, the possibility that subjects were interpreting B to mean "only B (and not A)". First, carefully wording the instructions:  "...the probability that they will be among the conditions experienced by the patient", plus an explicit reminder, "the patient could experience more than one of these conditions". Second, by including indirect tests as a comparison. Third, the researchers afterward administered a questionnaire:
 >
 >>In assessing the probability that the patient described has a particular symptom X, did you assume that (check one):
->>X is the _only_ symptom experienced by the patient?
->>X is _among_ the symptoms experienced by the patient?
 >>
->>60 of 62 physicians, asked this question, checked the second answer.
+>>X is the _only_ symptom experienced by the patient?
+>>
+>>X is _among_ the symptoms experienced by the patient?
+>
+>60 of 62 physicians, asked this question, checked the second answer.
 >
 Fourth and finally, as Tversky and Kahneman write, "An additional group of 24 physicians, mostly residents at Stanford Hospital, participated in a group discussion in which they were confronted with their conjunction fallacies in the same questionnaire. The respondents did not defend their answers, although some references were made to 'the nature of clinical experience.'  Most participants appeared surprised and dismayed to have made an elementary error of reasoning."
 >
@@ -77,4 +86,4 @@ Fourth and finally, as Tversky and Kahneman write, "An additional group of 24 ph
 >
 >The [conjunction fallacy](https://www.lesswrong.com/lw/ji/conjunction_fallacy/) is probably the single most questioned bias ever introduced, which means that it now ranks among the best replicated. The conventional interpretation has been nearly absolutely nailed down.
 
-There are a few additional experiments in Yudkowsky’s post that I have not replicated here.
+There are a few additional experiments in Yudkowsky’s post that I have not included here.
