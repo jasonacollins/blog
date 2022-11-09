@@ -17,4 +17,4 @@ On [Twitter](https://twitter.com/jasonacollins) (checked only occasionally)
 
 On [LinkedIn](https://www.linkedin.com/in/jasonallancollins/) (checked even less often)
 
-For direct contact, email me at `grants_trainee.0` [@] `icloud.com`. (Address regularly refreshed to eliminate spammers.  I don't host guest posts or advertising.)
+For direct contact, email me at `croon_alike0c` [@] `icloud.com`. (Address regularly refreshed to eliminate spammers.  I don't host guest posts or advertising.)

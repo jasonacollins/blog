@@ -28,6 +28,8 @@ The list includes several podcast episodes. I am definitely more a writer than a
 
 [Rationally Speaking with Julia Galef - A skeptical take on behavioral economics](http://rationallyspeakingpodcast.org/219-a-skeptical-take-on-behavioral-economics-jason-collins/) ([post](/me-on-rationally-speaking-plus-some-additional-thoughts/))
 
+[Between Worlds with Mike Walsh - Why humans should stop making making so many decisions](https://soundcloud.com/mikewalsh/jason-collins)
+
 [Challenging “Nudge Economics”: Reframing the market as a community of advantage](https://www.themintmagazine.com/challenging-nudge-economics-reframing-the-market-as-a-community-of-advantage): A conversation with Prof Robert Sugden.
 
 Discussion of my fertility paper with Lionel Page at [Forbes](https://www.forbes.com/sites/ebauer/2018/11/08/will-fertility-rebound-new-study-says-yes)
