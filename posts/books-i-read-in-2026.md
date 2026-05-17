@@ -18,7 +18,10 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 - Emily M. Bender and Alex Hanna, *The AI Con: How to Fight Big Tech's Hype and Create the Future We Want*
 - Max Bennet, *A Brief History of Intelligence*
 - Keach Hagey, *The Optimist: Sam Altman, OpenAI, and the Race to Invent the Future*
+- Blake J. Harris, *The history of the future: Oculus, Facebook, and the revolution that swept virtual reality*
 - Pablos Holman, *Deep future: creating technology that matters*
+- John C. Lennox, *2084 and the AI revolution: how artificial intelligence informs our future*
+- Brian Merchant, *Blood in the machine: the origins of the rebellion against big tech*
 - Marvin Minsky, *The Society of Mind*
 - Andrew Ross Sorkin, *1929: Inside the Greatest Crash in Wall Street History*
 - Gary Rivlin, *AI Valley: Microsoft, Google, and the Trillion-Dollar Race to Cash In on Artificial Intelligence*
@@ -26,11 +29,14 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 
 *Fiction*
 
+- Becky Chambers, *The long way to a small, angry planet*
 - Dan Simmons, *Hyperion*
 - Dan Simmons, *Fall of Hyperion*
 - Lemony Snicket, *The Vile Village*
 - Lemony Snicket, *The Hostile Hospital*
 - Lemony Snicket, *The Carnivorous Carnival*
+- Lemony Snicket, *The Slippery Slope*
+- Lemony Snicket, *The Grim Grotto*
 - Martha Wells, *Artificial Condition*
 - Martha Wells, *Rogue Protocol*
 - Martha Wells, *Exit Strategy*
