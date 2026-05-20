@@ -10,7 +10,66 @@
 <atom:link href="https://blog.jcx.au/index.xml" rel="self" type="application/rss+xml"/>
 <description>Behavioural economics, data science and artificial intelligence.</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Sun, 17 May 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 20 May 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Gary Marcus’s Kluge and the benchmark of perfection</title>
+  <dc:creator>Jason Collins</dc:creator>
+  <link>https://blog.jcx.au/posts/gary-marcuss-kluge.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>As Gary Marcus so often appears in debates about the future of artificial intelligence, I decided to grab his 2008 book <a href="https://en.wikipedia.org/wiki/Kluge_(book)">Kluge: The Haphazard Construction of the Human Mind</a> from my overgrown reading pile. I’m glad I did, though not because it taught me much about the human mind. It helped me understand Marcus’s critique of generative AI.</p>
+<p>Marcus’s argument is that the human mind is a ‘kluge’, a clumsy or inelegant yet surprisingly effective solution to a problem. Like our backward-installed retina and spine suited to quadrupedal walking, the human mind is - while impressive - flawed. (Random aside: like me, Marcus is a big user of em-dashes.)</p>
+<p>The accumulation of kluges comes from the path dependent nature of evolution. There is no grand designer constructing an optimal human (or human mind) from scratch. Rather, humans evolved through a series of incremental tweaks, each built upon the last. If we think of evolution as climbing a mountain toward higher fitness, each change that spreads will take us closer to the peak. However, that peak may not be the highest. Other higher peaks may not be attainable as we would first be required to walk through a valley of lower fitness.</p>
+<p>On one level, this is uncontroversial. Few would disagree that evolution is a path dependent process or that we have mental structures that would not be “designed”.<sup>1</sup> The debate emerges around the specifics. An apparent flaw in the mind could be at least four different things. It could be a kluge, a clumsy workaround resulting from evolutionary path dependence. It could be an adaptation that, while appearing off, solves a recurring problem. It could be a design trade-off, where improving one feature worsens another. Or it could be evolutionary mismatch, whereby a once useful strategy backfires in a modern environment.</p>
+<p>Marcus moves too quickly from “this produces errors” to “this is a kluge”. Much evolutionary psychology literature has a different instinct, taking the adaptationist approach. Seek to understand the purpose of our apparent foibles. Why might men overestimate the sexual intentions of potential mates? One possibility is asymmetric errors. The genes of the man who misses true opportunities are no longer with us. On that account, this behaviour reflects adaptation. Marcus, however, sees a kluge.</p>
+<p>I have sympathy for Marcus’s critique. However, through the book, Marcus rarely convinced me on the specifics. He is quick to jump from seeing an error to identifying a kluge, straw-manning the strongest adaptationist arguments, sidestepping questions about trade-offs, and benchmarking the mind against a standard of perfection - one that I doubt even computers can meet. We are left wondering whether he has genuinely identified a kluge, an adaptation, a design trade-off or a mismatch.</p>
+<p>Take his discussion of whether mental illness could have an evolutionary advantage. He refers to:</p>
+<blockquote class="blockquote">
+<p>the somewhat dubious suggestion that schizophrenia might have been selected for by natural selection because of a purported benefit that visions conveyed to tribal shamans, but there are many others.</p>
+<p>… If you’re like me, you won’t find these examples particularly compelling. Were schizophrenics really more likely than other people to become shamans?</p>
+</blockquote>
+<p>A fair question, but that’s it. We are barely exposed to the rich literature on the evolutionary foundations of mental illness. (Which in fairness to Marcus has become much richer since he wrote his book. Read Marco del Giudice’s <a href="https://marcodg.net/evolutionary-psychopathology/">Evolutionary Psychopathology</a> as an illustration.) Instead we get thought experiments about how people could motivate themselves without depression, anxiety or desire for status by simple rational thought. Maybe, but thought experiments fall well short of a solid case.</p>
+<p>Marcus also doesn’t establish that the problems are due to the path dependence of evolution. Most chapters end with a statement about how a more recent deliberative system is bolted onto a reflexive ancient system (the System 1 - System 2 dichotomy made famous by Kahneman), rather than a description of the evolutionary path that led to this outcome. We get a few mentions of older structures such as the cerebellum, amygdala or basal ganglia, or newer regions such as the pre-frontal cortex, but rarely any evidence of how these cause the behaviour we see.</p>
+<p>His chapter on choice illustrates. The chapter contains a parade of classic illustrations of our irrationality. We get the Asian disease problem, the Allais paradox, the use of Christmas clubs to save (as a kluge against our lack of self control) and the trolley problem.<sup>2</sup> I agree that there is something not quite right with some of these decisions. There are interesting debates about which of these are systemic errors and which represent the outcomes of a decision strategy that is optimal given the sparse and noisy data available for the decision. That is, what decision strategies are “ecologically rational”? But Marcus doesn’t go there. Error is simply taken to mean kluge. Similarly, there is no discussion of evolutionary mismatch, whereby once-optimal strategies backfire in a new environment.</p>
+<p>Underlying much of his critique is Marcus’s definition of optimality, which largely consists of what he believes he could build with a computer. For instance, the benchmark against which our fallible memories are compared is “postal-code memory”, where a computer assigns an address to each memory. When it needs access to that memory, it simply goes there. He states that “Having postal-code memory would have been terrifically useful for us, but evolution never discovered the right part of the mountain range.”</p>
+<p>This benchmark of perfection, however, does not acknowledge any trade-offs. How much storage space do we have? What is the cost of that space? If we had perfect memory, how long would it take to search across it and retrieve what we need?</p>
+<p>Those trade-offs are also apparent in the world of deep learning. A deep learning algorithm that simply memorises is useless. It overfits the data. You want generalisation. You want it to <a href="https://pair.withgoogle.com/explorables/grokking/">grok</a>. Is this also the case for humans? While Marcus’s book well predates today’s algorithms and LLMs, there was plenty of research relevant to this point even then.</p>
+<p>For example, <span class="citation" data-cites="elman1993">Elman (1993)</span> sought to train a neural network to understand grammatical relationships. The network with extensive memory failed to pick up core concepts. Elman then restricted the memory of the network such that it forgot everything after a few words, possibly mimicking the memory of young children when they first learned to speak. This constrained network was able to learn basic rules. As its memory was then increased, it was ultimately able to learn a fuller set of relationships than the unconstrained model.</p>
+<p>Discussions of research such as this would have made for compelling reading. Is limited memory a kluge or a necessary element of learning? Unfortunately, we’re not exposed to that debate.</p>
+<p>After reading Marcus’s arguments and seeing the benchmark of perfection permeating his critique of the human mind, his views on generative AI make more sense to me. He sees perfection as achievable with computers. Perfect postal-code memory. Searching all relevant data. Deterministic outputs. Computer-based parsers that slot each noun and verb into its proper place. With that expectation, it is no wonder that he sees the hallucinations produced by large language models as a failure. We could have perfection.</p>
+<p>But could we? Is some level of hallucination or imperfect memory an inevitable consequence of the learning process? Are the most robust heuristics imperfect in some environments? Unfortunately, this question is sidestepped.</p>
+<p>In the closing chapter Marcus offers us 13 ways to be better thinkers. Chapters like this typically feel like a request from the publisher to end on a positive, practical note, and this is no exception. Consider alternative hypotheses. Compare costs and benefits. Sound advice, but you don’t need to think of the mind as a kluge to come up with any of the items on this list.</p>
+<p>A more useful lesson is not that the mind is full of kluges. Rather, apparent defects need to be judged against realistic alternatives. This applies to both evolved minds and artificial ones.</p>
+
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2">
+<div id="ref-elman1993" class="csl-entry">
+Elman, J. L. (1993). Learning and development in neural networks: the importance of starting small. <em>Cognition</em>, <em>48</em>(1), 71–99. <a href="https://doi.org/10.1016/0010-0277(93)90058-4">https://doi.org/10.1016/0010-0277(93)90058-4</a>
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>The exception to that is creationists, who Marcus targets in the final chapter. No “intelligent designer” would have put us together that way. This does give a slightly dated feel to the book as those creationist-atheist debates of the late ‘aughts’ have largely withered away.↩︎</p></li>
+<li id="fn2"><p>From the perspective of 2026 (or even 2016), the cited psychology research is weak. Many of the experiments have not replicated. These include:</p>
+<ul>
+<li>Priming people with words relating to the elderly <a href="https://doi.org/10.1371/journal.pone.0029081">does not make them walk slower</a> (unless the person doing the timing was in on the experiment…).</li>
+<li>Holding a pen between your teeth to force a smile <a href="https://doi.org/10.1177/1745691616674458">does not make a cartoon funnier</a>.</li>
+<li>Priming people with terms relating to professor - as opposed to soccer hooligan - <a href="https://doi.org/10.1177/1745691618755704">does not make them better at trivia</a>.</li>
+</ul>
+<p>Even those studies without the accompanying failed replication should be treated similarly. They come from an era where our <a href="../posts/a-default-of-disbelief">default should be disbelief</a>.</p>
+<p>That said, if Marcus rewrote the book today, he could find enough experiments to back his point. It would have a very different feel however, with much of the novelty that made those experiments such great fodder of popular science books gone.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <guid>https://blog.jcx.au/posts/gary-marcuss-kluge.html</guid>
+  <pubDate>Wed, 20 May 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://blog.jcx.au/posts/img/kluge.png" medium="image" type="image/png" height="79" width="144"/>
+</item>
 <item>
   <title>We will happily disempower ourselves: Go edition</title>
   <dc:creator>Jason Collins</dc:creator>
@@ -1906,307 +1965,6 @@ Silberberg, A., and Kearns, D. (2009). Memory for the order of briefly presented
   <guid>https://blog.jcx.au/posts/humans-1-chimps-0-correcting-the-record.html</guid>
   <pubDate>Wed, 24 Jul 2024 22:00:00 GMT</pubDate>
   <media:content url="https://blog.jcx.au/posts/img/ayumu.png" medium="image" type="image/png" height="98" width="144"/>
-</item>
-<item>
-  <title>Using generative AI as an academic - July 2024 edition</title>
-  <dc:creator>Jason Collins</dc:creator>
-  <link>https://blog.jcx.au/posts/using-generative-AI-as-academic-july-2024-edition.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>I first wrote <a href="https://www.jasoncollins.blog/posts/using-large-language-models-as-academic">a version of this post in April 2023</a>. A lot has changed since then in both the tools and how I use them.</p>
-<p>As was the case then, if you want a sense of the frontier, others such as <a href="https://www.oneusefulthing.org/">Ethan Mollick</a> will give you a better flavour. But if you’re after some practical examples, you might find this useful.</p>
-<section id="my-toolkit" class="level2">
-<h2 class="anchored" data-anchor-id="my-toolkit">My toolkit</h2>
-<p>I use multiple tools, switching between them depending on the task and comparing the responses. I want to gain a sense of the frontier.</p>
-<p>As an academic, I gain free access to <a href="https://github.com/features/copilot">Github Copilot</a>. (Students can also get free access.) CoPilot provides code suggestions in coding environments. But while badged this way, CoPilot also provides text suggestions more broadly. To access CoPilot, I write markdown documents in <a href="https://code.visualstudio.com">Visual Studio Code</a> or <a href="https://posit.co/download/rstudio-desktop/">RStudio</a>. (For those who want more specific guidance on how to set this up, I’ve added that at the bottom of this post.) If you use CoPilot in Visual Studio Code you also gain access to <a href="https://docs.github.com/en/copilot/using-github-copilot/asking-github-copilot-questions-in-your-ide">Copilot Chat</a>.</p>
-<p>I also work with <a href="https://chat.openai.com/">ChatGPT Plus</a> and <a href="https://www.anthropic.com/claude">Claude Pro</a> open in a browser. I subscribe to the Pro/Plus version of both: it is worth it for the superior tools. As you’ll see from the below, I use them all the time, although more recently I lean toward Claude.</p>
-<p>I run some other large language models locally on my computer using <a href="https://ollama.com/">Ollama</a>. I do this more to get a feel for them than for current utility. Most of my recent experimentation has been with <a href="https://ollama.com/library/llama3">Llama 3</a>. I use these models via the command line or the <a href="https://github.com/logancyang/obsidian-copilot">CoPilot plugin</a> in <a href="https://obsidian.md/">Obsidian</a>.</p>
-<p>I also subscribe to <a href="https://elevenlabs.io/">ElevenLabs</a> for its voice-generation capabilities. More on that below.</p>
-<p>I’ve experimented with other tools, but they haven’t yet formed a large part of my workflow. I don’t use Bing much, except for images if ChatGPT isn’t giving me what I want. I like that it gives four images for every prompt. I experimented with Google Gemini but haven’t found a reason for it to supplant the Claude plus ChatGPT combination. I revisit it every month or two to see whether I should add it to the mix.</p>
-</section>
-<section id="thinking" class="level2">
-<h2 class="anchored" data-anchor-id="thinking">Thinking</h2>
-<ul>
-<li>Efficiency gain: uncertain</li>
-</ul>
-<p>I am increasingly using Claude and ChatGPT as interactive <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging">rubber ducks</a>. When thinking through something new, I’ll often state my thoughts and ask for comments. I’ll often ask them to explain a concept to me, then I will ask follow-up questions. Sometimes I’ll do this in ChatGPT with voice mode when I am walking. I know that I’m not getting 100% accurate information, but I wouldn’t talking to a friend either.</p>
-<p>Similarly, after reading an article and forming my own views on its message, strengths and weaknesses, I’ll ask Claude or ChatGPT their views. I find this can be hit and miss, but on net worth doing. Sometimes the description is spot on, and the critiques hit points I haven’t thought of.</p>
-<p>Finally, if I have a technical question, I’ll ask before googling. It’s faster and, I would say, more accurate than the top Google hits.</p>
-</section>
-<section id="coding-and-data-analysis" class="level2">
-<h2 class="anchored" data-anchor-id="coding-and-data-analysis">Coding and data analysis</h2>
-<ul>
-<li>Efficiency gain: 10x</li>
-<li>Quality gain: 50%</li>
-</ul>
-<p>Despite spending a lot of time in R, I am a crap coder. As a result, my typical approach is to write a comment and let CoPilot do the first cut of the code. I will then tweak the code until it is in shape. That tweaking isn’t manual tweaking either. If there is an error or problem that I can’t resolve, I’ll use CoPilot Chat to get a solution. Chat will usually provide code solving the problem.</p>
-<p>CoPilot is also great in helping me understand someone else’s code. I’ll highlight sections and ask CoPilot Chat to explain what it does. Often, I’ll paste poorly documented code into Claude or ChatGPT and ask it to write comments. Further, If the code looks overly complicated, a request to simplify often yields good results. (I’ve been asking ChatGPT to review some of my old code recently. I’m a bit embarrassed at how much more efficiently I could have written it.)</p>
-<p>One large benefit has come from cross-language translation. Last year I wanted to reproduce the results in Berkeley Dietvorst’s <a href="https://doi.org/10.1037/xge0000033">Algorithm aversion: People erroneously avoid algorithms after seeing them err</a>. Data and the code for analysis were <a href="https://researchbox.org/379&amp;PEER_REVIEW_passcode=MOQTEQ">available on ResearchBox</a>. The problem was that the code was in Stata, and I have no desire to learn Stata.</p>
-<p>I pasted the Stata code into ChatGPT and asked for a conversion to R. What I received was 90% of the way there. Initially, there was an error, but pasting the error into ChatGPT gave me the solution first shot. I then tweaked a couple of the variable manipulations and specified that some of the t-tests were paired t-tests. That was it. In less than 10 minutes I had code that reproduced exactly the results from Study 1. I’ve now done this translation dozens of times when examining and reproducing studies by others.</p>
-<p>I’m increasingly asking ChatGPT and Claude to provide me with working programs. For example, I am building a website with an underlying database and model for predicting AFL games. (I wanted to experiment with how far I could go with these tools.) I obtained a web interface and underlying code from Claude to access the database. I used ChatGPT for the first version of the predictive model. I’m now playing with the details, but the core is there. I wouldn’t even attempt it without these tools.</p>
-<section id="data-exploration" class="level3">
-<h3 class="anchored" data-anchor-id="data-exploration">Data exploration</h3>
-<ul>
-<li>Efficiency gain: 2x</li>
-</ul>
-<p>Any time I am about to work with new data, confidentiality permitting, I’ll give the data to ChatGPT and ask about it. I’ll start generally: “tell me about this file”. Then I’ll work down to the details and ask for basic visualisations and analysis. Finally, I’ll export the Python code (or ask for an R version of the code).</p>
-<p>Ever since the <a href="https://datacolada.org/98">Dan Ariely car insurance data fraud</a>, which is obvious from a simple plot, I’ve made it a habit of looking at the data before jumping into analysis (which I didn’t do as often as I should have in the past). It’s surprising how often I find that something is not quite right or as expected. Having ChatGPT on hand makes this first step quick and easy.</p>
-</section>
-<section id="extracting-pdf-data" class="level3">
-<h3 class="anchored" data-anchor-id="extracting-pdf-data">Extracting pdf data</h3>
-<ul>
-<li>Efficiency gain: 10x</li>
-</ul>
-<p>This is a small one in that I don’t need to do that often, but it’s a massive time saver. If there is a large table in a PDF, I ask ChatGPT to output it as a CSV. Recently, I had data spread across half a dozen PDFs in poorly formatted tables. I used ChatGPT to combine and arrange the data. I check the accuracy as I don’t fully trust ChatGPT, but the accuracy is typically great, saving me a lot of time.</p>
-</section>
-</section>
-<section id="writing" class="level2">
-<h2 class="anchored" data-anchor-id="writing">Writing</h2>
-<ul>
-<li>Efficiency gain: 20%</li>
-<li>Quality gain: 10%</li>
-</ul>
-<p>When I first started using GitHub CoPilot, I would have it on whenever I was writing. I would receive suggestions as I typed. Today, I generally turn it off when writing a first draft. The distraction in filtering suggestions was too costly, and I was worried about getting dragged in random directions.</p>
-<p>However, I use Claude and ChatGPT a lot to improve my writing. When I’m having trouble getting a sentence or paragraph right, I’ll often hand it over and ask for 10 possible rewrites. Similarly, I will ask for simpler, shorter or more conversational text. I’ll rarely take a rewrite as provided, but it often gives me a word or turn of phrase that does the job.</p>
-<section id="lecture-notes" class="level3">
-<h3 class="anchored" data-anchor-id="lecture-notes">Lecture notes</h3>
-<p>For more mechanical lecture notes, there are some clear gains. The notes for my undergraduate behavioural economics subject (which you can access <a href="https://behaviouraleconomics.jasoncollins.blog">here</a>) were produced with CoPilot assistance.</p>
-<p>Here are a few instances where CoPilot has been useful.</p>
-<p>Often the notes include a statement of a concept followed by a step-by-step example or illustration. The gain comes when you’re writing those steps.</p>
-<p>For example, in a section about decision making under risk, I might write:</p>
-<blockquote class="blockquote">
-<p>Bill is a risk-averse agent with utility function <img src="https://latex.codecogs.com/png.latex?u(x)=%5Ctext%7Bln%7D(x)"> and wealth of $100. He is offered a 50:50 bet to win $100, lose $50.</p>
-<p>Will Bill accept the bet?</p>
-</blockquote>
-<p>If I write the first couple of words of the answer “First, we calculate…”, CoPilot is away.</p>
-<blockquote class="blockquote">
-<p>First, we calculate the expected utility of each option. The expected utility of the bet is:</p>
-</blockquote>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><span class="in" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">```{=tex}</span></span>
-<span id="cb1-2"><span class="in" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">\begin{aligned}</span></span>
-<span id="cb1-3"><span class="in" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">EU(\text{bet}) &amp;= 0.5 \times u(100) + 0.5 \times u(-50) \\</span></span>
-<span id="cb1-4"><span class="in" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;= 0.5 \times \text{ln}(100) + 0.5 \times \text{ln}(50) \\</span></span>
-<span id="cb1-5"><span class="in" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;= 4.259</span></span>
-<span id="cb1-6"><span class="in" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">\end{aligned}</span></span>
-<span id="cb1-7"><span class="in" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">```</span></span></code></pre></div></div>
-<blockquote class="blockquote">
-<p>The expected utility of not taking the bet is:</p>
-</blockquote>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb2-1"></span>
-<span id="cb2-2"><span class="in" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">```{=tex}</span></span>
-<span id="cb2-3"><span class="in" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">\begin{aligned}</span></span>
-<span id="cb2-4"><span class="in" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">EU(\text{no bet}) &amp;= U(100) \\</span></span>
-<span id="cb2-5"><span class="in" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;= \text{ln}(100) \\</span></span>
-<span id="cb2-6"><span class="in" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">&amp;= 4.605</span></span>
-<span id="cb2-7"><span class="in" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">\end{aligned}</span></span>
-<span id="cb2-8"><span class="in" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">```</span></span></code></pre></div></div>
-<blockquote class="blockquote">
-<p>As the expected utility of the bet is less than the expected utility of not taking the bet, Bill will not accept the bet.</p>
-</blockquote>
-<p>Not bad for a few seconds of work. For those unfamiliar with the mathematical notation, this is <img src="https://latex.codecogs.com/png.latex?%5CLaTeX">, which renders into nice equations like this.</p>
-<img src="https://latex.codecogs.com/png.latex?%5Cbegin%7Baligned%7D%0AEU(%5Ctext%7Bbet%7D)%20&amp;=%200.5%20%5Ctimes%20u(100)%20+%200.5%20%5Ctimes%20u(-50)%20%5C%5C%0A&amp;=%200.5%20%5Ctimes%20%5Ctext%7Bln%7D(100)%20+%200.5%20%5Ctimes%20%5Ctext%7Bln%7D(50)%20%5C%5C%0A&amp;=%204.259%0A%5Cend%7Baligned%7D">
-<p>I might beef this up with a better explanation, or paste the question into ChatGPT directly, where I tend to get more detailed answers. CoPilot has done OK with the math here - the logs are correct!</p>
-<p>CoPilot is also great when I’m doing repetitive tasks such as describing the elements of an equation or diagram. Start describing the first element and it might give you the rest. And if you write a point followed by “Conversely, …”, CoPilot is often on the money.</p>
-<p>I also use CoPilot with <a href="https://ggplot2.tidyverse.org">ggplot</a> to produce graphs for the notes. When I wanted to generate a chart showing a <a href="https://behaviouraleconomics.jasoncollins.blog/prospect-theory/probability-weighting">probability weighting function</a> from prospect theory, I created an R code block and typed a comment:</p>
-<blockquote class="blockquote">
-<p>#Plot of probability weighting function using ggplot2</p>
-</blockquote>
-<p>Here’s the result that ChatGPT produced with the diagram rendered below:</p>
-<div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">#Plot of probability weighting function using ggplot2</span></span>
-<span id="cb3-2"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">library</span>(ggplot2)</span>
-<span id="cb3-3"></span>
-<span id="cb3-4"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">#Define probability weighting function</span></span>
-<span id="cb3-5">prob_weight <span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">&lt;-</span> <span class="cf" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">function</span>(p, alpha){</span>
-<span id="cb3-6">  <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">exp</span>(<span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">-</span>(<span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">-</span><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">log</span>(p))<span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">^</span>alpha)</span>
-<span id="cb3-7">}</span>
-<span id="cb3-8"></span>
-<span id="cb3-9"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">#Create data frame of probabilities and weights</span></span>
-<span id="cb3-10">prob <span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">seq</span>(<span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">0</span>, <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span>, <span class="fl" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">0.001</span>)</span>
-<span id="cb3-11">prob_df <span class="ot" style="color: #003B4F;
-background-color: null;
-font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">data.frame</span>(<span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">prob =</span> prob, <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">weight =</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">prob_weight</span>(prob, <span class="fl" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">0.6</span>))</span>
-<span id="cb3-12"></span>
-<span id="cb3-13"><span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">#Plot</span></span>
-<span id="cb3-14"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">ggplot</span>(prob_df, <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">x =</span> prob, <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">y =</span> weight)) <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span></span>
-<span id="cb3-15">  <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">geom_line</span>() <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span></span>
-<span id="cb3-16"></span>
-<span id="cb3-17">  <span class="co" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">#Add labels</span></span>
-<span id="cb3-18">  <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">labs</span>(<span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">x =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Probability"</span>, <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">y =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"Weight"</span>)</span></code></pre></div></div>
-<div class="cell-output-display">
-<div>
-<figure class="figure">
-<p><a href="using-generative-AI-as-academic-july-2024-edition_files/figure-html/unnamed-chunk-1-1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://blog.jcx.au/posts/using-generative-AI-as-academic-july-2024-edition_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid figure-img" width="672"></a></p>
-</figure>
-</div>
-</div>
-</div>
-<p>Exactly what I wanted. When I implemented this in the notes, I only tweaked the style and added a 45-degree line.</p>
-<p>CoPilot’s offering uses Prelec’s <span class="citation" data-cites="prelec1998">(1998)</span> probability weighting function. Whether it picked that up from earlier text in my notes or just gave the most common function for probability weighting, I don’t know, but it’s what I would have used if doing it manually. However, in writing this post I wasn’t able to replicate what I did when writing the lecture notes. I got better results in the lecture notes themselves. A few paragraphs about probability weighting before I ask for the code generated better results than asking for the chart straight up.</p>
-<p>CoPilot didn’t offer this full chunk of code at once. Each comment was offered, then the piece of code after it, one after the other. But the only work I did was writing the first comment and pressing tab several times as each succeeding comment or chunk of code was suggested. (CoPilot has certainly increased the level of comments in my code too.)</p>
-</section>
-<section id="writing-organisational-fluff" class="level3">
-<h3 class="anchored" data-anchor-id="writing-organisational-fluff">Writing organisational fluff</h3>
-<p>Work in any decent-sized modern organisation and you will have to write some level of fluff to satisfy the higher-ups, clients, government requirements and the like. I am hopeless at those tasks. I have to invest heavily to make fluff sound decent.</p>
-<p>My approach to these exercises depends on the degree of pointlessness.</p>
-<p>If the task relates to a process that will have zero impact on what anyone will do, I simply give the task to ChatGPT, let it do the first cut and then tweak as required. One or two sentences of guidance often get you 80% of the way there.</p>
-<p>If I think there is a positive benefit to the task, or it’s for public consumption, I’ll be more proactive first up. I will write a rough draft, not caring much about the writing but making sure the concepts I want to include are there. It might be in dot points. Then I’ll ask ChatGPT for a version that is “clearer”, “simpler” or “better written” or “for a ten-year-old”.</p>
-<p>Recently, I needed to describe how a program met a set of quality criteria. I uploaded some documents describing the program and a pdf that contained the criteria (in a table). I then asked Claude to provide me with short paragraphs describing how the program met the criteria. Some mild tweaking and I was there.</p>
-</section>
-<section id="generating-quiz-questions" class="level3">
-<h3 class="anchored" data-anchor-id="generating-quiz-questions">Generating quiz questions</h3>
-<ul>
-<li>Efficiency gain: 3x</li>
-</ul>
-<p>One of the best ways to learn is to be tested. As a result, I offer students in my undergraduate subject a series of practice quizzes that they can work through.</p>
-<p>It’s hard work to generate questions in bulk, and I struggle to generate plausible-sounding but incorrect answers to multiple-choice questions. I now ask ChatGPT to generate them. I upload my subject notes and ask that they be used as the basis of the questions. In the prompts, I vary in the specificity of the questions. “Give me 20 multiple choice questions testing the concept of loss aversion.” “Give me 20 multiple choice questions testing prospect theory.” Out of each batch, only a few will be suitable. But by tweaking my instruction by, say, describing the level of the students (undergraduate) or more explicitly defining the concept, it doesn’t take long to get 10 or so good questions.</p>
-<p>I have also used ChatGPT to generate question ideas for assessable quizzes and exams. That exam is a closed-book AI-invigilated exam, so is less vulnerable to someone simply feeding the questions back to ChatGPT. One helpful approach was to upload some previous exams plus my subject notes and ask for new exam questions at the same level of difficulty or on the same concepts.</p>
-</section>
-</section>
-<section id="ai-voiced-lectures" class="level2">
-<h2 class="anchored" data-anchor-id="ai-voiced-lectures">AI-voiced lectures</h2>
-<ul>
-<li>Efficiency gain: 10%</li>
-<li>Quality gain: 50%</li>
-</ul>
-<p>Last year I decided to base my undergraduate behavioural economics subject around <a href="https://www.youtube.com/@jasonacollins">short pre-recorded videos</a>, interactive online seminars and tutorials. To produce the videos I wrote scripts, which also form the <a href="https://behaviouraleconomics.jasoncollins.blog">subject notes</a>. I read the notes accompanied by slides.</p>
-<p>There are three pain points in this exercise. First, I speak too fast (even when I think I’m speaking slow) and I enunciate many words poorly. Second, recording takes a lot of time. I rarely get a two to five-minute video in a single take that I’m happy with. Third, if I want to tweak the recording, I need to either re-record solid chunks of text or fiddle around with video edits.</p>
-<p>So, why not get an artificial voice to do the speaking? When I wrote my last post, AI-voiced lectures were the future. It’s now a core part of my subject delivery.</p>
-<p>I experimented with <a href="https://murf.ai">Murf.ai</a>, <a href="https://speechify.com">Speechify</a>, <a href="https://play.ht/">play.ht</a> and <a href="https://beta.elevenlabs.io">ElevenLabs</a>. Initially I used Murf.ai to make some videos, as it allowed me to pair slides and text easily. I could also integrate with Google Slides. However, the voices sound a bit robotic, so I currently use ElevenLabs, even though all I get is an audio file. ElevenLabs has fantastic voices. Even a hint of AI voicing gets a negative reaction from students, so voice quality needs to be my primary criterion. If the Murf.ai voices improve and Eleven doesn’t develop video integration, I may shift back.</p>
-<p>The production process is easy. I paste the text into an ElevenLabs project chapter and render the voice. Typically, the pacing won’t be quite right, so I’ll add some commas and dashes to create some pauses. I then export the voice file and combine it with images in Final Cut Pro. I can normally create a five to 10 minute video from text and slides in less than a hour.</p>
-<p>The fantastic part is that if I want to update a section or change a sentence, I update the script in ElevenLabs, re-render the relevant sentences, load a new voice file into the Final Cut Pro project and tweak the slide timings (if the voice edits require it). It’s fast, simple and gives me a consistently high-quality video.</p>
-<p>ElevenLabs can “clone” your voice. I tried a quick clone on play.ht, but it gave me an American accent. On ElevenLabs, you can get a professional clone of a voice by uploading three or more hours of audio. I did that, and it sounds just like me, even with the Australian accent. Unfortunately, it comes with my faults, particularly speaking too fast. ElevenLabs doesn’t have an option to slow down the speaking outside of putting a mountain of dashes through the text. It also reflects the quality of my home recording setup and sounds a bit echoey. So, for now, I’m using one of their off-the-shelf Australian voices.</p>
-<p>Here are two samples of the above paragraph, an off-the-shelf Australian voice and my “cloned” voice.</p>
-<audio controls="" src="img/ElevenLabs_2024-07-15T09_03_10_Charlie_pre_s50_sb75_m1.mp3">
-</audio>
-<audio controls="" src="img/ElevenLabs_JC.mp3">
-</audio>
-<p>I’ve also started looking at options to create an AI avatar based on videos or photos of me for some parts of the videos. I’m leaving that one for the moment but can see myself revisiting it in the next year.</p>
-</section>
-<section id="accessing-github-copilot" class="level2">
-<h2 class="anchored" data-anchor-id="accessing-github-copilot">Accessing GitHub CoPilot</h2>
-<p>The below gives the basic steps to access GitHub CoPilot.</p>
-<p>If you are an academic, you can sign up for (free) academic access to CoPilot at <a href="https://education.github.com/discount_requests/application">this link</a>. If you’re not an academic or student, sign up for a free trial as described <a href="https://docs.github.com/en/billing/managing-billing-for-github-copilot/managing-your-github-copilot-subscription-for-your-personal-account">here</a>. You’ll need a Github account to do this. The $10 a month is worth it.</p>
-<p>Visual Studio Code is available <a href="https://code.visualstudio.com">here</a>. (I use the Mac version.) Download and install.</p>
-<p>Install the Github CoPilot extension into Visual Studio Code. Instructions on installing the extension are <a href="https://docs.github.com/en/copilot/quickstart#installing-the-github-copilot-extension-for-visual-studio-code">here</a>. On installation you’ll be prompted to login to GitHub to gain access to authorise CoPilot.</p>
-<p>Once you have done that, using CoPilot is easy. You simply type. As you type, you will be given suggestions.</p>
-<p>The setup in RStudio is even easier. Download RStudio from <a href="https://posit.co/download/rstudio-desktop/">here</a>. Under Tools/Global Options is a CoPilot menu item. Enable CoPilot there. You will be asked to enter your GitHub login details to get it running.</p>
-<p>I write in markdown (and at the moment, a flavour of markdown called <a href="https://quarto.org">Quarto</a>). It allows me to include <img src="https://latex.codecogs.com/png.latex?%5CLaTeX"> math and R computations within any document (as I have in this post). If you’re an academic stuck in the <img src="https://latex.codecogs.com/png.latex?%5CLaTeX"> ecosystem, you can also write in Visual Studio Code wholly in <img src="https://latex.codecogs.com/png.latex?%5CLaTeX">. You can also just get CoPilot in Word. I’m looking forward to my university moving beyond the experimental stage and giving us access. (I took a one-month free trial of Microsoft CoPilot on the home computer, but didn’t find the time to give it a proper go.)</p>
-
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2">
-<div id="ref-prelec1998" class="csl-entry">
-Prelec, D. (1998). The probability weighting function. <em>Econometrica</em>, <em>66</em>(3), 497–527. <a href="https://doi.org/10.2307/2998573">https://doi.org/10.2307/2998573</a>
-</div>
-</div></section></div> ]]></description>
-  <guid>https://blog.jcx.au/posts/using-generative-AI-as-academic-july-2024-edition.html</guid>
-  <pubDate>Mon, 15 Jul 2024 09:00:00 GMT</pubDate>
-  <media:content url="https://blog.jcx.au/posts/img/gen-AI.webp" medium="image" type="image/webp"/>
 </item>
 </channel>
 </rss>
