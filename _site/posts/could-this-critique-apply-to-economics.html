@@ -258,7 +258,7 @@ One reason for the excess in positive results for psychology is an emphasis on â
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/www\.jasoncollins\.blog");
+        var filterRegex = new RegExp("https:\/\/blog\.jcx\.au");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

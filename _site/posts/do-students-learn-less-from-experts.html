@@ -317,7 +317,7 @@ Figlio, D. N., Schapiro, M. O., and Soter, K. B. (2015). Are Tenure Track Profes
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/www\.jasoncollins\.blog");
+        var filterRegex = new RegExp("https:\/\/blog\.jcx\.au");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

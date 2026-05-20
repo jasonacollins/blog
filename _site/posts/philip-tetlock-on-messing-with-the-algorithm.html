@@ -273,7 +273,7 @@ Although, when I say it’s hard to construct those things, it doesn’t mean it
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/www\.jasoncollins\.blog");
+        var filterRegex = new RegExp("https:\/\/blog\.jcx\.au");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
