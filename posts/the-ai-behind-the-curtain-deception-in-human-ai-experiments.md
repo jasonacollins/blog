@@ -7,21 +7,19 @@ image: "img/curtain.png"
 bibliography: references.bib
 ---
 
-Experimental economists have a strong norm against deception in experiments. Here's Andreas @ortmann2019:
+Experimental economists don't deceive their subjects. It's not legislated, but break the norm and don't expect to be published. Here's Andreas @ortmann2019:
 
 > I open with a statement of fact: deception in the form of acts of commission, while still widespread in (social) psychology and business sciences such as marketing, is factually banned in laboratory experimental economics. This ban is not legislated but, until recently, was a social norm that the community of experimental economists had been able to reasonably enforce.
 
-For some experimental economics journals, deception is grounds for desk rejection.
-
 There are a few reasons for this norm. One is that if participants suspect they are being deceived, they will alter their behaviour and undermine the experimental results. An example of this is the famous [Solomon Asch conformity experiments](https://en.wikipedia.org/wiki/Asch_conformity_experiments), in which those who believed they were being deceived were less likely to conform with the group.
 
-There is also an externality from deception to other experiments. After being deceived in one experiment - as they discover when promises aren't kept or in experimental debriefs - participants will be less trusting in future experiments, again changing their behaviour. With public subject pools of people who are completing many experiments and surveys, regular deception could shift their expectations.
+There is also an externality from deception to other experiments. After being deceived in one experiment - as they discover when promises aren't kept or in experimental debriefs - participants will be less trusting in future experiments, again changing their behaviour. With subject pools of people who are completing many experiments and surveys, regular deception could shift their expectations.
 
-There is no norm against deception in psychology. Deception is common and argued to be required for many experiments.
+There is no norm against deception in psychology. Deception is common and argued to be required for many experiments, albeit with explicit ethical frameworks and debriefing.
 
 There is also no such norm in human-computer interaction research, as I have discovered the last couple of years. This is not only deception by omission: not telling people everything about the experiment. Rather, there are many acts of commission, such as telling people things that are not true.
 
-One common form of deception is that there is no actual AI. Rather, the participants are shown hand-crafted responses. I have seen this called "synthetic AI", although it is often called the "Wizard of Oz" paradigm.
+One common form of deception is that there is no actual AI. Rather, the participants are shown hand-crafted responses. I have seen this called "synthetic AI" or "simulated AI", and in design circles it is often called the "Wizard of Oz" paradigm.
 
 It also seems common for experimenters to tell the occasional lie to generate the desired response.
 
@@ -73,17 +71,17 @@ The word "algorithm" is stretched even more in Experiment 1C, a task to estimate
 
 Again, averaging is the "algorithm".
 
-@logg2019 described their choice of procedure as allowing them to avoid deception. I am not convinced and I suspect experimental economists wouldn't agree. The word "algorithm" triggers expectations that don't match reality. If someone told me an algorithm was estimating attractiveness, I would assume something more sophisticated than averaging estimates from humans. I'd likely assume a text analysis model.
+@logg2019 described their choice of procedure as allowing them to avoid deception. I am not convinced as the word "algorithm" triggers expectations that don't match reality. If someone told me an algorithm was estimating attractiveness, I would assume something more sophisticated than averaging estimates from humans. I'd likely assume a text analysis model.
 
 One ameliorating factor is that this experiment ran pre-ChatGPT in 2019. Participants might not immediately imagine a text analysis algorithm. But in 2025 I'd assume exactly that and would respond based on that assumption. This raises the question: if participants couldn't picture a text analysis algorithm in 2019, what were they assuming?
 
 Much recent literature actually uses AI, in the form of ChatGPT and other LLM models. It's finally easy to get an "AI" for almost any task. The deception is fading away, but that comes at the cost of control. I haven't seen many ChatGPT experiments that tell me something useful about human-AI interaction or that aren't already outdated on publication. But that's a topic for a different post.
 
-## Straight-out porkie pies
+## Misrepresented AI
 
 Although I don't like it, I sympathise with synthetic AI. Creating tasks with actual AI doing what you claim is tough. For many specific questions, it's beyond the technical capability of the experimenters.
 
-But the deception isn't limited to synthetic AI. The AI is often completely misrepresented.
+But the deception isn't limited to synthetic AI. The AI is often misrepresented.
 
 Here's an example from @rastogi2022, who examined whether they could de-anchor experimental participants from AI advice. I [posted about this paper last month](is-following-ai-advice-anchoring-bias.qmd).
 
@@ -91,19 +89,23 @@ The authors write:
 
 > To induce anchoring bias, the participant was informed at the start of the training section that the AI model was 85% accurate (we carefully chose the training trials to ensure that the AI was indeed 85% accurate over these trials), while the model’s actual accuracy is 70.8% over the entire training set and 66.5% over the test set. Since our goal is to induce anchoring bias and the training time is short, we stated a high AI accuracy.
 
-The training set they reference is the data they trained the model on. Effectively, they told people the AI had an accuracy that it didn't. The training trials would have affirmed this belief.
+The “training trials” shown to participants were not a representative sample of the model’s performance. They were selected so that the 85% claim was true within those training trials. But the model was not 85% accurate over the full training set, where its accuracy was 70.8%. Nor was it that accurate over the test set, where its accuracy was 66.5%.
 
-However, they go on to state:
+The gap was even larger in the actual experimental task. The authors included probe trials where they flipped some AI predictions shown to participants. The AI predictions shown to participants in this phase were 58.3% accurate, far below the 85% figure participants had just been given.
 
-> \[T\]his disparity between stated accuracy (85%) and true accuracy (70.8%) is realistic if there is a distribution shift between the training and the test set, which would imply that the humans’ trust in AI is misplaced. In addition to stating AI accuracy at the beginning, we informed the participants about the AI prediction for each training trial after they have attempted it so that they can learn about AI’s performance first-hand.
+So participants were not merely “anchored” by an arbitrary AI recommendation. They were first given a selectively favourable impression of the AI’s reliability, then exposed to a test phase where the AI advice was less reliable. 
 
-Deception of this nature undermines the experiment. The "anchoring" here is justified given what they were told and observed. You can't study anchoring bias when you've deliberately created the conditions for justified trust.
+The authors defend this approach:
 
-Here are a few more examples. @yin2024 told participants that responses came from either a human or AI, irrespective of the actual source, in their analysis of whether people "feel heard". @longoni2023 used articles on AI failures to create news stories in which either an AI or a human caused the problem. @khadpe2020 used human workers to simulate chatbots, telling participants that these "AI" workers they were interacting with were modelled on one of a toddler, middle schooler, young student, recent graduate or trained professional.
+> \[T\]his disparity between stated accuracy (85%) and true accuracy (70.8%) is realistic if there is a distribution shift between the training and the test set, which would imply that the humans’ trust in AI is misplaced.
 
-In each case you're relying on there being no "smell" to the AI outputs. You're relying on participants believing your statement even when the evidence in front of them might point elsewhere (or worse, treating their trust in you as an error).
+But this makes the experiment harder to interpret. The "anchoring" here is justified by what participants were told or shown. You can't study anchoring bias when you've deliberately created the conditions for justified trust.
 
-There is also little thought given to contamination of the subject pool. The participants in most of these studies come from panels such as Amazon Turk, who spend their day doing studies like these. How many times do they read in an experimental debrief that the wool was pulled over their eyes? What does that do to their future interactions?
+The engineering of deceptive scenarios is a recurring theme across the literature. Here are a few more examples. @yin2024 told participants that responses came from either a human or AI, irrespective of the actual source, in their analysis of whether people "feel heard". @longoni2023 took real news articles on AI failures and substituted either a human or an AI as the cause of the problem. @khadpe2020 used human workers to simulate chatbots, telling participants that these "AI" workers they were interacting with were modelled on one of a toddler, middle schooler, young student, recent graduate or trained professional.
+
+In each case you're relying on there being no "smell" to the AI outputs. You're relying on participants believing your statement even when the evidence in front of them might point elsewhere.
+
+There is also little thought given to contamination of the subject pool. The participants in most of these studies come from panels such as Amazon Turk, who spend their day doing studies like these. How many times do they read in an experimental debrief that the wool was pulled over their eyes? What does that do to their future interactions? Given HCI researchers and experimental economists are fishing in the same stream, practices such as this can impose a negative externality across multiple fields.
 
 I don't know the answers, but these deceptive practices introduce another layer of doubt as to whether we should trust these results.
 
@@ -111,8 +113,8 @@ I don't know the answers, but these deceptive practices introduce another layer 
 
 The human-computer / human-AI literature is shaky. As I noted [elsewhere](why-i-dont-trust-most-human-ai-interaction-experimental-research.md), experimental practices look like those in psychology circa 2005: small sample sizes, no pre-registration, no data openness. All the hallmarks of a replication crisis.
 
-At the same time, the field is flooded. My Google alerts and literature searches deliver dozens of papers every week, and I'm not even catching all of them. Most are trivial, and even when they have an interesting or useful hypothesis, I typically don't trust them.
+At the same time, the field is flooded. My Google alerts and literature searches deliver dozens of papers every week, and I'm not even catching all of them. Most are trivial, but even when they have an interesting or useful hypothesis, I typically don't trust them.
 
 On top of this, the literature is accumulating findings from fake AI that may not describe interaction with real AI at all. The findings are useful and generalise only if the deception was successful and the substitute generated the same behaviour as the real thing. Those assumptions are rarely tested.
 
-As a result, researchers should slow down. The technical excuse for synthetic AI has weakened, as building a model often takes just a few prompts to an LLM. Most of the deception could be eliminated with a bit of thought and work and we'd get a much more valuable literature.
+As a result, researchers should slow down. The technical excuse for synthetic AI has weakened, as using an LLM to build an AI for an experiment is highly accessible. Most of the deception could be eliminated with some thought and work and we'd get a much more valuable literature.

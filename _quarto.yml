@@ -12,7 +12,8 @@ website:
   description: "Behavioural economics, data science and artificial intelligence."
   navbar:
     right:
-      - about.qmd
+      - text: "About"
+        href: https://www.jcx.au
       - research.qmd
       - subscribe.qmd
       - teaching.qmd
