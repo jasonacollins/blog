@@ -6690,5 +6690,33 @@
     "title": "The AI that wasn’t: deception in human-AI experiments",
     "section": "What to do?",
     "text": "What to do?\nThe human-computer / human-AI literature is shaky. As I noted elsewhere, experimental practices look like those in psychology circa 2005: small sample sizes, no pre-registration, no data openness. All the hallmarks of a replication crisis.\nAt the same time, the field is flooded. My Google alerts and literature searches deliver dozens of papers every week, and I’m not even catching all of them. Most are trivial, and even when they have an interesting or useful hypothesis, I typically don’t trust them.\nOn top of this, the literature is accumulating findings from fake AI that may not describe interaction with real AI at all. The findings are useful and generalise only if the deception was successful and the substitute generated the same behaviour as the real thing. Those assumptions are rarely tested.\nAs a result, researchers should slow down. The technical excuse for synthetic AI has weakened, as building a model often takes just a few prompts to an LLM. Most of the deception could be eliminated with a bit of thought and work and we’d get a much more valuable literature."
+  },
+  {
+    "objectID": "posts/a-gradual-disempowerment-reading-list.html",
+    "href": "posts/a-gradual-disempowerment-reading-list.html",
+    "title": "A gradual disempowerment reading list",
+    "section": "",
+    "text": "I recently completed BlueDot Impact’s AGI Strategy Course. (I recommend it.) Through the weekly discussions I went down the rabbit hole of gradual disempowerment. I find many AI threats compelling, but gradual disempowerment is something where my skills and work perhaps offer the most insight.\nOne follow up action from the course was a Gradual Disempowerment reading list. You can see a flavour of my current work under some of the headings."
+  },
+  {
+    "objectID": "posts/a-gradual-disempowerment-reading-list.html#the-core-thesis",
+    "href": "posts/a-gradual-disempowerment-reading-list.html#the-core-thesis",
+    "title": "A gradual disempowerment reading list",
+    "section": "The core thesis",
+    "text": "The core thesis\nKulveit et al. (2025) Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development: The anchor paper.\nChakravorty and Erwan (2025) Gradual Disempowerment Summary: BlueDot Impact’s summary of the Kulveit et. al. paper. A quick way to get across it.\nDrago and Laine (2025) The Intelligence Curse (pdf): If states and companies don’t need people, they won’t care about them. Chapters 2 and 3 are particularly relevant to the gradual disempowerment thesis."
+  },
+  {
+    "objectID": "posts/a-gradual-disempowerment-reading-list.html#automation-bias-complacency-and-loss-of-oversight",
+    "href": "posts/a-gradual-disempowerment-reading-list.html#automation-bias-complacency-and-loss-of-oversight",
+    "title": "A gradual disempowerment reading list",
+    "section": "Automation bias, complacency and loss of oversight",
+    "text": "Automation bias, complacency and loss of oversight\nBainbridge (1983) Ironies of automation (ungated pdf):\nParasuraman and Riley (1997) Humans and Automation: Use, Misuse, Disuse, Abuse (ungated pdf):"
+  },
+  {
+    "objectID": "posts/a-gradual-disempowerment-reading-list.html#deskilling-and-erosion-of-human-capability",
+    "href": "posts/a-gradual-disempowerment-reading-list.html#deskilling-and-erosion-of-human-capability",
+    "title": "A gradual disempowerment reading list",
+    "section": "Deskilling and erosion of human capability",
+    "text": "Deskilling and erosion of human capability\nKrook (2025) When Autonomy Breaks: The Hidden Existential Risk of AI: Humans may lose such skills as critical thinking, decision-making and even social care in an AGI world."
   }
 ]
