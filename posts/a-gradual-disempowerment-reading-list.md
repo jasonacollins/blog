@@ -29,4 +29,4 @@ One follow up action from the course was a Gradual Disempowerment reading list. 
 
 ## Deskilling and erosion of human capability
 
-@krook2025 [When Autonomy Breaks: The Hidden Existential Risk of AI](https://doi.org/10.48550/arXiv.2503.22151): Humans may lose such skills as critical thinking, decision-making and even social care in an AGI world.
+@krook2025 [When Autonomy Breaks: The Hidden Existential Risk of AI](https://doi.org/10.48550/arXiv.2503.22151): Humans may lose such skills as critical thinking, decision-making and even social care in an AGI world. 
