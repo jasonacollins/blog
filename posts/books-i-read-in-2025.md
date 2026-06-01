@@ -26,7 +26,7 @@ Below is the list of books I read in 2025 (with a star if I have read them befor
 - Karen Hao, *Empire of AI: Inside the Reckless Race for Total Domination*
 - Walter Isaacson, *Steve Jobs*
 - Keith Johnstone, *Impro: Improvisation and the Theatre*
-- Gary Marcus, *Kluge: The Haphazard Construction of the Human Mind*
+- Gary Marcus, [*Kluge: The Haphazard Construction of the Human Mind*](/posts/gary-marcuss-kluge.md)
 - John Romero, *Doom Guy: Life in First Person*
 - Stuart Russell, *Human Compatible: Artificial Intelligence and the Problem of Control*\*
 - Ben Shneiderman, *Human-Centred AI*
