@@ -8,7 +8,7 @@ aliases:
   - /please-not-another-bias-take-two
 ---
 
-In [my last post](/please-not-another-bias-correcting-the-record/) I discussed how I would like to redo my article "[Please Not Another Bias! An Evolutionary Take on Behavioural Economics](/please-not-another-bias-an-evolutionary-take-on-behavioural-economics/)". Apart from the removing the weak experimental evidence that I referenced, I wanted to make a few points more explicitly, such as the need for theory.
+In [my last post](/posts/please-not-another-bias-correcting-the-record.md) I discussed how I would like to redo my article "[Please Not Another Bias! An Evolutionary Take on Behavioural Economics](/posts/please-not-another-bias-an-evolutionary-take-on-behavioural-economics.md)". Apart from the removing the weak experimental evidence that I referenced, I wanted to make a few points more explicitly, such as the need for theory.
 
 Well, that [re-write is here](https://www.worksinprogress.co/issue/biases-the-wrong-model/) in the latest edition of [Works in Progress](https://www.worksinprogress.co).
 
@@ -25,6 +25,6 @@ In the meantime, here are a few other academic pieces worth reading that make th
 
 - Andreas Ortmann's [On the foundations of behavioural and experimental economics](https://doi.org/10.4337/9781788974462.00013) ([pdf of draft](https://deliverypdf.ssrn.com/delivery.php?ID=199020086001027022121011113121124099104015006077091033071072022106071085067003069103097114000125006036111066127065071127071125062015046052031093100127019004071096048075035099084089119071087068000101080108076007082086006099120105101116125103070095097&EXT=pdf&INDEX=TRUE)): Ortmann contrasts the theory of economics and the lack of theory in psychology, pinning the struggles in behavioural economics on the sourcing of new insight from the "untheorized mess" that is psychology.
 
-Otherwise, I haven't had a chance to read the rest of the new Works in Progress issue yet. But the couple of articles I have read are great. Saloni Dattani's [discussion of peer review](https://www.worksinprogress.co/issue/real-peer-review/) felt very relevant. I've just kicked off [the academic phase of my career](/the-academic-experiment/) and am spending a lot of time wondering about how to engage with the publishing game. What's the best way to put my work out there (actually have it read), get good feedback, play a useful role in giving feedback to others and not get fired? The answer to those questions does not involve playing the traditional publishing game.
+Otherwise, I haven't had a chance to read the rest of the new Works in Progress issue yet. But the couple of articles I have read are great. Saloni Dattani's [discussion of peer review](https://www.worksinprogress.co/issue/real-peer-review/) felt very relevant. I've just kicked off [the academic phase of my career](/posts/the-academic-experiment.md) and am spending a lot of time wondering about how to engage with the publishing game. What's the best way to put my work out there (actually have it read), get good feedback, play a useful role in giving feedback to others and not get fired? The answer to those questions does not involve playing the traditional publishing game.
 
 I'm not a sailor, but Stewart Brand's [The Maintenance Race](https://www.worksinprogress.co/issue/the-maintenance-race/) was also good.

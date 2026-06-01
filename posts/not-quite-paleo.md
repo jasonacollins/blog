@@ -6,7 +6,7 @@ draft: false
 title: Not quite paleo
 ---
 
-Peter Turchin, advocate of [Cliodynamics](https://www.jasoncollins.blog/cliodynamics-and-complexity/), has [posted on his recent success](http://socialevolutionforum.com/2012/08/23/an-update-on-my-so-called-paleo-diet/) in adopting the "paleo diet". The diet is based on the food presumably eaten by our evolutionary ancestors in the Paleolithic era, which is before the dawn of agriculture. Lots of meat, fruit, vegetables and nuts, but no grains.
+Peter Turchin, advocate of [Cliodynamics](/posts/cliodynamics-and-complexity.md), has [posted on his recent success](http://socialevolutionforum.com/2012/08/23/an-update-on-my-so-called-paleo-diet/) in adopting the "paleo diet". The diet is based on the food presumably eaten by our evolutionary ancestors in the Paleolithic era, which is before the dawn of agriculture. Lots of meat, fruit, vegetables and nuts, but no grains.
 
 Although I have much sympathy for the paleo diet for its health benefits (its largely how I eat), I've always thought the paleo label was not quite right. Turchin raises this point:
 

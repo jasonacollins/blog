@@ -41,9 +41,9 @@ And if you missed them, my posts this week:
 
 
 	
-  1. [The gender reading gap and love of learning](https://www.jasoncollins.blog/the-gender-reading-gap-and-love-of-learning/).
+  1. [The gender reading gap and love of learning](/posts/the-gender-reading-gap-and-love-of-learning.md).
 
 	
-  2. [The law of law's leverage](https://www.jasoncollins.blog/the-law-of-laws-leverage/).
+  2. [The law of law's leverage](/posts/the-law-of-laws-leverage.md).
 
 

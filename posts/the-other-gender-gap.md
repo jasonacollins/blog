@@ -44,7 +44,7 @@ So why does the income gap persist in the workforce? The Economist article close
 
 It is not easy to develop a policy response to this, nor for a business to try to close the gap without trade-offs. One possibility is gender quotas, although this may largely operate to the advantage of women who do not take time off for family reasons.
 
-Another option is to [require men to take paternity leave when they have children](https://www.jasoncollins.blog/seabrights-the-war-of-the-sexes/). But this penalises both men and women who have children. I am all for people bearing the costs of their children, but a policy to exacerbate those costs in the workplace seems misplaced.
+Another option is to [require men to take paternity leave when they have children](/posts/seabrights-the-war-of-the-sexes.md). But this penalises both men and women who have children. I am all for people bearing the costs of their children, but a policy to exacerbate those costs in the workplace seems misplaced.
 
 Another question around this option is why time out of the workplace relating to children is specifically targeted. What of those who want to travel, study or volunteer for charity, each of which surely come with costs?
 

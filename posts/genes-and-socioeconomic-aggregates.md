@@ -20,7 +20,7 @@ Cochran laid out some ideas that should be in the minds of economists, although 
 
 **Enrico Spolaore:** [Ancestry and the Diffusion of Economic Development: Facts and Questions](https://hceconomics.uchicago.edu/video/genetics-and-behavior-ancestry-and-diffusion-economic-development-facts-and-questions) ([slides](https://hceconomics.uchicago.edu/sites/default/files/file_uploads/Spolaore_Ancestry%20and%20the%20Diffusion%20of%20Economic%20Development.pptx))
 
-Spolaore touches on his work concerning genetic distance and the diffusion of development (I have posted about it [here](https://www.jasoncollins.blog/genetic-distance-and-economic-development/), [here](https://www.jasoncollins.blog/the-deep-roots-of-economic-development/) and [here](https://www.jasoncollins.blog/the-intergenerational-transmission-of-economic-development/)). He is extending this work to look at the diffusion of fertility reduction from France (where the demographic transition first occurred), and is getting similar results.
+Spolaore touches on his work concerning genetic distance and the diffusion of development (I have posted about it [here](/posts/genetic-distance-and-economic-development.md), [here](/posts/the-deep-roots-of-economic-development.md) and [here](/posts/the-intergenerational-transmission-of-economic-development.md)). He is extending this work to look at the diffusion of fertility reduction from France (where the demographic transition first occurred), and is getting similar results.
 
 {{< youtube egxe1g09XD0 >}}
 

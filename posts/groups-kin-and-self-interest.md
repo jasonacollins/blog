@@ -6,7 +6,7 @@ draft: false
 title: Groups, kin and self interest
 ---
 
-In [my last post on group selection](https://www.jasoncollins.blog/what-is-multilevel-selection/), I described how multilevel selection differed from more traditional (and popular) concepts of group selection. One difference is that the multilevel selection framework defines groups as any subset of interacting individuals, such as a cooperating pair or family unit, rather than restricting the definition to population size groups.
+In [my last post on group selection](/posts/what-is-multilevel-selection.md), I described how multilevel selection differed from more traditional (and popular) concepts of group selection. One difference is that the multilevel selection framework defines groups as any subset of interacting individuals, such as a cooperating pair or family unit, rather than restricting the definition to population size groups.
 
 There are few tangible examples available on how a multilevel selection framework works, so below is an attempt to offer an illustration of how the definition of group in a multilevel selection framework is used. It also serves as a test of how well I understand the concept myself. This numerical example also illustrates why it is generally the less intuitive approach, which is also the reason I consider that inclusive fitness - the sum of direct and indirect (kin) fitness - has proven to be the more fruitful approach in evolutionary biology. At the end, I place the discussion in an economic context to draw out my point.
 

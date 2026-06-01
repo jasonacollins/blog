@@ -13,7 +13,7 @@ draft: false
   2. Kevin Mitchell [has a shot at the new eugenics](http://www.wiringthebrain.com/2013/05/the-new-eugenics-same-as-old-eugenics.html). [Razib responds](http://blogs.discovermagazine.com/gnxp/2013/05/gattaca-utopia-or-dystopia/#.UZXpOIJ4aI4). Read the comments on both.
 
 	
-  3. Peter Singer [critiques conspicuous consumption](http://www.project-syndicate.org/commentary/the-moral-shortcomings-of-conspicuous-consumption-by-peter-singer#vuttmAReTqBqhT2V.99). The example is similar to one Robert Frank uses in [Luxury Fever](https://www.jasoncollins.blog/franks-luxury-fever/), but I still like it.
+  3. Peter Singer [critiques conspicuous consumption](http://www.project-syndicate.org/commentary/the-moral-shortcomings-of-conspicuous-consumption-by-peter-singer#vuttmAReTqBqhT2V.99). The example is similar to one Robert Frank uses in [Luxury Fever](/posts/franks-luxury-fever.md), but I still like it.
 
 	
   4. [Gender identity and relative income within households](http://faculty.chicagobooth.edu/emir.kamenica/documents/identity.pdf) (pdf). I haven't read it yet, but some interesting results.

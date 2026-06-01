@@ -50,9 +50,9 @@ And if you missed them, my posts this week:
 
 
 	
-  1. [The Gell-Mann amnesia effect](https://www.jasoncollins.blog/the-gell-mann-amnesia-effect/)
+  1. [The Gell-Mann amnesia effect](/posts/the-gell-mann-amnesia-effect.md)
 
 	
-  2. [Giving behavioural economics an evolutionary perspective](https://www.jasoncollins.blog/an-evolutionary-perspective-on-behavioural-economics/).
+  2. [Giving behavioural economics an evolutionary perspective](/posts/an-evolutionary-perspective-on-behavioural-economics.md).
 
 

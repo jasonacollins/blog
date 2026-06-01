@@ -12,7 +12,7 @@ Links this week:
 
 
 	
-  1. David Sloan Wilson and Jonathan Haidt have kicked off [an evolution and business blog at Forbes](http://www.forbes.com/sites/darwinatwork/). It will be worth a read, and unsurprisingly [the first post](http://www.forbes.com/sites/darwinsbusiness/2013/09/05/sears-ignores-the-invisible-band/) reflects Wilson and Haidt's group selection leanings. It should give plenty of fodder for interesting posts. I've written about [Haidt's group selection views before](https://www.jasoncollins.blog/haidts-group-selection/), plus plenty of posts on Wilson's ([here](https://www.jasoncollins.blog/economic-cosmology-the-rational-egotistical-individual/) and [here](https://www.jasoncollins.blog/economic-cosmology-the-invisible-hand/) for starters).
+  1. David Sloan Wilson and Jonathan Haidt have kicked off [an evolution and business blog at Forbes](http://www.forbes.com/sites/darwinatwork/). It will be worth a read, and unsurprisingly [the first post](http://www.forbes.com/sites/darwinsbusiness/2013/09/05/sears-ignores-the-invisible-band/) reflects Wilson and Haidt's group selection leanings. It should give plenty of fodder for interesting posts. I've written about [Haidt's group selection views before](/posts/haidts-group-selection.md), plus plenty of posts on Wilson's ([here](/posts/economic-cosmology-the-rational-egotistical-individual.md) and [here](/posts/economic-cosmology-the-invisible-hand.md) for starters).
 
 
 	

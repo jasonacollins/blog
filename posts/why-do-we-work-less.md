@@ -7,7 +7,7 @@ aliases:
   - /why-do-we-work-less
 ---
 
-I am sympathetic to the argument by [Robert Frank](https://www.jasoncollins.blog/franks-the-darwin-economy/) and others that competition for positional goods is a major factor driving our behaviour. The natural outcome of this is that we should want to work more, or at least more than anyone else. However, recent trends in working hours do not neatly fit with this story.
+I am sympathetic to the argument by [Robert Frank](/posts/franks-the-darwin-economy.md) and others that competition for positional goods is a major factor driving our behaviour. The natural outcome of this is that we should want to work more, or at least more than anyone else. However, recent trends in working hours do not neatly fit with this story.
 
 When Jared Diamond proposed that [agriculture was the worst mistake in the history of the human race](http://www.scribd.com/doc/2100251/Jared-Diamond-The-Worst-Mistake-in-the-History-of-the-Human-Race), he was referring primarily to work hours. Diamond writes:
 

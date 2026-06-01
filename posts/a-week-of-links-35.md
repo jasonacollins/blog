@@ -10,7 +10,7 @@ Links this week:
 
 
 	
-  1. [Enrico Spolaore and Romain Wacziarg write on genetic barriers to growth](http://www.voxeu.org/article/long-term-barriers-growth). I have previously posted on their work [here](https://www.jasoncollins.blog/the-deep-roots-of-economic-development/), [here](https://www.jasoncollins.blog/the-intergenerational-transmission-of-economic-development/) and [here](https://www.jasoncollins.blog/genetic-distance-and-economic-development/).
+  1. [Enrico Spolaore and Romain Wacziarg write on genetic barriers to growth](http://www.voxeu.org/article/long-term-barriers-growth). I have previously posted on their work [here](/posts/the-deep-roots-of-economic-development.md), [here](/posts/the-intergenerational-transmission-of-economic-development.md) and [here](/posts/genetic-distance-and-economic-development.md).
 
 	
   2. [Doug Kenrick on Free Market Psychology](http://www.psychologytoday.com/blog/sex-murder-and-the-meaning-life/201309/cruzonomics-the-problem-free-market-psychology). There needs to be a rule that only those who have read Adam Smith are allowed to describe Adam Smith's take on the invisible hand
@@ -22,7 +22,7 @@ Links this week:
   4. [Malcolm Gladwell is interviewed](http://www.telegraph.co.uk/culture/books/authorinterviews/10335491/Malcolm-Gladwell-interview.html) in The Telegraph. [Christopher Chabris reviews](http://online.wsj.com/article/SB10001424052702304713704579093090254007968.html) Gladwell's latest book.
 
 	
-  5. More Gladwell - on [genes and fairness in sport](http://www.newyorker.com/arts/critics/atlarge/2013/09/09/130909crat_atlarge_gladwell?currentPage=all). Despite Gladwell's flaws (see my [thoughts on Outliers](https://www.jasoncollins.blog/gladwells-outliers/)), I need to find some time to write a contrarian "In praise of Malcolm Gladwell" piece during this Gladwell bashing season (which it must be based on my twitter feed).
+  5. More Gladwell - on [genes and fairness in sport](http://www.newyorker.com/arts/critics/atlarge/2013/09/09/130909crat_atlarge_gladwell?currentPage=all). Despite Gladwell's flaws (see my [thoughts on Outliers](/posts/gladwells-outliers.md)), I need to find some time to write a contrarian "In praise of Malcolm Gladwell" piece during this Gladwell bashing season (which it must be based on my twitter feed).
 
 	
   6. Finally, the [Human Fertility Collection](http://www.fertilitydata.org/cgi-bin/index.php) has been launched. It is a supplement to the [Human Fertility Database](http://www.humanfertility.org/cgi-bin/main.php), and contains additional data that doesn't meet HFD standards.

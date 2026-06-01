@@ -6,7 +6,7 @@ draft: false
 title: Genoeconomics at the AEA Annual Meeting
 ---
 
-The [preliminary program](http://www.aeaweb.org/aea/2013conference/program/preliminary.php) for January's American Economic Association annual meeting is available, with a session dedicated to genoeconomics. I've posted on [the first of the papers before](https://www.jasoncollins.blog/the-genetic-architecture-of-economic-and-political-preferences/).
+The [preliminary program](http://www.aeaweb.org/aea/2013conference/program/preliminary.php) for January's American Economic Association annual meeting is available, with a session dedicated to genoeconomics. I've posted on [the first of the papers before](/posts/the-genetic-architecture-of-economic-and-political-preferences.md).
 
 
 <blockquote>Jan 06, 2013 8:00 am, Manchester Grand Hyatt, Elizabeth Ballroom C
@@ -61,4 +61,4 @@ QUAMRUL ASHRAF (Williams College)
 ODED GALOR (Brown University)</blockquote>
 
 
-This paper might be an interesting addition to the debate about [Ashraf and Galor's paper on genetic diversity and economic development](https://www.jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/). The potential for conflict due to higher levels of genetic diversity is half of their argument for a hump-shaped relationship between genetic diversity and economic development, and it could do with some support.
+This paper might be an interesting addition to the debate about [Ashraf and Galor's paper on genetic diversity and economic development](/posts/harvard-academics-on-genetic-diversity-and-economic-development.md). The potential for conflict due to higher levels of genetic diversity is half of their argument for a hump-shaped relationship between genetic diversity and economic development, and it could do with some support.

@@ -14,7 +14,7 @@ From [a working paper by Garett Jones](http://mason.gmu.edu/~gjonesb/IITE.pdf) r
 
 Jones notes that as capital flows become increasingly free, the opportunity for high IQ people to increase their holdings of assets will also increase. East Asian populations, with the world's highest average IQs, will come to hold a greater proportion of the world's financial assets than they now do.
 
-Jones argues that policies that lift cognitive skills should be implemented through nutrition, education or immigration policies. This will in turn increase the level of financial assets of the population as they increase their average saving rate. Plus, as Jones has [noted in other papers](https://www.jasoncollins.blog/jones-on-iq-and-productivity/), increased IQ has benefits beyond savings rates.
+Jones argues that policies that lift cognitive skills should be implemented through nutrition, education or immigration policies. This will in turn increase the level of financial assets of the population as they increase their average saving rate. Plus, as Jones has [noted in other papers](/posts/jones-on-iq-and-productivity.md), increased IQ has benefits beyond savings rates.
 
 One interesting element of the paper is the title - _Will the intelligent inherit the earth?
 IQ and time preference in the global economy_ - which I have paraphrased for the title of this post. While intelligence and reproductive success have an ambiguous relationship in modern settings, lower fertility for the high savers would result in them holding an increasing proportion of the world's assets, while simultaneously forming a smaller proportion of the population. The intelligent may own the earth, but they might be vastly outnumbered.

@@ -8,7 +8,7 @@ aliases:
   - /does-presuming-you-can-take-a-persons-organs-save-lives
 ---
 
-I've pointed out several times on this blog the confused story about organ donation arising from [Johnson and Goldstein's _Do Defaults Save Lives?_](http://www.sciencemag.org/content/302/5649/1338) ([ungated pdf](http://www.dangoldstein.com/papers/DefaultsScience.pdf)). Even greats such as Daniel Kahneman [are not immune from misinterpreting what is going on](/re-reading-kahnemans-thinking-fast-and-slow/).
+I've pointed out several times on this blog the confused story about organ donation arising from [Johnson and Goldstein's _Do Defaults Save Lives?_](http://www.sciencemag.org/content/302/5649/1338) ([ungated pdf](http://www.dangoldstein.com/papers/DefaultsScience.pdf)). Even greats such as Daniel Kahneman [are not immune from misinterpreting what is going on](/posts/re-reading-kahnemans-thinking-fast-and-slow.md).
 
 Again, here's [Dan Ariely](http://freakonomics.com/2008/04/08/how-much-progress-have-psychology-and-psychiatry-really-made-a-freakonomics-quorum/) explaining the paper:
 

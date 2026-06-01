@@ -8,7 +8,7 @@ aliases:
   - /please-not-another-bias-correcting-the-record
 ---
 
-In 2015 I gave a presentation titled "Please Not Another Bias! An Evolutionary Take on Behavioural Economics" at the Marketing and Science Ideas Exchange (MSIX) conference. I posted my presentation [on this blog](/please-not-another-bias-an-evolutionary-take-on-behavioural-economics/), where it had around 100,000 readers in the first month (a lot for this blog). [A copy of the post](https://evonomics.com/please-not-another-bias-the-problem-with-behavioral-economics/) was the most popular post on Evonomics in its first year.
+In 2015 I gave a presentation titled "Please Not Another Bias! An Evolutionary Take on Behavioural Economics" at the Marketing and Science Ideas Exchange (MSIX) conference. I posted my presentation [on this blog](/posts/please-not-another-bias-an-evolutionary-take-on-behavioural-economics.md), where it had around 100,000 readers in the first month (a lot for this blog). [A copy of the post](https://evonomics.com/please-not-another-bias-the-problem-with-behavioral-economics/) was the most popular post on Evonomics in its first year.
 
 I still see the post shared, which brings a slight cringe, as its not the article I would write today. I stand by the general argument, but there are several points that I would like to change.
 
@@ -56,11 +56,11 @@ I then supported that point with some storytelling about the different motivatio
 
 There's nothing I would say is incorrect here, and it leads to a question of whether we need to build sex more explicitly into models of human behaviour. (Probably not the zeitgeist right now.) But when I then try to add some science$^{\text{TM}}$ to my case, things become shaky.
 
-Here's the first study I would no longer reference (which also happened to be the subject of [my first post on this blog](/its-a-risky-business-attracting-a-mate/) over a decade ago):
+Here's the first study I would no longer reference (which also happened to be the subject of [my first post on this blog](/posts/its-a-risky-business-attracting-a-mate.md) over a decade ago):
 
 > One of my favourite examples of this comes from [research by Richard Ronay and Bill von Hippel](https://doi.org/10.1177/1948550609352807). They got some young male skateboarders to perform tricks, including a difficult trick that they could complete only half the time. Halfway through filming, a woman rated as highly attractive (corroborated by "many informal comments and phone number requests from the skateboarders") walked onto the scene. Once she appeared, they took more risks and were less likely to bail a trick half-way through, instead riding all the way through to the crash landing ([a story on ABC's Catalyst demonstrates this effect](http://www.abc.net.au/catalyst/stories/2967720.htm)).
 
-In this experiment there was a small sample of 96 male skateboarders, giving groups of 43 and 53 skateboarders performing ten tricks for the male and female experimenter respectively. There were also have large effect sizes. I wouldn't claim these effects sizes are impossible using the "[effect is too large heuristic](/the-effect-is-too-large-heuristic/)", but they certainly don't make me feel comfortable. The figure below gives a sense of the change in behaviour.
+In this experiment there was a small sample of 96 male skateboarders, giving groups of 43 and 53 skateboarders performing ten tricks for the male and female experimenter respectively. There were also have large effect sizes. I wouldn't claim these effects sizes are impossible using the "[effect is too large heuristic](/posts/the-effect-is-too-large-heuristic.md)", but they certainly don't make me feel comfortable. The figure below gives a sense of the change in behaviour.
 
 ![](img/ronay-and-von-hippel-2010-figure-1.jpg)
 

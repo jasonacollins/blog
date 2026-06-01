@@ -47,4 +47,4 @@ To November 2025, the trend hasn't been great. Alter's paper now has 1,442 citat
 
 When people ask me why behavioural economics and behavioural science are still fringe disciplines in applied settings, I have many suggestions. One is this absence of quality filter. The shiny stories get told again and again no matter how much evidence accumulates that they are rubbish. That lack of filter eventually gets found out.
 
-I've been [beating this drum](bad-behavioural-science-failures-bias-and-fairy-tales.md) for almost 10 years now. Sadly, it still needs beating.
+I've been [beating this drum](/posts/bad-behavioural-science-failures-bias-and-fairy-tales.md) for almost 10 years now. Sadly, it still needs beating.

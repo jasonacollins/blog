@@ -50,9 +50,9 @@ And if you missed them, my posts this week:
 
 
 	
-  1. [Introducing Evonomics](https://www.jasoncollins.blog/introducing-evonomics/).
+  1. [Introducing Evonomics](/posts/introducing-evonomics.md).
 
 	
-  2. [Can government policy overcome implicit bias?](https://www.jasoncollins.blog/overcoming-implicit-bias/)
+  2. [Can government policy overcome implicit bias?](/posts/overcoming-implicit-bias.md)
 
 

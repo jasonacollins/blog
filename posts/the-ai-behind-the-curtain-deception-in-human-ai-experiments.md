@@ -33,7 +33,7 @@ In economics, this challenge typically leads to the use of statistical predictio
 
 These models typically outperform human judgement by a considerable margin. The optimal interaction is for the human to hand off the decision to the AI. These models are useful for algorithm aversion studies, but provide limited scope to examine collaborative decision making.
 
-If you want a weaker model, you might withhold data from the model (as done in a recent paper [I posted about](is-following-ai-advice-anchoring-bias.qmd) on anchoring). This gives the human information the model doesn't have. Ultimately, however, statistical prediction is only a subset of the space in which you might want to study human-AI interaction. That moves us into more complex domains where it's not so easy to develop a model.
+If you want a weaker model, you might withhold data from the model (as done in a recent paper [I posted about](/posts/is-following-ai-advice-anchoring-bias.qmd) on anchoring). This gives the human information the model doesn't have. Ultimately, however, statistical prediction is only a subset of the space in which you might want to study human-AI interaction. That moves us into more complex domains where it's not so easy to develop a model.
 
 In experiments coming from the human-computer interaction field, you do see statistical models, but often the experiments require a richer environment. And that's where they turn to deception via synthetic AI.
 
@@ -83,7 +83,7 @@ Although I don't like it, I understand the appeal of synthetic AI. It's hard to 
 
 But the deception isn't limited to synthetic AI. The AI is often misrepresented.
 
-Here's an example from @rastogi2022, who examined whether they could de-anchor experimental participants from AI advice. I [posted about this paper previously](is-following-ai-advice-anchoring-bias.qmd). (I should also note I didn't select the papers in this post because they're particularly problematic. Rather, they're papers with interesting ideas that I am familiar with.)
+Here's an example from @rastogi2022, who examined whether they could de-anchor experimental participants from AI advice. I [posted about this paper previously](/posts/is-following-ai-advice-anchoring-bias.qmd). (I should also note I didn't select the papers in this post because they're particularly problematic. Rather, they're papers with interesting ideas that I am familiar with.)
 
 The authors write:
 
@@ -111,7 +111,7 @@ I don't know the answers, but these deceptive practices introduce another layer 
 
 ## What to do?
 
-The human-computer and human-AI interaction literature is shaky. As I noted [elsewhere](why-i-dont-trust-most-human-ai-interaction-experimental-research.md), experimental practices look like those in psychology circa 2005: small sample sizes, no pre-registration, no data openness. All the hallmarks of a replication crisis.
+The human-computer and human-AI interaction literature is shaky. As I noted [elsewhere](/posts/why-i-dont-trust-most-human-ai-interaction-experimental-research.md), experimental practices look like those in psychology circa 2005: small sample sizes, no pre-registration, no data openness. All the hallmarks of a replication crisis.
 
 At the same time, the field is flooded. My Google alerts and literature searches deliver dozens of papers every week, and I'm not catching all of them. Most are trivial, but even when they have an interesting or useful hypothesis, I typically don't trust them.
 

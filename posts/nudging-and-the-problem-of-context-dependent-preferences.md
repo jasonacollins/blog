@@ -8,7 +8,7 @@ aliases:
   - /nudging-and-the-problem-of-context-dependent-preferences
 ---
 
-In my recent post on Robert Sugden's [The Community of Advantage: A Behavioural Economist's Defence of the Market](/robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market/), I noted a couple of papers in which Sugden and Cass Sunstein debated how to make people better off “as judged by themselves” if they have context dependent preferences.
+In my recent post on Robert Sugden's [The Community of Advantage: A Behavioural Economist's Defence of the Market](/posts/robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market.md), I noted a couple of papers in which Sugden and Cass Sunstein debated how to make people better off “as judged by themselves” if they have context dependent preferences.
 
 Below is one point and counterpoint that I found useful.
 

@@ -10,7 +10,7 @@ Links this week:
 
 
 	
-  1. E.O. Wilson's [argument that great scientists don't need math](http://online.wsj.com/article/SB10001424127887323611604578398943650327184.html) has already received [plenty of responses](http://www.slate.com/articles/health_and_science/science/2013/04/e_o_wilson_is_wrong_about_math_and_science.html). Wilson's argument reminded me of [one of Paul Krugman's critiques](https://www.jasoncollins.blog/krugman-on-gould-and-maynard-smith/) of Stephen Jay Gould's popular work, which were "literary confection" as they lacked math.
+  1. E.O. Wilson's [argument that great scientists don't need math](http://online.wsj.com/article/SB10001424127887323611604578398943650327184.html) has already received [plenty of responses](http://www.slate.com/articles/health_and_science/science/2013/04/e_o_wilson_is_wrong_about_math_and_science.html). Wilson's argument reminded me of [one of Paul Krugman's critiques](/posts/krugman-on-gould-and-maynard-smith.md) of Stephen Jay Gould's popular work, which were "literary confection" as they lacked math.
 
 	
   2. [A free webinar](http://www.tiptaplab.com/tiptap-lab-webinar) with Geoffrey Miller and others on _What Every Marketer Should Know About the Nonconscious_.

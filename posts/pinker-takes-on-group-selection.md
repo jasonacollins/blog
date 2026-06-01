@@ -32,4 +32,4 @@ This manipulation extends into the manner in which we treat non-kin as kin.
 
 Pinker makes some other good points, but one element I alluded to above is missing from Pinker's argument - the critique of group selection on the basis of migration and gene flow between groups. While advocates of group selection in humans often spend much effort on showing how human groups experienced regular conflicts and wars, little is focused on the likely transfer of people between groups through capturing women from the losers in war or through exogamy. It takes little inter-group migration to prevent genetic differentiation between groups. If you were to ask what it would take for me to believe that group selection was a significant force in shaping human traits, it is on this point that you would need to change my mind.
 
-*I make some comments on the responses to Pinker [in this later post](https://www.jasoncollins.blog/labelling-cultural-group-selection/).
+*I make some comments on the responses to Pinker [in this later post](/posts/labelling-cultural-group-selection.md).

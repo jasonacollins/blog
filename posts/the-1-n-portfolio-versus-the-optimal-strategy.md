@@ -11,7 +11,7 @@ aliases:
 
 Gerd Gigerenzer is fond of telling a story about [Harry Markowitz](https://en.wikipedia.org/wiki/Harry_Markowitz), modern portfolio design pioneer and winner of the 1990 Nobel Memorial Prize in Economic Sciences.
 
-Here's one version of the story, from [Risk Savvy](https://www.jasoncollins.blog/nudging-citizens-to-be-risk-savvy/):
+Here's one version of the story, from [Risk Savvy](/posts/nudging-citizens-to-be-risk-savvy.md):
 
 >Assume you have a chunk of money and want to invest it. You do not want to put all your eggs into one basket and are considering a number of stocks. You want to diversify. But how?
 >

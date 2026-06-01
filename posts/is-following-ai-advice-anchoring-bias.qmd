@@ -118,7 +118,7 @@ In other words, experiments typically find that people adjust too much! Here's s
 
 ![@dietvorst2018 Figure 2b](img/is-following-ai-advice-anchoring/dietvorst-et-al-2018-fig-2b.png){width="400"}
 
-But how does the performance of those who selected the model compare to the model itself. Here is a chart I have generated from the experimental data provided in the [supplementary materials](https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2016.2643/suppl_file/mnsc.2016.2643-sm-data.zip). (Again noting that business schools [more often share data](why-i-dont-trust-most-human-ai-interaction-experimental-research.md).) In the "Adjust by 10" group, the participant's adjustments were a wash, with their performance on par with the unadjusted model. But for those in the "Change 10" group, their changes increased the error. The AI alone was a stronger performer.
+But how does the performance of those who selected the model compare to the model itself. Here is a chart I have generated from the experimental data provided in the [supplementary materials](https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2016.2643/suppl_file/mnsc.2016.2643-sm-data.zip). (Again noting that business schools [more often share data](/posts/why-i-dont-trust-most-human-ai-interaction-experimental-research.md).) In the "Adjust by 10" group, the participant's adjustments were a wash, with their performance on par with the unadjusted model. But for those in the "Change 10" group, their changes increased the error. The AI alone was a stronger performer.
 
 ```{r dietvorst-error, message=FALSE, warning=FALSE}
 library(tidyverse)

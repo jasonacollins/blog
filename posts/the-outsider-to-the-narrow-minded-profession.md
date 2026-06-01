@@ -45,4 +45,4 @@ As a final note, it amuses me who gets painted as (or paints themselves as) the 
 
 It's similar to Steven Levitt's adoption of the "rogue economist" label in Freakonomics, if you can truly be rogue when you're a Distinguished Service Professor of Economics at the University of Chicago. Or Richard Thaler's complaints about being ignored by the profession, despite also being a Distinguished Service Professor at the University of Chicago and elevated to president of the American Economic Association. 
 
-To top if off, all three of these outsiders have multiple papers published in the top economics journals. That is a privilege never experienced by most members of the profession. If these guys are outsiders, what do you call [Ole Peters](/ergodicity-economics-a-primer/)?
+To top if off, all three of these outsiders have multiple papers published in the top economics journals. That is a privilege never experienced by most members of the profession. If these guys are outsiders, what do you call [Ole Peters](/posts/ergodicity-economics-a-primer.qmd)?

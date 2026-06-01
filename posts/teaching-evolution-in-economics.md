@@ -7,7 +7,7 @@ aliases:
   - /teaching-evolution-in-economics
 ---
 
-At the start of the concluding chapter in Gad Saad's [The Evolutionary Bases of Consumption](/saads-the-evolutionary-bases-of-consumption/), Saad quotes Kenrick and Simpson as follows:
+At the start of the concluding chapter in Gad Saad's [The Evolutionary Bases of Consumption](/posts/saads-the-evolutionary-bases-of-consumption.md), Saad quotes Kenrick and Simpson as follows:
 
 >Nisbett introduced the series [on evolution and social cognition at the University of Michigan] by saying that he once thought every psychology department would need to hire an evolutionary psychologist, but he had changed his mind. Instead, Nisbett predicted that evolutionary theory will come to play the same role in psychology as it currently assumes in biology: "Not every psychologist will be an evolutionary psychologist, but every psychologist will be aware of the perspective and will have to address its explanations and constraints in his or her own work" (Nisbett, 1995, personal communication).
 

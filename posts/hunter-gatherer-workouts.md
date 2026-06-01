@@ -20,4 +20,4 @@ Razib at Gene Expression [also makes an interesting point](http://blogs.discover
 
 
 
-As I [recently posted about](https://www.jasoncollins.blog/not-quite-paleo/), we may still reflect our ancestral state, but recent human evolution means that it should not be assumed.
+As I [recently posted about](/posts/not-quite-paleo.md), we may still reflect our ancestral state, but recent human evolution means that it should not be assumed.

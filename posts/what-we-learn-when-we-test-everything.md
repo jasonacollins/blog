@@ -9,7 +9,7 @@ bibliography: references.bib
 
 The below are my speaking notes for a presentation in the Innovative methodologies in behavioural science session at [BI Connect 2024](https://behaviouraleconomics.pmc.gov.au/bi-connect-2024), hosted by the Behavioural Economics Team of the Australian Government (BETA) in the Department of Prime Minister and Cabinet.
 
-The notes reflect many of the themes discussed in more detail in a [previous post on megastudies](/megastudy-scepticism).
+The notes reflect many of the themes discussed in more detail in a [previous post on megastudies](/posts/megastudy-scepticism.qmd).
 
 When BETA posts the video of the session, I will link here.
 

@@ -7,7 +7,7 @@ aliases:
   - /four-perspectives-on-human-decision-making
 ---
 
-I have been rereading Gerd Gigerenzer's collection of essays [Rationality for Mortals: How People Cope with Uncertainty](/gerd-gigerenzers-rationality-for-mortals-how-people-cope-with-uncertainty/). It covers most of Gigerenzer's typical turf - ecological rationality, heuristics that make us smart, understanding risk and so on.
+I have been rereading Gerd Gigerenzer's collection of essays [Rationality for Mortals: How People Cope with Uncertainty](/posts/gerd-gigerenzers-rationality-for-mortals-how-people-cope-with-uncertainty.md). It covers most of Gigerenzer's typical turf - ecological rationality, heuristics that make us smart, understanding risk and so on.
 
 In the first essay, Gigerenzer provides four categories of approaches to analysing decision making - unbounded rationality, optimisation under constraints, cognitive illusions (heuristics and biases) and ecological rationality. At the end of this post, I'll propose a fifth.
 

@@ -53,6 +53,6 @@ Pinker also picks up what I consider to be the major reason multilevel selection
 
 </blockquote>
 
-This point can be drawn out through examining some of the similarities between the cooperation identified in a multilevel selection framework and the way economists look at economic exchange. I will offer some more thoughts on this in [my next post on group selection](https://www.jasoncollins.blog/groups-kin-and-self-interest/).
+This point can be drawn out through examining some of the similarities between the cooperation identified in a multilevel selection framework and the way economists look at economic exchange. I will offer some more thoughts on this in [my next post on group selection](/posts/groups-kin-and-self-interest.md).
 
 *As an aside, I am deliberately avoiding the cultural group selection issue for the moment.

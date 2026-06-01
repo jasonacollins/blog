@@ -28,7 +28,7 @@ I've tried Bing, but find it harder work to get what I want unless I have a ques
 
 I don't find CoPilot particularly useful if I'm writing something original such as a blog post. In writing this post I wouldn't say CoPilot has increased my efficiency at all (outside of helping me create the examples). I sometimes accepted suggestions from CoPilot, but the need to filter through the various suggestions resulted in negligible efficiency gain.
 
-But for lecture notes, which are more mechanical, there are some clear gains. The notes for my undergraduate behavioural economics subject (which you can access [here](https://behaviouraleconomics.jasoncollins.blog)) were produced with CoPilot.
+But for lecture notes, which are more mechanical, there are some clear gains. The notes for my undergraduate behavioural economics subject (which you can access [here](https://be.jcx.au)) were produced with CoPilot.
 
 Here are a few instances where CoPilot has been useful.
 
@@ -111,7 +111,7 @@ Here are two recent coding applications that I was particularly excited about.
 
 In my lecture notes, I use [ggplot](https://ggplot2.tidyverse.org) to produce nice-looking graphs. (I'm slowly replacing old PowerPoint diagrams that still litter the notes).
 
-Recently I wanted to generate a chart showing a [probability weighting function](https://behaviouraleconomics.jasoncollins.blog/prospect-theory/probability-weighting) from prospect theory.
+Recently I wanted to generate a chart showing a [probability weighting function](https://be.jcx.au/prospect-theory/probability-weighting) from prospect theory.
 
 I created an R code block and typed a comment:
 
@@ -158,7 +158,7 @@ The problem was that the code was in Stata, I don't have Stata, and I have no de
 
 ## Generating quiz questions (efficiency gain: 3x)
 
-One of the best ways to learn is to be tested. As a result, I offer students in my undergraduate subject a series of practice quizzes that they can work through. In the first class I tell the students about the effectiveness of spaced repetition as a learning technique. They can then use the practice quiz questions on an intermittent basis to test whether they have learnt core concepts. (When I find the bandwidth, I plan to implement those quiz questions in [Orbit](https://withorbit.com) or something similar, and place them through the [online notes](https://behaviouraleconomics.jasoncollins.blog).)
+One of the best ways to learn is to be tested. As a result, I offer students in my undergraduate subject a series of practice quizzes that they can work through. In the first class I tell the students about the effectiveness of spaced repetition as a learning technique. They can then use the practice quiz questions on an intermittent basis to test whether they have learnt core concepts. (When I find the bandwidth, I plan to implement those quiz questions in [Orbit](https://withorbit.com) or something similar, and place them through the [online notes](https://be.jcx.au).)
 
 Some questions are easy to generate: definitions and the like. But it's hard work to generate questions in bulk and I struggle to generate plausible-sounding but incorrect answers to multiple-choice questions.
 
@@ -198,7 +198,7 @@ Last year - my first year taking the undergraduate behavioural economics subject
 
 This year I thought I'd move the subject out of the 1950s and make it a combination of some [short pre-recorded videos](https://www.youtube.com/@jasonacollins), interactive online seminars and tutorials. This approach has backfired - the students don't watch the videos and don't want to interact - but that's a story for another post, perhaps in combination with my review of Bryan Caplan's The Case Against Education.
 
-To produce the videos I've written scripts, which also form the [subject notes](https://behaviouraleconomics.jasoncollins.blog). I read that accompanied by slides. I'm a hopeless off-the-cuff speaker, so for anything that's going to be recorded and treated as a long-term asset, I'm scripting.
+To produce the videos I've written scripts, which also form the [subject notes](https://be.jcx.au). I read that accompanied by slides. I'm a hopeless off-the-cuff speaker, so for anything that's going to be recorded and treated as a long-term asset, I'm scripting.
 
 There are three pain points in this exercise. First, I speak too fast (even when I think I'm speaking slow) and I enunciate many words poorly. Second, recording takes a lot of time. I rarely get a two to five-minute video in a single take. Third, if I want to tweak the recording, I need to either re-record solid chunks of text or fiddle around with video edits.
 
@@ -226,7 +226,7 @@ GPT-4 is also coming to other Microsoft tools soon. If I don't have to exit Powe
 
 I'm largely in the Mac ecosystem, but Apple seems absolutely crap in the world of assistants/chat. ("Hey Siri, tell me this most basic fact about the world." "I've sent some irrelevant web results to your iPhone.....") If at some point these tools become tied to Microsoft hardware or Windows, I'm moving.
 
-(I exited the Google ecosystem when I had trouble sharing a file from Google Drive because it breached the terms of service. It was a document that included the words "vaccination" and "scepticism", although if you see the [resulting post](https://www.jasoncollins.blog/posts/megastudy-scepticism), you can see the Google algorithm was pretty crude. At that point I opted for what I hope is a bit more privacy and jettisoned Google...)
+(I exited the Google ecosystem when I had trouble sharing a file from Google Drive because it breached the terms of service. It was a document that included the words "vaccination" and "scepticism", although if you see the [resulting post](/posts/megastudy-scepticism.qmd), you can see the Google algorithm was pretty crude. At that point I opted for what I hope is a bit more privacy and jettisoned Google...)
 
 ## Getting going with Github Copilot
 

@@ -16,6 +16,6 @@ Links this week:
   3. [Cannabis and IQ](http://andrewgelman.com/2013/06/22/struggles-over-the-criticism-of-the-cannabis-users-and-iq-change-paper/).
 
 	
-  4. My newest working paper has just gone online: [Population, Technological Progress and the Evolution of Innovative Potential](https://research-repository.uwa.edu.au/en/publications/population-technological-progress-and-the-evolution-of-innovative). I'll post about it sometime next week. [Post is now [up here](https://www.jasoncollins.blog/population-technological-progress-and-the-evolution-of-innovative-potential/)]
+  4. My newest working paper has just gone online: [Population, Technological Progress and the Evolution of Innovative Potential](https://research-repository.uwa.edu.au/en/publications/population-technological-progress-and-the-evolution-of-innovative). I'll post about it sometime next week. [Post is now [up here](/posts/population-technological-progress-and-the-evolution-of-innovative-potential.md)]
 
 

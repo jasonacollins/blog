@@ -6,7 +6,7 @@ draft: false
 title: Using the Malthusian model to measure technology
 ---
 
-Underlying much of [Ashraf and Galor's analysis of genetic diversity and economic development](https://www.jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/) is a Malthusian model of the world. The Malthusian model, as the name suggests, originates in [the work of Thomas Malthus](http://www.gutenberg.org/ebooks/4239) (pictured). Malthus had the misfortune of providing an excellent description of the world across millennia, just at the point at which the model (apparently) lost much of its predictive power.
+Underlying much of [Ashraf and Galor's analysis of genetic diversity and economic development](/posts/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development.md) is a Malthusian model of the world. The Malthusian model, as the name suggests, originates in [the work of Thomas Malthus](http://www.gutenberg.org/ebooks/4239) (pictured). Malthus had the misfortune of providing an excellent description of the world across millennia, just at the point at which the model (apparently) lost much of its predictive power.
 
 The Malthusian model rests on the assumption that any increase in income generates population growth. This ultimately prevents increases in technology from translating into increases in living standards. The greater resource productivity must now be  shared between more people. Of course, the reason people state that the Malthusian model no longer applies is that since 1800 many parts of the world have experienced substantial increases in per person income as population growth did not match technological progress.
 
@@ -26,7 +26,7 @@ There are two particularly interesting observations that Ashraf and Galor draw f
 
 Secondly, their finding can be interpreted as supporting Jared Diamond's hypothesis (or at least, it is not inconsistent with it). Those societies that first experienced the Neolithic Revolution had the highest population densities, suggesting a persistent advantage to an early start.
 
-However, this support for the Malthusian model is not a ticket to use any population density data as a measure of technological progress. One of the more interesting points in [the critique of Ashraf and Galor's genetic diversity work](https://www.jasoncollins.blog/is-poverty-in-our-genes/) published in Current Anthropology was the way some of the population density estimates used by Ashraf and Galor were developed.
+However, this support for the Malthusian model is not a ticket to use any population density data as a measure of technological progress. One of the more interesting points in [the critique of Ashraf and Galor's genetic diversity work](/posts/is-poverty-in-our-genes.md) published in Current Anthropology was the way some of the population density estimates used by Ashraf and Galor were developed.
 
 
 
@@ -42,26 +42,26 @@ My posts on Ashraf and Galor's paper on genetic diversity and economic growth ar
 
 
     
-  1. [A summary of the paper methodology and findings](https://www.jasoncollins.blog/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development/)
+  1. [A summary of the paper methodology and findings](/posts/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development.md)
 
     
-  2. [Does genetic diversity increase innovation?](https://www.jasoncollins.blog/does-genetic-diversity-increase-innovation/)
+  2. [Does genetic diversity increase innovation?](/posts/does-genetic-diversity-increase-innovation.md)
 
     
-  3. [Does genetic diversity increase conflict?](https://www.jasoncollins.blog/does-genetic-diversity-increase-conflict/)
+  3. [Does genetic diversity increase conflict?](/posts/does-genetic-diversity-increase-conflict.md)
 
     
-  4. [Is genetic diversity a proxy for phenotypic diversity?](https://www.jasoncollins.blog/is-genetic-diversity-a-proxy-for-phenotypic-diversity/)
+  4. [Is genetic diversity a proxy for phenotypic diversity?](/posts/is-genetic-diversity-a-proxy-for-phenotypic-diversity.md)
 
     
-  5. [Is population density a good measure of technological progress?](https://www.jasoncollins.blog/using-the-malthusian-model-to-measure-technology/) (this post)
+  5. [Is population density a good measure of technological progress?](/posts/using-the-malthusian-model-to-measure-technology.md) (this post)
 
     
-  6. [What are the policy implications of the effects of genetic diversity on economic development?](https://www.jasoncollins.blog/genetic-diversity-economic-development-and-policy/)
+  6. [What are the policy implications of the effects of genetic diversity on economic development?](/posts/genetic-diversity-economic-development-and-policy.md)
 
     
-  7. [Should this paper have been published?](https://www.jasoncollins.blog/publishing-on-genetic-diversity-and-economic-growth/)
+  7. [Should this paper have been published?](/posts/publishing-on-genetic-diversity-and-economic-growth.md)
 
 
 
-Earlier debate on this paper can also be found [here](https://www.jasoncollins.blog/harvard-academics-on-genetic-diversity-and-economic-development/), [here](https://www.jasoncollins.blog/genetic-diversity-and-economic-development-ashraf-and-galor-respond/), [here](https://www.jasoncollins.blog/is-poverty-in-our-genes/) and [here](https://www.jasoncollins.blog/is-poverty-in-our-genes-from-the-comments/).
+Earlier debate on this paper can also be found [here](/posts/harvard-academics-on-genetic-diversity-and-economic-development.md), [here](/posts/genetic-diversity-and-economic-development-ashraf-and-galor-respond.md), [here](/posts/is-poverty-in-our-genes.md) and [here](/posts/is-poverty-in-our-genes-from-the-comments.md).

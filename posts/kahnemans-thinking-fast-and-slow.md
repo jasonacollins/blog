@@ -9,7 +9,7 @@ aliases:
   - /kahnemans-thinking-fast-and-slow
 ---
 
-[[See my 2016 update](/re-reading-kahnemans-thinking-fast-and-slow/)]
+[[See my 2016 update](/posts/re-reading-kahnemans-thinking-fast-and-slow.md)]
 
 On glancing down the chapter list of Daniel Kahneman's *Thinking, Fast and Slow*, I saw a list of heuristics and biases that behavioural scientists have discovered over the last few decades. I am often critical of behavioural science in that it is often presented as a list of biases with no linking framework, so the chapter list played to my fears. I was not confident that the book would present me with many new ideas.
 

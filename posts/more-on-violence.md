@@ -7,7 +7,7 @@ aliases:
   - /more-on-violence
 ---
 
-Following yesterday's [post on female preference for masculine men](https://www.jasoncollins.blog/selection-for-aggression/), a couple of old articles came to mind.
+Following yesterday's [post on female preference for masculine men](/posts/selection-for-aggression.md), a couple of old articles came to mind.
 
 The first (and I am not sure why this did not come into my head yesterday) is the work by Napoleon Chagnon on the Yanomamo. From his paper [Life Histories, Blood Revenge, and Warfare in a Tribal Population](http://www.jstor.org/stable/1700080):
 

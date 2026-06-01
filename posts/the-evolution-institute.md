@@ -18,4 +18,4 @@ The Institute frames its [economics focal topic](http://evolution-institute.org/
 
 If a project of this type succeeds, behavioural economics would be much more useful. It might actually extend beyond being a catalogue of paradoxes and biases and offer a framework under which economic decisions might be understood.
 
-*My four posts on David Sloan Wilson's Economics and Evolution as Different Paradigms can be found [here](https://www.jasoncollins.blog/the-evolution-institute/), [here](https://www.jasoncollins.blog/wilson-on-economics-and-evolution/), [here](https://www.jasoncollins.blog/evolution-and-the-invisible-hand/) and [here](https://www.jasoncollins.blog/what-can-evolutionary-biology-offer-economics/).
+*My four posts on David Sloan Wilson's Economics and Evolution as Different Paradigms can be found [here](/posts/the-evolution-institute.md), [here](/posts/wilson-on-economics-and-evolution.md), [here](/posts/evolution-and-the-invisible-hand.md) and [here](/posts/what-can-evolutionary-biology-offer-economics.md).

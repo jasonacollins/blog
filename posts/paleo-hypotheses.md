@@ -6,7 +6,7 @@ draft: false
 title: Paleo-hypotheses
 ---
 
-In my post on [Marlene Zuk's Paleofantasy](https://www.jasoncollins.blog/zuks-paleofantasy/), I referred to a [review by John Hawks](https://doi.org/10.1038/495172a). Hawks suggested that Zuk's fantasies should be thought of as hypotheses to be tested. I was not convinced that Zuk used this approach, but Hawks's comment triggered me to write a list of what are the most interesting questions about the paleo lifestyle that I would like to see more evidence on. The list is below.
+In my post on [Marlene Zuk's Paleofantasy](/posts/zuks-paleofantasy.md), I referred to a [review by John Hawks](https://doi.org/10.1038/495172a). Hawks suggested that Zuk's fantasies should be thought of as hypotheses to be tested. I was not convinced that Zuk used this approach, but Hawks's comment triggered me to write a list of what are the most interesting questions about the paleo lifestyle that I would like to see more evidence on. The list is below.
 
 The common thought that runs through them, beyond Zuk's points about recent evolution, is that adaptation to a particular diet doesn't mean it can't be improved. Also, humans faced broadly varied diets in our past, so I expect that humans have much flexibility in what we can eat.
 

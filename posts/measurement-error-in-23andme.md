@@ -1,10 +1,8 @@
 ---
 title: Measurement error in 23andme
 author: "Jason Collins"
-
 date: 2015-06-02 09:00:00+00:00
 draft: false
-link: https://www.jasoncollins.blog/measurement-error-in-23andme/
 aliases:
   - /measurement-error-in-23andme
 ---

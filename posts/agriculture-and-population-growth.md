@@ -1,9 +1,7 @@
 ---
 author: "Jason Collins"
-
 date: 2012-09-17 11:14:06+00:00
 draft: false
-link: https://www.jasoncollins.blog/agriculture-and-population-growth/
 title: Agriculture and population growth
 ---
 

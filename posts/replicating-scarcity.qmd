@@ -6,7 +6,7 @@ draft: false
 images: ["img/odonnell-et-al-2021-fig1.jpeg"]
 ---
 
-In [*Scarcity: Why having too little means so much*](/scarcity-of-time-money-friends-and-bandwidth/), Sendhil Mullainathan and Eldar Shafir tell the following (now famous) story:
+In [*Scarcity: Why having too little means so much*](/posts/scarcity-of-time-money-friends-and-bandwidth.md), Sendhil Mullainathan and Eldar Shafir tell the following (now famous) story:
 
 > To see the effect of scarcity on fluid intelligence, we ran some studies with our graduate student, Jiaying Zhao, in which we gave people in a New Jersey mall the Raven's Progressive Matrices test. First, half the subjects were presented with simple hypothetical scenarios, such as this one:
 >
@@ -30,7 +30,7 @@ In [*Scarcity: Why having too little means so much*](/scarcity-of-time-money-fri
 
 I have long considered this finding, drawn from a paper in Science by [Mani and friends (2013)](https://doi.org/10.1126/science.1238041) ([pdf](https://scholar.harvard.edu/files/sendhil/files/976.full_.pdf)), to be one of the most unreliable findings in the behavioural sciences.
 
-It fails the ["effect is too large" heuristic](/the-effect-is-too-large-heuristic/). This can't be anything but a massively biased effect size.
+It fails the ["effect is too large" heuristic](/posts/the-effect-is-too-large-heuristic.md). This can't be anything but a massively biased effect size.
 
 It relies on a prime. We have all seen how the [priming literature has fared](https://replicationindex.com/2017/02/02/reconstruction-of-a-train-wreck-how-priming-research-went-of-the-rails/).
 

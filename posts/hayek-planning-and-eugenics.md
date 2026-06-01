@@ -12,7 +12,7 @@ In Friedrich Hayek's magnificent essay [The Use of Knowledge in Society](http://
 <blockquote>It is about this question that all the dispute about "economic planning" centers. This is not a dispute about whether planning is to be done or not. It is a dispute as to whether planning is to be done centrally, by one authority for the whole economic system, or is to be divided among many individuals.</blockquote>
 
 
-After writing my [recent post](https://www.jasoncollins.blog/eugenics-and-regression-to-the-mean/) on Richard Conniff's article about Irving Fisher's eugenic leanings, it struck me that a similar framing can be made with respect to eugenics.
+After writing my [recent post](/posts/eugenics-and-regression-to-the-mean.md) on Richard Conniff's article about Irving Fisher's eugenic leanings, it struck me that a similar framing can be made with respect to eugenics.
 
 The debate about eugenics, apart from being one-sided, is normally framed as to whether there should be centralised planning about who should be able to breed (or not). However, without eugenic decisions from the top, there is still planning about who breeds and who doesn't. This is in the form of sexual selection, with males and females choosing their partners with the aim of having smarter, more attractive children. The result of this process is that some people do not get to reproduce, despite their wish to, due to the decisions of others.
 

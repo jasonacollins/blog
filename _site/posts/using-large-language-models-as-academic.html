@@ -217,7 +217,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../about.html"> 
+    <a class="nav-link" href="https://www.jcx.au"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
@@ -296,7 +296,7 @@ window.Quarto = {
 <section id="writing-lecture-notes-efficiency-gain-10-to-30" class="level2">
 <h2 class="anchored" data-anchor-id="writing-lecture-notes-efficiency-gain-10-to-30">Writing lecture notes (efficiency gain: 10 to 30%)</h2>
 <p>I don’t find CoPilot particularly useful if I’m writing something original such as a blog post. In writing this post I wouldn’t say CoPilot has increased my efficiency at all (outside of helping me create the examples). I sometimes accepted suggestions from CoPilot, but the need to filter through the various suggestions resulted in negligible efficiency gain.</p>
-<p>But for lecture notes, which are more mechanical, there are some clear gains. The notes for my undergraduate behavioural economics subject (which you can access <a href="https://behaviouraleconomics.jasoncollins.blog">here</a>) were produced with CoPilot.</p>
+<p>But for lecture notes, which are more mechanical, there are some clear gains. The notes for my undergraduate behavioural economics subject (which you can access <a href="https://be.jcx.au">here</a>) were produced with CoPilot.</p>
 <p>Here are a few instances where CoPilot has been useful.</p>
 <p>Often the notes include a statement of a concept followed by a step-by-step example or illustration. The gain comes when you’re writing those steps.</p>
 <p>For example, in a section about decision making under risk, I might write:</p>
@@ -358,7 +358,7 @@ EU(\text{bet}) &amp;= 0.5 \times u(100) + 0.5 \times u(-50) \\
 <section id="creating-diagrams" class="level3">
 <h3 class="anchored" data-anchor-id="creating-diagrams">Creating diagrams</h3>
 <p>In my lecture notes, I use <a href="https://ggplot2.tidyverse.org">ggplot</a> to produce nice-looking graphs. (I’m slowly replacing old PowerPoint diagrams that still litter the notes).</p>
-<p>Recently I wanted to generate a chart showing a <a href="https://behaviouraleconomics.jasoncollins.blog/prospect-theory/probability-weighting">probability weighting function</a> from prospect theory.</p>
+<p>Recently I wanted to generate a chart showing a <a href="https://be.jcx.au/prospect-theory/probability-weighting">probability weighting function</a> from prospect theory.</p>
 <p>I created an R code block and typed a comment:</p>
 <blockquote class="blockquote">
 <p>#Plot of probability weighting function using ggplot2</p>
@@ -398,13 +398,13 @@ EU(\text{bet}) &amp;= 0.5 \times u(100) + 0.5 \times u(-50) \\
 </section>
 <section id="converting-code-across-languages" class="level3">
 <h3 class="anchored" data-anchor-id="converting-code-across-languages">Converting code across languages</h3>
-<p>My second example relates to a proposed reproduction of the results in Berkeley Dietvorst’s <a href="https://doi.org/10.1037/xge0000033">Algorithm aversion: People erroneously avoid algorithms after seeing them err</a>. Data and the code for analysis was <a href="ADD LINK">available on ResearchBox</a>.</p>
+<p>My second example relates to a proposed reproduction of the results in Berkeley Dietvorst’s <a href="https://doi.org/10.1037/xge0000033">Algorithm aversion: People erroneously avoid algorithms after seeing them err</a>. Data and the code for analysis was <a href="https://researchbox.org/379&amp;PEER_REVIEW_passcode=MOQTEQ">available on ResearchBox</a>.</p>
 <p>The problem was that the code was in Stata, I don’t have Stata, and I have no desire to learn Stata. So, I pasted the code into ChatGPT and asked for a conversion to R. What I received was 90% of the way there. Initially there was an error, but ChatGPT solved the error first shot. I then had to tweak a couple of the variable manipulations and specify that some of the t-tests were paired t-tests, and that was it. In less than 10 minutes I had code that was reproducing exactly the results from Study 1.</p>
 </section>
 </section>
 <section id="generating-quiz-questions-efficiency-gain-3x" class="level2">
 <h2 class="anchored" data-anchor-id="generating-quiz-questions-efficiency-gain-3x">Generating quiz questions (efficiency gain: 3x)</h2>
-<p>One of the best ways to learn is to be tested. As a result, I offer students in my undergraduate subject a series of practice quizzes that they can work through. In the first class I tell the students about the effectiveness of spaced repetition as a learning technique. They can then use the practice quiz questions on an intermittent basis to test whether they have learnt core concepts. (When I find the bandwidth, I plan to implement those quiz questions in <a href="https://withorbit.com">Orbit</a> or something similar, and place them through the <a href="https://behaviouraleconomics.jasoncollins.blog">online notes</a>.)</p>
+<p>One of the best ways to learn is to be tested. As a result, I offer students in my undergraduate subject a series of practice quizzes that they can work through. In the first class I tell the students about the effectiveness of spaced repetition as a learning technique. They can then use the practice quiz questions on an intermittent basis to test whether they have learnt core concepts. (When I find the bandwidth, I plan to implement those quiz questions in <a href="https://withorbit.com">Orbit</a> or something similar, and place them through the <a href="https://be.jcx.au">online notes</a>.)</p>
 <p>Some questions are easy to generate: definitions and the like. But it’s hard work to generate questions in bulk and I struggle to generate plausible-sounding but incorrect answers to multiple-choice questions.</p>
 <p>I now ask ChatGPT to generate them. In the prompts, I vary in the specificity of the questions. “Give me 20 multiple choice questions testing the concept of loss aversion.” “Give me 20 multiple choice questions testing prospect theory.” And so on. Out of each batch of 20, only a few will be suitable. There might be no correct answer or two correct answers, or ChatGPT might confuse concepts. But by tweaking my instruction by, say, describing the level of the students (undergraduate) or more explicitly defining the concept, it doesn’t take long to get 10 or so good questions.</p>
 <p>I haven’t used ChatGPT to generate assessable quiz questions yet, but I’m planning to use it for the upcoming final exam. That exam is a closed-book AI-invigilated exam, so is less vulnerable to someone simply feeding the questions back to ChatGPT. One idea I’m tempted to try is to feed it some previous year’s exams and ask for new exams on the same concepts.</p>
@@ -431,7 +431,7 @@ EU(\text{bet}) &amp;= 0.5 \times u(100) + 0.5 \times u(-50) \\
 <p>My next frontier is artificial voice generation for my pre-recorded lectures.</p>
 <p>Last year - my first year taking the undergraduate behavioural economics subject - the subject was structured as two hours of live (but online) lectures and one hour of tutorials (either online or in-person). Both lectures and the online tutorial were recorded, so students could watch at another time. The net result was limited attendance - and most students didn’t watch the videos either.</p>
 <p>This year I thought I’d move the subject out of the 1950s and make it a combination of some <a href="https://www.youtube.com/@jasonacollins">short pre-recorded videos</a>, interactive online seminars and tutorials. This approach has backfired - the students don’t watch the videos and don’t want to interact - but that’s a story for another post, perhaps in combination with my review of Bryan Caplan’s The Case Against Education.</p>
-<p>To produce the videos I’ve written scripts, which also form the <a href="https://behaviouraleconomics.jasoncollins.blog">subject notes</a>. I read that accompanied by slides. I’m a hopeless off-the-cuff speaker, so for anything that’s going to be recorded and treated as a long-term asset, I’m scripting.</p>
+<p>To produce the videos I’ve written scripts, which also form the <a href="https://be.jcx.au">subject notes</a>. I read that accompanied by slides. I’m a hopeless off-the-cuff speaker, so for anything that’s going to be recorded and treated as a long-term asset, I’m scripting.</p>
 <p>There are three pain points in this exercise. First, I speak too fast (even when I think I’m speaking slow) and I enunciate many words poorly. Second, recording takes a lot of time. I rarely get a two to five-minute video in a single take. Third, if I want to tweak the recording, I need to either re-record solid chunks of text or fiddle around with video edits.</p>
 <p>So, why not get an artificial voice to do the speaking?</p>
 <p>I’ve been experimenting with <a href="https://murf.ai">Murf.ai</a>, <a href="https://speechify.com">Speechify</a>, <a href="https://play.ht/">play.ht</a> and <a href="https://beta.elevenlabs.io">Eleven</a>. Eleven has comfortably the most realistic voices but doesn’t yet appear to have an easy way to create video using slides. If they introduce that, I’m fully on board. Murf.ai allows me to pair slides and text to create videos, but the voices still sound a bit robotic. But with the ability to pace their speech, Murf.ai is already a better option than me. And they’ll only get better.</p>
@@ -447,7 +447,7 @@ EU(\text{bet}) &amp;= 0.5 \times u(100) + 0.5 \times u(-50) \\
 <p>At the moment I have multiple streams of access to these tools. I’m looking forward to chat appearing in Copilot - I’m on the waiting list to access - which will remove the need for the separate browser with ChatGPT.</p>
 <p>GPT-4 is also coming to other Microsoft tools soon. If I don’t have to exit PowerPoint to get my images, that’s an extra efficiency.</p>
 <p>I’m largely in the Mac ecosystem, but Apple seems absolutely crap in the world of assistants/chat. (“Hey Siri, tell me this most basic fact about the world.” “I’ve sent some irrelevant web results to your iPhone…..”) If at some point these tools become tied to Microsoft hardware or Windows, I’m moving.</p>
-<p>(I exited the Google ecosystem when I had trouble sharing a file from Google Drive because it breached the terms of service. It was a document that included the words “vaccination” and “scepticism”, although if you see the <a href="https://www.jasoncollins.blog/posts/megastudy-scepticism">resulting post</a>, you can see the Google algorithm was pretty crude. At that point I opted for what I hope is a bit more privacy and jettisoned Google…)</p>
+<p>(I exited the Google ecosystem when I had trouble sharing a file from Google Drive because it breached the terms of service. It was a document that included the words “vaccination” and “scepticism”, although if you see the <a href="../posts/megastudy-scepticism.html">resulting post</a>, you can see the Google algorithm was pretty crude. At that point I opted for what I hope is a bit more privacy and jettisoned Google…)</p>
 </section>
 </section>
 <section id="getting-going-with-github-copilot" class="level2">

@@ -50,9 +50,9 @@ And if you missed them, my posts this week:
 
 
 	
-  1. [Tolstoy, behavioural scientist](https://www.jasoncollins.blog/wisdom-from-tolstoy/).
+  1. [Tolstoy, behavioural scientist](/posts/wisdom-from-tolstoy.md).
 
 	
-  2. [The left and heritability](https://www.jasoncollins.blog/accepting-heritability/).
+  2. [The left and heritability](/posts/accepting-heritability.md).
 
 

@@ -6,7 +6,7 @@ draft: false
 title: Sports team ownership as conspicuous consumption
 ---
 
-Most of Malcolm Gladwell's appearances in this blog involve me complaining about his various writings (such as [my review of Outliers](https://www.jasoncollins.blog/gladwells-outliers/)), but his [recent piece](http://www.grantland.com/story/_/id/6874079/psychic-benefits-nba-lockout) on the NBA lock-out is a gem (HT [Rob Brooks](http://www.robbrooks.net/)). I wish I could write like that.
+Most of Malcolm Gladwell's appearances in this blog involve me complaining about his various writings (such as [my review of Outliers](/posts/gladwells-outliers.md)), but his [recent piece](http://www.grantland.com/story/_/id/6874079/psychic-benefits-nba-lockout) on the NBA lock-out is a gem (HT [Rob Brooks](http://www.robbrooks.net/)). I wish I could write like that.
 
 Gladwell argues that owning a sports team is akin to owning a painting - there are benefits beyond the monetary. He writes:
 

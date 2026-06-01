@@ -7,9 +7,9 @@ aliases:
   - /chimps-1-humans-0
 ---
 
-*See an update [here](https://www.jasoncollins.blog/humans-1-chimps-0-correcting-the-record).*
+*See an update [here](/posts/humans-1-chimps-0-correcting-the-record.qmd).*
 
-At the recent [The Biological Basis of Preferences and Behaviour](https://www.jasoncollins.blog/the-biological-basis-of-preferences-and-behaviour-conference/) conference, Colin Camerer presented the results of a paper about work he and his co-authors had done on chimpanzees at the Primate Research Institute at Kyoto University.
+At the recent [The Biological Basis of Preferences and Behaviour](/posts/the-biological-basis-of-preferences-and-behaviour-conference.md) conference, Colin Camerer presented the results of a paper about work he and his co-authors had done on chimpanzees at the Primate Research Institute at Kyoto University.
 
 At the beginning of the presentation, Camerer showed a couple of videos of experiments dealing with the working memories of chimps. The videos show subjects undergoing a test in which they see five numbers briefly flash on a screen before the numbers are covered with white boxes. The subject must then press the boxes in the order of the numerals. Of the three videos below, the first is a human subject, the second and third a chimpanzee. The chimpanzee (Ayumu) is receiving pieces of apple for each correct answer, which he is collecting from the lower right of the screen.
 

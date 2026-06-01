@@ -8,7 +8,7 @@ aliases:
   - /male-incentives
 ---
 
-In the comments to my [post last month](/the-gender-gap/) on the Cato Unbound series [New Girl Order: Are men in decline?](http://www.cato-unbound.org/archives/august-2011-are-men-in-decline/), there was some suggestion that men were being disincentivised from working hard by the increasing income and resources of women.
+In the comments to my [post last month](/posts/the-gender-gap.md) on the Cato Unbound series [New Girl Order: Are men in decline?](http://www.cato-unbound.org/archives/august-2011-are-men-in-decline/), there was some suggestion that men were being disincentivised from working hard by the increasing income and resources of women.
 
 Bryan Caplan [took up a similar argument](http://econlog.econlib.org/archives/2011/08/supply_demand_a.html) when he looked at what was happening through the lens of two markets - labour and mating. He concluded that:
 

@@ -10,13 +10,13 @@ Better late than never....
 
 The best books I <em>read</em> in 2019 - generally released in other years - are below. Where I have reviewed, the link leads to that review (not many reviews this year).
 
-- Nick Chater, [_The Mind is Flat_](/nick-chaters-the-mind-is-flat-the-illusion-of-mental-depth-and-the-improvised-mind/): A great book in which Chater argues that there are no ‘hidden depths’ to our minds.
+- Nick Chater, [_The Mind is Flat_](/posts/nick-chaters-the-mind-is-flat-the-illusion-of-mental-depth-and-the-improvised-mind.md): A great book in which Chater argues that there are no ‘hidden depths’ to our minds.
 
 - Stephan Guyenet, _The Hungry Brain: Outsmarting the Instincts that Make us Overeat_: Excellent summary of modern nutrition research and how the body "regulates" its weight.
 
 - Jonathan Morduch and Rachel Schneider, _The Financial Diaries: How American Families Cope in a World of Uncertainty_: I find a lot of value reading about the world outside of my bubble. I learnt a lot from this book.
 
-- Paul Seabright, _The Company of Strangers_: An excellent exploration of the evolutionary foundations of cooperation. A staple of my [evolutionary biology and economics reading list](/economics-and-evolutionary-biology-reading-list/).
+- Paul Seabright, _The Company of Strangers_: An excellent exploration of the evolutionary foundations of cooperation. A staple of my [evolutionary biology and economics reading list](/posts/economics_and_evolutionary_biology_reading_list.md).
 
 - Lenore Skenazy, _Free-Range Kids: How to Raise Safe, Self-Reliant Children (Without Going Nuts with Worry)_: A fun read of some wise advice.
 
@@ -44,7 +44,7 @@ Below is the full list of books that I read in 2019 (with links where reviewed a
 - Adam Kay, _This is Going to Hurt: Secret Diaries of a Junior Doctor_
 - Peter D. Kaufman (ed), _Poor Charlie's Almanac: The Wit and Wisdom of Charles T. Munger, Expanded Third Edition_
 - Thomas Kuhn, _The Structure of Scientific Revolutions_
-- David Leiser and Yhonatan Shemesh, [_How We Misunderstand Economics and Why it Matters: The Psychology of Bias, Distortion and Conspiracy_](https://www.jasoncollins.blog/david-leiser-and-yhonatan-shemeshs-how-we-misunderstand-economics-and-why-it-matters-the-psychology-of-bias-distortion-and-conspiracy/)
+- David Leiser and Yhonatan Shemesh, [_How We Misunderstand Economics and Why it Matters: The Psychology of Bias, Distortion and Conspiracy_](/posts/david-leiser-and-yhonatan-shemeshs-how-we-misunderstand-economics-and-why-it-matters-the-psychology-of-bias-distortion-and-conspiracy.md)
 - Gerry Lopez, _Surf is Where You Find It_
 - Jonathan Morduch and Rachel Schneider, _The Financial Diaries: How American Families Cope in a World of Uncertainty_
 - Cal Newport, _Digital Minimalism_
@@ -52,7 +52,7 @@ Below is the full list of books that I read in 2019 (with links where reviewed a
 - James Reason, _Human Error_
 - Ben Reiter, _Astroball_
 - Matthew Salganik, _Bit by bit: Social Research in the Digital Age_
-- Barry Schwartz, [_The Paradox of Choice_](https://www.jasoncollins.blog/barry-schwartzs-the-paradox-of-choice-why-more-is-less/)
+- Barry Schwartz, [_The Paradox of Choice_](/posts/barry-schwartzs-the-paradox-of-choice-why-more-is-less.md)
 - Paul Seabright, _The Company of Strangers_*
 - Byron Sharp, _How Brands Grow_
 - Pater Singer, _A Darwinian Left_
@@ -91,4 +91,4 @@ Below is the full list of books that I read in 2019 (with links where reviewed a
 - J.K. Rowling, _Harry Potter and the Deathly Hallows_
 - Tim Winton, _Breath_
 
-Previous lists: [2010](/top-10-books-in-2010.md), [2011](/best-books-i-read-in-2011.md), [2012](/the-best-books-i-read-in-2012.md), [2013](/best-books-i-read-in-2013.md), [2014](/best-books-i-read-in-2014.md), [2015](/best-books-i-read-in-2015.md), [2016](/best-books-i-read-in-2016.md), [2017](/best-books-i-read-in-2017.md), [2018](/books-i-read-in-2018.md)
+Previous lists: [2010](/posts/top-10-books-in-2010.md), [2011](/posts/best-books-i-read-in-2011.md), [2012](/posts/the-best-books-i-read-in-2012.md), [2013](/posts/best-books-i-read-in-2013.md), [2014](/posts/best-books-i-read-in-2014.md), [2015](/posts/best-books-i-read-in-2015.md), [2016](/posts/best-books-i-read-in-2016.md), [2017](/posts/best-books-i-read-in-2017.md), [2018](/posts/books-i-read-in-2018.md)

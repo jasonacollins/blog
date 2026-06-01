@@ -15,6 +15,6 @@ Have just discovered the upcoming [Consilience Conference](http://consiliencecon
 
 Momentum to incorporate biology into the social sciences is growing.
 
-The [speakers list](http://consilienceconference.com/invited-speakers) has me tempted to jump on a plane: Edward O Wilson, Henry Harpending, [John Hawks](http://johnhawks.net/weblog), Christopher Boehm, Herb Gintis and [Robert Frank](https://www.jasoncollins.blog/franks-the-darwin-economy/) among others. (Although a quick look at flight schedules - 24 hours there, 32 hours back.....)
+The [speakers list](http://consilienceconference.com/invited-speakers) has me tempted to jump on a plane: Edward O Wilson, Henry Harpending, [John Hawks](http://johnhawks.net/weblog), Christopher Boehm, Herb Gintis and [Robert Frank](/posts/franks-the-darwin-economy.md) among others. (Although a quick look at flight schedules - 24 hours there, 32 hours back.....)
 
-Update: I attended, and posted about the conference [here](https://www.jasoncollins.blog/group-selection-and-the-social-sciences/) and [here](https://www.jasoncollins.blog/consilience-conference-afterthoughts/).
+Update: I attended, and posted about the conference [here](/posts/group-selection-and-the-social-sciences.md) and [here](/posts/consilience-conference-afterthoughts.md).

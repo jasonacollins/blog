@@ -36,4 +36,4 @@ Excoffier believes that if this “gene surfing,” as some call it, happened of
 
 Migration provides an opportunity for strong selection through the new environment that the migrants are exposed to, possibly favouring traits that were neutral or deleterious in the earlier environment. Even if migrants are no different from those they leave, it may not stay the case for long.
 
-As an end note, [Razib rightfully asks](http://blogs.discovermagazine.com/gnxp/2012/12/gene-surfing-with-david-dobbs/) whether heritability is a better place to focus in exploring this genetic link than looking for genes such as _DRD4-7R_. I think this is the case in a lot of fields in the short term, [including genoeconomics](https://www.jasoncollins.blog/genetics-without-genes/).
+As an end note, [Razib rightfully asks](http://blogs.discovermagazine.com/gnxp/2012/12/gene-surfing-with-david-dobbs/) whether heritability is a better place to focus in exploring this genetic link than looking for genes such as _DRD4-7R_. I think this is the case in a lot of fields in the short term, [including genoeconomics](/posts/genetics-without-genes.md).

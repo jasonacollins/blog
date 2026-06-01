@@ -6,7 +6,7 @@ draft: false
 title: The genetic and social lottery
 ---
 
-As opportunity is equalised, more of the variation in outcomes between people will be due to genetic factors. This may have the somewhat ironic result of [reducing social mobility](https://www.jasoncollins.blog/low-social-mobility-equals-success/).
+As opportunity is equalised, more of the variation in outcomes between people will be due to genetic factors. This may have the somewhat ironic result of [reducing social mobility](/posts/low-social-mobility-equals-success.md).
 
 I generally take the view that assortment by genetic lottery is no more fair than assortment based on social factors such as being born to low socio-economic status parents. An alternative view is given by Garret Hardin in his famous article [The Tragedy of the Commons](http://www.sciencemag.org/content/162/3859/1243.abstract), when he writes of the private property solution to the tragedy:
 

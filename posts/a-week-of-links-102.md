@@ -20,12 +20,12 @@ Links this week:
 
 And if you missed them, my posts from the last week:
 	
-  1. [Ration information. Avoid news](https://www.jasoncollins.blog/ration-information-and-avoid-news/).
+  1. [Ration information. Avoid news](/posts/ration-information-and-avoid-news.md).
 
 	
-  2. [Measurement error on 23andme](https://www.jasoncollins.blog/measurement-error-in-23andme/).
+  2. [Measurement error on 23andme](/posts/measurement-error-in-23andme.md).
 
 	
-  3. [Merton on retirement incomes](https://www.jasoncollins.blog/merton-on-retirement-incomes/).
+  3. [Merton on retirement incomes](/posts/merton-on-retirement-incomes.md).
 
 

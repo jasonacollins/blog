@@ -73,3 +73,13 @@ Despite all the talk about people becoming deskilled as AI takes over, there isn
 @lee2025 [The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers](https://doi.org/10.1145/3706598.3713778): Higher confidence in generative AI is associated with less critical thinking.
 
 @krook2025 [When Autonomy Breaks: The Hidden Existential Risk of AI](https://doi.org/10.1007/s00146-025-02397-5) ([ungated pdf](https://doi.org/10.48550/arXiv.2503.22151)): Humans may lose skills such as critical thinking, decision-making and social care in an AGI world. This paper puts some of the above references into context, arguing why the deskilling matters.
+
+## Organisations working on (or at least noting) the risk of gradual disempowerment
+
+[AI Objectives Institute](https://ai.objectives.institute/): Gradual disempowerment is one of their streams of work. Includes a coauthor of the gradual disempowerment paper.
+
+[The Alignment of Complex Systems Research Group](https://acsresearch.org/): Home to one of the two lead authors of the gradual disempowerment paper, and another member of the research team.
+
+[Centre for AI Safety](https://safe.ai/ai-risk): "As AI becomes more capable, businesses will likely replace more types of human labor with AI, potentially triggering mass unemployment. If major aspects of society are automated, this risks human enfeeblement as we cede control of civilization to AI."
+
+[Secure AI Future](https://www.secureaifuture.org/topics/enfeeblement): "The concern of human enfeeblement arises in a scenario where AI becomes so efficient and pervasive in performing tasks that humans traditionally handled, leading to a societal dependence on AI for even the most basic activities."

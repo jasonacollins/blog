@@ -6,7 +6,7 @@ draft: false
 title: Maladaptive ideas
 ---
 
-Following the [Consilience Conference](https://www.jasoncollins.blog/consilience-conference-afterthoughts/) and some suggestions for additions to [my reading list](https://www.jasoncollins.blog/economics-and-evolutionary-biology-reading-list/), I have been convinced to read some more work by Robert Boyd and Peter Richerson. I've started with [The Origin and Evolution of Cultures](https://www.jasoncollins.blog/boyd-and-richersons-the-origin-and-evolution-of-cultures/).
+Following the [Consilience Conference](/posts/consilience-conference-afterthoughts.md) and some suggestions for additions to [my reading list](/posts/economics_and_evolutionary_biology_reading_list.md), I have been convinced to read some more work by Robert Boyd and Peter Richerson. I've started with [The Origin and Evolution of Cultures](/posts/boyd-and-richersons-the-origin-and-evolution-of-cultures.md).
 
 One quote in the introduction caught my eye:
 
