@@ -8,7 +8,7 @@ about:
       href: https://x.com/jasonacollins
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/jasonallancollins/
+      href: https://www.linkedin.com/in/jcxau/
 aliases:
   - /about/
 ---
