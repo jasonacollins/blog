@@ -6,7 +6,7 @@ draft: false
 title: Grandparents affect social mobility
 ---
 
-In his research on [social mobility using surnames](/posts/social-mobility-across-the-generations.md), Gregory Clark has found lower levels of social mobility than many other studies. Clark has defended this finding on the basis that analysis of social mobility across a single generation or using a single variable will overestimate it. [Clark writes](http://www.economist.com/blogs/freeexchange/2013/02/mobility-2):
+In his research on [social mobility using surnames](social-mobility-across-the-generations.md), Gregory Clark has found lower levels of social mobility than many other studies. Clark has defended this finding on the basis that analysis of social mobility across a single generation or using a single variable will overestimate it. [Clark writes](http://www.economist.com/blogs/freeexchange/2013/02/mobility-2):
 
 
 <blockquote>Conventional estimates of social mobility, which look at just single aspects of social status such as income, are contaminated by noise. If we measure mobility on one aspect of status such as income, it will seem rapid.

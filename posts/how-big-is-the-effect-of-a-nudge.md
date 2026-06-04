@@ -35,7 +35,7 @@ The headline finding of the meta-analysis also raises an interesting question: i
 
 Take the following two examples as points on a spectrum.
 
-First, consider Eric Johnson and Dan Goldstein's famous (and [typically misinterpreted](/posts/does-presuming-you-can-take-a-persons-organs-save-lives.md)) [study into organ donation defaults](https://doi.org/10.1126/science.1091721) ([pdf](http://www.dangoldstein.com/papers/DefaultsScience.pdf)). The lab experiment in that paper is used in the meta-analysis (I think an over-estimated effect size), but let's consider the more famous intervention discussed in that paper.
+First, consider Eric Johnson and Dan Goldstein's famous (and [typically misinterpreted](does-presuming-you-can-take-a-persons-organs-save-lives.md)) [study into organ donation defaults](https://doi.org/10.1126/science.1091721) ([pdf](http://www.dangoldstein.com/papers/DefaultsScience.pdf)). The lab experiment in that paper is used in the meta-analysis (I think an over-estimated effect size), but let's consider the more famous intervention discussed in that paper.
 
 In many European countries, people are presumed to consent to organ donation. They are never asked. Depending on the country, they typically need to do something like find and fill out a form to change that presumption. This gives us 99.98% of Austrians who are presumed to consent, versus the 12% who register as organ donors in Germany. Huge effect size via a very rigid mechanism. (Note also here that the outcome measure is registration for organ donation, not organ donation itself. Go downstream and the effect size rapidly dwindles.)
 
@@ -57,7 +57,7 @@ What would I have done myself? No idea. But on reflection, I wonder whether a le
 
 Outside of this question of what the meta-analysis covers, there are a couple of other points worth noting.
 
-As hinted above, the meta-analysis included some studies by Brian Wansink. It also included the the "sign at the top" honesty experiments that had previously been [subject to failed replications](/posts/a-default-of-disbelief.md), with the paper later retracted for fraud. (Why didn't the replications make the meta-analysis?) There is a discussion about the inclusion of the retracted paper in the meta-analysis [in Retraction Watch](https://retractionwatch.com/2022/01/09/authors-to-correct-pnas-nudge-paper-that-cites-now-retracted-article-in-the-same-journal/). (And note the positive, constructive engagement by one of the meta-analysis authors.)
+As hinted above, the meta-analysis included some studies by Brian Wansink. It also included the the "sign at the top" honesty experiments that had previously been [subject to failed replications](a-default-of-disbelief.md), with the paper later retracted for fraud. (Why didn't the replications make the meta-analysis?) There is a discussion about the inclusion of the retracted paper in the meta-analysis [in Retraction Watch](https://retractionwatch.com/2022/01/09/authors-to-correct-pnas-nudge-paper-that-cites-now-retracted-article-in-the-same-journal/). (And note the positive, constructive engagement by one of the meta-analysis authors.)
 
 I feel for the authors here. How do you set clear guidelines in your pre-analysis plan that enable you to say: "we're not trusting anything by this guy, whether the particular study is retracted or not". I think this comes back to my question above about whether you have to be a bit more flexible or qualitative at this point in time.
 

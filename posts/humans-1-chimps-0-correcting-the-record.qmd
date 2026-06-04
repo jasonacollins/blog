@@ -7,7 +7,7 @@ image: "img/ayumu.png"
 bibliography: references.bib
 ---
 
-In 2012, I wrote a post titled [Chimps 1, Humans 0](/posts/chimps-1-humans-0.qmd) after seeing videos of a chimp named Ayumu. Ayumu could recall the location of numbers, in order, flashed briefly on a screen. Ayumu's performance far exceeded my feeble attempts. See the below videos to get a sense of the task.
+In 2012, I wrote a post titled [Chimps 1, Humans 0](chimps-1-humans-0.qmd) after seeing videos of a chimp named Ayumu. Ayumu could recall the location of numbers, in order, flashed briefly on a screen. Ayumu's performance far exceeded my feeble attempts. See the below videos to get a sense of the task.
 
 **The human**
 

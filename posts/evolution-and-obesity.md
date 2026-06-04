@@ -7,7 +7,7 @@ aliases:
   - /evolution-and-obesity
 ---
 
-As I indicated in my [recent post](/posts/brookss-sex-genes-rock-n-roll.md) on Rob Brooks's *Sex, Genes and Rock 'n' Roll: How Evolution Has Shaped the Modern World*, Brooks devotes some time to the issue of obesity. Rob has also [blogged about obesity ](http://www.robbrooks.net/rob-brooks/1266)and [published a paper](https://doi.org/10.1111/j.1467-789X.2010.00733.x) with Steve Simpson and David Raubenheimer on it (although the book covers more ground).
+As I indicated in my [recent post](brookss-sex-genes-rock-n-roll.md) on Rob Brooks's *Sex, Genes and Rock 'n' Roll: How Evolution Has Shaped the Modern World*, Brooks devotes some time to the issue of obesity. Rob has also [blogged about obesity ](http://www.robbrooks.net/rob-brooks/1266)and [published a paper](https://doi.org/10.1111/j.1467-789X.2010.00733.x) with Steve Simpson and David Raubenheimer on it (although the book covers more ground).
 
 First, why is obesity an evolutionary problem? In his book, Brooks set out why:
 

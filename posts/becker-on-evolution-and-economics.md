@@ -16,18 +16,18 @@ Over the last two days, a couple of people have classed him as the greatest soci
 In the meantime, below are links to some posts over the last few years I have written about Becker's work:
 
 	
-  1. [Rotten kids and altruism](/posts/rotten-kids-and-altruism.md).
+  1. [Rotten kids and altruism](rotten-kids-and-altruism.md).
 
 	
-  2. [Altruists and the knowledge problem](/posts/altruists-and-the-knowledge-problem.md).
+  2. [Altruists and the knowledge problem](altruists-and-the-knowledge-problem.md).
 
 	
-  3. [Consumption and fitness](/posts/consumption-and-fitness.md).
+  3. [Consumption and fitness](consumption-and-fitness.md).
 
 	
-  4. [Deriving the demand for children](/posts/deriving-the-demand-for-children.md).
+  4. [Deriving the demand for children](deriving-the-demand-for-children.md).
 
 	
-  5. [The evolution of happiness](/posts/the-evolution-of-happiness.md).
+  5. [The evolution of happiness](the-evolution-of-happiness.md).
 
 

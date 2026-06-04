@@ -44,10 +44,10 @@ And if you missed them, my posts from the last two weeks:
 
 
 	
-  1. [Unemployment and self control](/posts/returns-to-self-control-unemployment-edition.md).
+  1. [Unemployment and self control](returns-to-self-control-unemployment-edition.md).
 
 	
-  2. [Uncertainty and understanding behaviour](/posts/uncertainty-and-understanding-behaviour.md).
+  2. [Uncertainty and understanding behaviour](uncertainty-and-understanding-behaviour.md).
 
 
 Life is busy at the moment, so posting will continue to be sparse over the next month.

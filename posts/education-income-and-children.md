@@ -6,7 +6,7 @@ draft: false
 title: Education, income and children
 ---
 
-In [my recent post](/posts/are-children-normal-goods.md) on whether children are normal goods (demand for children increasing with income), I dodged questions around the effect of education. Most recent studies into the effect of income on children control for the level of education, as did [Bryan Caplan in his analysis](http://econlog.econlib.org/archives/2011/06/kids_are_normal.html) that found a positive correlation between income and children in the United States.
+In [my recent post](are-children-normal-goods.md) on whether children are normal goods (demand for children increasing with income), I dodged questions around the effect of education. Most recent studies into the effect of income on children control for the level of education, as did [Bryan Caplan in his analysis](http://econlog.econlib.org/archives/2011/06/kids_are_normal.html) that found a positive correlation between income and children in the United States.
 
 I am torn over whether controlling for education gives us meaningful information. Education clearly has a negative effect on fertility. Education takes time, which reduces the time available for children. However, education increases income. If education is simply an investment of time to earn income in the same way that labour is, then maybe we should not control for it in determining the effect of income on number of children. Rather, we should combine the education and labour time and examine the opportunity cost and effects of the entire investment.
 

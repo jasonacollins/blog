@@ -6,7 +6,7 @@ draft: false
 title: Are children normal goods?
 ---
 
-I finished a post [last week](/posts/male-income-and-reproductive-success.md) with the question of whether children are normal goods. Below I want to lay out some economic arguments on this, before putting in an evolutionary twist that raises the question of whether we can rely on any of the economic analysis.
+I finished a post [last week](male-income-and-reproductive-success.md) with the question of whether children are normal goods. Below I want to lay out some economic arguments on this, before putting in an evolutionary twist that raises the question of whether we can rely on any of the economic analysis.
 
 A normal good is a good for which demand increases with income. Cars, holidays and jewellery are examples of normal goods. The opposite is an inferior good, with demand decreasing as income rises. An example of an inferior good might be hamburger mince (as people move to steak) or other low-quality products. This change in demand for a good in response to changing income is known as an income effect.
 

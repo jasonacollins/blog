@@ -6,7 +6,7 @@ draft: false
 title: Cliodynamics and complexity
 ---
 
-At the [Consilience Conference](/posts/consilience-conference.md) earlier this year, I saw Peter Turchin's presentation on [cliodynamics](http://cliodynamics.info) - the mathematical modelling of historical dynamics. I was relatively sceptical of what I saw, and a new Nature news [piece by Laura Spinney](http://www.nature.com/news/human-cycles-history-as-science-1.11078) on Turchin's work captures some of this scepticism. Spinney describes cliodynamics as follows:
+At the [Consilience Conference](consilience-conference.md) earlier this year, I saw Peter Turchin's presentation on [cliodynamics](http://cliodynamics.info) - the mathematical modelling of historical dynamics. I was relatively sceptical of what I saw, and a new Nature news [piece by Laura Spinney](http://www.nature.com/news/human-cycles-history-as-science-1.11078) on Turchin's work captures some of this scepticism. Spinney describes cliodynamics as follows:
 
 
 <blockquote>In their analysis of long-term social trends, advocates of cliodynamics focus on four main variables: population numbers, social structure, state strength and political instability. Each variable is measured in several ways. Social structure, for example, relies on factors such as health inequality — measured using proxies including quantitative data on life expectancies — and wealth inequality, measured by the ratio of the largest fortune to the median wage. Choosing appropriate proxies can be a challenge, because relevant data are often hard to find. No proxy is perfect, the researchers concede. But they try to minimize the problem by choosing at least two proxies for each variable.

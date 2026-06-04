@@ -7,7 +7,7 @@ title: A week of links
 
 Four links this week:
 
-  1. Quamrul Ashraf and Oded Galor's [paper on genetic diversity and economic growth](https://doi.org/10.1257/aer.103.1.1) has been formally published in February 2013 edition of the American Economic Review (ungated working paper version [here](http://ideas.repec.org/p/iza/izadps/dp6330.html)). When its release was foreshadowed a few months ago, it generated some interesting debate (such as [here](/posts/harvard-academics-on-genetic-diversity-and-economic-development.md) and [here](/posts/genetic-diversity-and-economic-development-ashraf-and-galor-respond.md), particularly in the comments). Starting next week I'm going to write series of posts examining the threads of Ashraf and Galor's argument.
+  1. Quamrul Ashraf and Oded Galor's [paper on genetic diversity and economic growth](https://doi.org/10.1257/aer.103.1.1) has been formally published in February 2013 edition of the American Economic Review (ungated working paper version [here](http://ideas.repec.org/p/iza/izadps/dp6330.html)). When its release was foreshadowed a few months ago, it generated some interesting debate (such as [here](harvard-academics-on-genetic-diversity-and-economic-development.md) and [here](genetic-diversity-and-economic-development-ashraf-and-galor-respond.md), particularly in the comments). Starting next week I'm going to write series of posts examining the threads of Ashraf and Galor's argument.
 	
   2. [The gorilla is invisible](http://www.huffingtonpost.com/wray-herbert/the-really-scary-invisibl_b_2574791.html), even to radiologists.
 	

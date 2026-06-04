@@ -7,7 +7,7 @@ aliases:
   - /economists-are-different
 ---
 
-In Robert Frank's [Passions Within Reason: The Strategic Role of the Emotions](/posts/franks-passions-within-reason.md) (this is another snippet pending my finding time to write a decent review), Frank describes the free riding behaviour of economists in the [public goods game](http://en.wikipedia.org/wiki/Public_goods_game):
+In Robert Frank's [Passions Within Reason: The Strategic Role of the Emotions](franks-passions-within-reason.md) (this is another snippet pending my finding time to write a decent review), Frank describes the free riding behaviour of economists in the [public goods game](http://en.wikipedia.org/wiki/Public_goods_game):
 
 >It is interesting to note that the only group for which the strong free-rider hypothesis receives minimal support in this vast experimental literature turns out to be a group of economics graduate students. In experiments essentially like the ones run by Dawes et al., Marwell and Ames discovered that economics students were significantly more likely to defect that any of the other groups they studied. This findings agrees with the finding of Kahneman et al. that commerce students are more likely than psychology students to make one-sided offers in ultimatum bargaining games.
 

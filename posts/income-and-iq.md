@@ -7,7 +7,7 @@ aliases:
 title: Income and IQ
 ---
 
-As I noted in [my recent post](/posts/gladwells-outliers.md) on Malcolm Gladwell's Outliers, Gladwell ignored the possibility that traits with a genetic component, other than IQ, might play a role in determining success. His approach reminded me of [a useful paper](https://doi.org/10.1257/089533002760278686) by Samuel Bowles and Herbert Gintis from 2002 on the inheritance of inequality. Bowles and Gintis sought to explain the observed correlation between parental and child income (a correlation of around 0.4) by examining IQ, other genetic factors, environment, race and schooling.
+As I noted in [my recent post](gladwells-outliers.md) on Malcolm Gladwell's Outliers, Gladwell ignored the possibility that traits with a genetic component, other than IQ, might play a role in determining success. His approach reminded me of [a useful paper](https://doi.org/10.1257/089533002760278686) by Samuel Bowles and Herbert Gintis from 2002 on the inheritance of inequality. Bowles and Gintis sought to explain the observed correlation between parental and child income (a correlation of around 0.4) by examining IQ, other genetic factors, environment, race and schooling.
 
 As an example of the consequences of the transmission of income. Bowles and Gintis cited a paper by Hertz which showed that a son born to someone in the top decile of income had a 22.9 per cent chance of attaining that decile himself, compared to a 1.3 per cent chance for someone born to parents in the bottom decile. Conversely, a child born to parents in the top decile had only a 2.4 per cent chance of finishing in the lowest decile compared to over 31.2 per cent for those born to bottom decile parents.
 

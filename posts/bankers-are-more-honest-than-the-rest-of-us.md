@@ -76,7 +76,7 @@ Cohn and friends raise several objections to the replication. The main one is th
 
 I give this critique some weight, but don't feel great about it. The original authors conduct a low sample size study of a noisy phenomena, overhype their result and then complain about a replication because everyone has heard about their overhyped result. It's as though the publicity creates a shield to replication.
 
-If we can't take the replication on face value, this isn't grounds for retaining a belief in the original experiment. Personally, I'll revert to my [default belief](/posts/a-default-of-disbelief.md) that the original result is spurious. I'll give weight to it when someone finds a away to get around the publicity problem and demonstrate the result in a pre-registered replication.
+If we can't take the replication on face value, this isn't grounds for retaining a belief in the original experiment. Personally, I'll revert to my [default belief](a-default-of-disbelief.md) that the original result is spurious. I'll give weight to it when someone finds a away to get around the publicity problem and demonstrate the result in a pre-registered replication.
 
 Another criticism of the replication by Cohn and friends is whether the replication result is generalisable. They write:
 

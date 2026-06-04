@@ -29,9 +29,9 @@ Links this week:
 
 And if you missed them, my posts this week:
 
-  1. [The thinking behind my newly published paper](/posts/conspicuous-consumption-and-economic-growth-2.md).
+  1. [The thinking behind my newly published paper](conspicuous-consumption-and-economic-growth-2.md).
 
 	
-  2. [Fifty years of twin studies](/posts/fifty-years-of-twin-studies.md).
+  2. [Fifty years of twin studies](fifty-years-of-twin-studies.md).
 
 

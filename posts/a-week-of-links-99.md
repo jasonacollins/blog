@@ -13,6 +13,6 @@ Links this week:
 
 And if you missed it, my one post this last week:
 
-  1. [Bad nudges toward organ donation](/posts/bad-nudges-organ-donation-edition.md).
+  1. [Bad nudges toward organ donation](bad-nudges-organ-donation-edition.md).
 
 Life continues to be busy, so posting will continue to be sparse.

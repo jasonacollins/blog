@@ -13,7 +13,7 @@ A [study](http://linkinghub.elsevier.com/retrieve/pii/S0165176511000681) by Be
 <blockquote>We show that attractiveness, as measured by facial symmetry, leads to greater rewards in professional sports. National Football League quarterbacks who are more attractive are paid greater salaries and this premium persists after controlling for player performance.</blockquote>
 
 
-This is relatively consistent with the picture painted in Dan Hamermesh's [Beauty Pays: Why Attractive People Are More Successful](/posts/hamermeshs-beauty-pays.md). There is a premium to beauty. But as I noted in my review, we should not ignore the correlation between beauty and other positive traits. An earlier [study](http://linkinghub.elsevier.com/retrieve/pii/S0191886909003845) by Williams and colleagues puts the first study in perspective:
+This is relatively consistent with the picture painted in Dan Hamermesh's [Beauty Pays: Why Attractive People Are More Successful](hamermeshs-beauty-pays.md). There is a premium to beauty. But as I noted in my review, we should not ignore the correlation between beauty and other positive traits. An earlier [study](http://linkinghub.elsevier.com/retrieve/pii/S0191886909003845) by Williams and colleagues puts the first study in perspective:
 
 
 <blockquote>Results from a preliminary study showed a positive correlation between 30 NFL QBs’ passer ratings and their facial attractiveness as rated by 30 women. In a further study, a different group of 30 women rated a different cohort of 58 NFL QBs. The results showed that the QBs’ mean attractiveness ratings were positively correlated with their passer ratings, which was found to be independent of players’ age, ethnicity, height, weight, or facial expression.</blockquote>

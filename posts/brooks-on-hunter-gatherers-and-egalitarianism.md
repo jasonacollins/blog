@@ -7,7 +7,7 @@ aliases:
   - /brooks-on-hunter-gatherers-and-egalitarianism
 ---
 
-Fitting nicely with my recent post on [human nature and libertarianism](/posts/human-nature-and-libertarianism.md), Rob Brooks [has the following to say](http://www.smh.com.au/opinion/society-and-culture/playing-fair-keeps-us-grounded-20110923-1kpat.html) on the mega-rich and people's sense of fairness:
+Fitting nicely with my recent post on [human nature and libertarianism](human-nature-and-libertarianism.md), Rob Brooks [has the following to say](http://www.smh.com.au/opinion/society-and-culture/playing-fair-keeps-us-grounded-20110923-1kpat.html) on the mega-rich and people's sense of fairness:
 
 
 <blockquote>Hunter-gatherers keep their neighbours and tribe-mates in line. When everybody depends on everyone else, then reputation rules. You simply can't afford to be selfish, whether by failing to share or by freeloading, in a small community. Your allies will desert you. ...

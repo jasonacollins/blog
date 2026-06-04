@@ -15,15 +15,15 @@ The best books I _read_ in 2018 - generally released in other years - are below.
 
 * Gary Klein, Sources of Power: How People Make Decisions (1998) - Rightfully considered classic in decision-making. Review coming soon
 
-* Michael Lewis's [The Undoing Project](/posts/michael-lewiss-the-undoing-project-a-friendship-that-changed-the-world.md) (2016) - Despite focusing on Kahneman and Tversky's relationship, it is also one of the better introductions to their work.
+* Michael Lewis's [The Undoing Project](michael-lewiss-the-undoing-project-a-friendship-that-changed-the-world.md) (2016) - Despite focusing on Kahneman and Tversky's relationship, it is also one of the better introductions to their work.
 
 * Robert Sapolsky's Behave: The Biology of Humans at Our Best and Worst (2017) - A wonderful examination of what "causes" of our actions. Sapolsky zooms out from the almost immediate activity in our brain, to the actions of our hormones over seconds to hours, through our developmental influences, out to our evolutionary past. Review also coming soon.
 
-* Robert Sapolsky's [Why Zebras Don't Get Ulcers](/posts/robert-sapolskys-why-zebras-dont-get-ulcers.md) (3rd ed, 2004) - Great writing and interesting science.
+* Robert Sapolsky's [Why Zebras Don't Get Ulcers](robert-sapolskys-why-zebras-dont-get-ulcers.md) (3rd ed, 2004) - Great writing and interesting science.
 
 * Fred Schwed, Where Are the Customer's Yachts? (1955) - Timeless commentary on the value delivered by the financial services sector
 
-* Robert Sugden, [The Community of Advantage: A Behavioural Economist's Defence of the Market](/posts/robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market.md) (2018) - The most compelling critique of the practical application of behavioural economics that I have read.
+* Robert Sugden, [The Community of Advantage: A Behavioural Economist's Defence of the Market](robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market.md) (2018) - The most compelling critique of the practical application of behavioural economics that I have read.
 
 * Joseph Conrad, Lord Jim - I love Conrad. Nostromo is possibly my favourite book.
 
@@ -39,17 +39,17 @@ My non-fiction reading through 2018 was less deliberate than I would have liked.
 
 * Chris Anderson, TED Talks
 
-* Dan Ariely, [Payoff: The Hidden Logic That Shapes Our Motivations](/posts/dan-arielys-payoff-the-hidden-logic-that-shapes-our-motivations.md)
+* Dan Ariely, [Payoff: The Hidden Logic That Shapes Our Motivations](dan-arielys-payoff-the-hidden-logic-that-shapes-our-motivations.md)
 
 * Max Bazerman and Don Moore, Judgment in Managerial Decision Making (8th ed)
 
-* Schlomo Bernartzi (with Jonah Lehrer), [The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior](/posts/benartzi-and-lehrers-the-smarter-screen-surprising-ways-to-influence-and-improve-online-behaviour.md)
+* Schlomo Bernartzi (with Jonah Lehrer), [The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior](benartzi-and-lehrers-the-smarter-screen-surprising-ways-to-influence-and-improve-online-behaviour.md)
 
 * Warren Berger, A More Beautiful Question
 
 * Nick Bostrom, Superintelligence: Paths, Dangers, Strategies
 
-* Susan Cain, Quiet:[The Power of Introverts in a World That Can’t Stop Talking](/posts/susan-cains-quiet-the-power-of-introverts-in-a-world-that-cant-stop-talking.md).
+* Susan Cain, Quiet:[The Power of Introverts in a World That Can’t Stop Talking](susan-cains-quiet-the-power-of-introverts-in-a-world-that-cant-stop-talking.md).
 
 * Stephen Covey, Seven Habits of Highly Effective People
 
@@ -57,7 +57,7 @@ My non-fiction reading through 2018 was less deliberate than I would have liked.
 
 * William Deresiewicz, A Jane Austen Education
 
-* Angela Duckworth, [Grit: The Power of Passion and Perseverance](/posts/angela-duckworths-grit-the-power-of-passion-and-perseverance.md)
+* Angela Duckworth, [Grit: The Power of Passion and Perseverance](angela-duckworths-grit-the-power-of-passion-and-perseverance.md)
 
 * Annie Duke, Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts
 
@@ -67,7 +67,7 @@ My non-fiction reading through 2018 was less deliberate than I would have liked.
 
 * William Finnegan, A Surfing Life*
 
-* Gerd Gigerenzer, [Gut Feelings: Short Cuts to Better Decision Making](/posts/gerd-gigerenzers-gut-feelings-short-cuts-to-better-decision-making.md)
+* Gerd Gigerenzer, [Gut Feelings: Short Cuts to Better Decision Making](gerd-gigerenzers-gut-feelings-short-cuts-to-better-decision-making.md)
 
 * Jonathan Gottschall, The Professor in the Cage
 
@@ -85,13 +85,13 @@ My non-fiction reading through 2018 was less deliberate than I would have liked.
 
 * Steven Levitt and Stephen Dubner, Think like a Freak
 
-* Michael Lewis, [The Undoing Project: A Friendship That Changed the World](/posts/michael-lewiss-the-undoing-project-a-friendship-that-changed-the-world.md)
+* Michael Lewis, [The Undoing Project: A Friendship That Changed the World](michael-lewiss-the-undoing-project-a-friendship-that-changed-the-world.md)
 
 * Mark Manson, The Subtle Art of Not Giving a Fuck
 
-* Michael Mauboussin, [Think Twice: Harnessing the Power of Counterintuition](/posts/michael-mauboussins-think-twice-harnessing-the-power-of-counterintuition.md)
+* Michael Mauboussin, [Think Twice: Harnessing the Power of Counterintuition](michael-mauboussins-think-twice-harnessing-the-power-of-counterintuition.md)
 
-* Michael Mauboussin, [More Than You Know: Finding Financial Wisdom in Unconventional Places](/posts/michael-mauboussins-more-than-you-know-finding-financial-wisdom-in-unconventional-places.md)
+* Michael Mauboussin, [More Than You Know: Finding Financial Wisdom in Unconventional Places](michael-mauboussins-more-than-you-know-finding-financial-wisdom-in-unconventional-places.md)
 
 * Andrew McAfee and Erik, Brynjolfsson, Machine, Platform, Crowd: Harnessing Our Digital Future
 
@@ -107,15 +107,15 @@ My non-fiction reading through 2018 was less deliberate than I would have liked.
 
 * Robert Sapolsky, Behave: The Biology of Humans at Our Best and Worst
 
-* Robert Sapolsky, [Why Zebras Don't Get Ulcers](/posts/robert-sapolskys-why-zebras-dont-get-ulcers.md)
+* Robert Sapolsky, [Why Zebras Don't Get Ulcers](robert-sapolskys-why-zebras-dont-get-ulcers.md)
 
 * Fred Schwed, Where Are the Customer's Yachts?
 
 * Owain Service and Rory Gallagher, Think Small: The Surprisingly Simple Ways to Reach Big Goals
 
-* Robert Sugden, [The Community of Advantage: A Behavioural Economist's Defence of the Market](/posts/robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market.md)
+* Robert Sugden, [The Community of Advantage: A Behavioural Economist's Defence of the Market](robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market.md)
 
-* Cass Sunstein and Reid Hastie, [Wiser: Getting Beyond Groupthink to Make Groups Smarter](/posts/cass-sunstein-and-reid-hasties-wiser-getting-beyond-groupthink-to-make-groups-smarter.md)
+* Cass Sunstein and Reid Hastie, [Wiser: Getting Beyond Groupthink to Make Groups Smarter](cass-sunstein-and-reid-hasties-wiser-getting-beyond-groupthink-to-make-groups-smarter.md)
 
 * Henry David Thoreau, Walden
 
@@ -123,7 +123,7 @@ My non-fiction reading through 2018 was less deliberate than I would have liked.
 
 * Ashlee Vance, Elon Musk: How the Billionaire CEO of SpaceX and Tesla is Shaping our Future
 
-* Chris Voss, [Never Split the Difference: Negotiating as if your life depended on it](/posts/chris-vosss-never-split-the-difference-negotiating-as-if-your-life-depended-on-it.md)
+* Chris Voss, [Never Split the Difference: Negotiating as if your life depended on it](chris-vosss-never-split-the-difference-negotiating-as-if-your-life-depended-on-it.md)
 
 * Matt Warshaw, The History of Surfing
 

@@ -5,7 +5,7 @@ date: 2011-12-11 13:44:07+00:00
 draft: false
 ---
 
-In Benoit Debreuil's [Human Evolution and the Origins of Hierarchies](/posts/dubreuils-human-evolution-and-the-origins-of-hierarchies.md), the opening chapter contains the interesting argument that egalitarian hunter-gatherer societies were not built on a wish for equality. Dubreuil writes:
+In Benoit Debreuil's [Human Evolution and the Origins of Hierarchies](dubreuils-human-evolution-and-the-origins-of-hierarchies.md), the opening chapter contains the interesting argument that egalitarian hunter-gatherer societies were not built on a wish for equality. Dubreuil writes:
 
 > Egalitarian social arrangements must build on what Boehm (1999: 66) called an “egalitarian ethos,” which is culturally constructed and transmitted and does not straightforwardly result from our passion for equality. This does not mean that equality does not matter per se. People arguably have a certain preference for equality, which, at the level of cultural evolution, might create a bias in favor of more egalitarian social organizations, albeit indirectly by making cooperation among equals more efficient. However, because our egalitarian motives are limited in intensity, action often comes under the influence of more powerful passions: lust, greed, fear, or hatred. Consequently, the emergence of egalitarian social outcomes depends on other factors that are not directly connected with equality, such as the various motivational and cognitive mechanisms related to social norm and sanction.
 

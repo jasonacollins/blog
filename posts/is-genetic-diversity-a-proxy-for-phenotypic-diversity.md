@@ -6,11 +6,11 @@ draft: false
 title: Genetic diversity, phenotypic diversity and the founder effect
 ---
 
-In two recent posts I examined the causative mechanisms underlying [Ashraf and Galor's hypothesis](/posts/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development.md) linking genetic diversity to economic growth ([innovation](/posts/does-genetic-diversity-increase-innovation.md) and [conflict](/posts/does-genetic-diversity-increase-conflict.md)). In those posts, I avoided examining whether genetic diversity could be considered a proxy of phenotypic diversity unrelated to that genetic diversity (such as language).
+In two recent posts I examined the causative mechanisms underlying [Ashraf and Galor's hypothesis](the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development.md) linking genetic diversity to economic growth ([innovation](does-genetic-diversity-increase-innovation.md) and [conflict](does-genetic-diversity-increase-conflict.md)). In those posts, I avoided examining whether genetic diversity could be considered a proxy of phenotypic diversity unrelated to that genetic diversity (such as language).
 
-Part of the reason for this is that Ashraf and Galor do not indicate in their paper or web appendix that they intended to use genetic diversity as a proxy in this way. As I have [posted about before](/posts/genetic-diversity-and-economic-development-ashraf-and-galor-respond.md), the language of the paper is focused on genetic diversity and the phenotypic expression of that genetic diversity. In dissecting the paper, I wanted to focus on what the paper states.
+Part of the reason for this is that Ashraf and Galor do not indicate in their paper or web appendix that they intended to use genetic diversity as a proxy in this way. As I have [posted about before](genetic-diversity-and-economic-development-ashraf-and-galor-respond.md), the language of the paper is focused on genetic diversity and the phenotypic expression of that genetic diversity. In dissecting the paper, I wanted to focus on what the paper states.
 
-However, given that Ashraf and Galor have now made an argument [Update: the response is no longer online] that genetic diversity is a proxy in their response to [a critique of their paper](/posts/harvard-academics-on-genetic-diversity-and-economic-development.md), the argument is worth assessing. Ashraf and Galor write:
+However, given that Ashraf and Galor have now made an argument [Update: the response is no longer online] that genetic diversity is a proxy in their response to [a critique of their paper](harvard-academics-on-genetic-diversity-and-economic-development.md), the argument is worth assessing. Ashraf and Galor write:
 
 
 <blockquote>The key is that the measure of intra-population genetic diversity that we employ should be interpreted as a proxy (i.e., a correlated summary measure) for diversity amongst individuals in a myriad of observable and unobservable personal traits that may be physiological, behavioral, socially-constructed, or otherwise. …
@@ -53,25 +53,25 @@ My posts on Ashraf and Galor's paper on genetic diversity and economic growth ar
 
 
 	
-  1. [A summary of the paper methodology and findings](/posts/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development.md)
+  1. [A summary of the paper methodology and findings](the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development.md)
 
 	
-  2. [Does genetic diversity increase innovation?](/posts/does-genetic-diversity-increase-innovation.md)
+  2. [Does genetic diversity increase innovation?](does-genetic-diversity-increase-innovation.md)
 
 	
-  3. [Does genetic diversity increase conflict?](/posts/does-genetic-diversity-increase-conflict.md)
+  3. [Does genetic diversity increase conflict?](does-genetic-diversity-increase-conflict.md)
 
 	
-  4. [Is genetic diversity a proxy for phenotypic diversity?](/posts/is-genetic-diversity-a-proxy-for-phenotypic-diversity.md) (this post)
+  4. [Is genetic diversity a proxy for phenotypic diversity?](is-genetic-diversity-a-proxy-for-phenotypic-diversity.md) (this post)
 
 	
-  5. [Is population density a good measure of technological progress?](/posts/using-the-malthusian-model-to-measure-technology.md)
+  5. [Is population density a good measure of technological progress?](using-the-malthusian-model-to-measure-technology.md)
 
 	
-  6. [What are the policy implications of the effects of genetic diversity on economic development?](/posts/genetic-diversity-economic-development-and-policy.md)
+  6. [What are the policy implications of the effects of genetic diversity on economic development?](genetic-diversity-economic-development-and-policy.md)
 
 	
-  7. [Should this paper have been published?](/posts/publishing-on-genetic-diversity-and-economic-growth.md)
+  7. [Should this paper have been published?](publishing-on-genetic-diversity-and-economic-growth.md)
 
 
-Earlier debate on this paper can also be found [here](/posts/harvard-academics-on-genetic-diversity-and-economic-development.md), [here](/posts/genetic-diversity-and-economic-development-ashraf-and-galor-respond.md) and [here](/posts/is-poverty-in-our-genes.md).
+Earlier debate on this paper can also be found [here](harvard-academics-on-genetic-diversity-and-economic-development.md), [here](genetic-diversity-and-economic-development-ashraf-and-galor-respond.md) and [here](is-poverty-in-our-genes.md).

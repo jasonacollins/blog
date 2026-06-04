@@ -7,7 +7,7 @@ title: The 'Out of Africa' Hypothesis, Human Genetic Diversity, and Comparative 
   Development
 ---
 
-Although the debate it triggered has been going for a few months (see [here](/posts/harvard-academics-on-genetic-diversity-and-economic-development.md), [here](/posts/genetic-diversity-and-economic-development-ashraf-and-galor-respond.md), [here](/posts/is-poverty-in-our-genes.md) and [here](/posts/is-poverty-in-our-genes-from-the-comments.md).), Quamrul Ashraf and Oded Galor's paper [The 'Out of Africa' Hypothesis, Human Genetic Diversity, and Comparative Economic Development](https://doi.org/10.1257/aer.103.1.1) has been published in the February edition of the American Economic Review (for the latest ungated version, go [here](http://ideas.repec.org/p/iza/izadps/dp6330.html) - although you can download the data and supplementary materials from the AER site without a subscription).
+Although the debate it triggered has been going for a few months (see [here](harvard-academics-on-genetic-diversity-and-economic-development.md), [here](genetic-diversity-and-economic-development-ashraf-and-galor-respond.md), [here](is-poverty-in-our-genes.md) and [here](is-poverty-in-our-genes-from-the-comments.md).), Quamrul Ashraf and Oded Galor's paper [The 'Out of Africa' Hypothesis, Human Genetic Diversity, and Comparative Economic Development](https://doi.org/10.1257/aer.103.1.1) has been published in the February edition of the American Economic Review (for the latest ungated version, go [here](http://ideas.repec.org/p/iza/izadps/dp6330.html) - although you can download the data and supplementary materials from the AER site without a subscription).
 
 Over the next few weeks I will dissect parts of Ashraf and Galor's argument, and look at some of the criticisms that people have made. As a start, however, I'll present a basic description of the method and findings.
 
@@ -39,25 +39,25 @@ The paper closes with a brief look at the evidence for the costs and benefits of
 
 My posts on Ashraf and Galor's paper on genetic diversity and economic growth are as follows:
 	
-  1. [A summary of the paper methodology and findings](/posts/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development.md) (this post)
+  1. [A summary of the paper methodology and findings](the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development.md) (this post)
 
 	
-  2. [Does genetic diversity increase innovation?](/posts/does-genetic-diversity-increase-innovation.md)
+  2. [Does genetic diversity increase innovation?](does-genetic-diversity-increase-innovation.md)
 
 	
-  3. [Does genetic diversity increase conflict?](/posts/does-genetic-diversity-increase-conflict.md)
+  3. [Does genetic diversity increase conflict?](does-genetic-diversity-increase-conflict.md)
 
 	
-  4. [Is genetic diversity a proxy for phenotypic diversity?](/posts/is-genetic-diversity-a-proxy-for-phenotypic-diversity.md)
+  4. [Is genetic diversity a proxy for phenotypic diversity?](is-genetic-diversity-a-proxy-for-phenotypic-diversity.md)
 
 	
-  5. [Is population density a good measure of technological progress?](/posts/using-the-malthusian-model-to-measure-technology.md)
+  5. [Is population density a good measure of technological progress?](using-the-malthusian-model-to-measure-technology.md)
 
 	
-  6. [What are the policy implications of the effects of genetic diversity on economic development?](/posts/genetic-diversity-economic-development-and-policy.md)
+  6. [What are the policy implications of the effects of genetic diversity on economic development?](genetic-diversity-economic-development-and-policy.md)
 
 	
-  7. [Should this paper have been published?](/posts/publishing-on-genetic-diversity-and-economic-growth.md)
+  7. [Should this paper have been published?](publishing-on-genetic-diversity-and-economic-growth.md)
 
 
-Other debate on this paper can also be found [here](/posts/harvard-academics-on-genetic-diversity-and-economic-development.md), [here](/posts/genetic-diversity-and-economic-development-ashraf-and-galor-respond.md), [here](/posts/is-poverty-in-our-genes.md) and [here](/posts/is-poverty-in-our-genes-from-the-comments.md).
+Other debate on this paper can also be found [here](harvard-academics-on-genetic-diversity-and-economic-development.md), [here](genetic-diversity-and-economic-development-ashraf-and-galor-respond.md), [here](is-poverty-in-our-genes.md) and [here](is-poverty-in-our-genes-from-the-comments.md).

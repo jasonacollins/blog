@@ -16,7 +16,7 @@ In the article, Wilkinson addresses the link between capitalism and human nature
 New scientific research provides even stronger evidence for the existence of such property “instincts.” For example, recent experimental work by Oliver Goodenough, a legal theorist, and Christine Prehn, a neuroscientist, suggests that the human mind evolved specialized modules for making judgments about moral transgressions, and transgressions against property in particular. Evolutionary psychology can help us to understand that property rights are not created simply by strokes of the legislator’s pen.</blockquote>
 
 
-From the comments on my recent post on [human nature and libertarianism](/posts/human-nature-and-libertarianism.md), property rights and the ability to accumulate massive amounts of property underlie many concerns about a libertarian state. Wilkinson notes that the human mind is ill-equipped to deal with it:
+From the comments on my recent post on [human nature and libertarianism](human-nature-and-libertarianism.md), property rights and the ability to accumulate massive amounts of property underlie many concerns about a libertarian state. Wilkinson notes that the human mind is ill-equipped to deal with it:
 
 
 <blockquote>Perhaps the most depressing lesson of evolutionary psychology for politics is found in its account of the deep-seated human capacity for envy and of our related difficulty in understanding the idea of gains from trade and increases in productivity— the idea of an ever-expanding “pie” of wealth.
@@ -26,4 +26,4 @@ From the comments on my recent post on [human nature and libertarianism](/posts/
 Our zero-sum mentality makes it hard for us to understand how trade, innovation, and investment can increase the amount of total wealth. We are thus ill-equipped to easily understand our own economic system.</blockquote>
 
 
-While we may historically have [pulled down the rich](/posts/brooks-on-hunter-gatherers-and-egalitarianism.md), the immediate assumption underlying the desire to pull them down no longer holds.
+While we may historically have [pulled down the rich](brooks-on-hunter-gatherers-and-egalitarianism.md), the immediate assumption underlying the desire to pull them down no longer holds.

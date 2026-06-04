@@ -27,18 +27,18 @@ So for those economists interested in the deep causes of economic growth, I woul
 
 And for those who are interested on some of my earlier posts on Galor's work (with the corresponding book chapter in brackets):
     
-  1. [Dynamics and Stagnation in the Malthusian Epoch](/posts/using-the-malthusian-model-to-measure-technology.md) (chapter 3)
+  1. [Dynamics and Stagnation in the Malthusian Epoch](using-the-malthusian-model-to-measure-technology.md) (chapter 3)
 
     
-  2. [The Neolithic Revolution and Comparative Development](/posts/life-expectancy-and-the-dawn-of-agriculture.md) (chapters 6.4.1)
+  2. [The Neolithic Revolution and Comparative Development](life-expectancy-and-the-dawn-of-agriculture.md) (chapters 6.4.1)
 
     
-  3. [The “Out of Africa” Hypothesis, Human Genetic Diversity, and Comparative Economic Development](/posts/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development.md) (chapter 6.4.2)
+  3. [The “Out of Africa” Hypothesis, Human Genetic Diversity, and Comparative Economic Development](the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development.md) (chapter 6.4.2)
 
     
-  4. [Natural selection and the origin of economic growth](/posts/economic-growth-and-evolution-parental-preference-for-quality-and-quantity-of-offspring.md) (chapter 7)
+  4. [Natural selection and the origin of economic growth](economic-growth-and-evolution-parental-preference-for-quality-and-quantity-of-offspring.md) (chapter 7)
 
     
-  5. [Evolution of Life Expectancy and Economic Growth](/posts/life-expectancy-and-the-dawn-of-agriculture.md) (chapter 7.7.2)
+  5. [Evolution of Life Expectancy and Economic Growth](life-expectancy-and-the-dawn-of-agriculture.md) (chapter 7.7.2)
 
 

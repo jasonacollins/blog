@@ -30,6 +30,6 @@ Take an example Ridley uses in the speech - that the internet and mobile telepho
 
 Or consider the comment on Caplan's post where Ridley notes the success of Athens, Genoa, Holland, New York, San Jose, Singapore and Hong Kong. They do not look like a random sample. They comprise intelligent, educated populations.
 
-Ridley's agnosticism about whether people are smart is reflected in his recent post [dismissing concern about shrinking brains](/posts/the-consequences-of-shrinking-brains.md). As I mentioned then, there are few better predictors of a country's wealth than the IQ of the population. There are significant benefits to a high average IQ.
+Ridley's agnosticism about whether people are smart is reflected in his recent post [dismissing concern about shrinking brains](the-consequences-of-shrinking-brains.md). As I mentioned then, there are few better predictors of a country's wealth than the IQ of the population. There are significant benefits to a high average IQ.
 
-Finally, connectivity is at least partly a consequence of quality. Higher [IQ people are more trusting](/posts/jones-on-iq-and-productivity.md) and more likely to trade. Those with higher IQ are more likely to be connected and share the ideas they have created.
+Finally, connectivity is at least partly a consequence of quality. Higher [IQ people are more trusting](jones-on-iq-and-productivity.md) and more likely to trade. Those with higher IQ are more likely to be connected and share the ideas they have created.

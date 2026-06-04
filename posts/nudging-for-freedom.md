@@ -6,7 +6,7 @@ draft: false
 title: Nudging for freedom
 ---
 
-"Nudges" change the decision environment so that people make "better" decisions, while retaining freedom of choice. Fitting within what [Cass Sunstein and Richard Thaler](/posts/thaler-and-sunsteins-nudge.md) call "libertarian paternalism", nudges are often framed as alternatives to coercive measures. If you can nudge most people toward the "right" decision through the way you frame the choice, the coercive measure is not required.
+"Nudges" change the decision environment so that people make "better" decisions, while retaining freedom of choice. Fitting within what [Cass Sunstein and Richard Thaler](thaler-and-sunsteins-nudge.md) call "libertarian paternalism", nudges are often framed as alternatives to coercive measures. If you can nudge most people toward the "right" decision through the way you frame the choice, the coercive measure is not required.
 
 A recent example is the introduction of [default retirement savings in Illinois](http://www.nytimes.com/2015/01/06/upshot/illinois-introduces-automatic-retirement-savings-program-a-first-for-the-nation.html?abt=0002&abg=1). A default three per cent of income will be directed to a retirement savings account, with freedom to opt out or increase the contribution. Another is where the Australian [Financial System Inquiry](http://fsi.gov.au/) recommended offering a default retirement income product (with certain income and risk management characteristics) to people when they retire, with people otherwise free to choose another product or blow their retirement savings on a sports car.
 

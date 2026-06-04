@@ -24,7 +24,7 @@ Bailey notes the policy implications of this theory:
 
 I agree with the objective, but is this causal link in the right direction? Do people with a low disease burden support liberal institutions, or do liberal institutions create the framework under which disease can be controlled?
 
-If I had to argue for the former, I would probably use Garrett Jones's hypothesis that [high-IQ is a significant factor in determining the level of trust](/posts/jones-on-iq-and-immigration.md) in a society. If there is a link between disease and IQ, as Thornhill and Fincher have argued, the effect of disease reduction on liberalisation would be largely via the IQ mechanism.
+If I had to argue for the former, I would probably use Garrett Jones's hypothesis that [high-IQ is a significant factor in determining the level of trust](jones-on-iq-and-immigration.md) in a society. If there is a link between disease and IQ, as Thornhill and Fincher have argued, the effect of disease reduction on liberalisation would be largely via the IQ mechanism.
 
 However, I am not convinced of this causal link. More generally, the direction of causation is the central issue with the suite of articles linking parasites to religion, IQ, liberalisation and armed conflict (and I think there are others) that Thornhill and Fincher have produced over the last few years. What Thornhill and Fincher have successfully shown is that parasite loads and a host of characteristics of poorer nations are correlated.
 

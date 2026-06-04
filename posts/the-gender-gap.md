@@ -35,4 +35,4 @@ Ultimately, I wonder how long the trend that triggered the essays will last. Man
 
 That important caveat will be applied more and more in the future. In that case, some of the gap will remain. (And as an aside, I recommend that you read all of [Hymowitz's essay](http://www.cato-unbound.org/2011/08/08/kay-hymowitz/whats-happening-to-men/) - there are a lot of interesting ideas in it)
 
-Update: A follow-up post [is here](/posts/male-incentives.md).
+Update: A follow-up post [is here](male-incentives.md).

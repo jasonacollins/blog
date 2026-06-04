@@ -6,7 +6,7 @@ draft: false
 title: Diversity and consumerism
 ---
 
-In Geoffrey Miller's *Spent: Sex, Evolution, and Consumer Behavior* (earlier posts on his book [here](/posts/maslows-hierarchy.md), [here](/posts/millers-spent-sex-evolution-and-consumer-behavior.md) and [here](/posts/the-evolution-of-conscientiousness.md) - this is the last one for now), Miller discusses how there might be a move away from a consumerist culture. To do this, there is a need to develop and maintain social norms that could act as an alternative to the typical displays of wealth. For example, in a religious community, signalling could be through time and resources given to the church.
+In Geoffrey Miller's *Spent: Sex, Evolution, and Consumer Behavior* (earlier posts on his book [here](maslows-hierarchy.md), [here](millers-spent-sex-evolution-and-consumer-behavior.md) and [here](the-evolution-of-conscientiousness.md) - this is the last one for now), Miller discusses how there might be a move away from a consumerist culture. To do this, there is a need to develop and maintain social norms that could act as an alternative to the typical displays of wealth. For example, in a religious community, signalling could be through time and resources given to the church.
 
 However, Miller stated that there is a major legal obstacle to establishing these norms. The obstacle is that the laws about property ownership and rental do not allow discrimination. Despite the good intentions, Miller considers that "they have toxic side effects on the ability of voluntarily organized communities to create the physical, social, and moral environments that their members want."
 

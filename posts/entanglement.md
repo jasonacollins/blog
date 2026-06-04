@@ -16,4 +16,4 @@ The consequence of this is that when something goes wrong, we no longer have the
 
 Unlike Y2K, which they (not sure which of the two said this) were optimistic about, the entanglement has moved far beyond the level of complication that existed at that time.
 
-This sounds somewhat like the concept of [normal accidents](/posts/harfords-adapt-why-success-always-starts-with-failure.md), whereby complex systems will fail. The solution does not lie in preventing accidents, but in decoupling from that system so that the collateral damage is minimised when it surely fails.
+This sounds somewhat like the concept of [normal accidents](harfords-adapt-why-success-always-starts-with-failure.md), whereby complex systems will fail. The solution does not lie in preventing accidents, but in decoupling from that system so that the collateral damage is minimised when it surely fails.

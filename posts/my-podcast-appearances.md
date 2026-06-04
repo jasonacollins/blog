@@ -15,8 +15,8 @@ Over the last few years I have appeared on several podcasts, the most recent bei
 
 [42courses - Behavioural Science & Evolutionary Biology](https://anchor.fm/42courses/episodes/Jason-Collins---Behavioural-Science--Evolutionary-Biology-epfoqs)
 
-[Todd Nief - Loss Aversion and Ergodicity Economics](https://toddnief.com/jason-collins-interview/): This was a long and pretty technical conversation on the back of a [primer I wrote on ergodicity economics](/posts/ergodicity-economics-a-primer.qmd). Todd's audience spans crossfit, death metal and the rationalist community. He assured me that my collection of early Sepultura records from my youth classifies as proto-death metal, so I managed to have some connection to all three.
+[Todd Nief - Loss Aversion and Ergodicity Economics](https://toddnief.com/jason-collins-interview/): This was a long and pretty technical conversation on the back of a [primer I wrote on ergodicity economics](ergodicity-economics-a-primer.qmd). Todd's audience spans crossfit, death metal and the rationalist community. He assured me that my collection of early Sepultura records from my youth classifies as proto-death metal, so I managed to have some connection to all three.
 
 [A Bunch of BS - Knowing Our Limits, Expanding Our Knowledge](https://www.behaviorist.biz/bspodcast/jason-collins)
 
-[Rationally Speaking with Julia Galef - A skeptical take on behavioral economics](http://rationallyspeakingpodcast.org/219-a-skeptical-take-on-behavioral-economics-jason-collins/): I wrote a [post afterward offering some additional thoughts](/posts/me-on-rationally-speaking-plus-some-additional-thoughts.md). (Rationally Speaking is one of the few podcasts for which I listen to at least the beginning of every episode.)
+[Rationally Speaking with Julia Galef - A skeptical take on behavioral economics](http://rationallyspeakingpodcast.org/219-a-skeptical-take-on-behavioral-economics-jason-collins/): I wrote a [post afterward offering some additional thoughts](me-on-rationally-speaking-plus-some-additional-thoughts.md). (Rationally Speaking is one of the few podcasts for which I listen to at least the beginning of every episode.)

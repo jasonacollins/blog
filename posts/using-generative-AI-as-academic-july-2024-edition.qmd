@@ -11,7 +11,7 @@ resources:
   - img/ElevenLabs_JC.mp3
 ---
 
-I first wrote [a version of this post in April 2023](/posts/using-large-language-models-as-academic.qmd). A lot has changed since then in both the tools and how I use them.
+I first wrote [a version of this post in April 2023](using-large-language-models-as-academic.qmd). A lot has changed since then in both the tools and how I use them.
 
 As was the case then, if you want a sense of the frontier, others such as [Ethan Mollick](https://www.oneusefulthing.org/) will give you a better flavour. But if you're after some practical examples, you might find this useful.
 

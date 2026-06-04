@@ -15,7 +15,7 @@ But, as most economists will tell you, the assumptions of rationality and consu
 
 That places biologists in a similar position to economists. Biologists may be able to predict or explain behaviour, but often they have not actually explained how their subjects make decisions. If they were to attempt to predict how their subjects would behave in a changed environment – which is the type of predictive task many economists attempt to do – they would likely fail as their understanding of the decision making process is limited.
 
-In [Rationality for Mortals: How People Cope with Uncertainty](/posts/gerd-gigerenzers-rationality-for-mortals-how-people-cope-with-uncertainty.md), Gerd Gigerenzer has a great chapter considering how biologists treat decision making, and in particular, to what extent biologists consider that animals use simple decision-making tools such as heuristics. Gigerenzer provides a few examples where biologists have examined heuristics, but much of the chapter asks whether biologists are missing something with their typical approach.
+In [Rationality for Mortals: How People Cope with Uncertainty](gerd-gigerenzers-rationality-for-mortals-how-people-cope-with-uncertainty.md), Gerd Gigerenzer has a great chapter considering how biologists treat decision making, and in particular, to what extent biologists consider that animals use simple decision-making tools such as heuristics. Gigerenzer provides a few examples where biologists have examined heuristics, but much of the chapter asks whether biologists are missing something with their typical approach.
 
 As a start, Gigerenzer notes that biologists are seeking to make predictions rather than accurate descriptions of decision making. However, Gigerenzer questions whether this "gambit" is successful.
 
@@ -39,4 +39,4 @@ But are animals more likely to use heuristics than humans? Gigerenzer suggests t
 
 Another interesting question is whether animals are also predisposed to the "biases" of humans. Is it possible that "animals in their natural environments do not commit various fallacies because they do not need to generalize their rules of thumb to novel circumstances." The equivalent for humans is mismatch theory, which proposes that a lot of modern behaviour (and likely the "biases" we exhibit) is due to a mismatch between the environment in which our decision making tools evolved and the environments we exercise them in today.
 
-Finally, last year [I wrote about why economics is not more "evolutionary"](/posts/why-isnt-economics-evolutionary.md). Part of the answer there reflects a similar pattern to the above - biologists aren't that evolutionary either.
+Finally, last year [I wrote about why economics is not more "evolutionary"](why-isnt-economics-evolutionary.md). Part of the answer there reflects a similar pattern to the above - biologists aren't that evolutionary either.

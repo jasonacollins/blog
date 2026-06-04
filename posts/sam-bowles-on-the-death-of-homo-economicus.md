@@ -11,4 +11,4 @@ A few straw men are burnt along the way, but interesting all the same.
 
 {{< youtube ParPPYMzfQM >}}
 
-I've posted about some of Bowles's work before - a review of [A Cooperative Species](/posts/bowles-and-gintiss-a-cooperative-species.md), and some thoughts on his work on [income and IQ](/posts/income-and-iq.md).
+I've posted about some of Bowles's work before - a review of [A Cooperative Species](bowles-and-gintiss-a-cooperative-species.md), and some thoughts on his work on [income and IQ](income-and-iq.md).

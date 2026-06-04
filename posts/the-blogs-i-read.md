@@ -33,6 +33,6 @@ I try not to live in a bubble, but you can see a libertarian bent to these reco
 
 [Santa Fe Institute News](http://www.santafe.edu/news/): The best feed of complexity related stories and ideas.
 
-[Matt Ridley's Blog](http://www.rationaloptimist.com/blog): Hit and miss (a bit like [The Rational Optimist](/posts/ridleys-the-rational-optimist.md)), but more than enough good material.
+[Matt Ridley's Blog](http://www.rationaloptimist.com/blog): Hit and miss (a bit like [The Rational Optimist](ridleys-the-rational-optimist.md)), but more than enough good material.
 
 [The Enlightened Economist](http://www.enlightenmenteconomics.com/blog/): A constant source of additions to my book reading list.

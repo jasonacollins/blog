@@ -21,9 +21,9 @@ Links this week:
 And if you missed them, my posts from the last week:
 
 	
-  1. [Why family friendly policies backfire](/posts/family-friendly-backfires.md).
+  1. [Why family friendly policies backfire](family-friendly-backfires.md).
 
 	
-  2. [The winner effect in humans](/posts/the-winner-effect-in-humans.md).
+  2. [The winner effect in humans](the-winner-effect-in-humans.md).
 
 

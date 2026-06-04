@@ -7,7 +7,7 @@ draft: false
 
 Links this week:
 	
-  1. [An excellent Econtalk podcast with Jonathan Haidt](http://www.econtalk.org/archives/2014/01/jonathan_haidt.html). Just don't buy his lines about group selection - [my reasons here](/posts/haidts-group-selection.md).
+  1. [An excellent Econtalk podcast with Jonathan Haidt](http://www.econtalk.org/archives/2014/01/jonathan_haidt.html). Just don't buy his lines about group selection - [my reasons here](haidts-group-selection.md).
 
 	
   2. [Steven Pinker's amusing article on the Ivy League](http://www.newrepublic.com/article/119321/harvard-ivy-league-should-judge-students-standardized-tests).

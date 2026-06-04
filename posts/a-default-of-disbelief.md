@@ -38,7 +38,7 @@ Here's the authors' take:
 
 This is underselling the nature of what went wrong and the correction that is required.
 
-The problem is not simply that a single study about signing a form failed to replicate. The authors are hardly Robinson Crusoe in failing to have their work replicate. This isn't even the first [failed replication involving Dan Ariely or Nina Mazar on this topic of inducing honesty](/posts/does-a-moral-reminder-decrease-cheating.md).
+The problem is not simply that a single study about signing a form failed to replicate. The authors are hardly Robinson Crusoe in failing to have their work replicate. This isn't even the first [failed replication involving Dan Ariely or Nina Mazar on this topic of inducing honesty](does-a-moral-reminder-decrease-cheating.md).
 
 Rather, the problem is that there is a huge swathe of published literature in the behavioural sciences that, to use Andrew Gelman's framing, suffers from the [garden of forking paths](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf), publication bias and the like. It is built on noisy experiments. The PNAS paper is a typical example, not an exception. Much of this literature won't replicate. And despite this, people are still taking that work as true absent a failed replication.
 
@@ -50,6 +50,6 @@ Absent that approach, the story repeats. Well-meaning practitioners will continu
 
 >This matters because governments worldwide have spent considerable money and time trying to put this intervention into practice with limited success. In particular, failed attempts have been reported in several countries, and thousands of dollars were spent when one of us (Whillans) was working with a government in Canada to attempt to change their tax forms.
 
-As a final aside, I'm not as optimistic that behavioural science is continuously updating and self-correcting, at least not yet in a way that matches the scale of the challenge. Responses to failed replications, such as the other failed replication of an intervention designed to induce honesty that [I mentioned above](/posts/does-a-moral-reminder-decrease-cheating.md), are typically far more defensive. Then there is the ongoing quantum of the flow of papers with questionable claims. They still outnumber robust replications.
+As a final aside, I'm not as optimistic that behavioural science is continuously updating and self-correcting, at least not yet in a way that matches the scale of the challenge. Responses to failed replications, such as the other failed replication of an intervention designed to induce honesty that [I mentioned above](does-a-moral-reminder-decrease-cheating.md), are typically far more defensive. Then there is the ongoing quantum of the flow of papers with questionable claims. They still outnumber robust replications.
 
 Maybe the distinguishing point for these "sign at the top" experiments is that at least one incentive pointed in the right direction. By joining the replication effort and applying a less defensive approach to their work, the original authors got the great value of two PNAS papers for the price of one.

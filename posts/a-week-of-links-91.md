@@ -50,9 +50,9 @@ And if you missed them, my posts this week:
 
 
 	
-  1. [Tolstoy, behavioural scientist](/posts/wisdom-from-tolstoy.md).
+  1. [Tolstoy, behavioural scientist](wisdom-from-tolstoy.md).
 
 	
-  2. [The left and heritability](/posts/accepting-heritability.md).
+  2. [The left and heritability](accepting-heritability.md).
 
 

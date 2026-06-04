@@ -189,7 +189,7 @@ The signalling model also suggests education is good for the individual, making 
 
 What does the data show? Caplan compares estimates of the effect of a year of education on individual income with estimates of a year of education on national income. The comparison is stark: a year of personal education increases income by around 8 to 12%, while it increases national income by only 1 to 3%. Crudely, that puts the human capital-signalling mix at around 20:80.
 
-That signalling arms races are socially inefficient was the centrepiece of Robert Frank's book [The Darwin Economy](/posts/franks-the-darwin-economy.md). If the order remains the same but everyone invests more in the signal, we've burnt resources for no gain. Caplan digs into this in much more detail in a chapter on the social returns to education I note below.
+That signalling arms races are socially inefficient was the centrepiece of Robert Frank's book [The Darwin Economy](franks-the-darwin-economy.md). If the order remains the same but everyone invests more in the signal, we've burnt resources for no gain. Caplan digs into this in much more detail in a chapter on the social returns to education I note below.
 
 ## 3. Who does education pay for?
 
@@ -255,7 +255,7 @@ Caplan's final argument on vocational education is to let kids work earlier. As 
 
 When people get into a signalling competition, they waste resources. They invest more in the signal, yet the ranking and outcome don't change.
 
-As a result, in [The Darwin Economy](/posts/franks-the-darwin-economy.md), Robert Frank argues for constraints to signalling contests. If people spend too much on conspicuous consumption and positional goods, apply a progressive consumption tax. Only 20% of people can be in the top 20%.
+As a result, in [The Darwin Economy](franks-the-darwin-economy.md), Robert Frank argues for constraints to signalling contests. If people spend too much on conspicuous consumption and positional goods, apply a progressive consumption tax. Only 20% of people can be in the top 20%.
 
 Caplan applies a related argument, arguing for education austerity (the opposite of the near-universal call for more educational funding). Stop subsidising the arms race with taxpayer money. Only 20% can be among the 20% most educated.
 

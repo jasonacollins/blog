@@ -40,7 +40,7 @@ His chapter on choice illustrates. The chapter contains a parade of classic illu
     -   Holding a pen between your teeth to force a smile [does not make a cartoon funnier](https://doi.org/10.1177/1745691616674458).
     -   Priming people with terms relating to professor - as opposed to soccer hooligan - [does not make them better at trivia](https://doi.org/10.1177/1745691618755704).
 
-    Even those studies without the accompanying failed replication should be treated similarly. They come from an era where our [default should be disbelief](/posts/a-default-of-disbelief.md).
+    Even those studies without the accompanying failed replication should be treated similarly. They come from an era where our [default should be disbelief](a-default-of-disbelief.md).
 
     That said, if Marcus rewrote the book today, he could find enough experiments to back his point. It would have a very different feel however, with much of the novelty that made those experiments such great fodder of popular science books gone.
 

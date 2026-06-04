@@ -29,9 +29,9 @@ Links this week:
 
 And if you missed them, my posts from the last week:
 
-  1. [Sam Bowles on the death of Homo Economicus](/posts/sam-bowles-on-the-death-of-homo-economicus.md).
+  1. [Sam Bowles on the death of Homo Economicus](sam-bowles-on-the-death-of-homo-economicus.md).
 
 	
-  2. [A grumpy rant on behavioural economics](/posts/a-grumpy-take-on-behavioural-economics.md).
+  2. [A grumpy rant on behavioural economics](a-grumpy-take-on-behavioural-economics.md).
 
 

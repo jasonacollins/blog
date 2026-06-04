@@ -6,7 +6,7 @@ draft: false
 title: Harvard academics on genetic diversity and economic development
 ---
 
-A group of Harvard academics [have penned a short response](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2155060) to Ashraf and Galor's forthcoming American Economic Review paper, _[The Out of Africa Hypothesis, Human Genetic Diversity and Comparative Economic Development](/posts/genetic-diversity-and-economic-development.md)_.
+A group of Harvard academics [have penned a short response](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2155060) to Ashraf and Galor's forthcoming American Economic Review paper, _[The Out of Africa Hypothesis, Human Genetic Diversity and Comparative Economic Development](genetic-diversity-and-economic-development.md)_.
 
 Ashraf and Galor argue that economic development is affected by genetic diversity, which increases innovation but also increases conflict and distrust. This leads to an optimum "goldilocks" level of diversity, with genetically diverse Africans and less genetically diverse native Americans falling on either side of that optimum.
 
@@ -28,24 +28,24 @@ My posts on Ashraf and Galor's paper on genetic diversity and economic growth ar
 
 
  	
-  1. [A summary of the paper methodology and findings](/posts/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development.md)
+  1. [A summary of the paper methodology and findings](the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development.md)
 
  	
-  2. [Does genetic diversity increase innovation?](/posts/does-genetic-diversity-increase-innovation.md)
+  2. [Does genetic diversity increase innovation?](does-genetic-diversity-increase-innovation.md)
 
  	
-  3. [Does genetic diversity increase conflict?](/posts/does-genetic-diversity-increase-conflict.md)
+  3. [Does genetic diversity increase conflict?](does-genetic-diversity-increase-conflict.md)
 
  	
-  4. [Is genetic diversity a proxy for phenotypic diversity?](/posts/is-genetic-diversity-a-proxy-for-phenotypic-diversity.md)
+  4. [Is genetic diversity a proxy for phenotypic diversity?](is-genetic-diversity-a-proxy-for-phenotypic-diversity.md)
 
  	
-  5. [Is population density a good measure of technological progress?](/posts/using-the-malthusian-model-to-measure-technology.md)
+  5. [Is population density a good measure of technological progress?](using-the-malthusian-model-to-measure-technology.md)
 
  	
-  6. [What are the policy implications of the effects of genetic diversity on economic development?](/posts/genetic-diversity-economic-development-and-policy.md)
+  6. [What are the policy implications of the effects of genetic diversity on economic development?](genetic-diversity-economic-development-and-policy.md)
 
  	
-  7. [Should this paper have been published?](/posts/publishing-on-genetic-diversity-and-economic-growth.md)
+  7. [Should this paper have been published?](publishing-on-genetic-diversity-and-economic-growth.md)
 
-Other debate on this paper can also be found [here](/posts/harvard-academics-on-genetic-diversity-and-economic-development.md), [here](/posts/genetic-diversity-and-economic-development-ashraf-and-galor-respond.md), [here](/posts/is-poverty-in-our-genes.md) and [here](/posts/is-poverty-in-our-genes-from-the-comments.md).
+Other debate on this paper can also be found [here](harvard-academics-on-genetic-diversity-and-economic-development.md), [here](genetic-diversity-and-economic-development-ashraf-and-galor-respond.md), [here](is-poverty-in-our-genes.md) and [here](is-poverty-in-our-genes-from-the-comments.md).

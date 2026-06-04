@@ -6,7 +6,7 @@ draft: false
 title: 'Genoeconomics: molecular genetics and economics'
 ---
 
-The Journal of Economic Perspectives has an excellent article by Beauchamp and colleagues titled [Molecular Genetics and Economics](http://www.aeaweb.org/articles.php?doi=10.1257/jep.25.4.57) (ungated pdf [here](http://humannaturelab.net/wp-content/themes/human-nature-lab/media/pdf/publications/articles/123.pdf)). It is a nice contrast to another article in the same issue, [Charles Manski's bashing](/posts/the-use-of-heritability-in-policy-development.md) of the heritability straw man.
+The Journal of Economic Perspectives has an excellent article by Beauchamp and colleagues titled [Molecular Genetics and Economics](http://www.aeaweb.org/articles.php?doi=10.1257/jep.25.4.57) (ungated pdf [here](http://humannaturelab.net/wp-content/themes/human-nature-lab/media/pdf/publications/articles/123.pdf)). It is a nice contrast to another article in the same issue, [Charles Manski's bashing](the-use-of-heritability-in-policy-development.md) of the heritability straw man.
 
 The authors argue that “genoeconomics”, the use of molecular genetics in economics, has the potential to supplement traditional behavioural genetic studies and build an understanding of the biology underlying economically relevant traits. They note that behavioural genetics, particularly research into heritability, has produced compelling evidence of the link between economically important characteristics and DNA. Molecular genetics is an "exciting tool” that can now be turned to this area.
 

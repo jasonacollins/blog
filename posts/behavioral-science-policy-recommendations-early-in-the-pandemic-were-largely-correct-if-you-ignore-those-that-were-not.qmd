@@ -38,7 +38,7 @@ Based on an experiment involving 156 undergraduate students receiving electric s
 
 Four weeks later [he was writing](https://www.bloomberg.com/opinion/articles/2020-03-26/coronavirus-lockdowns-look-smart-under-cost-benefit-scrutiny): “This Time the Numbers Show We Can’t Be Too Careful”. No acknowledgment that the earlier prognostication might not have been on the mark. He just moved on as if nothing had happened.
 
-I posted more about these claims [here](/posts/the-limits-of-behavioural-science-coronavirus-edition.md) and [here](/posts/arent-we-smart-fellow-behavioural-scientists.md).
+I posted more about these claims [here](the-limits-of-behavioural-science-coronavirus-edition.md) and [here](arent-we-smart-fellow-behavioural-scientists.md).
 
 The Van Bavel et al. article was a good target for review. Praise its sobriety.
 

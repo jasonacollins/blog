@@ -8,7 +8,7 @@ title: Banking as an ecosystem
 
 Most of my interest in the use of biology in economics concerns humans being subject to the forces of selection like any other biological organism. With this starting point, it is natural to use many of the tools, models and methods of analysis that evolutionary biologists use.
 
-But sometimes those models and tools are of value without the biological underpinnings. Evolutionary economics is one area where this is done, with the concepts of selection applied at the level of firms (as discussed in [my last post](/posts/evolutionary-economics-and-group-selection.md)).
+But sometimes those models and tools are of value without the biological underpinnings. Evolutionary economics is one area where this is done, with the concepts of selection applied at the level of firms (as discussed in [my last post](evolutionary-economics-and-group-selection.md)).
 
 Another instance of this crossover was in an [article](https://doi.org/10.1038/nature09659) published by Andrew Haldane and Robert May, who have proposed that analysis of complexity and stability in ecosystems (dating from the 1970s) is useful in examining financial systems.
 

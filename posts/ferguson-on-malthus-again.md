@@ -6,7 +6,7 @@ draft: false
 title: Ferguson on Malthus again
 ---
 
-Niall Ferguson has a slight Malthusian thread running through his book, [Civilization: The West and the Rest](/posts/fergusons-civilization-the-west-and-the-rest.md). At one point, Ferguson touches on the mass emigration from England to the Americas. Ferguson writes:
+Niall Ferguson has a slight Malthusian thread running through his book, [Civilization: The West and the Rest](fergusons-civilization-the-west-and-the-rest.md). At one point, Ferguson touches on the mass emigration from England to the Americas. Ferguson writes:
 
 >[A]s England’s population accelerated in the late seventeenth century, overseas expansion played a vital role in propelling the country out of the Malthusian trap. Transatlantic trade brought an influx of new nutrients like potatoes and sugar – an acre of sugar cane yielded the same amount of energy as 12 acres of wheat – as well as plentiful cod and herring. Colonization allowed the emigration of surplus population. Over time, the effect was to raise productivity, incomes, nutrition and even height.
 >

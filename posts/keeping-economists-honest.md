@@ -6,7 +6,7 @@ draft: false
 title: Keeping economists honest
 ---
 
-Paul Frijters has written [an interesting review](http://clubtroppo.com.au/2012/08/23/thoughts-on-thinking-fast-and-slow/) of Daniel Kahneman's [Thinking Fast and Slow](/posts/kahnemans-thinking-fast-and-slow.md) over at Club Troppo. In the review, Frijters suggests that Kahneman's main contribution to economics is keeping economists honest:
+Paul Frijters has written [an interesting review](http://clubtroppo.com.au/2012/08/23/thoughts-on-thinking-fast-and-slow/) of Daniel Kahneman's [Thinking Fast and Slow](kahnemans-thinking-fast-and-slow.md) over at Club Troppo. In the review, Frijters suggests that Kahneman's main contribution to economics is keeping economists honest:
 
 
 

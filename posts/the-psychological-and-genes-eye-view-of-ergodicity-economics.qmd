@@ -10,7 +10,7 @@ execute:
 bibliography: references.bib
 ---
 
-This post was my plan for a presentation at the [Foundation of Utility and Risk Conference](https://www.furconference.org/fur-2024/). I drew on my previous posts laying out the [foundations of ergodicity economics](/posts/ergodicity-economics-a-primer.qmd) and examining [what ergodicity economics states about risk preferences](/posts/risk-and-loss-aversion-in-ergodicity-economics.qmd). This varied somewhat from delivery (I'm easily waylaid and skipped a couple of sections). Given it's to a technical audience, there are a few moments that might lose the lay reader.
+This post was my plan for a presentation at the [Foundation of Utility and Risk Conference](https://www.furconference.org/fur-2024/). I drew on my previous posts laying out the [foundations of ergodicity economics](ergodicity-economics-a-primer.qmd) and examining [what ergodicity economics states about risk preferences](risk-and-loss-aversion-in-ergodicity-economics.qmd). This varied somewhat from delivery (I'm easily waylaid and skipped a couple of sections). Given it's to a technical audience, there are a few moments that might lose the lay reader.
 
 --
 

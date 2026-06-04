@@ -38,9 +38,9 @@ And if you missed them, my posts this week:
 
 
 	
-  1. [Boys are falling behind girls in school](/posts/the-other-gender-gap.md).
+  1. [Boys are falling behind girls in school](the-other-gender-gap.md).
 
 	
-  2. [Research on the heritability of savings behaviour](/posts/the-patience-of-economists.md).
+  2. [Research on the heritability of savings behaviour](the-patience-of-economists.md).
 
 

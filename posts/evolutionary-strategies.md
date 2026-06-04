@@ -6,9 +6,9 @@ draft: false
 title: Evolutionary strategies
 ---
 
-In Tim Harford’s discussion in [Adapt](/posts/harfords-adapt-why-success-always-starts-with-failure.md) of the benefits to experimentation , Harford notes that experimentation by individuals is often at great potential cost. As when a species evolves, what appears to be beneficial experimentation at a societal level involves frequent failure to survive by individuals. While Harford suggests that people should consider experimenting in a manner that avoids failure that threatens survival, the reality is that many people take risks with a large downside.
+In Tim Harford’s discussion in [Adapt](harfords-adapt-why-success-always-starts-with-failure.md) of the benefits to experimentation , Harford notes that experimentation by individuals is often at great potential cost. As when a species evolves, what appears to be beneficial experimentation at a societal level involves frequent failure to survive by individuals. While Harford suggests that people should consider experimenting in a manner that avoids failure that threatens survival, the reality is that many people take risks with a large downside.
 
-Harford’s discussion reminded me of a section in Daniel Kahneman’s [Thinking, Fast and Slow](/posts/kahnemans-thinking-fast-and-slow.md), where Kahneman notes the economic benefits of optimism. Entrepreneurs often engage in “optimistic” behaviour, in that they vastly overestimate the probability of business success. Kahneman writes:
+Harford’s discussion reminded me of a section in Daniel Kahneman’s [Thinking, Fast and Slow](kahnemans-thinking-fast-and-slow.md), where Kahneman notes the economic benefits of optimism. Entrepreneurs often engage in “optimistic” behaviour, in that they vastly overestimate the probability of business success. Kahneman writes:
 
 
 
@@ -27,4 +27,4 @@ This brings me to [a post by Bryan Caplan](http://econlog.econlib.org/archives/2
 
 If we ignore whether there is evidence of the lower classes being more assertive, it raises the question of whether assertive behaviour of low-status people is, on average, costly. There may be a low expected monetary pay-off to an assertive act as they lose jobs or other privileges, but what are the costs and benefits in dimensions that matter? Is the person balancing a meek and certain passage into genetic oblivion, versus a risky shot at reproductive success? We should not derive the optimal strategy by a simple cost-benefit analysis in monetary terms. When facing the end of the genetic line, strategies with an expected negative monetary and social pay-off, but high variance, may be the preferred path.
 
-This issue is similar to [a paper I posted about](/posts/what-is-the-objective.md) concerning risk-seeking behaviour by those without a mate. A utility function measured in terms of mates leads to significantly different behavioural predictions than one in financial terms.
+This issue is similar to [a paper I posted about](what-is-the-objective.md) concerning risk-seeking behaviour by those without a mate. A utility function measured in terms of mates leads to significantly different behavioural predictions than one in financial terms.

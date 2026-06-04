@@ -7,7 +7,7 @@ aliases:
 title: Economy-IQ feedback
 ---
 
-Scientific American has an [excellent podcast](http://www.scientificamerican.com/podcast/episode.cfm?id=the-flynn-effect-modernity-made-us-12-08-20) of an interview with James Flynn on his new book, [Are We Getting Smarter?](/posts/flynns-are-we-getting-smarter.md) The podcast accompanies an [article from the latest issue](http://www.scientificamerican.com/article.cfm?id=will-we-keep-getting-smarter-flynn-effect-says-yes).
+Scientific American has an [excellent podcast](http://www.scientificamerican.com/podcast/episode.cfm?id=the-flynn-effect-modernity-made-us-12-08-20) of an interview with James Flynn on his new book, [Are We Getting Smarter?](flynns-are-we-getting-smarter.md) The podcast accompanies an [article from the latest issue](http://www.scientificamerican.com/article.cfm?id=will-we-keep-getting-smarter-flynn-effect-says-yes).
 
 Flynn makes some interesting points throughout the discussion, including the following thoughts on the interaction between the economy and IQ:
 

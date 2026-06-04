@@ -5,7 +5,7 @@ date: 2013-06-26 12:38:26+00:00
 draft: false
 ---
 
-In my [last post](/posts/more-people-means-more-ideas-and-mutations.md), I noted R.A. Fisher's argument that a larger population leads to more mutations and greater potential for adaptive evolution. As human populations have undergone massive growth over recent tens of thousands of years, we would expect the evidence of this population growth to show in our genomes. In this post, I point to a couple of papers that look at this evidence.
+In my [last post](more-people-means-more-ideas-and-mutations.md), I noted R.A. Fisher's argument that a larger population leads to more mutations and greater potential for adaptive evolution. As human populations have undergone massive growth over recent tens of thousands of years, we would expect the evidence of this population growth to show in our genomes. In this post, I point to a couple of papers that look at this evidence.
 
 In the first, [Recent acceleration of human adaptive evolution](https://doi.org/10.1073/pnas.0707650104), John Hawks and colleagues examined the age distribution of positively selected gene variants in a 3.9 million SNP dataset. To determine the variant (allele) ages, they examined "linkage blocks". When an SNP is selected, it tends to carry with it other polymorphisms on the chromosome around it. If a variant tends to have a similar set of polymorphisms around it, while another variant at that same point does not, this suggests that the first is under positive selection, dragging along its neighbouring polymorphisms with it (the linkage block). The older original variant will have a bigger mix of polymorphisms around it through reshuffling over time.
 
@@ -25,6 +25,6 @@ The [second paper by Fu and colleagues](https://doi.org/10.1038/nature11690), pu
 
 While Fu and colleagues don't transfer this story of the growth in rare variants to one of adaptive evolution, you can see how it fits with the first paper by Hawks and colleagues. These variants, even though most may be deleterious, provides the store of variation on which evolution can act.
 
-I [posted a round-up](/posts/a-flood-of-new-genetic-variation.md) of some other blog posts on this second article at the end of last year when the article underwent initial electronic release. The [post by John Hawks](http://johnhawks.net/weblog/reviews/genomics/selection/fu-2012-mutation-ages-europeans-africans.html) is very good.
+I [posted a round-up](a-flood-of-new-genetic-variation.md) of some other blog posts on this second article at the end of last year when the article underwent initial electronic release. The [post by John Hawks](http://johnhawks.net/weblog/reviews/genomics/selection/fu-2012-mutation-ages-europeans-africans.html) is very good.
 
-*The reason I'm covering this territory is to lay the groundwork for a post on my latest working paper: [Population, Technological Progress and the Evolution of Innovative Potential](http://ssrn.com/abstract=2284456). You can now find that [post here](/posts/population-technological-progress-and-the-evolution-of-innovative-potential.md).
+*The reason I'm covering this territory is to lay the groundwork for a post on my latest working paper: [Population, Technological Progress and the Evolution of Innovative Potential](http://ssrn.com/abstract=2284456). You can now find that [post here](population-technological-progress-and-the-evolution-of-innovative-potential.md).

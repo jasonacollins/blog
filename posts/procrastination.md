@@ -13,4 +13,4 @@ Even without considering evolution, time inconsistency is a subject of debate in
 
 Biologically this shortcoming is more serious. The individual that is able to make the rational choice at all times should have higher fitness and come to dominate the population.
 
-One explanation for hyperbolic discounting [may be uncertainty](/posts/evolution-and-irrationality.md). A bird in the hand is better than two in the bush. But that explanation is only satisfactory where there is immediate reward. What of situations where we know something is good for us and yet we delay the up-front cost?
+One explanation for hyperbolic discounting [may be uncertainty](evolution-and-irrationality.md). A bird in the hand is better than two in the bush. But that explanation is only satisfactory where there is immediate reward. What of situations where we know something is good for us and yet we delay the up-front cost?

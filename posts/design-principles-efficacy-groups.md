@@ -7,7 +7,7 @@ aliases:
   - /design-principles-efficacy-groups
 ---
 
-In [Tim Harford's article](http://timharford.com/2013/08/do-you-believe-in-sharing/) contrasting Lin Ostrom and [Garrett Hardin](/posts/population-and-the-tragedy-of-the-commons.md)'s approaches to the tragedy of the commons, he writes:
+In [Tim Harford's article](http://timharford.com/2013/08/do-you-believe-in-sharing/) contrasting Lin Ostrom and [Garrett Hardin](population-and-the-tragedy-of-the-commons.md)'s approaches to the tragedy of the commons, he writes:
 
 >She [Ostrom] persevered and secured her PhD after studying the management of fresh water in Los Angeles. In the first half of the 20th century, the city’s water supply had been blighted by competing demands to pump fresh water for drinking and farming. By the 1940s, however, the conflicting parties had begun to resolve their differences. In both her PhD, which she completed in 1965, and subsequent research, Lin showed that such outcomes often came from private individuals or local associations, who came up with their own rules and then lobbied the state to enforce them. In the case of the Los Angeles water producers, they drew up contracts to share their resources and the city’s water supply stabilised.
 >
@@ -40,7 +40,7 @@ In the special issue of the Journal of Economic Behavior & Organization, _Evolut
 
 The most interesting application of this argument relates to the first design principle, the need for clearly defined boundaries. When group selection was first framed as a concept, it was seen as competition between groups in the way that an ordinary person might see it; say, different tribes fighting against each other. But this style of group selection ran into problems in that the group boundaries are not as clear as one might think. People move between groups. The victor in war takes the women, children and surviving males into their own group. This lack of clarity was a central plank of many criticisms of this style of group selection.
 
-The conception of group selection labelled as multilevel selection theory averts this problem through adopting a more flexible concept of groups. Individuals take part in many groups, which each group differing by context. For example, a person may have many trading relationships, each being conceptualised as a group. They have family groups. They form coalitions. As such, there can be considered to be clearly defined boundaries for each of these different groups. (For earlier posts discussing how this multilevel selection framing works, see [here](/posts/what-is-multilevel-selection.md) and [here](/posts/groups-kin-and-self-interest.md)) But when put this way, the group boundaries can appear to be more a question of framing than substance. And given the equivalence of a multilevel selection framework to inclusive fitness, it is possible to ignore the framing of group boundaries and simply consider whether an individual and their relations benefits from their action relative to the broader population.
+The conception of group selection labelled as multilevel selection theory averts this problem through adopting a more flexible concept of groups. Individuals take part in many groups, which each group differing by context. For example, a person may have many trading relationships, each being conceptualised as a group. They have family groups. They form coalitions. As such, there can be considered to be clearly defined boundaries for each of these different groups. (For earlier posts discussing how this multilevel selection framing works, see [here](what-is-multilevel-selection.md) and [here](groups-kin-and-self-interest.md)) But when put this way, the group boundaries can appear to be more a question of framing than substance. And given the equivalence of a multilevel selection framework to inclusive fitness, it is possible to ignore the framing of group boundaries and simply consider whether an individual and their relations benefits from their action relative to the broader population.
 
 This equivalence of framing is also apparent in the second design principle. The costs and benefits within and between groups are the core of the multilevel selection calculation, whereas an inclusive fitness framework utilises [Hamilton's rule](http://en.wikipedia.org/wiki/Kin_selection#Hamilton.27s_rule) to balance costs and benefits weighted by relatedness.
 
@@ -54,16 +54,16 @@ I don't have much to add on the second claim - that Ostrom's design principles c
 
 My series of posts on the Journal of Economic Behavior & Organization special issue, [_Evolution as a General Theoretical Framework for Economics and Public Policy_](http://www.sciencedirect.com/science/journal/01672681/90/supp/S), are as follows:
 	
-1. [Social Darwinism is back](/posts/social-darwinism-is-back.md) - a post on one of the popular press articles that accompanied the special issue, a piece by David Sloan Wilson called [A good social Darwinism](http://www.aeonmagazine.com/living-together/how-evolution-can-reform-economics/).
+1. [Social Darwinism is back](social-darwinism-is-back.md) - a post on one of the popular press articles that accompanied the special issue, a piece by David Sloan Wilson called [A good social Darwinism](http://www.aeonmagazine.com/living-together/how-evolution-can-reform-economics/).
 
-2. [Four reasons why evolutionary theory might not add value to economics](/posts/four-reasons-why-evolutionary-theory-might-not-add-value-to-economics.md) - a post on David Sloan Wilson and John Gowdy's article _Evolution as a general theoretical framework for economics and public policy_
+2. [Four reasons why evolutionary theory might not add value to economics](four-reasons-why-evolutionary-theory-might-not-add-value-to-economics.md) - a post on David Sloan Wilson and John Gowdy's article _Evolution as a general theoretical framework for economics and public policy_
 
-3. [Economic cosmology - The rational egotistical individual](/posts/economic-cosmology-the-rational-egotistical-individual.md) - a post on John Gowdy and colleagues' article _Economic cosmology and the evolutionary challenge _
+3. [Economic cosmology - The rational egotistical individual](economic-cosmology-the-rational-egotistical-individual.md) - a post on John Gowdy and colleagues' article _Economic cosmology and the evolutionary challenge _
 
-4. [Economic cosmology - The invisible hand](/posts/economic-cosmology-the-invisible-hand.md) - a second post on _Economic cosmology and the evolutionary challenge _
+4. [Economic cosmology - The invisible hand](economic-cosmology-the-invisible-hand.md) - a second post on _Economic cosmology and the evolutionary challenge _
 
-5. [Economic cosmology - Equilibrium](/posts/economic-cosmology-equilibrium.md) - a third post on _Economic cosmology and the evolutionary challenge_
+5. [Economic cosmology - Equilibrium](economic-cosmology-equilibrium.md) - a third post on _Economic cosmology and the evolutionary challenge_
 
-6. [Design principles for the efficacy of groups](/posts/design-principles-efficacy-groups.md) (this post) - a post on David Sloan Wilson, Elinor Ostrom and Michael E. Cox's article _Generalizing the core design principles for the efficacy of groups_
+6. [Design principles for the efficacy of groups](design-principles-efficacy-groups.md) (this post) - a post on David Sloan Wilson, Elinor Ostrom and Michael E. Cox's article _Generalizing the core design principles for the efficacy of groups_
 
 

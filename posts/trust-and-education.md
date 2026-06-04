@@ -14,7 +14,7 @@ Besides some interesting results, such as the level of trust in the media, what 
 
 ![](img/trust-vocabulary-1992-2010.jpg)
 
-This result is consistent with earlier findings that trust correlates with IQ, as I discussed in my [recent post](/posts/jones-on-iq-and-immigration.md). While that post focussed on the implications of increased trust on a country's institutions, these results show that a range of trust levels exist within a country under these same macro-level institutions.
+This result is consistent with earlier findings that trust correlates with IQ, as I discussed in my [recent post](jones-on-iq-and-immigration.md). While that post focussed on the implications of increased trust on a country's institutions, these results show that a range of trust levels exist within a country under these same macro-level institutions.
 
 One interpretation of this is that within a country, there is assortment by IQ and education levels, which can allow micro-level institutions in which trust is rewarded to develop. What that implies, of course, is that lower IQ groups face a micro-institutional framework in which people behave in a less trustworthy way.
 

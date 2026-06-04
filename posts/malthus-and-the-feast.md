@@ -14,7 +14,7 @@ A man who is born into a world already possessed, if he cannot get subsistence f
 </blockquote>
 
 
-Garrett Hardin, who I have [posted about previously](/posts/population-and-the-tragedy-of-the-commons.md), wrote [an essay](http://www.thesocialcontract.com/artman2/publish/tsc0803/article_741.shtml) which blames the general rejection of Malthus's writings on this single paragraph:
+Garrett Hardin, who I have [posted about previously](population-and-the-tragedy-of-the-commons.md), wrote [an essay](http://www.thesocialcontract.com/artman2/publish/tsc0803/article_741.shtml) which blames the general rejection of Malthus's writings on this single paragraph:
 
 
 <blockquote>

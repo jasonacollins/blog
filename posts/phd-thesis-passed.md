@@ -9,15 +9,15 @@ aliases:
 
 A couple of months ago I was notified that my PhD thesis had been passed ([full pdf here](/pdf/2015-11-16-phd-thesis-passed/jason-collins-thesis-final-20151025.pdf)). I have posted about each chapter before:
 	
-1. [The Evolutionary Foundations of Economics](/posts/the-evolutionary-foundations-of-economics.md)
+1. [The Evolutionary Foundations of Economics](the-evolutionary-foundations-of-economics.md)
 
-2. [Economic Growth and Evolution: Parental Preference for Quality and Quantity of Offspring](/posts/economic-growth-and-evolution-parental-preference-for-quality-and-quantity-of-offspring.md)
+2. [Economic Growth and Evolution: Parental Preference for Quality and Quantity of Offspring](economic-growth-and-evolution-parental-preference-for-quality-and-quantity-of-offspring.md)
 
-3. [Population, Technological Progress and the Evolution of Innovative Potential](/posts/population-technological-progress-and-the-evolution-of-innovative-potential.md)
+3. [Population, Technological Progress and the Evolution of Innovative Potential](population-technological-progress-and-the-evolution-of-innovative-potential.md)
 
-4. [Sexual selection, conspicuous consumption and economic growth](/posts/conspicuous-consumption-and-economic-growth-2.md)
+4. [Sexual selection, conspicuous consumption and economic growth](conspicuous-consumption-and-economic-growth-2.md)
 
-5. [Evolution, Fertility and the Ageing Population](/posts/fertility-is-going-to-go-up.md).
+5. [Evolution, Fertility and the Ageing Population](fertility-is-going-to-go-up.md).
 
 Here are links to the three (anonymised) examiner reports - one from an [economist at an Australian university](/pdf/2015-11-16-phd-thesis-passed/aus-econ.pdf), another from a [US based economist](/pdf/2015-11-16-phd-thesis-passed/us-econ1.pdf), and a third from a [biologist](/pdf/2015-11-16-phd-thesis-passed/biologist.pdf). A few excerpts follow. First, from the Australian-based economist on the overarching thesis:
 

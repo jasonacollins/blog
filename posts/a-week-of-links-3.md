@@ -7,7 +7,7 @@ draft: false
 
 Four links this week:
 
-  1. [Paleofantasy: What Evolution Really Tells Us about Sex, Diet, and How We Live](/posts/zuks-paleofantasy.md) by Marlene Zuk. (HT: [Evolvify](https://twitter.com/evolvify))
+  1. [Paleofantasy: What Evolution Really Tells Us about Sex, Diet, and How We Live](zuks-paleofantasy.md) by Marlene Zuk. (HT: [Evolvify](https://twitter.com/evolvify))
 
 	
   2. [Ignorance, the Ultimate Asset](http://www.american.com/archive/2013/january/ignorance-the-ultimate-asset) has some good bits. Some interesting lines: _Taleb, however, is so consumed with the downsides of a complex world and advises strategies so “hyperconservative,” that he often ends up preaching futility and paralysis. The Santa Fe Institute, likewise, has for years looked to complexity as the next economic paradigm but has mostly emphasized the chaotic nature of the economy and has thus run into explanatory dead ends._

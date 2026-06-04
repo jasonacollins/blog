@@ -8,7 +8,7 @@ aliases:
   - /the-paradox-of-trust
 ---
 
-In a chapter of Robert Sugden's [The Community of Advantage: A Behavioural Economist's Defence of the Market](/posts/robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market.md), he makes some interesting arguments about how we should interpret the results of the [trust game](https://en.wikibooks.org/wiki/Bestiary_of_Behavioral_Economics/Trust_Game).
+In a chapter of Robert Sugden's [The Community of Advantage: A Behavioural Economist's Defence of the Market](robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market.md), he makes some interesting arguments about how we should interpret the results of the [trust game](https://en.wikibooks.org/wiki/Bestiary_of_Behavioral_Economics/Trust_Game).
 
 First, what is the trust game:
 

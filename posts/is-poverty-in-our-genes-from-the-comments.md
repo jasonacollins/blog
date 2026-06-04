@@ -7,7 +7,7 @@ aliases:
   - /is-poverty-in-our-genes-from-the-comments
 ---
 
-In response to [the critique in Current Anthropology](/posts/is-poverty-in-our-genes.md) on Ashraf and Galor's paper on genetic diversity and economic growth, C.W. writes:
+In response to [the critique in Current Anthropology](is-poverty-in-our-genes.md) on Ashraf and Galor's paper on genetic diversity and economic growth, C.W. writes:
 
 
 <blockquote>1. The critique of the use of the McEvedy and Jones population density data is (as already noticed by the first comment) not reasonable.
@@ -43,25 +43,25 @@ My posts on Ashraf and Galor's paper on genetic diversity and economic growth ar
 
 
 	
-  1. [A summary of the paper methodology and findings](/posts/the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development.md)
+  1. [A summary of the paper methodology and findings](the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development.md)
 
 	
-  2. [Does genetic diversity increase innovation?](/posts/does-genetic-diversity-increase-innovation.md)
+  2. [Does genetic diversity increase innovation?](does-genetic-diversity-increase-innovation.md)
 
 	
-  3. [Does genetic diversity increase conflict?](/posts/does-genetic-diversity-increase-conflict.md)
+  3. [Does genetic diversity increase conflict?](does-genetic-diversity-increase-conflict.md)
 
 	
-  4. [Is genetic diversity a proxy for phenotypic diversity?](/posts/is-genetic-diversity-a-proxy-for-phenotypic-diversity.md)
+  4. [Is genetic diversity a proxy for phenotypic diversity?](is-genetic-diversity-a-proxy-for-phenotypic-diversity.md)
 
 	
-  5. [Is population density a good measure of technological progress?](/posts/using-the-malthusian-model-to-measure-technology.md)
+  5. [Is population density a good measure of technological progress?](using-the-malthusian-model-to-measure-technology.md)
 
 	
-  6. [What are the policy implications of the effects of genetic diversity on economic development?](/posts/genetic-diversity-economic-development-and-policy.md)
+  6. [What are the policy implications of the effects of genetic diversity on economic development?](genetic-diversity-economic-development-and-policy.md)
 
 	
-  7. [Should this paper have been published?](/posts/publishing-on-genetic-diversity-and-economic-growth.md)
+  7. [Should this paper have been published?](publishing-on-genetic-diversity-and-economic-growth.md)
 
 
-Other debate on this paper can also be found [here](/posts/harvard-academics-on-genetic-diversity-and-economic-development.md), [here](/posts/genetic-diversity-and-economic-development-ashraf-and-galor-respond.md) and [here](/posts/is-poverty-in-our-genes.md).
+Other debate on this paper can also be found [here](harvard-academics-on-genetic-diversity-and-economic-development.md), [here](genetic-diversity-and-economic-development-ashraf-and-galor-respond.md) and [here](is-poverty-in-our-genes.md).

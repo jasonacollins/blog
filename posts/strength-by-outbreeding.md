@@ -7,7 +7,7 @@ aliases:
   - /strength-by-outbreeding
 ---
 
-I am reading Robert Trivers's [The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life](/posts/triverss-the-folly-of-fools.md). I will review in the next few days, but these passages on the benefits of outbreeding are particularly interesting:
+I am reading Robert Trivers's [The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life](triverss-the-folly-of-fools.md). I will review in the next few days, but these passages on the benefits of outbreeding are particularly interesting:
 
 
 <blockquote>US history has many virtues, among which is the fact that the US population is reconstituted every generation through a roughly 10 percent admixture by external immigration from throughout the world. Although in its history rules of immigration have favored some groups over others, all have had some opportunity. And with illegal immigration, such opportunities are sometimes greatly enhanced. From a biological standpoint, the resulting outbreeding (insofar as it takes place, as it inevitably must) will tend to be genetically beneficial. The US population is perpetually heterogeneous, about to be infused with 10 percent more genes from around the world. ...</blockquote>

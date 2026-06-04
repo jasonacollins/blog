@@ -102,7 +102,7 @@ That "but one" with a decrease is the 0km-1km range, which should be range in wh
 
 ## The effect size
 
-One effective filter for junk results is the ["effect size is too large" heuristic](/posts/the-effect-is-too-large-heuristic.md). Is the effect size reasonable given the intervention?
+One effective filter for junk results is the ["effect size is too large" heuristic](the-effect-is-too-large-heuristic.md). Is the effect size reasonable given the intervention?
 
 Although I spent only half an hour with the paper, I spent much more time with this question of effect size stirring in my mind.
 
@@ -114,7 +114,7 @@ You could think of several ways the proposed effect works. All drivers see the n
 
 There is also a general tendency for estimated effect sizes to be biased upward. If the effect size is small and the data noisy, any statistically significant result will exaggerate the effect size. If the discovered effect size wasn't that big, the analysis wouldn't have found it. [Gelman and Carlin](https://doi.org/10.1177/1745691614551642) call this a"Type M error". Even if there is a real negative effect of these fatality messages, I expect the point estimate is substantially biased upward. 
 
-Ultimately, I wouldn't rule this effect size out in the way I do with the ["hungry judges"](/posts/the-effect-is-too-large-heuristic.md). But I still think that, to the extent the effect exists, it is much smaller than the the estimated effect size.
+Ultimately, I wouldn't rule this effect size out in the way I do with the ["hungry judges"](the-effect-is-too-large-heuristic.md). But I still think that, to the extent the effect exists, it is much smaller than the the estimated effect size.
 
 ## The mechanism
 
@@ -174,7 +174,7 @@ Similarly, due to the effect persisting across years, they write:
 
 > People don’t habituate to nudges.
 
-I feel that's a bit like stating that [the average effect size of a nudge is 0.43](/posts/how-big-is-the-effect-of-a-nudge.md). Across the huge body of interventions that might be called nudges and the growing literature on habituation to nudges, this blanket statement based on a single study seems to be gross overreach.
+I feel that's a bit like stating that [the average effect size of a nudge is 0.43](how-big-is-the-effect-of-a-nudge.md). Across the huge body of interventions that might be called nudges and the growing literature on habituation to nudges, this blanket statement based on a single study seems to be gross overreach.
 
 What would be a strong claim that could be made from this paper? Given other research on safety messages, I would feel comfortable stating "there is no evidence for a short-term beneficial effect of fatality count messages". If I was writing in a non-academic publication, I'd even feel comfortable writing "Fatality count messages don't save lives." But kill people? That's a step further than the evidence to date justifies.
 

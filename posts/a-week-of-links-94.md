@@ -35,12 +35,12 @@ And no posts this week, although with [Robert Frank joining Twitter](https://tw
 
 
 	
-  1. [The Darwin Economy](/posts/franks-the-darwin-economy.md)
+  1. [The Darwin Economy](franks-the-darwin-economy.md)
 
 	
-  2. [Passions Within Reason](/posts/franks-passions-within-reason.md)
+  2. [Passions Within Reason](franks-passions-within-reason.md)
 
 	
-  3. [Luxury Fever](/posts/franks-luxury-fever.md).
+  3. [Luxury Fever](franks-luxury-fever.md).
 
 

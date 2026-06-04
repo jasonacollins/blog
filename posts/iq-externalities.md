@@ -6,7 +6,7 @@ draft: false
 title: IQ externalities
 ---
 
-Philip Zimbardo's [The Lucifer Effect: Understanding How Good People Turn Evil](/posts/zimbardos-the-lucifer-effect.md) focuses on a message that the situation is more important than the person's disposition. Good people can do evil things if placed in the wrong situation.
+Philip Zimbardo's [The Lucifer Effect: Understanding How Good People Turn Evil](zimbardos-the-lucifer-effect.md) focuses on a message that the situation is more important than the person's disposition. Good people can do evil things if placed in the wrong situation.
 
 One of my main responses to this message was that the disposition of other people forms part of my situation. Disposition and situation cannot be neatly disentangled.
 

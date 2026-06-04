@@ -7,7 +7,7 @@ aliases:
   - /genetic-thresholds
 ---
 
-In yesterday's [post on crime](/posts/crime-and-biology.md), I quoted [David Eagleman's statement](http://www.theatlantic.com/magazine/print/2011/07/the-brain-on-trial/8520/) that "we may someday find that many types of bad behaviour have a basic  biological  explanation—as has happened with schizophrenia, epilepsy,  depression,  and mania." What we now consider culpable behaviour may fall into the class of mental illness, with the criminal justice system adjusting its threshold so.
+In yesterday's [post on crime](crime-and-biology.md), I quoted [David Eagleman's statement](http://www.theatlantic.com/magazine/print/2011/07/the-brain-on-trial/8520/) that "we may someday find that many types of bad behaviour have a basic  biological  explanation—as has happened with schizophrenia, epilepsy,  depression,  and mania." What we now consider culpable behaviour may fall into the class of mental illness, with the criminal justice system adjusting its threshold so.
 
 This threshold issue extends beyond crime. Take IQ, which is highly heritable and correlates with income and most other life outcomes. Where one sits on the IQ bell curve is largely determined by genes. If one's IQ falls below a certain level, they may receive special schooling, social security and other forms of special care. As is the case for criminal culpability, a threshold is set which considers biological factors.
 

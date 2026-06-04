@@ -32,8 +32,8 @@ Rowthorn does not venture far into the implications of his findings beyond the s
 
 Is the growing conservatism among youth, which seems to be a common media topic in recent years, an early reflection this effect?
 
-Rowthorn does not specifically explore the question of overall population size. If the religious allele(s) spread through society, fertility would be expected to be higher and overall population higher. This could have significant implications for the debate on population size I have posted about in the last week (such as [here](/posts/libertarians-and-fertility.md), [here](/posts/caplans-selfish-reasons-to-have-more-kids.md) and [here](/posts/population-and-the-tragedy-of-the-commons.md)).
+Rowthorn does not specifically explore the question of overall population size. If the religious allele(s) spread through society, fertility would be expected to be higher and overall population higher. This could have significant implications for the debate on population size I have posted about in the last week (such as [here](libertarians-and-fertility.md), [here](caplans-selfish-reasons-to-have-more-kids.md) and [here](population-and-the-tragedy-of-the-commons.md)).
 
 Further, Rowthorn's findings show the general result that any genetically based predisposition that increases fertility can be expected to spread through the population. Whether that predisposition is religion, dislike of contraception, urge to have a larger family or some other trait, the effect is the same. The alleles responsible for higher fertility spread and, barring further environmental shocks, population growth increases. The only question is how long this will take.
 
-*As an extension to this idea, [I have a working paper](/posts/fertility-is-going-to-go-up.md) that examines the consequences of heritability of fertility more generally.
+*As an extension to this idea, [I have a working paper](fertility-is-going-to-go-up.md) that examines the consequences of heritability of fertility more generally.

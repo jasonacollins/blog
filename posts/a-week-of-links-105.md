@@ -32,12 +32,12 @@ Links this week:
 
 And if you missed them, my posts from the last week:
 
-  1. [The Evolutionary Foundations of Economics](/posts/the-evolutionary-foundations-of-economics.md).
+  1. [The Evolutionary Foundations of Economics](the-evolutionary-foundations-of-economics.md).
 
 	
-  2. [Please experiment on us](/posts/please-experiment-on-us.md).
+  2. [Please experiment on us](please-experiment-on-us.md).
 
 	
-  3. [The more we can send the message we have no idea, the better](/posts/we-have-no-idea.md).
+  3. [The more we can send the message we have no idea, the better](we-have-no-idea.md).
 
 

@@ -6,7 +6,7 @@ draft: false
 title: Not the jam study again
 ---
 
-Go to any behavioural science conference, event or presentation, and there is a high probability you will hear about "the jam study". Last week's excellent [MSiX](/posts/an-msix-reading-list.md) was no exception, with at least three references I can recall. The story is wonderfully simple and I have, at times, been mildly sympathetic to the idea. However, it is time for this story to be retired or heavily qualified with the research that has occurred in the intervening years.
+Go to any behavioural science conference, event or presentation, and there is a high probability you will hear about "the jam study". Last week's excellent [MSiX](an-msix-reading-list.md) was no exception, with at least three references I can recall. The story is wonderfully simple and I have, at times, been mildly sympathetic to the idea. However, it is time for this story to be retired or heavily qualified with the research that has occurred in the intervening years.
 
 As a start, what is the jam study? In 2000, [Mark Lepper and Sheena Iyengar published their findings](https://doi.org/10.1037/0022-3514.79.6.995) ([ungated pdf](http://www.columbia.edu/~ss957/articles/Choice_is_Demotivating.pdf)) about the response of consumers to displays of jam in an upmarket grocery store. Their paper also contained similar experiments involving choice of chocolate and essay questions, but those experiments have not gained the same reputation.
 

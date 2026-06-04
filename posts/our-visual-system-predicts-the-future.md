@@ -7,7 +7,7 @@ aliases:
   - /our-visual-system-predicts-the-future
 ---
 
-I am reading John Coates’s thus far excellent [The Hour Between Dog and Wolf: How Risk Taking Transforms Us, Body and Mind](/posts/the-biology-of-boom-and-bust.md). There are many highlights and interesting pieces, the below being one of them.
+I am reading John Coates’s thus far excellent [The Hour Between Dog and Wolf: How Risk Taking Transforms Us, Body and Mind](the-biology-of-boom-and-bust.md). There are many highlights and interesting pieces, the below being one of them.
 
 First, we do not see in real-time:
 

@@ -226,7 +226,7 @@ GPT-4 is also coming to other Microsoft tools soon. If I don't have to exit Powe
 
 I'm largely in the Mac ecosystem, but Apple seems absolutely crap in the world of assistants/chat. ("Hey Siri, tell me this most basic fact about the world." "I've sent some irrelevant web results to your iPhone.....") If at some point these tools become tied to Microsoft hardware or Windows, I'm moving.
 
-(I exited the Google ecosystem when I had trouble sharing a file from Google Drive because it breached the terms of service. It was a document that included the words "vaccination" and "scepticism", although if you see the [resulting post](/posts/megastudy-scepticism.qmd), you can see the Google algorithm was pretty crude. At that point I opted for what I hope is a bit more privacy and jettisoned Google...)
+(I exited the Google ecosystem when I had trouble sharing a file from Google Drive because it breached the terms of service. It was a document that included the words "vaccination" and "scepticism", although if you see the [resulting post](megastudy-scepticism.qmd), you can see the Google algorithm was pretty crude. At that point I opted for what I hope is a bit more privacy and jettisoned Google...)
 
 ## Getting going with Github Copilot
 

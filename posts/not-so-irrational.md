@@ -6,7 +6,7 @@ draft: false
 title: Not so irrational
 ---
 
-In Freeman Dyson's [interesting review](http://www.nybooks.com/articles/archives/2011/dec/22/how-dispel-your-illusions/) of Daniel Kahneman's [Thinking, Fast and Slow](/posts/kahnemans-thinking-fast-and-slow.md), Dyson describes a couple of examples of the biases identified by Kahneman. One of them is as follows:
+In Freeman Dyson's [interesting review](http://www.nybooks.com/articles/archives/2011/dec/22/how-dispel-your-illusions/) of Daniel Kahneman's [Thinking, Fast and Slow](kahnemans-thinking-fast-and-slow.md), Dyson describes a couple of examples of the biases identified by Kahneman. One of them is as follows:
 
 
 <blockquote>The endowment effect is our tendency to value an object more highly when we own it than when someone else owns it. ...

@@ -30,4 +30,4 @@ What is the appropriate boundary when discussing genetics and policy? Take this 
 
 >There is at least one major reason to think that natalist tax credits are better than simple estimates suggest. Quebec’s program paid baby bonuses to everyone. My proposal, in contrast, only rewards parents who actually pay taxes. Since income runs in families, the extra children born are especially likely to be net taxpayers.
 
-Similarly, I have [noted the effect of incarcerating violent males](/posts/crime-and-biology.md) in their mating prime. Obviously, the observations of Caplan and myself are at opposite ends of the spectrum to Fisher's interventionist approach. But at what point is it fair to note a eugenic or dysgenic effect? Or use them as a pillar of an argument?
+Similarly, I have [noted the effect of incarcerating violent males](crime-and-biology.md) in their mating prime. Obviously, the observations of Caplan and myself are at opposite ends of the spectrum to Fisher's interventionist approach. But at what point is it fair to note a eugenic or dysgenic effect? Or use them as a pillar of an argument?

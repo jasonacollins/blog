@@ -6,7 +6,7 @@ draft: false
 title: In the company of a stranger
 ---
 
-I have just left the [Social Decision Making: Bridging Economics and Biology](/posts/social-decision-making-bridging-economics-and-biology.md) conference, with one of the last speakers being Paul Seabright, author of [The Company of Strangers](http://press.princeton.edu/titles/9169.html). I will post some thoughts on Seabright’s presentation (and some of the other presentations at the conference) after Easter and once I have read the related papers.
+I have just left the [Social Decision Making: Bridging Economics and Biology](social-decision-making-bridging-economics-and-biology.md) conference, with one of the last speakers being Paul Seabright, author of [The Company of Strangers](http://press.princeton.edu/titles/9169.html). I will post some thoughts on Seabright’s presentation (and some of the other presentations at the conference) after Easter and once I have read the related papers.
 
 In the meantime, the night before Seabright's talk I flipped through the revised edition of his book (it is a few years since I read the first edition). In the introduction is the following:
 

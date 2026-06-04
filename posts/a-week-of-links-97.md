@@ -29,7 +29,7 @@ Links this week:
 And if you missed it, my one post this week:
 
 	
-  1. [Predicting replication](/posts/predicting-replication.md).
+  1. [Predicting replication](predicting-replication.md).
 
 
-And a blast from the past: [Why isn't economics evolutionary?](/posts/why-isnt-economics-evolutionary.md)
+And a blast from the past: [Why isn't economics evolutionary?](why-isnt-economics-evolutionary.md)

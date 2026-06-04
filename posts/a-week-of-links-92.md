@@ -50,9 +50,9 @@ And if you missed them, my posts this week:
 
 
 	
-  1. [Introducing Evonomics](/posts/introducing-evonomics.md).
+  1. [Introducing Evonomics](introducing-evonomics.md).
 
 	
-  2. [Can government policy overcome implicit bias?](/posts/overcoming-implicit-bias.md)
+  2. [Can government policy overcome implicit bias?](overcoming-implicit-bias.md)
 
 
