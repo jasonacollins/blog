@@ -3,8 +3,6 @@ title: 'Michael Mauboussin’s Think Twice: Harnessing the Power of Counterintui
 author: "Jason Collins"
 date: 2018-08-01 09:00:05+00:00
 draft: false
-aliases:
-  - /michael-mauboussins-think-twice-harnessing-the-power-of-counterintuition
 ---
 
 Michael Mauboussin's *Think Twice: Harnessing the Power of Counterintuition* is a multi-disciplinary book on how to improve your decision making. Framed around eight common decision-making mistakes, Mauboussin draws on disciplines including psychology, complexity theory and statistics.

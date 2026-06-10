@@ -3,8 +3,6 @@ title: Zuk's Paleofantasy
 author: "Jason Collins"
 date: 2013-06-03 12:22:44+00:00
 draft: false
-aliases:
-  - /zuks-paleofantasy
 ---
 
 For some time, the "Paleo" lifestyle has been due for a decent critique from the perspective of growing evidence about the rapid rate of human evolution. Humans have evolved markedly since the dawn of agriculture, with adaptations ranging from disease resistance to the improved ability to digest starch. So when I heard of Marlene Zuk's *Paleofantasy: What Evolution Really Tells Us about Sex, Diet, and How We Live*, I was looking forward to that critique being provided.

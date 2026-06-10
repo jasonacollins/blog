@@ -1,11 +1,9 @@
 ---
 title: World economic history in two diagrams
 author: "Jason Collins"
-
 date: 2013-06-12 12:24:34+00:00
 draft: false
-aliases:
-  - /world-economic-history-in-two-diagrams
+
 ---
 
 Gregory Clark opens *A Farewell to Alms* with a strong claim:

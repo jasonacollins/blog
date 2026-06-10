@@ -30,6 +30,7 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 *Fiction*
 
 - Becky Chambers, *The long way to a small, angry planet*
+- Mary Shelley, *Franksenstein; or, The Modern Prometheus*/*
 - Dan Simmons, *Hyperion*
 - Dan Simmons, *Fall of Hyperion*
 - Lemony Snicket, *The Vile Village*
@@ -37,6 +38,7 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 - Lemony Snicket, *The Carnivorous Carnival*
 - Lemony Snicket, *The Slippery Slope*
 - Lemony Snicket, *The Grim Grotto*
+- Lemony Snicket, *The Penultimate Peril*
 - Martha Wells, *Artificial Condition*
 - Martha Wells, *Rogue Protocol*
 - Martha Wells, *Exit Strategy*

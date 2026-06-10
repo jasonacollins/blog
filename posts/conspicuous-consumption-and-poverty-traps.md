@@ -3,8 +3,6 @@ title: Conspicuous consumption and poverty traps
 author: "Jason Collins"
 date: 2012-07-07 02:35:30+00:00
 draft: false
-aliases:
-  - /conspicuous-consumption-and-poverty-traps
 ---
 
 Poverty is no barrier to conspicuous consumption. As Banerjee and Duflo wrote in *Poor Economics*:

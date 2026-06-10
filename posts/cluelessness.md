@@ -3,8 +3,6 @@ title: Cluelessness
 author: "Jason Collins"
 date: 2013-05-08 12:24:05+00:00
 draft: false
-aliases:
-  - /cluelessness
 ---
 
 Some of the reviews of Michael Chwe's *Jane Austen, Game Theorist* suggest that it is worth a read (such as [Diane Coyle](http://www.enlightenmenteconomics.com/blog/index.php/2013/05/a-better-game-theorist/) ). One idea in the book that I like the sound of is "cluelessness".

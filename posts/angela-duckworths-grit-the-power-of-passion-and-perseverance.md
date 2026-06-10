@@ -2,11 +2,7 @@
 title: 'Angela Duckworth’s Grit: The Power of Passion and Perseverance'
 author: "Jason Collins"
 date: 2018-02-14 08:00:43+00:00
-lastmod: 2018-02-14 08:00:43+00:00
 draft: false
-
-aliases:
-  - /angela-duckworths-grit-the-power-of-passion-and-perseverance
 ---
 
 In [Grit: The Power of Passion and Perseverance](https://angeladuckworth.com/grit-book/), Angela Duckworth argues that outstanding achievement comes from a combination of passion - a focused approach to something you deeply care about - and perseverance - a resilience and desire to work hard. Duckworth calls this combination of passion and perseverance "grit".

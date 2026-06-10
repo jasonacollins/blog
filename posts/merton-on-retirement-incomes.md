@@ -3,8 +3,6 @@ title: Merton on retirement incomes
 author: "Jason Collins"
 date: 2015-06-04 09:00:43+00:00
 draft: false
-aliases:
-  - /merton-on-retirement-incomes
 ---
 
 There is a [neat article by Robert Merton](https://hbr.org/2014/07/the-crisis-in-retirement-planning) (from July last year) in the Harvard Business Review on the shift to defined contribution plans when saving for retirement.

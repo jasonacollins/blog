@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2017-11-08 08:00:26+00:00
 draft: false
-aliases:
-  - /courseras-data-science-specialisation-a-review
 title: 'Coursera''s Data Science Specialisation: A Review'
 ---
 

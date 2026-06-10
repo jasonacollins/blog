@@ -3,8 +3,6 @@ title: World population 500BC
 author: "Jason Collins"
 date: 2011-01-01 02:00:42+00:00
 draft: no
-aliases:
-  - /world-population-500bc
 ---
 
 Spurred by [this chart](http://en.wikipedia.org/wiki/File:World_population_growth_%28lin-log_scale%29.png), a number of bloggers (such as [Robin Hanson](http://www.overcomingbias.com/2010/12/romans-foreshadow-industry.html) and [Razib Khan](http://blogs.discovermagazine.com/gnxp/2010/12/the-axial-age-world-population/)) have asked what was happening around 500 BC to cause the jump in population. Was this an almost industrial revolution (with population in the Malthusian state the primary indicator of the level of technology)?

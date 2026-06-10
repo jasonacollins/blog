@@ -1,9 +1,8 @@
 ---
+title: Altruists and the knowledge problem
 author: "Jason Collins"
-
 date: 2013-04-25 12:59:27+00:00
 draft: false
-title: Altruists and the knowledge problem
 ---
 
 I have posted before about [Gary Becker's argument](rotten-kids-and-altruism.md) that the evolution of altruism can be explained by a version of his rotten kid theorem. In short, if an altruist cares about other people's welfare in addition to their own and is willing to transfer their resources to others, an egoist's action to harm the altruist may also harm the egoist as the amount that the altruist would be willing to transfer to the egoist will be reduced. As a result, the egoist will refrain from hurting the altruist, making the altruist better off than if they were an egoist.

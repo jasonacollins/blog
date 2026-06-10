@@ -3,8 +3,7 @@ title: The deep roots of development
 author: "Jason Collins"
 date: 2012-06-25 09:24:50+00:00
 draft: false
-aliases:
-  - /the-deep-roots-of-development
+
 ---
 
 Enrico Spolaore and Romain Wacziarg have put out [a nice review article](http://ideas.repec.org/p/tuf/tuftec/0768.html) on long-term economic growth and the intergenerational transmission of development. Below are some of the more interesting parts.

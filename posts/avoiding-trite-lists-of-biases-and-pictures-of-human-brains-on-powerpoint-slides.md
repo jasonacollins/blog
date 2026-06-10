@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2018-11-01 08:00:38+00:00
 draft: false
-aliases:
-  - /avoiding-trite-lists-of-biases-and-pictures-of-human-brains-on-powerpoint-slides
 title: Avoiding trite lists of biases and pictures of human brains on PowerPoint slides
 ---
 

@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2011-07-04 16:59:44+00:00
 draft: false
-aliases:
-  - /wrong-predictions
 title: Wrong predictions
 ---
 

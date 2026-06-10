@@ -1,9 +1,8 @@
 ---
+title: Modelling populations
 author: "Jason Collins"
-
 date: 2011-06-07 08:06:52+00:00
 draft: false
-title: Modelling populations
 ---
 
 In my previous two posts, I [described the model](natural-selection-and-economic-growth.md) contained in Galor and Moav's paper [Natural Selection and the Origin of Economic Growth](http://qje.oxfordjournals.org/content/117/4/1133.short) and [an extension](natural-selection-and-the-collapse-of-economic-growth.md) in which we introduced genotypes with a low preference for educating their children.

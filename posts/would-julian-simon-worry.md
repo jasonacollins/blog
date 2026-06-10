@@ -3,8 +3,6 @@ title: Would Julian Simon worry?
 author: "Jason Collins"
 date: 2011-05-05 06:14:59+00:00
 draft: false
-aliases:
-  - /would-julian-simon-worry
 ---
 
 This month's [Cato Unbound](http://www.cato-unbound.org/) is on [The Politics of Family Size](http://www.cato-unbound.org/archives/may-2011-the-politics-of-family-size/). The [lead essay](http://www.cato-unbound.org/2011/05/02/bryan-caplan/population-fertility-and-liberty/) is by Bryan Caplan, who is on a mission to get people to [have more kids](http://havemorekidsbook.com/).

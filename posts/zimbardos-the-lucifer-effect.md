@@ -3,8 +3,6 @@ title: Zimbardo's The Lucifer Effect
 author: "Jason Collins"
 date: 2011-12-19 09:40:07+00:00
 draft: false
-aliases:
-  - /zimbardos-the-lucifer-effect
 ---
 
 The situation is more important than a person's disposition. This message permeates through Philip Zimbardo’s *The Lucifer Effect: Understanding How Good People Turn Evil*, and while I disagree with some of the implications that he draws from this message, Zimbardo’s case is compelling.

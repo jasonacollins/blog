@@ -3,8 +3,6 @@ title: Darwin's Conjecture - Generalising Darwinism
 author: "Jason Collins"
 date: 2013-07-18 12:16:00+00:00
 draft: false
-aliases:
-  - /darwins-conjecture-generalising-darwinism
 ---
 
 Over the last couple of months I have been a silent participant in Geoffrey Hodgson and Thorbjørn Knudsen's [reading group](http://darwinsconjecture.wordpress.com/about/) for their book *Darwin's Conjecture: The Search for General Principles of Social and Economic Evolution*. After finishing the book and following the reading group discussions, I'm not sure I am in a position yet to offer a strong review or critique. But in the meantime, here are some notes about the book.

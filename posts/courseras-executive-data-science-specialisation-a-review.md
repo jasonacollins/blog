@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2017-01-23 08:00:53+00:00
 draft: false
-aliases:
-  - /courseras-executive-data-science-specialisation-a-review
 title: 'Coursera''s Executive Data Science Specialisation: A Review'
 ---
 
