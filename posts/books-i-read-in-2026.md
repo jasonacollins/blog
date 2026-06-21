@@ -23,9 +23,11 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 - John C. Lennox, *2084 and the AI revolution: how artificial intelligence informs our future*
 - Brian Merchant, *Blood in the machine: the origins of the rebellion against big tech*
 - Marvin Minsky, *The Society of Mind*
+- Arvind Narayanan and Sayash Kapoor, *AI Snake Oil: What Artificial Intelligence Can Do, What It Can't, and How to Tell the Difference*
 - Andrew Ross Sorkin, *1929: Inside the Greatest Crash in Wall Street History*
 - Gary Rivlin, *AI Valley: Microsoft, Google, and the Trillion-Dollar Race to Cash In on Artificial Intelligence*
 - Eric Topol, *Super Agers: An Evidence-Based Approach to Longevity*
+- Stephen Witt, *The Thinking Machine: Jensen Huang, Nvidia, and the World's Most Coveted Microchip*
 
 *Fiction*
 
