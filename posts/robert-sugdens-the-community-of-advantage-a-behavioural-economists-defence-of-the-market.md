@@ -3,8 +3,6 @@ title: 'Robert Sugden''s The Community of Advantage: A Behavioural Economist''s 
 author: "Jason Collins"
 date: 2018-09-26 09:00:49+00:00
 draft: false
-aliases:
-  - /robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market
 ---
 
 There are few books critiquing behavioural economics that I find compelling. David Levine's [Is Behavioral Economics Doomed?](levines-is-behavioural-economics-doomed.md) attacks too many straw men. Gilles Saint-Paul's [The Tyranny of Utility: Behavioral Science and the Rise of Paternalism](saint-pauls-the-tyranny-of-utility-behavioral-social-science-and-the-rise-of-paternalism.md) is more an attack of the normative foundations of economics than of behavioural science. And in most of Gerd Gigerenzer's books, while making a strong case that many of the so-called "biases" are better described as good decision-making under uncertainty, Gigerenzer often [extends his defence of human decision making too far](nudging-citizens-to-be-risk-savvy.md).
@@ -13,17 +11,13 @@ In *The Community of Advantage: A Behavioural Economist's Defence of the Market*
 
 Sugden's critique has two main thrusts. The first relates to how behavioural economists have interpreted the experimental evidence that our decisions don't conform with rational choice theory. In the preface, Sugden writes:
 
-
-<blockquote>I have to say that I have been surprised by the readiness of behavioural economists to interpret contraventions of rational choice theory as evidence of decision-making error. In the pioneering era of the 1980s and 1990s, this was exactly the interpretation of anomalies that mainstream economists typically favoured, and that we behavioural economists disputed. As some of us used to say, it is as if decision-makers are held to be at fault for failing to behave as the received theory predicts, rather than that theory being faulted for failing to make correct predictions.</blockquote>
-
+>I have to say that I have been surprised by the readiness of behavioural economists to interpret contraventions of rational choice theory as evidence of decision-making error. In the pioneering era of the 1980s and 1990s, this was exactly the interpretation of anomalies that mainstream economists typically favoured, and that we behavioural economists disputed. As some of us used to say, it is as if decision-makers are held to be at fault for failing to behave as the received theory predicts, rather than that theory being faulted for failing to make correct predictions.
 
 In particular, Sugden sees behavioural economists as having adopted an approach whereby they see people as having inner-preferences that conform with the rational choice model ("latent preferences"), contained within a "psychological shell". This shell distorts our decisions through lack of attention, limited cognitive abilities and incomplete self control. As Sugden points out, this approach has almost no relationship with actual psychological processes, and it is questionable whether these latent preferences exist.
 
 The second thrust of Sugden's critique relates to how the behavioural findings have triggered a public policy response that is largely paternalistic. In the preface, he continues:
 
-
-<blockquote>I have been less surprised, but still disappointed, by the willingness of behavioural economists to embrace paternalism. And I have felt increasingly uneasy that, in public discourse, ideas from behavioural welfare economics are appealing to a sensibility that is hostile to principles of economic freedom—principles that, for two and a half centuries, have been central to the liberal tradition of economics.</blockquote>
-
+>I have been less surprised, but still disappointed, by the willingness of behavioural economists to embrace paternalism. And I have felt increasingly uneasy that, in public discourse, ideas from behavioural welfare economics are appealing to a sensibility that is hostile to principles of economic freedom—principles that, for two and a half centuries, have been central to the liberal tradition of economics.
 
 Here Sugden undertakes the rather large task of seeking to displace the dominant normative basis of economics - utilitarianism - with "contractarianism".
 
@@ -61,15 +55,11 @@ As Sugden points out, this is a context dependent preference. People are using t
 
 The issue then becomes which of these are the true preference. I presume Sunstein and Thaler would take the New Year's resolution. Sugden is less sure. As he writes:
 
-
-<blockquote>[J]ust as the restaurant gives cues that point in the direction of drinking, so the traditions of New Year give cues that point in the direction of resolutions for future temperance. If an argument based on akrasia is to work, we need to be shown that in the restaurant, the individual acknowledges that her true preferences are the ones that led to her New Year’s resolution and not the ones she is now acting on. In many cases that fit the story of the resolution and the restaurant, the individual in the restaurant will be thinking that resolutions should not be followed too slavishly, that there is a place in life for spontaneity, and that having an extra glass of wine would be an appropriately spontaneous response to the circumstances. A person who thinks like this as she breaks a previous resolution is not acting contrary to what, at the moment of choice, she acknowledges as her true preferences.</blockquote>
-
+>[J]ust as the restaurant gives cues that point in the direction of drinking, so the traditions of New Year give cues that point in the direction of resolutions for future temperance. If an argument based on akrasia is to work, we need to be shown that in the restaurant, the individual acknowledges that her true preferences are the ones that led to her New Year’s resolution and not the ones she is now acting on. In many cases that fit the story of the resolution and the restaurant, the individual in the restaurant will be thinking that resolutions should not be followed too slavishly, that there is a place in life for spontaneity, and that having an extra glass of wine would be an appropriately spontaneous response to the circumstances. A person who thinks like this as she breaks a previous resolution is not acting contrary to what, at the moment of choice, she acknowledges as her true preferences.
 
 So why do behavioural economists tend to see problems such as this as self-control problems? Sugden suggests this is because of their commitment to the model of the inner-rational agent. Any context dependent choice needs to be seen as an error. Sugden has a different view:
 
-
-<blockquote>If one has no prior commitment to the idea of latent preferences, there is no reason to suppose that Jane has made any mistake at all. The question of how much she should drink may have no uniquely rational answer. Both when she was making New Year’s resolutions and when she was in the restaurant, she had to a strike a balance between considerations that pointed in favour of alcohol and considerations that pointed against it. The simplest explanation of her behaviour is that she struck one balance in the first case and a different balance in the second. This is not a self-control problem; it is a change of mind.</blockquote>
-
+>If one has no prior commitment to the idea of latent preferences, there is no reason to suppose that Jane has made any mistake at all. The question of how much she should drink may have no uniquely rational answer. Both when she was making New Year’s resolutions and when she was in the restaurant, she had to a strike a balance between considerations that pointed in favour of alcohol and considerations that pointed against it. The simplest explanation of her behaviour is that she struck one balance in the first case and a different balance in the second. This is not a self-control problem; it is a change of mind.
 
 **The contractarian perspective**
 
@@ -87,31 +77,25 @@ In this case, Sugden suggests the problem is a collective action problem. What i
 
 I struggled through my first read of the book to understand exactly what a contractarian would think about nudging (I am no philosopher), but there was one passage that I felt gave me the closest glimpse:
 
-
-<blockquote>A typical questioner will describe some case in which (as judged by the questioner) a mild but unchosen nudge would be very beneficial to its nudgees. Perhaps the nudgees are morbidly obese, and the nudge is a government policy that will make unhealthy fast food less readily available. The questioner asks me: What would you do in this case? To which my reply is: What do you mean, what would I do? What is the hypothetical scenario in which I am supposed to be capable of doing something about the diets of my morbidly obese fellow-citizens?
-
-If the scenario is one in which Robert Sugden is in a roadside restaurant and a morbidly obese stranger is sitting at another table ordering a huge all-day breakfast as a mid-afternoon snack, the answer is that I would do nothing. I would think it was not my business as a diner in a restaurant to make gratuitous interventions into other diners’ decisions about what to eat. But of course, this is not the kind of scenario the questioner has in mind. What is really being asked is what I would do, were I a benevolent autocrat. My answer is that I am not a benevolent autocrat, nor the adviser to one. As a contractarian economist, I am not imagining myself in either of those roles. I am advising individuals about how to pursue their common interests, and paternalism has no place in such advice.</blockquote>
-
+>A typical questioner will describe some case in which (as judged by the questioner) a mild but unchosen nudge would be very beneficial to its nudgees. Perhaps the nudgees are morbidly obese, and the nudge is a government policy that will make unhealthy fast food less readily available. The questioner asks me: What would you do in this case? To which my reply is: What do you mean, what would I do? What is the hypothetical scenario in which I am supposed to be capable of doing something about the diets of my morbidly obese fellow-citizens?
+>
+>If the scenario is one in which Robert Sugden is in a roadside restaurant and a morbidly obese stranger is sitting at another table ordering a huge all-day breakfast as a mid-afternoon snack, the answer is that I would do nothing. I would think it was not my business as a diner in a restaurant to make gratuitous interventions into other diners’ decisions about what to eat. But of course, this is not the kind of scenario the questioner has in mind. What is really being asked is what I would do, were I a benevolent autocrat. My answer is that I am not a benevolent autocrat, nor the adviser to one. As a contractarian economist, I am not imagining myself in either of those roles. I am advising individuals about how to pursue their common interests, and paternalism has no place in such advice.
 
 Another section of the mindset of the contractarian was also helpful:
 
-
-<blockquote>Sunstein and Thaler devote a chapter of Nudge to the issue of retirement savings. The content of this chapter is summarized in the final paragraph:
-
+>Sunstein and Thaler devote a chapter of Nudge to the issue of retirement savings. The content of this chapter is summarized in the final paragraph:
 > 
-> Saving for retirement is something that Humans [as contrasted with ideally rational agents] find difficult. They have to solve a complicated mathematical problem to know how much to save, and then they have to exert a lot of willpower for a long time to execute this plan. This is an ideal domain for nudging. In an environment in which people have to make only one decision per lifetime, we should surely try harder to help them get it right. (Thaler and Sunstein, 2008: 117)
+>>Saving for retirement is something that Humans [as contrasted with ideally rational agents] find difficult. They have to solve a complicated mathematical problem to know how much to save, and then they have to exert a lot of willpower for a long time to execute this plan. This is an ideal domain for nudging. In an environment in which people have to make only one decision per lifetime, we should surely try harder to help them get it right. (Thaler and Sunstein, 2008: 117)
 > 
-> 
-Look at the final sentence. Sunstein and Thaler are telling their readers that we should try harder to help them get their decisions right. But who are the ‘we’ and who are the ‘they’ here? What ‘we’ are supposed to be doing is designing and implementing choice architecture that nudges individuals to save more for retirement; so presumably ‘we’ refers to government ministers, legislators, regulators, human resource directors, and their respective assistants and advisers; ‘they’ are the individuals who should be saving. As an expert adviser on the design of occupational pension schemes, Thaler is certainly entitled to categorize himself as one of the ‘we’. But where do his readers belong? Very few of them will be in any position to design savings schemes, but just about all of them will face, or will have faced, the problem of saving for retirement. From a reader’s point of view, Sunstein and Thaler’s conclusion would be much more naturally expressed as: They should try harder to help us get it right.
-
-Sunstein and Thaler are writing from the perspective of insiders to the public decision-making process: they are writing as if they were political or economic decision-makers with discretionary power, or the trusted advisors of such decision-makers. And they are inviting their readers to imagine that they are insiders too—that they are the people in control of the nudging, not the people who are being nudged.
-
-I suggest that the benevolent autocrat model appeals to people who like to imagine themselves as insiders in this sense.
-
-...
-
-In contrast, the contractarian approach appeals to people who take an outsider’s view of politics, thinking of public decision-makers as agents and themselves as principals. The sort of person I have in mind does not think that he has been unjustly excluded from public decision-making or debate; he is more likely to say that he has (what for him are) more important things to do with his time. He does not claim to have special skills in economics or politics, and is willing to leave the day-to-day details of public decision-making to those who do—just as he is willing to leave the day-to-day maintenance of his central heating system to a trained technician. But when public decision-makers are dealing with his affairs, he expects them to act in his interests, as he perceives them. He does not expect them to set themselves up as his guardians.</blockquote>
-
+>Look at the final sentence. Sunstein and Thaler are telling their readers that we should try harder to help them get their decisions right. But who are the ‘we’ and who are the ‘they’ here? What ‘we’ are supposed to be doing is designing and implementing choice architecture that nudges individuals to save more for retirement; so presumably ‘we’ refers to government ministers, legislators, regulators, human resource directors, and their respective assistants and advisers; ‘they’ are the individuals who should be saving. As an expert adviser on the design of occupational pension schemes, Thaler is certainly entitled to categorize himself as one of the ‘we’. But where do his readers belong? Very few of them will be in any position to design savings schemes, but just about all of them will face, or will have faced, the problem of saving for retirement. From a reader’s point of view, Sunstein and Thaler’s conclusion would be much more naturally expressed as: They should try harder to help us get it right.
+>
+>Sunstein and Thaler are writing from the perspective of insiders to the public decision-making process: they are writing as if they were political or economic decision-makers with discretionary power, or the trusted advisors of such decision-makers. And they are inviting their readers to imagine that they are insiders too—that they are the people in control of the nudging, not the people who are being nudged.
+>
+>I suggest that the benevolent autocrat model appeals to people who like to imagine themselves as insiders in this sense.
+>
+>...
+>
+>In contrast, the contractarian approach appeals to people who take an outsider’s view of politics, thinking of public decision-makers as agents and themselves as principals. The sort of person I have in mind does not think that he has been unjustly excluded from public decision-making or debate; he is more likely to say that he has (what for him are) more important things to do with his time. He does not claim to have special skills in economics or politics, and is willing to leave the day-to-day details of public decision-making to those who do—just as he is willing to leave the day-to-day maintenance of his central heating system to a trained technician. But when public decision-makers are dealing with his affairs, he expects them to act in his interests, as he perceives them. He does not expect them to set themselves up as his guardians.
 
 Sugden states - and I agree - that he takes the psychological evidence more seriously than most nudge advocates. But his approach - which doesn't rely on integrated preferences - does on first glance seem to have some weaknesses. How do people identify these mutually beneficial advantages? If we increase opportunity, do we end up with choice overload?
 
