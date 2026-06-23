@@ -2,7 +2,7 @@
 title: "Mark White's The Manipulation of Choice: Ethics and Libertarian Paternalism"
 author: "Jason Collins"
 date: 2026-06-23 10:00:00+10:00
-draft: true
+draft: false
 toc: false
 images: [""]
 bibliography: references.bib
@@ -42,7 +42,7 @@ That's not to say that any of these are bad ideas. It's just that they're not go
 
 White also suggests we should help people overcome their cognitive biases and heuristics. Although not referenced directly, this thread has some similarities to the nudge versus boost debates. How can we improve decision making? Maybe it's through creating more time (e.g. cooling off periods). However, even here the rose-tinted glasses reappear. Perhaps consumer demand will deliver information presentation from merchants and lenders that enables easier comparison? The evidence out there doesn't provide much support.
 
-Putting it together, White builds a solid case. His critique of our ability to know a person's true interests lacks the technical strength of Sugden's [The Community of Advantage](/posts/robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market.md), but the result is a more readable and full-throated critique of nudging.
+Putting it together, White builds an attractive case. His critique of our ability to know a person's true interests lacks the technical strength of Sugden's [The Community of Advantage](/posts/robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market.md), but the result is a more readable and full-throated critique of nudging.
 
 Before closing, I want to come back to White's first couple of chapters — his critique of the economic method itself. It is the weakest part of the book, and it contains three complaints: that preferences are too narrow to capture everything that matters, that economics reduces everything to a number, and that it ignores willpower. I flagged the first earlier. Let me take all three together.
 

@@ -34,7 +34,7 @@ Hugo Mercier, *Not Born Yesterday: The Science of Who We Trust and What We Belie
 
 Robert Sugden, [The Community of Advantage: A Behavioural Economist's Defence of the Market](robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market.md): A well balanced critique from someone who has worked in the field for decades.
 
-Mark D. White, *The Manipulation of Choice: Ethics, Libertarianism and Paternalism*: Some great chapters on what policy makers can know about people's preferences, but for misses the mark is his critique on what behavioural economics can bundle under the "preferences" label.
+Mark D. White, [The Manipulation of Choice: Ethics, Libertarianism and Paternalism](/posts/mark-whites-the-manipulation-of-choice.md): Some great chapters on what policy makers can know about people's preferences, but for misses the mark is his critique on what behavioural economics can bundle under the "preferences" label.
 
 ## 2. General and methodological critiques
 

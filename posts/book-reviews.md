@@ -183,6 +183,8 @@ Below is a collection of book reviews that I have posted - click the links to go
 
 88. Chris Voss’s (with Tahl Raz) [Never Split the Difference: Negotiating as if your life depended on it](chris-vosss-never-split-the-difference-negotiating-as-if-your-life-depended-on-it.md): Interesting ideas on how to approach negotiation, but I don’t know how much weight to give them. How much expertise could be developed in hostage negotiations? Can that expertise be distilled into principles, or is much of it tacit knowledge?
 
-89. E.O. Wilson's [The Social Conquest of Earth](e-o-wilsons-the-social-conquest-of-earth.md): A confusing take on kin and group selection.
+89. Mark White's [The Manipulation of Choice: Ethics and Libertarian Paternalism](/posts/mark-whites-the-manipulation-of-choice.md): An entertaining but not always technically strong critique of nudging.
 
-90. Philip Zimbardo’s [The Lucifer Effect: Understanding How Good People Turn Evil](zimbardos-the-lucifer-effect.md): The situation is more important than a person’s disposition.
+90. E.O. Wilson's [The Social Conquest of Earth](e-o-wilsons-the-social-conquest-of-earth.md): A confusing take on kin and group selection.
+
+91. Philip Zimbardo’s [The Lucifer Effect: Understanding How Good People Turn Evil](zimbardos-the-lucifer-effect.md): The situation is more important than a person’s disposition.
