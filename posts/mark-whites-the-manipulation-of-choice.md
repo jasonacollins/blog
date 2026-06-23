@@ -1,7 +1,7 @@
 ---
 title: "Mark White's The Manipulation of Choice: Ethics and Libertarian Paternalism"
 author: "Jason Collins"
-date: 2026-06-23 10:00:00+10:00
+date: 2026-06-23 09:00:00+10:00
 draft: false
 toc: false
 images: [""]
