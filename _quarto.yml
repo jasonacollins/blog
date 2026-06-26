@@ -27,7 +27,7 @@ website:
   twitter-card: true
   search:
     limit: 50
-  google-analytics: "G-C50MEPDMZ9"
+  google-analytics: "G-TFSWXN4E2R"
   favicon: logo.png
 
 lightbox: true
