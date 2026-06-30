@@ -3,8 +3,6 @@ title: 'My latest article at Behavioral Scientist: Principles for the Applicatio
 author: "Jason Collins"
 date: 2019-10-09 09:05:02+00:00
 draft: false
-aliases:
-  - /my-latest-article-at-behavioral-scientist-principles-for-the-application-of-human-intelligence
 ---
 
 I am somewhat slow in posting this - the article has been up more than a week - but my [latest article is up at Behavioral Scientist](https://behavioralscientist.org/principles-for-the-application-of-human-intelligence/).

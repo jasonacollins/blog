@@ -5,8 +5,6 @@ date: 2022-08-19 06:30:00+10:00
 draft: false
 toc: true
 images: ["/img/hall-and-madsen-2022-research-summary.png"]
-aliases:
-  - /why-i-dont-believe-that-signs-with-fatality-numbers-cause-more-crashes
 ---
 In [a paper in Science](https://doi.org/10.1126/science.abm3427), Jonathan Hall and Joshua Madsen proposed that dynamic signs that reported Texas road fatalities - "1669 deaths this year on Texas roads" - caused more accidents and fatalities.
 

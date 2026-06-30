@@ -3,8 +3,6 @@ title: 'Another #MSiX reading list'
 author: "Jason Collins"
 date: 2015-07-31 06:00:37+00:00
 draft: false
-aliases:
-  - /another-msix-reading-list
 ---
 
 Yesterday was the second edition of the [Marketing Science Ideas Xchange (MSiX)](http://www.msix.com.au/). It was a more eclectic set of speakers than last year, extending from the first year's behavioural economics focus to include neuroscience and "big data". In my mind, the increased variety worked well.

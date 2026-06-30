@@ -3,8 +3,6 @@ title: Wilson and Pinker on evolutionary psychology
 author: "Jason Collins"
 date: 2011-06-27 06:07:12+00:00
 draft: false
-aliases:
-  - /wilson-and-pinker-on-evolutionary-psychology
 ---
 
 David Sloan Wilson has just posted a five-part series on the importance of the evolutionary toolkit in the social sciences. I've found the series hard work, but in [the fifth post](http://scienceblogs.com/evolution/2011/06/19/whats-evolution-got-to-do-with-4/) Wilson has pointed to an interesting [exchange in Edge](http://edge.org/conversation/social_psychological_narrative) between his cousin Timothy Wilson and Steven Pinker. Timothy Wilson starts with an examination of the state of social psychology, and then turns to the role that evolutionary psychology can play:

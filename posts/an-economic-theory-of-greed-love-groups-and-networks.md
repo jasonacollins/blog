@@ -3,8 +3,6 @@ title: An Economic Theory of Greed, Love, Groups, and Networks
 author: "Jason Collins"
 date: 2013-08-05 12:23:11+00:00
 draft: false
-aliases:
-  - /an-economic-theory-of-greed-love-groups-and-networks
 ---
 
 My assessment of *An Economic Theory of Greed, Love, Groups, and Networks* by Paul Frijters with Gigi Foster varies with the objective I assess it against. On the one hand, Frijters and Foster seek to supplement what they call the "mainstream economic" view to give an enhanced perspective of how society works. Although they sometimes talk this objective down, it is inherently ambitious and encompasses a significant expansion of core economic theory. Against this benchmark, I am not convinced they have succeeded.

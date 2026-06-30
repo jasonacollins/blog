@@ -3,8 +3,7 @@ title: Ariely's Predictably Irrational
 author: "Jason Collins"
 date: 2013-09-02 12:49:18+00:00
 draft: false
-aliases:
-  - /arielys-predictably-irrational
+
 ---
 
 After sitting in my reading pile for the best part of three years, I have finally read (or more accurately, listened to) Dan Ariely's *Predictably Irrational*. One of the most commonly referenced popular books on behavioural science, it describes Ariely's experiments in the areas of cheating, procrastination, social norms, hot decision-making and so on.

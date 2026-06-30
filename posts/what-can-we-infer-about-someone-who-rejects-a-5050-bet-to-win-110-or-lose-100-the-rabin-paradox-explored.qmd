@@ -3,8 +3,6 @@ title: 'What can we infer about someone who rejects a 50:50 bet to win $110 or l
 author: "Jason Collins"
 date: 2019-11-06 09:00:00+00:00
 draft: false
-aliases:
-  - /what-can-we-infer-about-someone-who-rejects-a-5050-bet-to-win-110-or-lose-100-the-rabin-paradox-explored
 bibliography: references.bib
 ---
 

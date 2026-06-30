@@ -3,8 +3,6 @@ title: An MSiX reading list
 author: "Jason Collins"
 date: 2014-07-31 03:28:06+00:00
 draft: false
-aliases:
-  - /an-msix-reading-list
 ---
 
 Yesterday was day one of the [Marketing Science Ideas Xchange](http://msix.com.au/) (MSiX). As I mentioned in [a previous post](msix-marketing-science-ideas-xchange.md), it has been an interesting opportunity to see behavioural science outside of the academic and economics environments I am used to. There were a lot of interesting presentations, and a lot of good books were mentioned along the way.

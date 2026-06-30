@@ -3,8 +3,6 @@ title: An evolutionary explanation of consumption
 author: "Jason Collins"
 date: 2013-11-22 12:52:50+00:00
 draft: false
-aliases:
-  - /an-evolutionary-explanation-of-consumption
 ---
 
 Since Thorstein Veblen's 1899 book [Theory of the Leisure Class](thorstein-veblens-the-theory-of-the-leisure-class.md), the economics profession has taken a somewhat mixed approach to consumption. In areas such signalling theory, Veblen's argument that conspicuous consumption must be wasteful and expensive to be a reliable signal of wealth is well recognised. Conspicuous consumption has a purpose as a signal. However, the typical economic model is built on the simple concept that more consumption brings more utility. There is no benefit beyond consumption itself.

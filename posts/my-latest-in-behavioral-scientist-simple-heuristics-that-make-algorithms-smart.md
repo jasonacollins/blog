@@ -3,8 +3,6 @@ title: 'My latest in Behavioral Scientist: Simple heuristics that make algorithm
 author: "Jason Collins"
 date: 2018-12-14 08:00:03+00:00
 draft: false
-aliases:
-  - /my-latest-in-behavioral-scientist-simple-heuristics-that-make-algorithms-smart
 ---
 
 My [latest contribution](http://behavioralscientist.org/simple-heuristics-that-make-algorithms-smart/) at Behavioral Scientist is up. Here's an excerpt:

@@ -1,10 +1,8 @@
 ---
+title: My blogroll
 author: "Jason Collins"
 date: 2018-04-26 21:00:55+00:00
 draft: false
-aliases:
-  - /my-blogroll
-title: My blogroll
 ---
 
 After my recent [post on how I focus](how-i-focus-and-live.qmd), I received a couple of requests for the blogs I follow. Here are my current subscriptions in Feedly, with occasional comments.

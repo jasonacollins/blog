@@ -1,11 +1,8 @@
 ---
 title: Natural selection and economic growth
 author: "Jason Collins"
-
 date: 2011-06-02 19:02:10+00:00
 draft: false
-aliases:
-  - /natural-selection-and-economic-growth
 ---
 
 [_Natural Selection and the Origin of Economic Growth_](http://qje.oxfordjournals.org/content/117/4/1133.short) by Oded Galor and Omer Moav is somewhat of an outlier. I'm not aware of any other paper that models the Industrial Revolution as a result of natural selection, apart from a similar paper [by Galor and Michalopoulos](http://www.sciencedirect.com/science/article/pii/S0022053111000573). [Zak and Park wrote a paper](population-genetics-and-economic-growth.md) that examines population genetics and economic growth but they do not directly tackle the Industrial Revolution. In [A Farewell to Alms](http://www.econ.ucdavis.edu/faculty/gclark/a_farewell_to_alms.html), Greg Clark notes that Galor and Moav's paper reignited his interest in this topic, but Clark does not model his hypothesis.

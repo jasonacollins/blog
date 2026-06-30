@@ -4,8 +4,6 @@ author: "Jason Collins"
 date: 2020-06-12 09:00:08+00:00
 lastmod: 2020-06-17 09:00:08+00:00
 draft: false
-aliases:
-  - /arent-we-smart-fellow-behavioural-scientists
 ---
 
 Below is the text of my presentation at [Nudgsestock on 12 June 2020](https://www.nudgestock.co.uk/).

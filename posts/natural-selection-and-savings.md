@@ -1,9 +1,8 @@
 ---
+title: Natural selection and saving
 author: "Jason Collins"
-
 date: 2013-11-29 13:56:59+00:00
 draft: false
-title: Natural selection and saving
 ---
 
 In the academic literature at the intersection of economics and evolutionary biology, evolution of time preference (patience) is one area that has received much attention. This makes some sense, as most economic models that consider decisions over time include time preference. Time preference is normally included in the model through a discount rate of a fixed value, so an evolutionary analysis might help in determining what that value is.

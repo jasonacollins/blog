@@ -3,8 +3,6 @@ title: 'A default of disbelief'
 author: "Jason Collins"
 date: 2022-01-13 09:00:00+00:00
 draft: false
-aliases:
-  - /a-default-of-disbelief
 ---
 It was easy to see why many behavioural practitioners loved the idea that you could induce honesty by getting someone to sign a form at the top, not the bottom. It was practical. It was cheap to implement. It involved more than the common "send them a reminder" or "chuck a social norm on it" that comprises much of the applied behavioural science canon. (That said, don't underestimate reminders.) It provided an unintuitive proposal to improve business outcomes that wasn't likely to come from any other source.
 

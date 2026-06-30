@@ -1,18 +1,15 @@
 ---
+title: 'Newport''s So Good They Can''t Ignore You: Why Skills Trump Passion in the Quest for Work You Love'
 author: "Jason Collins"
 date: 2016-11-30 08:00:05+00:00
 draft: false
-aliases:
-  - /newports-so-good-they-cant-ignore-you-why-skills-trump-passion-in-the-quest-for-work-you-love
-title: 'Newport''s So Good They Can''t Ignore You: Why Skills Trump Passion in the
-  Quest for Work You Love'
 ---
 
 I suspect I would have enjoyed Cal Newport's *So Good They Can't Ignore You* more if it had been written by a grumpy armchair economist. Newport's advice is just what you would expect that economist to give:
 
-* Get good at what you do (build human capital), then someone might be willing to pay you for it. If you simply follow your passion but you don't offer anything of value, you likely won't succeed.
+- Get good at what you do (build human capital), then someone might be willing to pay you for it. If you simply follow your passion but you don't offer anything of value, you likely won't succeed.
 
-* If you become valuable, you might be able to leverage that value into control of your career and a mission. Control without value is dangerous - ask anyone who tries to set up their own business or passive income website without having something that people are willing to pay for.
+- If you become valuable, you might be able to leverage that value into control of your career and a mission. Control without value is dangerous - ask anyone who tries to set up their own business or passive income website without having something that people are willing to pay for.
 
 Since we have Newport's version and not the grumpy economist's, the advice is framed somewhat less bluntly and Newport tells us a series of stories about people who became good (through deliberate practice) and leveraged that skill into a great career. It's not easy to connect with many of the examples - TV hosts, script writers, organic farmers, a programmer working at the boundary of programming and music - but I suppose they are more interesting than stories of those in dreary jobs who simply bite the bullet, skill up and get promoted.
 

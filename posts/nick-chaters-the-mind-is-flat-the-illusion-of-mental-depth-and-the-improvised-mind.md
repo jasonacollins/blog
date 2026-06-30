@@ -3,8 +3,6 @@ title: 'Nick Chater''s The Mind is Flat: The Illusion of Mental Depth and the Im
 author: "Jason Collins"
 date: 2019-05-13 09:00:38+00:00
 draft: false
-aliases:
-  - /nick-chaters-the-mind-is-flat-the-illusion-of-mental-depth-and-the-improvised-mind
 ---
 
 Nick Chater's *The Mind is Flat: The Illusion of Mental Depth and the Improvised Mind* is a great book.

@@ -3,8 +3,6 @@ title: 'Michael Lewis’s The Undoing Project: A Friendship That Changed The Wor
 author: "Jason Collins"
 date: 2018-02-21 08:00:39+00:00
 draft: false
-aliases:
-  - /michael-lewiss-the-undoing-project-a-friendship-that-changed-the-world
 ---
 
 My journey into understanding human decision making started when I read Michael Lewis's [Moneyball](https://en.wikipedia.org/wiki/Moneyball) in 2005. The punchline - which, as it turns out, has been known across numerous domains since at least the 1950s - is that "expert" judgement is often outperformed by simple statistical analysis.

@@ -3,8 +3,6 @@ title: Noise
 author: "Jason Collins"
 date: 2018-05-09 09:00:07+00:00
 draft: false
-aliases:
-  - /noise
 ---
 
 Daniel Kahneman has a [new book in the pipeline](https://www.thebookseller.com/news/william-collins-scoops-kahnemans-book-7-figure-pre-empt-752276) called Noise. It is to be co-authored with Cass Sunstein and Olivier Sibony, and will focus on the "chance variability in human judgment", the "noise" of the book's title.

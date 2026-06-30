@@ -3,8 +3,6 @@ title: Bad nudges - organ donation edition
 author: "Jason Collins"
 date: 2015-04-27 09:00:22+00:00
 draft: false
-aliases:
-  - /bad-nudges-organ-donation-edition
 ---
 
 It's a favourite behavioural science story. Countries that have opt-in organ donation have lower rates of organ donation than countries where you have to opt out of being an organ donor. If we change the way the choice is framed from opt in to opt out, we can dramatically increase the rate of organ donation.

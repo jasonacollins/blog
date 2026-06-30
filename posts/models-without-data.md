@@ -1,9 +1,8 @@
 ---
+title: Models without data
 author: "Jason Collins"
-
 date: 2012-08-16 10:21:17+00:00
 draft: false
-title: Models without data
 ---
 
 A [new paper in PNAS](http://www.pnas.org/content/early/2012/08/14/1200567109.abstract) suggests that the similarity between European and Neanderthal genomes is due to population structure in Africa (500,000 odd years ago), not recent interbreeding (50,000 odd years ago). It has been [getting a decent bashing](http://blogs.nature.com/news/2012/08/neanderthal-sex-debate-highlights-benefits-of-pre-publication.html), much of it [before it was even released](http://blogs.discovermagazine.com/gnxp/2012/08/why-you-shouldnt-publish-in-pnas/). The problem is that the model underlying the theory does not match recent data, which has overtaken the model since the idea behind it was first conceived.

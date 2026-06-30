@@ -3,8 +3,6 @@ title: What is the objective?
 author: "Jason Collins"
 date: 2011-01-29 03:16:48+00:00
 draft: false
-aliases:
-  - /what-is-the-objective
 ---
 
 An economist typically bases their economic models on an assumption that the economy is composed of agents who gain utility from consumption. From the beginning of the model, they take consumption to be the objective and all decisions by the agents aim to maximise their level of consumption within the budget constraint that they face.

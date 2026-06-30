@@ -1,11 +1,8 @@
 ---
 title: "More people, more ideas - in the long run"
 author: "Jason Collins"
-
 date: 2011-08-15 12:14:04+00:00
 draft: false
-aliases:
-  - /more-people-more-ideas-in-the-long-run
 ---
 
 More people means more ideas. This concept underlies arguments ranging from [Julian Simon’s belief](would-julian-simon-worry.md) that human living conditions will continue to improve through to Bryan Caplan’s argument that [we should have more kids](caplans-selfish-reasons-to-have-more-kids.md). While I don't always take this concept to the extent of Simon or Caplan (as I have [posted on before](libertarians-and-fertility.md)), the concept must be right at some level. One person will have more ideas than zero people. One hundred people will have more than one person. You can argue about diminishing returns and so on, but the basic concept must hold.

@@ -3,8 +3,6 @@ title: A unified behavioural theory of economic activity
 author: "Jason Collins"
 date: 2013-04-15 12:28:59+00:00
 draft: false
-aliases:
-  - /a-unified-behavioural-theory-of-economic-activity
 ---
 
 John Brockman has wheeled out another good bunch of experts for the newest [Edge](http://www.edge.org/) question "[What's the question about your field that you dread being asked?](http://www.edge.org/conversation/whats-the-question-about-your-field-that-you-dread-being-asked)"

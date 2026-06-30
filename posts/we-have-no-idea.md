@@ -4,8 +4,6 @@ author: "Jason Collins"
 
 date: 2015-06-24 09:00:29+00:00
 draft: false
-aliases:
-  - /we-have-no-idea
 ---
 
 I have been listening to [a podcast of an excellent talk by David Spiegelhalter](http://www.lse.ac.uk/publicEvents/events/2013/10/20131024t1830vSZT.aspx) on "Thinking and Feeling About Risk". The video of the lecture is below.

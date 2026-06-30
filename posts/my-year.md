@@ -1,11 +1,8 @@
 ---
 title: My year
 author: "Jason Collins"
-
 date: 2014-12-11 08:00:59+00:00
 draft: false
-aliases:
-  - /my-year
 ---
 
 In the day job, for most of this year I was seconded onto the Australian Government's Financial System Inquiry. The Inquiry was established to provide a broad review of the Australian financial system, looking at system stability, competition, consumer protection, technological change and whether the system was serving the needs of users.

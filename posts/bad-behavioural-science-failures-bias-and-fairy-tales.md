@@ -3,8 +3,6 @@ title: 'Bad Behavioural Science: Failures, bias and fairy tales'
 author: "Jason Collins"
 date: 2016-05-11 09:00:08+00:00
 draft: false
-aliases:
-  - /bad-behavioural-science-failures-bias-and-fairy-tales
 ---
 
 Below is the text of my presentation to the [Sydney Behavioural Economics and Behavioural Science Meetup on 11 May 2016](http://www.meetup.com/Sydney-Behavioural-Economics-Science-Meetup/events/230534530/). The talk is aimed at an intelligent non-specialist audience. I expect the behavioural science knowledge of most attendees is drawn from popular behavioural science books and meetups such as this.

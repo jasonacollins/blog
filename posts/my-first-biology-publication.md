@@ -3,8 +3,6 @@ title: My first biology publication
 author: "Jason Collins"
 date: 2016-03-31 09:24:53+00:00
 draft: false
-aliases:
-  - /my-first-biology-publication
 ---
 
 For pitching in to help my PhD supervisor on a paper, I've scored [my first biology publication](http://onlinelibrary.wiley.com/doi/10.1002/ece3.2075/full):

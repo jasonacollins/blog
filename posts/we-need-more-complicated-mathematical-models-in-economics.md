@@ -3,8 +3,6 @@ title: We need more complicated mathematical models in economics
 author: "Jason Collins"
 date: 2014-12-08 08:00:51+00:00
 draft: false
-aliases:
-  - /we-need-more-complicated-mathematical-models-in-economics
 ---
 
 I am half way through David Colander and Roland Kupers's book [Complexity and the Art of Public Policy: Solving Society's Problems from the Bottom Up](complexity-and-the-art-of-public-policy.md). Overall, it's a good book, although the authors are somewhat slow to get to the point and there are plenty of lines that perplex or annoy ([Arnold Kling seemed to have a similar reaction](http://www.arnoldkling.com/blog/the-year-of-flawed-books/)).

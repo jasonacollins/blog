@@ -1,10 +1,8 @@
 ---
+title: Micromotives and macrobehavior
 author: "Jason Collins"
 date: 2011-03-30 10:46:08+00:00
 draft: false
-aliases:
-  - /micromotives-and-macrobehavior
-title: Micromotives and macrobehavior
 ---
 
 In a post a couple of months or ago as part of [a debate on complexity in aid](is-aid-really-so-complex.md), I recommended Thomas Schelling’s *Micromotives and Macrobehavior* as a good starting point for understanding complexity science. The book predates a lot of the language associated with complexity science (in fact, I don't think it uses the word complexity at all), but it provides an excellent illustration of some of the basic tenets of complexity science. These include that complex behaviour can emerge from simple mathematical models and that individual actions can result in aggregate outcomes that do not reflect the individual intentions.

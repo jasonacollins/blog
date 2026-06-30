@@ -3,8 +3,6 @@ title: Measurement nihilism
 author: "Jason Collins"
 date: 2011-04-04 09:53:22+00:00
 draft: false
-aliases:
-  - /measurement-nihilism
 ---
 
 Following from my recent post on Scott Barry Kaufman's [heritability measurement nihilism](the-heritability-debate-again.md), Jonah Lehrer has gone a step further and [taken a swipe at measurement](http://online.wsj.com/article/SB10001424052748704471904576230931647955902.html) in general, and in particular, at short-term tests. Lehrer argues that:

@@ -3,8 +3,6 @@ title: 'An evolutionary projection of global fertility and population: My new pa
 author: "Jason Collins"
 date: 2018-10-11 08:00:36+00:00
 draft: false
-aliases:
-  - /an-evolutionary-projection-of-global-fertility-and-population-my-new-paper-with-lionel-page-in-evolution-human-behavior
 ---
 
 Forecasting fertility is a mug's game. Here is a picture of fertility forecasts by the US Census Bureau through the baby boom and subsequent fertility drop (from Lee and Tuljapurkar's _[Population Forecasting for Fiscal Planning: Issues and Innovations](http://www.demog.berkeley.edu/~rlee/papers/leetulja2b.pdf)_). The dark line is actual, the dotted line the various forecasts.

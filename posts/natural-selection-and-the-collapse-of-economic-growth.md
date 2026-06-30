@@ -1,11 +1,8 @@
 ---
 title: Natural selection and the collapse of economic growth
 author: "Jason Collins"
-
 date: 2011-06-06 09:33:26+00:00
 draft: false
-aliases:
-  - /natural-selection-and-the-collapse-of-economic-growth
 ---
 
 In [my last post](natural-selection-and-economic-growth.md), I discussed Oded Galor and Omer Moav's paper [Natural Selection and the Origin of Economic Growth](http://qje.oxfordjournals.org/content/117/4/1133.short). As I noted then, my PhD supervisors, Juerg Weber and Boris Baer, and I have written [a discussion paper](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1851251) that describes a simulation of the model.

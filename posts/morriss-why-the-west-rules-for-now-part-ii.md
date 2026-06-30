@@ -1,10 +1,8 @@
 ---
+title: Morris's Why the West Rules For Now - Part II
 author: "Jason Collins"
 date: 2011-04-28 10:26:27+00:00
 draft: false
-aliases:
-  - /morriss-why-the-west-rules-for-now-part-ii
-title: Morris's Why the West Rules For Now - Part II
 ---
 
 Following [yesterday's post](morriss-why-the-west-rules-for-now.md) on Ian Morris's approach to biology in *Why the West Rules - for Now*, below are my thoughts on the some other elements of the book.

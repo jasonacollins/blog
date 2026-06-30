@@ -3,8 +3,6 @@ title: Dan Ariely's The Upside of Irrationality
 author: "Jason Collins"
 date: 2013-09-23 12:33:28+00:00
 draft: false
-aliases:
-  - /arielys-upside-irrationality
 ---
 
 I rate Dan Ariely's *The Upside of Irrationality: The Unexpected Benefits of Defying Logic* lower than [Predictably Irrational](arielys-predictably-irrational.md). Like Predictably Irrational, The Upside of Irrationality is based largely on Ariely's own work (a good thing). But where Ariely had 15 years of experiments to call on for his first book, for this one he seems limited to a couple of years of newer experiments and the experiments in the reject pile from the first. We then get a lot of filler where Ariely riffs on the theme of the experiment rather than reporting experimental results. It causes this book to feel lightweight in comparison to the first.

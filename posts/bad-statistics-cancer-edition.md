@@ -1,9 +1,8 @@
 ---
+title: Bad statistics - cancer edition
 author: "Jason Collins"
-
 date: 2015-01-12 08:00:07+00:00
 draft: false
-title: Bad statistics - cancer edition
 ---
 
 Are two-thirds of cancer due to bad luck as [many](http://www.theguardian.com/society/2015/jan/02/two-thirds-adult-cancers-bad-luck) [recent](http://www.bbc.com/news/health-30641833) [headlines](http://news.yahoo.com/biological-bad-luck-blamed-two-thirds-cancer-cases-190103087.html) have stated? Well, we don't really know.

@@ -1,10 +1,8 @@
 ---
+title: New books on the evolution of cooperation
 author: "Jason Collins"
 date: 2012-03-12 09:25:22+00:00
 draft: false
-aliases:
-  - /new-books-on-the-evolution-of-cooperation
-title: New books on the evolution of cooperation
 ---
 
 [Diane Coyle](http://www.enlightenmenteconomics.com/blog/?p=1588) has noted the release of three new books on the evolution of cooperation: *Wired for Culture* by Mark Pagel, *Beyond Human Nature* by Jesse Prinz and *Together* by Richard Sennett. Each was reviewed by Robin McKie [in the Guardian](http://www.guardian.co.uk/books/2012/mar/11/wired-culture-pagel-prinz-sennett-review)

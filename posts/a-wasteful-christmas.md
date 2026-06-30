@@ -3,8 +3,6 @@ title: A wasteful Christmas
 author: "Jason Collins"
 date: 2010-12-23 07:00:24+00:00
 draft: false
-aliases:
-  - /a-wasteful-christmas
 ---
 
 As noted by [Chris Berg](http://www.ipa.org.au/news/2261/-give-unto-others-as-you-would-have-them-give-unto-you), the Australia Institute has rolled out its [annual reminder](https://www.tai.org.au/index.php?q=node%2F19&pubid=813&act=display) of [Joel Waldfogel's almost 20-year old observation](http://www.jstor.org/stable/2117564) about the wastefulness of Christmas giving. As the gift giver has less than complete knowledge of the preferences of the recipient, the recipient tends to value the gift at less than the amount that the giver paid. The disparity in value represents a deadweight loss.

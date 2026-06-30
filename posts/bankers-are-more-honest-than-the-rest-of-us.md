@@ -4,10 +4,7 @@ author: "Jason Collins"
 date: 2022-03-10 09:00:00+00:00
 lastmod: 2022-03-10 09:00:00+00:00
 draft: false
-
 images: ["img/2022-03-10-bankers-are-more-honest-than-the-rest-of-us/Cohn_et_al_2014_Figure_3a.png"]
-aliases:
-  - /bankers-are-more-honest-than-the-rest-of-us
 ---
 
 In an oft-quoted and cited Nature paper, [*Business culture and dishonesty in the banking industry*](https://doi.org/10.1038/nature13977), Cohn and colleagues argue that the culture in banking weakens and undermines the honesty norm. In the abstract they state:

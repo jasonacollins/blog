@@ -3,8 +3,6 @@ title: Why do we work less?
 author: "Jason Collins"
 date: 2012-04-20 12:32:20+00:00
 draft: false
-aliases:
-  - /why-do-we-work-less
 ---
 
 I am sympathetic to the argument by [Robert Frank](franks-the-darwin-economy.md) and others that competition for positional goods is a major factor driving our behaviour. The natural outcome of this is that we should want to work more, or at least more than anyone else. However, recent trends in working hours do not neatly fit with this story.

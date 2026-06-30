@@ -3,8 +3,6 @@ title: More people means more ideas AND mutations
 author: "Jason Collins"
 date: 2013-06-24 12:17:20+00:00
 draft: false
-aliases:
-  - /more-people-means-more-ideas-and-mutations
 ---
 
 A core ideas in economics is that more people means more ideas. To take an extreme case, you would expect a population of one person to generate fewer ideas that a population of one million people. The precise relationship between population and ideas depends on factors such as the fishing-out of ideas, network effects, the composition of the population and the like, but it would seem to be strongly positive.

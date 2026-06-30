@@ -3,8 +3,6 @@ title: Morris's Why the West Rules For Now
 author: "Jason Collins"
 date: 2011-04-27 10:57:48+00:00
 draft: false
-aliases:
-  - /morriss-why-the-west-rules-for-now
 ---
 
 Over the Easter break, I read Ian Morris's *Why the West Rules- for Now*. Morris seeks to develop what might be called a "unified theory of history" that can shed light on why the West rules the world and not the East. He covers from the emergence of the first members of the genus _homo_ in Africa, through the development of agriculture and the Industrial Revolution to modern times.

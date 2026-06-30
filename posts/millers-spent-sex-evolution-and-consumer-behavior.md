@@ -3,8 +3,6 @@ title: 'Miller''s Spent: Sex, Evolution, and Consumer Behavior'
 author: "Jason Collins"
 date: 2011-06-15 07:58:28+00:00
 draft: false
-aliases:
-  - /millers-spent-sex-evolution-and-consumer-behavior
 ---
 
 Geoffrey Miller's main thesis in *Spent: Sex, Evolution and Consumer Behavior* is that the conspicuous consumption we use to signal traits such as intelligence, agreeableness or conscientiousness is unnecessarily indirect. Instead, we should use our evolved abilities to show these characteristics through humour, communication and interaction with others. Miller summarises his position as follows:

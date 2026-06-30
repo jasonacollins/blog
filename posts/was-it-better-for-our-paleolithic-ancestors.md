@@ -3,8 +3,6 @@ title: Was it better for our paleolithic ancestors?
 author: "Jason Collins"
 date: 2011-05-31 07:32:57+00:00
 draft: false
-aliases:
-  - /was-it-better-for-our-paleolithic-ancestors
 ---
 
 I have just started reading Geoffrey Miller's [Spent](millers-spent-sex-evolution-and-consumer-behavior.md). It opens with a mildly amusing faux discussion in which a modern person seeks to convince some Cro-Magnons of the benefits of the modern way of life. The modern person is unable to do so as the discussion focuses on how the modern way of life does not increase the ability to attract and hold a mate (as opposed to, say, the rate of child mortality). In the conversation, it is noted that modern people work more, live marginally longer (compared to a Cro-Magnon that survives infancy) and have less connection to their community. Miller states:

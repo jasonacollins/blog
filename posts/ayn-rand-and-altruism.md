@@ -1,6 +1,5 @@
 ---
 author: "Jason Collins"
-
 date: 2012-10-04 13:17:33+00:00
 draft: false
 title: Ayn Rand and altruism

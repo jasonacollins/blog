@@ -3,8 +3,6 @@ title: "Ariely's The Honest Truth About Dishonesty"
 author: "Jason Collins"
 date: 2016-04-22 09:00:51+00:00
 draft: false
-aliases:
-  - /arielys-the-honest-truth-about-dishonesty
 ---
 
 I rate the third of Dan Ariely's books, *The Honest Truth About Dishonesty: How We Lie to Everyone - Especially Ourselves*, somewhere between his first two books.

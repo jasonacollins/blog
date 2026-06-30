@@ -1,10 +1,8 @@
 ---
+title: Nelson and Winter's An Evolutionary Theory of Economic Change
 author: "Jason Collins"
 date: 2013-11-11 13:24:45+00:00
 draft: false
-aliases:
-  - /nelson-and-winters-an-evolutionary-theory-of-economic-change
-title: Nelson and Winter's An Evolutionary Theory of Economic Change
 ---
 
 Richard Nelson and Sidney Winter's *An Evolutionary Theory of Economic Change* is the book on which modern "[evolutionary economics](evolutionary-economics.md)" is built. Published in 1982, Nelson and Winter took the ideas expressed by Armen Alchian and Joseph Schumpeter decades earlier and presented a direct evolutionary challenge to mainstream approaches to economic growth, technological progress and competition between firms.

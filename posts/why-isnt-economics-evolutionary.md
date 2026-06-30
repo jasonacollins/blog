@@ -3,8 +3,6 @@ title: "Why isn't economics evolutionary?"
 author: Jason Collins"
 date: 2013-11-13 13:48:03+00:00
 draft: false
-aliases:
-  - /why-isnt-economics-evolutionary
 ---
 
 Despite the massive influence of Richard Nelson and Sidney Winter's [An Evolutionary Theory of Economic Change](nelson-and-winters-an-evolutionary-theory-of-economic-change.md) within evolutionary economic circles, the book and the body of work it inspired has had a limited effect through mainstream economics. I believe there are a few reasons for this, but I've always thought that this 1996 [speech by Paul Krugman](http://www.mit.edu/~krugman/evolute.html) to a bunch of evolutionary economists captures one of them:

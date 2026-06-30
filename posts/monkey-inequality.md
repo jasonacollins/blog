@@ -1,9 +1,8 @@
 ---
+title: Monkey inequality
 author: "Jason Collins"
-
 date: 2011-11-12 10:00:31+00:00
 draft: false
-title: Monkey inequality
 ---
 
 Over at Wired, Jonah Lehrer has written a [post](http://www.wired.com/wiredscience/2011/11/does-inequality-make-us-unhappy/) in which he looks at a couple of lines of evidence about the innate response of humans to inequality. The first line, based on brain scans, is nicely discussed by [Jeff at Cheap Talk](http://cheaptalk.org/2011/11/09/when-are-you-going-to-stop-being-so-selfish-and-listen-to-your-brain/).

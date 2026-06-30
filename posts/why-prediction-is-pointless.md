@@ -3,8 +3,6 @@ title: Why prediction is pointless
 author: "Jason Collins"
 date: 2016-09-27 09:00:44+00:00
 draft: false
-aliases:
-  - /why-prediction-is-pointless
 ---
 
 One of my favourite parts of Philip Tetlock's [Expert Political Judgment](tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know.md) is his chapter examining the reasons for "radical skepticism" about forecasting. Radical skeptics believe that Tetlock's mission to improve forecasting of political and economic events is doomed as the world is inherently unpredictable (beyond conceding that no expertise was required to know that war would not erupt in Scandinavia in the 1990s). Before reading Expert Political Judgment, I largely fell into this radical skeptic camp (and much of me still resides in it).

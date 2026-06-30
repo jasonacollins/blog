@@ -1,11 +1,8 @@
 ---
+title: 'Michael Mauboussin''s More Than You Know: Finding Financial Wisdom in Unconventional Places'
 author: "Jason Collins"
 date: 2018-04-12 09:00:15+00:00
 draft: false
-aliases:
-  - /michael-mauboussins-more-than-you-know-finding-financial-wisdom-in-unconventional-places
-title: 'Michael Mauboussin''s More Than You Know: Finding Financial Wisdom in Unconventional
-  Places'
 ---
 
 Michael Mauboussin's message in *More Than You Know: Finding Financial Wisdom in Unconventional Places* is that we need an interdisciplinary toolkit to give us the diversity to make good decisions. This is not diversity in groups, but diversity in thinking. You need diverse cognitive tools to deal with diverse problems.

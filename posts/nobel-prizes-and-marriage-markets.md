@@ -1,9 +1,8 @@
 ---
+title: Nobel prizes and marriage markets
 author: "Jason Collins"
-
 date: 2012-10-16 10:45:44+00:00
 draft: false
-title: Nobel prizes and marriage markets
 ---
 
 The committee for selecting the 2012 winners of the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel (remember, it is not an original Nobel Prize) seems to have done a better job than the Peace Prize Committee. [Alvin Roth and Lloyd Shapely have been awarded the prize](http://www.nobelprize.org/nobel_prizes/economics/laureates/2012/announcement.html) "for the theory of stable allocations and the practice of market design", and they are worthy winners.

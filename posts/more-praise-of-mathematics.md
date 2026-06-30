@@ -1,11 +1,8 @@
 ---
 title: More praise of mathematics
 author: "Jason Collins"
-
 date: 2014-12-16 08:00:37+00:00
 draft: false
-aliases:
-  - /more-praise-of-mathematics
 ---
 
 Following [my post last week](we-need-more-complicated-mathematical-models-in-economics.md) on the need for more complicated models in economics, a [new paper in PLOS Biology](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1002017) argues for the importance of mathematical models in showing 'proof of concept' (HT: [Santa Fe Institute News](http://www.santafe.edu/news/item/PLoSbio-stern-utility-mathematical-models-evolutionary-biology/)). The authors write:

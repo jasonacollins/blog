@@ -3,10 +3,7 @@ title: 'My podcast appearances'
 author: "Jason Collins"
 date: 2022-03-03 09:00:00+00:00
 draft: false
-
 images: ["/img/logo.png"]
-aliases:
-  - /my-podcast-appearances
 ---
 
 Over the last few years I have appeared on several podcasts, the most recent being a discussion with [Phil Agnew](https://twitter.com/p_agnew) on the Nudge podcast. I am definitely more a writer than a speaker, but if you prefer audio to the written, check out the below.

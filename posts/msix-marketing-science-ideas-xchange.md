@@ -1,9 +1,8 @@
 ---
+title: 'MSiX: Marketing Science Ideas Xchange'
 author: "Jason Collins"
-
 date: 2014-07-11 03:44:56+00:00
 draft: false
-title: 'MSiX: Marketing Science Ideas Xchange'
 ---
 
 For those in or near Sydney at the end of July, there's an interesting conference in the works - the [Marketing Science Ideas Exchange](http://msix.com.au/). From the blurb:

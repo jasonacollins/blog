@@ -3,8 +3,6 @@ title: More on violence
 author: "Jason Collins"
 date: 2011-01-05 07:06:43+00:00
 draft: false
-aliases:
-  - /more-on-violence
 ---
 
 Following yesterday's [post on female preference for masculine men](selection-for-aggression.md), a couple of old articles came to mind.
