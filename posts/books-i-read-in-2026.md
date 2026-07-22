@@ -15,6 +15,7 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 
 *Non-Fiction*
 
+- James Barratt, *Our Final Invention: Artificial Intelligence and the End of the Human Era*
 - Emily M. Bender and Alex Hanna, *The AI Con: How to Fight Big Tech's Hype and Create the Future We Want*
 - Max Bennet, *A Brief History of Intelligence*
 - Keach Hagey, *The Optimist: Sam Altman, OpenAI, and the Race to Invent the Future*
@@ -33,6 +34,7 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 *Fiction*
 
 - Becky Chambers, *The long way to a small, angry planet*
+- Becky Chambers, *A closed and common orbit*
 - Paulo Coelho, *The Alchemist*
 - Mary Shelley, *Franksenstein; or, The Modern Prometheus*/*
 - Dan Simmons, *Hyperion*

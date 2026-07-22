@@ -21,8 +21,7 @@ I recently completed BlueDot Impact's [AGI Strategy Course](https://bluedot.org/
 
 I find an interesting tension in this topic. I have written in the past about how more decisions should be handed to AI (e.g. [here](https://behavioralscientist.org/dont-touch-computer/), [here](https://behavioralscientist.org/what-to-do-when-algorithms-rule/) and [here](https://behavioralscientist.org/principles-for-the-application-of-human-intelligence/)). Since Paul Meehl's [Clinical Versus Statistical Prediction](https://doi.org/10.1037/11281-000) in 1954, a large body of research has shown that statistical prediction can outperform human judgement in some domains. We should be capturing those benefits.
 
-However, I can see an endpoint where this doesn't end well. Competitive pressures between companies and states could drive the adoption of AI decision-making to the point where humans are completely out of the
-loop. The result is a disempowered humanity. This handover magnifies risks from misaligned AI or rogue actors.
+However, I can see an endpoint where this doesn't end well. Competitive pressures between companies and states could drive the adoption of AI decision-making to the point where humans are completely out of the loop. The result is a disempowered humanity. This handover magnifies risks from misaligned AI or rogue actors.
 
 As a follow-up to the BlueDot course, I have pulled together the gradual disempowerment reading list below.
 
@@ -42,9 +41,13 @@ I'll add more papers as I find them.
 
 @chakravorty2025 [Gradual Disempowerment Summary](https://blog.bluedot.org/p/gradual-disempowerment-summary): BlueDot Impact's summary of the Kulveit et al. paper. A quick way to get across it.
 
+@kulveit2025a [Gradual Disempowerment, Shell Games and Flinches](https://www.lesswrong.com/posts/a6FKqvdf6XjFpvKEb/gradual-disempowerment-shell-games-and-flinches): Jan Kulveit questions how critics have engaged with the argument.
+
 @drago2025 [The Intelligence Curse](https://intelligence-curse.ai/) ([pdf](https://intelligence-curse.ai/intelligence-curse.pdf)): If states and companies don't need people, they won't care about them. Chapters 2 and 3 are particularly relevant to the gradual disempowerment thesis.
 
 @fenwick2025 [Gradual disempowerment](https://80000hours.org/problem-profiles/gradual-disempowerment/): A summary of the gradual disempowerment thesis on 80,000 Hours. Includes links to other readings.
+
+@douglas2025 [Gradual Disempowerment: Concrete Research Projects](https://www.alignmentforum.org/posts/GAv4DRGyDHe2orvwB/gradual-disempowerment-concrete-research-projects#Beyond_competitive_pressures): Possible ways to contribute to understanding gradual disempowerment. See also @greenblatt2025
 
 @davidson2025 [Thoughts on Gradual Disempowerment](https://www.alignmentforum.org/posts/ct6SMDuexe9uBwDoL/thoughts-on-gradual-disempowerment): Some rough notes testing the edges of the thesis.
 
