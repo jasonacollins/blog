@@ -18,7 +18,9 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 - James Barratt, *Our Final Invention: Artificial Intelligence and the End of the Human Era*
 - Emily M. Bender and Alex Hanna, *The AI Con: How to Fight Big Tech's Hype and Create the Future We Want*
 - Max Bennet, *A Brief History of Intelligence*
+- Hannah Fry, *Hello World: How to be Human in the Age of the Machine*
 - Keach Hagey, *The Optimist: Sam Altman, OpenAI, and the Race to Invent the Future*
+- Verity Harding, *AI Needs You: How We Can Change AI's Future and Save Our Own*
 - Blake J. Harris, *The history of the future: Oculus, Facebook, and the revolution that swept virtual reality*
 - Pablos Holman, *Deep future: creating technology that matters*
 - John C. Lennox, *2084 and the AI revolution: how artificial intelligence informs our future*
@@ -45,6 +47,7 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 - Lemony Snicket, *The Slippery Slope*
 - Lemony Snicket, *The Grim Grotto*
 - Lemony Snicket, *The Penultimate Peril*
+- Charles Stross, *The Atrocity Archives*
 - Martha Wells, *Artificial Condition*
 - Martha Wells, *Rogue Protocol*
 - Martha Wells, *Exit Strategy*
