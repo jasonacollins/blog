@@ -208,8 +208,10 @@ O’Donoghue, T., and Rabin, M. (1999). Doing It Now or Later. <em>American Econ
 <p><span class="citation" data-cites="critch2023">Critch and Russell (2023)</span> <a href="https://doi.org/10.48550/arXiv.2306.06924">TASRA: a Taxonomy and Analysis of Societal-Scale Risks from AI</a>: See Risk Type I Diffusion of Responsibility.</p>
 <p><span class="citation" data-cites="kulveit2025">Kulveit et al. (2025)</span> <a href="https://arxiv.org/abs/2501.16946">Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development</a>: The anchor paper.</p>
 <p><span class="citation" data-cites="chakravorty2025">Chakravorty and Erwan (2025)</span> <a href="https://blog.bluedot.org/p/gradual-disempowerment-summary">Gradual Disempowerment Summary</a>: BlueDot Impact’s summary of the Kulveit et al.&nbsp;paper. A quick way to get across it.</p>
+<p><span class="citation" data-cites="kulveit2025a">Kulveit (2025)</span> <a href="https://www.lesswrong.com/posts/a6FKqvdf6XjFpvKEb/gradual-disempowerment-shell-games-and-flinches">Gradual Disempowerment, Shell Games and Flinches</a>: Jan Kulveit questions how critics have engaged with the argument.</p>
 <p><span class="citation" data-cites="drago2025">Drago and Laine (2025)</span> <a href="https://intelligence-curse.ai/">The Intelligence Curse</a> (<a href="https://intelligence-curse.ai/intelligence-curse.pdf">pdf</a>): If states and companies don’t need people, they won’t care about them. Chapters 2 and 3 are particularly relevant to the gradual disempowerment thesis.</p>
 <p><span class="citation" data-cites="fenwick2025">Fenwick (2025)</span> <a href="https://80000hours.org/problem-profiles/gradual-disempowerment/">Gradual disempowerment</a>: A summary of the gradual disempowerment thesis on 80,000 Hours. Includes links to other readings.</p>
+<p><span class="citation" data-cites="douglas2025">Douglas (2025)</span> <a href="https://www.alignmentforum.org/posts/GAv4DRGyDHe2orvwB/gradual-disempowerment-concrete-research-projects#Beyond_competitive_pressures">Gradual Disempowerment: Concrete Research Projects</a>: Possible ways to contribute to understanding gradual disempowerment. See also <span class="citation" data-cites="greenblatt2025">Greenblatt (2025)</span></p>
 <p><span class="citation" data-cites="davidson2025">Davidson (2025)</span> <a href="https://www.alignmentforum.org/posts/ct6SMDuexe9uBwDoL/thoughts-on-gradual-disempowerment">Thoughts on Gradual Disempowerment</a>: Some rough notes testing the edges of the thesis.</p>
 <p><span class="citation" data-cites="sharma2026a">Sharma et al. (2026a)</span> <a href="https://doi.org/10.48550/arXiv.2601.19062">Who’s in Charge? Disempowerment Patterns in Real-World LLM Usage</a>: Claude conversations show patterns of user autonomy being undermined. Disempowerment potential appears to be increasing. See also the <a href="https://www.anthropic.com/research/disempowerment-patterns">related blog post</a> by <span class="citation" data-cites="sharma2026b">Sharma et al. (2026b)</span>.</p>
 <p><span class="citation" data-cites="wiblin2026">Wiblin (2025)</span> <a href="https://80000hours.org/podcast/episodes/david-duvenaud-gradual-disempowerment/">#234 – David Duvenaud on why ‘aligned AI’ could still kill democracy</a>: Robert Wiblin interviews David Duvenaud, one of the authors of <span class="citation" data-cites="kulveit2025">Kulveit et al. (2025)</span>.</p>
@@ -260,6 +262,9 @@ Critch, A., and Russell, S. (2023). <em>TASRA: A taxonomy and analysis of societ
 <div id="ref-davidson2025" class="csl-entry">
 Davidson, T. (2025). <em>Thoughts on gradual disempowerment</em>. <a href="https://www.alignmentforum.org/posts/ct6SMDuexe9uBwDoL/thoughts-on-gradual-disempowerment">https://www.alignmentforum.org/posts/ct6SMDuexe9uBwDoL/thoughts-on-gradual-disempowerment</a>
 </div>
+<div id="ref-douglas2025" class="csl-entry">
+Douglas, R. (2025). <em>Gradual disempowerment: Concrete research projects <span></span> AI alignment forum</em>. <a href="https://www.alignmentforum.org/posts/GAv4DRGyDHe2orvwB/gradual-disempowerment-concrete-research-projects">https://www.alignmentforum.org/posts/GAv4DRGyDHe2orvwB/gradual-disempowerment-concrete-research-projects</a>
+</div>
 <div id="ref-drago2025" class="csl-entry">
 Drago, L., and Laine, R. (2025). <em>The Intelligence Curse</em>. <a href="https://intelligence-curse.ai/">https://intelligence-curse.ai/</a>
 </div>
@@ -269,8 +274,14 @@ Endsley, M. R., and Kiris, E. O. (1995). The Out-of-the-Loop Performance Problem
 <div id="ref-fenwick2025" class="csl-entry">
 Fenwick, C. (2025). <em>Gradual disempowerment</em>. <a href="https://80000hours.org/problem-profiles/gradual-disempowerment/">https://80000hours.org/problem-profiles/gradual-disempowerment/</a>
 </div>
+<div id="ref-greenblatt2025" class="csl-entry">
+Greenblatt, R. (2025). <em>The best approaches for mitigating <span>"</span>the intelligence curse<span>"</span> (or gradual disempowerment); my quick guesses at the best object-level interventions</em>. <a href="https://www.alignmentforum.org/posts/BXW2bqxmYbLuBrm7E/the-best-approaches-for-mitigating-the-intelligence-curse-or">https://www.alignmentforum.org/posts/BXW2bqxmYbLuBrm7E/the-best-approaches-for-mitigating-the-intelligence-curse-or</a>
+</div>
 <div id="ref-krook2025" class="csl-entry">
 Krook, J. (2025). When autonomy breaks: the hidden existential risk of AI. <em>AI &amp; SOCIETY</em>, <em>40</em>(8), 6011–6024. <a href="https://doi.org/10.1007/s00146-025-02397-5">https://doi.org/10.1007/s00146-025-02397-5</a>
+</div>
+<div id="ref-kulveit2025a" class="csl-entry">
+Kulveit, J. (2025). <em>Gradual disempowerment, shell games and flinches</em>. <a href="https://www.lesswrong.com/posts/a6FKqvdf6XjFpvKEb/gradual-disempowerment-shell-games-and-flinches">https://www.lesswrong.com/posts/a6FKqvdf6XjFpvKEb/gradual-disempowerment-shell-games-and-flinches</a>
 </div>
 <div id="ref-kulveit2025" class="csl-entry">
 Kulveit, J., Douglas, R., Ammann, N., Turan, D., Krueger, D., …. (2025). <em>Gradual disempowerment: Systemic existential risks from incremental AI development</em>. <a href="https://doi.org/10.48550/arXiv.2501.16946">https://doi.org/10.48550/arXiv.2501.16946</a>

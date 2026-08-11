@@ -35,6 +35,7 @@ csl: apa-no-ampersand.csl
 
 format:
   html:
+    canonical-url: true
     theme:
       - cosmo
       - custom.scss
