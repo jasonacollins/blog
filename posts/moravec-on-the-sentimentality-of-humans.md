@@ -4,7 +4,7 @@ author: "Jason Collins"
 date: 2026-09-10 09:00:00+10:00
 draft: false
 toc: false
-images: [""]
+image: "img/moravec.png"
 ---
 
 I recently read Hans Moravec's excellent *Mind Children: The Future of Robot and Human Intelligence*.
