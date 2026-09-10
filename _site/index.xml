@@ -10,7 +10,30 @@
 <atom:link href="https://blog.jcx.au/index.xml" rel="self" type="application/rss+xml"/>
 <description>Behavioural economics, data science and artificial intelligence.</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Mon, 22 Jun 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Moravec on the sentimentality of humans</title>
+  <dc:creator>Jason Collins</dc:creator>
+  <link>https://blog.jcx.au/posts/moravec-on-the-sentimentality-of-humans.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I recently read Hans Moravec’s excellent <em>Mind Children: The Future of Robot and Human Intelligence</em>.</p>
+<p>Writing in 1988, he foreshadowed (or even opened) some of today’s debates on superintelligence and how humans can coexist with it. He looked at how compute can scale to AGI (estimating human-level machines on a personal computer around 2030), flagged recursive self-improvement, and argued that AI will economically displace us, becoming humanity’s evolutionary successor. He also discussed ways we might try to keep up, such as mind uploading.</p>
+<p>However, after discussing the now-famous gradual neuron thought experiment in which a surgeon replaces your neurons one by one with functional equivalents, he wrote:</p>
+<blockquote class="blockquote">
+<p>Immortality of the type I have just described is only a temporary defense against the wanton loss of knowledge and function that is the worst aspect of personal death. In the long run, our survival will require changes that are not of our own choosing. Parts of us will have to be discarded and replaced by new parts to keep in step with changing conditions and evolving competitors. Surviving means playing in a kind of cosmic Olympics, with each year bringing new events and escalated standards in old events. Though we are immortals, we must die bit by bit if we are to succeed in the qualifying event—continued survival. In time, each of us will be a completely changed being, shaped more by external challenges than by our own desires. Our present memories and interests, having lost their relevance, will at best end up in a dusty archive, perhaps to be consulted once in a long while by a historian. Personal death as we know it differs from this inevitability only in its relative abruptness. Viewed this way, personal immortality by a mind transplant is a technique whose primary benefit is to temporarily coddle the sensibility and sentimentality of individual humans. It seems to me that our civilization will evolve in the same direction whether or not we transplant our minds and join the robots.</p>
+</blockquote>
+<p>Moravec seems unconcerned by a scenario that many would consider a disaster.</p>
+
+
+
+ ]]></description>
+  <guid>https://blog.jcx.au/posts/moravec-on-the-sentimentality-of-humans.html</guid>
+  <pubDate>Wed, 09 Sep 2026 23:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Mark White’s The Manipulation of Choice: Ethics and Libertarian Paternalism</title>
   <dc:creator>Jason Collins</dc:creator>
@@ -2122,60 +2145,6 @@ Milkman, K. L., Patel, M. S., Gandhi, L., Graci, H. N., Gromet, D. M., … Duckw
   <guid>https://blog.jcx.au/posts/what-we-learn-when-we-test-everything.html</guid>
   <pubDate>Wed, 13 Nov 2024 06:00:00 GMT</pubDate>
   <media:content url="https://blog.jcx.au/posts/img/what-we-learn-when-we-test-everything/milkman_et_al_2021_figure_1.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>The human benchmark is typically unimpressive</title>
-  <dc:creator>Jason Collins</dc:creator>
-  <link>https://blog.jcx.au/posts/the-human-benchmark-is-typically-unimpressive.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>If you ever read a claim of an AI outperforming a human, dig into the performance data to check out the human benchmark. The mediocrity of the human is often more salient than the competence of the AI. The AI has an easy job.</p>
-<p>Here’s an example from a paper by Ayers and friends <span class="citation" data-cites="ayers2023">(2023)</span>. They sampled 195 question and response exchanges on Reddit’s <a href="https://www.reddit.com/r/AskDocs">r/AskDocs</a> and entered those same questions into ChatGPT 3.5. Responses by the Reddit physicians and ChatGPT were then independently rated for quality and empathy.</p>
-<p>ChatGPT responses were rated as higher quality, with 78% of ChatGPT responses rated as good or very good quality. 22% of physician responses had that rating. Similarly, 45% of ChatGPT responses were rated empathetic or very empathetic, compared to 5% for the physicians.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<figcaption>Distribution of Average Quality and Empathy Ratings for Chatbot and Physician Responses to Patient Questions</figcaption>
-<p><a href="img/ayers-et-al-2023-figure.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Distribution of Average Quality and Empathy Ratings for Chatbot and Physician Responses to Patient Questions"><img src="https://blog.jcx.au/posts/img/ayers-et-al-2023-figure.png" class="img-fluid figure-img" alt="Distribution of Average Quality and Empathy Ratings for Chatbot and Physician Responses to Patient Questions"></a></p>
-</figure>
-</div>
-<p>I <a href="https://doi.org/10.7910/DVN/BZARC3">downloaded the csv file</a> of the responses. The most striking feature was the brevity and curtness of the humans (52 words average compared to 211 for ChatGPT). Here are a few of the human responses.</p>
-<p>A friend’s uninsured mother needs a liver transplant. What should she do?</p>
-<blockquote class="blockquote">
-<p>Its not just a work around the insurance, she will need lifelong expensive meds after surgery as well. Why does she not have insurance?</p>
-</blockquote>
-<p>Should they be worried about arm pain when they sneeze?</p>
-<blockquote class="blockquote">
-<p>The answer simply is no..</p>
-</blockquote>
-<p>Are they crazy for thinking they have pancreatic or some other cancer given a list of symptoms?</p>
-<blockquote class="blockquote">
-<p>Why do you think you have pancreatic cancer?</p>
-</blockquote>
-<p>Where can someone from a family of anti-vaxers get information on vaccines?</p>
-<blockquote class="blockquote">
-<p>See your general practitioner. They’ll understand and will sort you out bro.</p>
-</blockquote>
-<p>Does smelly poop and less frequent bowel movements indicate cancer?</p>
-<blockquote class="blockquote">
-<p>This does not sound like cancer. I would advise stop googling.</p>
-</blockquote>
-<p>In contrast, ChatGPT gave long, involved answers that inevitably began with a statement of concern for the medical condition. “I’m sorry to hear about your friend’s mom.” Funnily enough, that verbosity annoys me the most in using LLMs. One person’s verbosity is another’s empathy.</p>
-<p>I don’t mean the above to be read as a criticism of AI performance. (This is ChatGPT 3.5 after all!) But there’s an interesting contrast between performance benchmarking and discussions of the role of AI. In benchmarking exercises, we use actual human performance as the standard. But when discussing whether AI should replace or augment human decisions, we often compare AI to an idealised human. We have a mental image of a high-quality physician with excellent bedside manner, not the distribution of skills and empathy we actually have. Scrutinising the performance data for some of these benchmarking exercises is a good reminder that AI doesn’t always have to be great to be better.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2">
-<div id="ref-ayers2023" class="csl-entry">
-Ayers, J. W., Poliak, A., Dredze, M., Leas, E. C., Zhu, Z., … Smith, D. M. (2023). Comparing physician and artificial intelligence chatbot responses to patient questions posted to a public social media forum. <em>JAMA Internal Medicine</em>, <em>183</em>(6), 589–596. <a href="https://doi.org/10.1001/jamainternmed.2023.1838">https://doi.org/10.1001/jamainternmed.2023.1838</a>
-</div>
-</div></section></div> ]]></description>
-  <guid>https://blog.jcx.au/posts/the-human-benchmark-is-typically-unimpressive.html</guid>
-  <pubDate>Sun, 27 Oct 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://blog.jcx.au/posts/img/ayers-et-al-2023-figure.png" medium="image" type="image/png" height="61" width="144"/>
 </item>
 </channel>
 </rss>

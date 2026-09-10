@@ -25,7 +25,9 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 - Pablos Holman, *Deep future: creating technology that matters*
 - John C. Lennox, *2084 and the AI revolution: how artificial intelligence informs our future*
 - Brian Merchant, *Blood in the machine: the origins of the rebellion against big tech*
+- Chris Miller, *Chip War: The Fight for the World's Most Critical Technology*
 - Marvin Minsky, *The Society of Mind*
+- Hans Moravec, *Mind Children: The Future of Robot and Human Intelligence*
 - Arvind Narayanan and Sayash Kapoor, *AI Snake Oil: What Artificial Intelligence Can Do, What It Can't, and How to Tell the Difference*
 - Andrew Ross Sorkin, *1929: Inside the Greatest Crash in Wall Street History*
 - Gary Rivlin, *AI Valley: Microsoft, Google, and the Trillion-Dollar Race to Cash In on Artificial Intelligence*
@@ -47,7 +49,10 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 - Lemony Snicket, *The Slippery Slope*
 - Lemony Snicket, *The Grim Grotto*
 - Lemony Snicket, *The Penultimate Peril*
+- Lemony Snicket, *The End*
 - Charles Stross, *The Atrocity Archives*
+- Charles Stross, *The Jennifer Morgue*
+- Charles Stross, *The Fuller Memorandum*
 - Martha Wells, *Artificial Condition*
 - Martha Wells, *Rogue Protocol*
 - Martha Wells, *Exit Strategy*
