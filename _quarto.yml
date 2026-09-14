@@ -1,5 +1,7 @@
 project:
   type: website
+  post-render:
+    - scripts/normalize-urls.ts https://blog.jcx.au
   render:
     - "*.md"
     - "*.qmd"
