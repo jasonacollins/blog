@@ -31,6 +31,7 @@ website:
   search:
     limit: 50
   favicon: logo.png
+  google-analytics: "G-XR5VGQXN14"
 
 lightbox: true
 
