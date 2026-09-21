@@ -20,6 +20,7 @@ function tweet(args, kwargs)
     if quarto.doc.isFormat('html') then
         ensureHtmlDeps()
 
+        local user, status_id
         if isEmpty(args[1]) then
             user = pandoc.utils.stringify(kwargs["user"])
             status_id = pandoc.utils.stringify(kwargs["id"])
@@ -28,27 +29,16 @@ function tweet(args, kwargs)
             status_id = pandoc.utils.stringify(args[2])
         end
 
-        -- Assemble the twitter oembed API URL from the user inputs
-        local tweet_embed = 'https://publish.twitter.com/oembed?url=https://twitter.com/' 
-            .. user
-            .. '/status/'
-            .. status_id
-            .. '&align=center'
-
-        print(tweet_embed)
-        
-        local mt, api_resp = pandoc.mediabag.fetch(tweet_embed)
-        
-        -- generate a random number to append to the html div ID to avoid re-use
-        local id = math.random(10000, 99999)
-
-        local tweet_data = '<div id="tweet-'
-            .. id 
-            .. '"></div><script>tweet=' 
-            .. api_resp 
-            .. ';document.getElementById("tweet-' 
-            .. id 
-            .. '").innerHTML = tweet["html"];</script>'
+        -- Let widgets.js load the tweet in the browser. Build-time oEmbed
+        -- requests can fail for deleted tweets or an unavailable X service.
+        local function escapeHtml(value)
+            return (value:gsub('&', '&amp;'):gsub('<', '&lt;')
+                :gsub('>', '&gt;'):gsub('"', '&quot;'):gsub("'", '&#39;'))
+        end
+        local url = 'https://twitter.com/' .. user .. '/status/' .. status_id
+        local tweet_data = '<blockquote class="twitter-tweet" data-align="center">'
+            .. '<a href="' .. escapeHtml(url) .. '">View tweet by @'
+            .. escapeHtml(user) .. '</a></blockquote>'
 
         return pandoc.RawInline('html', tweet_data)
     else

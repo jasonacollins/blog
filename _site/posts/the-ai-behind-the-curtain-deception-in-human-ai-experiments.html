@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,16 @@
 
 <title>The AI behind the curtain: deception in human-AI experiments – Jason Collins blog</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -55,15 +61,14 @@ div.csl-indent {
 <link href="../logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-9be722aa83fbcc428616ae682c30a50a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-cd8592f072b9d28f7be82a1360dc3fa5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
@@ -127,8 +132,6 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Jason Collins blog</span>
     </a>
@@ -311,7 +314,7 @@ Figure&nbsp;2: <span class="citation" data-cites="lai2022">Lai et al. (<a href="
 Buçinca, Z., Malaya, M. B., and Gajos, K. Z. (2021). To trust or to think: Cognitive forcing functions can reduce overreliance on AI in AI-assisted decision-making. <em>Proceedings of the ACM on Human-Computer Interaction</em>, <em>5</em>(CSCW1), 188:1188:21. <a href="https://doi.org/10.1145/3449287">https://doi.org/10.1145/3449287</a>
 </div>
 <div id="ref-khadpe2020" class="csl-entry" role="listitem">
-Khadpe, P., Krishna, R., Fei-Fei, L., Hancock, J. T., and Bernstein, M. S. (2020). Conceptual Metaphors Impact Perceptions of Human-AI Collaboration. <em>Proceedings of the ACM on Human-Computer Interaction</em>, <em>4</em>(CSCW2), 1–26. <a href="https://doi.org/10.1145/3415234">https://doi.org/10.1145/3415234</a>
+Khadpe, P., Krishna, R., Fei-Fei, L., Hancock, J. T., and Bernstein, M. S. (2020). Conceptual metaphors impact perceptions of human-AI collaboration. <em>Proceedings of the ACM on Human-Computer Interaction</em>, <em>4</em>(CSCW2), 1–26. <a href="https://doi.org/10.1145/3415234">https://doi.org/10.1145/3415234</a>
 </div>
 <div id="ref-lai2022" class="csl-entry" role="listitem">
 Lai, V., Carton, S., Bhatnagar, R., Liao, Q. V., Zhang, Y., …. (2022). Human-AI collaboration via conditional delegation: A case study of content moderation. <em>arXiv</em>. <a href="https://doi.org/10.48550/arXiv.2204.11788">https://doi.org/10.48550/arXiv.2204.11788</a>
@@ -320,7 +323,7 @@ Lai, V., Carton, S., Bhatnagar, R., Liao, Q. V., Zhang, Y., …. (2022). Human-A
 Logg, J. M., Minson, J. A., and Moore, D. A. (2019). Algorithm appreciation: People prefer algorithmic to human judgment. <em>Organizational Behavior and Human Decision Processes</em>, <em>151</em>, 90–103. <a href="https://doi.org/10.1016/j.obhdp.2018.12.005">https://doi.org/10.1016/j.obhdp.2018.12.005</a>
 </div>
 <div id="ref-longoni2023" class="csl-entry" role="listitem">
-Longoni, C., Cian, L., and Kyung, E. J. (2023). Algorithmic Transference: People Overgeneralize Failures of AI in the Government. <em>Journal of Marketing Research</em>, <em>60</em>(1), 170–188. <a href="https://doi.org/10.1177/00222437221110139">https://doi.org/10.1177/00222437221110139</a>
+Longoni, C., Cian, L., and Kyung, E. J. (2023). Algorithmic transference: People overgeneralize failures of AI in the government. <em>Journal of Marketing Research</em>, <em>60</em>(1), 170–188. <a href="https://doi.org/10.1177/00222437221110139">https://doi.org/10.1177/00222437221110139</a>
 </div>
 <div id="ref-ortmann2019" class="csl-entry" role="listitem">
 Ortmann, A. (2019). <em>Deception</em> (A. Schram and A. Ule, Eds.). Edward Elgar Publishing. <a href="https://china.elgaronline.com/view/edcoll/9781788110556/9781788110556.00009.xml">https://china.elgaronline.com/view/edcoll/9781788110556/9781788110556.00009.xml</a>
