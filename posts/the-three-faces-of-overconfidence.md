@@ -3,8 +3,6 @@ title: The three faces of overconfidence
 author: "Jason Collins"
 date: 2018-08-29 09:00:19+00:00
 draft: false
-aliases:
-  - /the-three-faces-of-overconfidence
 ---
 
 I have [complained before](overconfident-about-overconfidence.md) about people being somewhat quick to label poor decisions as being due to "overconfidence". For one, overconfidence has several distinct forms. It is a mistake to treat each as the same. Further, these forms vary in their pervasiveness.

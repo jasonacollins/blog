@@ -3,8 +3,6 @@ title: The short wingman - do humans use visual illusions to attract a mate?
 author: "Jason Collins"
 date: 2010-09-23 06:01:00+00:00
 draft: false
-aliases:
-  - /the-short-wingman-do-humans-use-visual-illusions-to-attract-a-mate
 ---
 
 An [ABC news article](http://www.abc.net.au/science/articles/2010/09/10/3007367.htm) last week reported a [study](http://www.cell.com/current-biology/abstract/S0960-9822%2810%2901036-5) by Professor John Endler on the use of visual tricks by male bower birds to make themselves look larger to females. By placing small objects at the front and larger objects at the back of their bower, the court in which the male bower bird is viewed appears smaller, which makes the male look larger. Endler noted, however, that it was not clear whether the male had any empathy for the females perspective or if the male simply arranged the objects based on his own preferences.

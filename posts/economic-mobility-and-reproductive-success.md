@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2012-01-20 12:25:58+00:00
 draft: false
-aliases:
-  - /economic-mobility-and-reproductive-success
 title: Economic mobility and reproductive success
 ---
 

@@ -3,8 +3,6 @@ title: Is Darwin or Smith the father of economics?
 author: "Jason Collins"
 date: 2011-10-10 12:40:25+00:00
 draft: false
-aliases:
-  - /is-darwin-or-smith-the-father-of-economics
 ---
 
 In his new book, [The Darwin Economy: Liberty, Competition, and the Common Good](franks-the-darwin-economy.md), Robert Frank argues that within the next century, Charles Darwin will become known as the intellectual founder of economics, displacing Adam Smith from that role. Frank's prediction rests on the contrasting perspectives on competition provided by the two. Smith had the counterintuitive insight that selfish actions could increase the common good, while Darwin recognised that competition could be wasteful as individuals compete for survival and mates. Frank argues that the Darwinian picture is a better representation of the economy.

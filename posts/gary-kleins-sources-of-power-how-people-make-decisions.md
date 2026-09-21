@@ -3,8 +3,6 @@ title: 'Gary Klein''s Sources of Power: How People Make Decisions'
 author: "Jason Collins"
 date: 2019-01-17 08:00:13+00:00
 draft: false
-aliases:
-  - /gary-kleins-sources-of-power-how-people-make-decisions
 ---
 
 **Summary:** An important book describing how many experts make decisions, but with a lingering question mark about how good these decisions actually are.

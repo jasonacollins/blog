@@ -3,8 +3,6 @@ title: 'Books I read in 2022'
 author: "Jason Collins"
 date: 2023-01-10 09:00:00+10:00
 draft: false
-aliases:
-  - /best-books-i-read-in-2022
 ---
 The best books I <em>read</em> in 2022 - generally released in other years - were:
 

@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2010-12-09 13:20:50+00:00
 draft: false
-aliases:
-  - /the-evolution-of-technology
 title: The evolution of technology
 ---
 

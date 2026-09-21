@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2018-04-25 09:00:37+00:00
 draft: false
-aliases:
-  - /thorstein-veblens-the-theory-of-the-leisure-class
 title: Thorstein Veblen's The Theory of the Leisure Class
 ---
 

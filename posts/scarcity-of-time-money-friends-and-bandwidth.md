@@ -3,9 +3,6 @@ title: 'Scarcity of time, money, friends and bandwidth'
 author: "Jason Collins"
 date: 2014-09-18 09:00:00+00:00
 draft: false
-
-aliases:
-  - /scarcity-of-time-money-friends-and-bandwidth
 ---
 
 Sendhil Mullainathan and Eldar Shafir’s *Scarcity: Why Having Too Little Means So Much*is full of interesting insight and experimental results. It presents a novel way of looking at scarcity that extends beyond the typical analysis in economics, the original “science of scarcity”, and will certainly change the way I think about it.

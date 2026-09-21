@@ -3,8 +3,6 @@ title: The Rhetoric of Irrationality
 author: "Jason Collins"
 date: 2018-11-30 08:00:52+00:00
 draft: false
-aliases:
-  - /the-rhetoric-of-irrationality
 ---
 
 From the opening of Lola Lopes's 1991 article [The Rhetoric of Irrationality](https://doi.org/10.1177%2F0959354391011005) ([pdf](http://psy2.ucsd.edu/~mckenzie/Lopes1991Theory&Psychology.pdf)) on the heuristics and biases literature:

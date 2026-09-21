@@ -3,8 +3,6 @@ title: Three algorithmic views of human judgment, and the need to consider more 
 author: "Jason Collins"
 date: 2019-04-30 09:00:40+00:00
 draft: false
-aliases:
-  - /three-algorithmic-views-of-human-judgment-and-the-need-to-consider-more-than-algorithms
 ---
 
 From Gerd Gigerenzer's The bounded rationality of probabilistic mental models ([PDF](https://pure.mpg.de/rest/items/item_2547860/component/file_2566394/content)) (one of the papers mentioned in my [recent post](gigerenzer-versus-kahneman-and-tversky-the-1996-face-off.md) on the Kahneman and Tversky and Gigerenzer debate):

@@ -3,8 +3,6 @@ title: "Ergodicity economics: a primer"
 author: "Jason Collins"
 date: 2020-01-22 09:00:00+00:00
 draft: false
-aliases:
-  - /ergodicity-economics-a-primer
 execute: 
   freeze: auto
 ---

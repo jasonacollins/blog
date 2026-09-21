@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2012-05-20 11:53:48+00:00
 draft: false
-aliases:
-  - /institutions-are-endogenous
 title: Institutions are endogenous
 ---
 

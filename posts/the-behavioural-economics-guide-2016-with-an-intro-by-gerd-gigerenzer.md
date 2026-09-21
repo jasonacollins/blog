@@ -3,8 +3,6 @@ title: The Behavioural Economics Guide 2016 (with an intro by Gerd Gigerenzer)
 author: "Jason Collins"
 date: 2016-07-04 09:00:00+00:00
 draft: false
-aliases:
-  - /the-behavioural-economics-guide-2016-with-an-intro-by-gerd-gigerenzer
 ---
 
 [The Behavioural Economics Guide 2016](https://www.behavioraleconomics.com/the-behavioral-economics-guide-2016/) is out (including a couple of references to yours truly), with the introduction by Gerd Gigerenzer. It's nice to see some of the debate in the area making an appearance.

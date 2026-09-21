@@ -3,8 +3,6 @@ title: Jones on IQ and immigration
 author: "Jason Collins"
 date: 2011-04-14 08:47:34+00:00
 draft: false
-aliases:
-  - /jones-on-iq-and-immigration
 ---
 
 David Henderson [has posted](http://econlog.econlib.org/archives/2011/04/garret_jones_on.html) on [a recent presentation](http://mason.gmu.edu/~gjonesb/PCTIQ) by Garett Jones of George Mason University in which Jones discussed IQ and cooperation.

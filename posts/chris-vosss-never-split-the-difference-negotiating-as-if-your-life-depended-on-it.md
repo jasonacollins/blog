@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2018-10-25 08:00:12+00:00
 draft: false
-aliases:
-  - /chris-vosss-never-split-the-difference-negotiating-as-if-your-life-depended-on-it
 title: 'Chris Voss’s Never Split the Difference: Negotiating as if your life depended
   on it'
 ---

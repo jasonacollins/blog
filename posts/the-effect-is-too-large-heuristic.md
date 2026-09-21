@@ -4,8 +4,6 @@ author: "Jason Collins"
 
 date: 2017-07-06 09:00:22+00:00
 draft: false
-aliases:
-  - /the-effect-is-too-large-heuristic
 ---
 
 [Daniel Lakens writes](http://daniellakens.blogspot.com.au/2017/07/impossibly-hungry-judges.html):

@@ -4,8 +4,6 @@ author: "Jason Collins"
 date: 2016-11-18 08:00:34+00:00
 lastmod: 2020-06-17 09:00:08+00:00
 draft: false
-aliases:
-  - /overconfident-about-overconfidence
 ---
 
 In 1995 Werner De Bondt and Richard Thaler [wrote](https://doi.org/10.1016/S0927-0507(05)80057-X) "Perhaps the most robust finding in the psychology of judgment and choice is that people are overconfident." They are hardly been alone in making such a proclamation. And looking at the evidence, they seem to have a case. Take the following examples:

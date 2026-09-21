@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2011-09-08 04:45:12+00:00
 draft: false
-aliases:
-  - /using-evolutionary-theory-to-shape-neighbourhoods
 title: Using evolutionary theory to shape neighbourhoods
 ---
 

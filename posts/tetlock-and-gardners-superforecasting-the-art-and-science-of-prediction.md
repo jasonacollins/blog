@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2016-09-12 09:00:48+00:00
 draft: false
-aliases:
-  - /tetlock-and-gardners-superforecasting-the-art-and-science-of-prediction
 title: 'Tetlock and Gardner''s Superforecasting: The Art and Science of Prediction'
 ---
 

@@ -3,8 +3,6 @@ title: Genetically testing similarity
 author: "Jason Collins"
 date: 2011-04-23 13:25:02+00:00
 draft: false
-aliases:
-  - /genetically-testing-similarity
 ---
 
 In my [last post](in-the-company-of-a-stranger.md), I questioned whether a stranger sitting next to you on a train would be more similar to you than an ancestor from 10,000 years ago and suggested that this could be tested genetically.

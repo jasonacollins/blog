@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2017-08-22 09:00:08+00:00
 draft: false
-aliases:
-  - /oneils-weapons-of-math-destruction-how-big-data-increases-inequality-and-threatens-democracy
 title: 'Cathy O''Neil''s Weapons of Math Destruction: How Big Data Increases Inequality
   and Threatens Democracy'
 ---

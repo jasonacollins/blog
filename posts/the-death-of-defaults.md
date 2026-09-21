@@ -3,8 +3,6 @@ title: The death of defaults?
 author: "Jason Collins"
 date: 2015-02-09 08:00:48+00:00
 draft: false
-aliases:
-  - /the-death-of-defaults
 ---
 
 Late last year I went to a [presentation by Schlomo Benartzi](http://bi.dpc.nsw.gov.au/blog/professor-shlomo-benartzi-on/) on how people think differently when they are using a screen. The punchline was that many of the classic behavioural biases do not play out as expected in digital mediums.

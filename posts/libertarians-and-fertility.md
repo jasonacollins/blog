@@ -3,8 +3,6 @@ title: Libertarians and fertility
 author: "Jason Collins"
 date: 2011-05-06 07:13:55+00:00
 draft: false
-aliases:
-  - /libertarians-and-fertility
 ---
 
 As I noted in [yesterday's post](would-julian-simon-worry.md), Bryan Caplan has written the [lead essay](http://www.cato-unbound.org/2011/05/02/bryan-caplan/population-fertility-and-liberty/) for this month's [Cato Unbound](http://www.cato-unbound.org/) on [The Politics of Family Size](http://www.cato-unbound.org/archives/may-2011-the-politics-of-family-size/). Caplan argues that as there are strong benefits to increasing population, libertarians should support "libertarian policies" to increase population, educate and persuade people to have more children and while they are at it, have more children themselves.

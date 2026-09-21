@@ -4,8 +4,6 @@ author: "Jason Collins"
 
 date: 2012-09-26 08:46:16+00:00
 draft: false
-aliases:
-  - /haidts-the-righteous-mind
 ---
 
 I am going to give my thoughts on Jonathan Haidt's The Righteous Mind: Why Good People Are Divided by Politics and Religion over two posts as I want to split the good from the bad (second post [here](haidts-group-selection.md)). The first two-thirds and the conclusion of the book are excellent. However, slotted in the last third is Haidt's take on group selection. His group selection argument deserves attention, but I don't want to derail this post with a group selection critique, particularly when Haidt's broader arguments do not rest on it.

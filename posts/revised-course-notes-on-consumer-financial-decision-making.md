@@ -3,8 +3,6 @@ title: 'Revised course notes on Consumer Financial Decision Making'
 author: "Jason Collins"
 date: 2022-07-04 09:00:00+10:00
 draft: false
-aliases:
-  - /revised-course-notes-on-consumer-financial-decision-making
 ---
 Last year I [posted some notes](course-notes-on-consumer_financial_decision_making.qmd) for a course on Consumer Financial Decision Making.
 

@@ -4,8 +4,6 @@ author: "Jason Collins"
 
 date: 2011-05-23 08:19:55+00:00
 draft: false
-aliases:
-  - /hungry-judges
 ---
 
 The media and blogosphere has dedicated plenty of column and blog inches to a recently published [study by Danziger and colleagues](http://www.pnas.org/cgi/doi/10.1073/pnas.1018033108) on how parole rates by Israeli judges vary through the day. From the abstract:

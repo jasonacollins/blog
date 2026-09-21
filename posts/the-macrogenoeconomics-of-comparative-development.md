@@ -3,8 +3,6 @@ title: The Macrogenoeconomics of Comparative Development
 author: "Jason Collins"
 date: 2016-04-20 09:00:16+00:00
 draft: false
-aliases:
-  - /the-macrogenoeconomics-of-comparative-development
 ---
 
 Oded Galor has pointed me to his [forthcoming article with Quamrul Ashraf in The Journal of Economic Literature](https://ideas.repec.org/p/wil/wileco/2016-02.html).

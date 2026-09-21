@@ -3,8 +3,6 @@ title: Economists are different?
 author: "Jason Collins"
 date: 2012-06-06 10:37:59+00:00
 draft: false
-aliases:
-  - /economists-are-different
 ---
 
 In Robert Frank's [Passions Within Reason: The Strategic Role of the Emotions](franks-passions-within-reason.md) (this is another snippet pending my finding time to write a decent review), Frank describes the free riding behaviour of economists in the [public goods game](http://en.wikipedia.org/wiki/Public_goods_game):

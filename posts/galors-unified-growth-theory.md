@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2013-09-04 12:17:56+00:00
 draft: false
-aliases:
-  - /galors-unified-growth-theory
 title: Galor's Unified Growth Theory
 ---
 

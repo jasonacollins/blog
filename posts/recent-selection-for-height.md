@@ -3,8 +3,6 @@ title: Recent selection for height
 author: "Jason Collins"
 date: 2012-08-20 10:46:31+00:00
 draft: false
-aliases:
-  - /recent-selection-for-height
 ---
 
 As noted by [Steve Hsu](http://infoproc.blogspot.com.au/2012/08/recent-human-evolution-european-height.html) and [Razib Khan](http://blogs.discovermagazine.com/gnxp/2012/08/why-northern-europeans-are-taller-than-southern-europeans/), a [new paper in Nature Genetics](http://www.nature.com/doifinder/10.1038/ng.2368) reports evidence of recent selection on existing variation in height in European populations. The paper's authors summarise as follows:

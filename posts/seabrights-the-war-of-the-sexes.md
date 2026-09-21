@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2012-05-22 11:46:18+00:00
 draft: false
-aliases:
-  - /seabrights-the-war-of-the-sexes
 title: Seabright's The War of the Sexes
 ---
 

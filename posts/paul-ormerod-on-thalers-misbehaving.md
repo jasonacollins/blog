@@ -3,9 +3,6 @@ title: Paul Ormerod on Thaler's Misbehaving
 author: "Jason Collins"
 date: 2017-11-20 08:00:19+00:00
 draft: false
-aliases:
-  - /paul-ormerod-on-thalers-misbehaving
-
 ---
 
 I have been meaning to write some notes on Richard Thaler's *Misbehaving: The Making of Behavioral Economics* for some time, but having now come across a [review by Paul Ormerod](http://onlinelibrary.wiley.com/doi/10.1111/ecaf.12159/abstract) ([ungated pdf](http://www.paulormerod.com/wp-content/uploads/2012/06/Thaler-review-IEA.pdf)) - together with his perspective on the position of behavioural economics in the discipline - I feel somewhat less need. Below are some interesting sections of Ormerod's review.

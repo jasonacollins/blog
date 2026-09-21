@@ -4,8 +4,6 @@ author: "Jason Collins"
 
 date: 2012-11-16 05:46:21+00:00
 draft: false
-aliases:
-  - /the-decline-in-intelligence
 ---
 
 Two papers in which Gerald Crabtree argues that human intelligence has declined since a peak thousands of years ago ([Part I](http://www.sciencedirect.com/science/article/pii/S0168952512001588) and [Part II](http://www.sciencedirect.com/science/article/pii/S016895251200159X)) have been the subject of the popular science media rounds over the last week (such as this piece in [The Independent](http://www.independent.co.uk/news/science/human-intelligence-peaked-thousands-of-years-ago-and-weve-been-on-an-intellectual-and-emotional-decline-ever-since-8307101.html)).

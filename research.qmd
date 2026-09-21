@@ -1,7 +1,5 @@
 ---
 title: "Research"
-aliases:
-  - /research/
 resources:
   - pdfs/Baer_et_al_2019_Sperm_use_economy_of_honeybee_Apis_mellifera_queens.pdf
   - pdfs/Collins_and_Page_2019_The_heritability_of_fertility_makes_world_population_stabilization_unlikely_in_the_foreseeable_future.pdf

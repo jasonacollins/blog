@@ -3,8 +3,6 @@ title: Deriving the demand for children
 author: "Jason Collins"
 date: 2012-10-29 12:48:31+00:00
 draft: false
-aliases:
-  - /deriving-the-demand-for-children
 ---
 
 I've been working through Gary Becker's *A Treatise on the Family: Enlarged Edition* over the last couple of weeks. One interesting section included Becker's thoughts on why people demand their **own** children, as opposed to being satisfied with the children of others.

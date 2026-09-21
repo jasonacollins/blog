@@ -4,8 +4,6 @@ author: "Jason Collins"
 
 date: 2011-04-18 14:08:46+00:00
 draft: false
-aliases:
-  - /social-decision-making-bridging-economics-and-biology
 ---
 
 I am at the _Social Decision Making: Bridging Economics and Biology_ conference (the abstracts of which can be downloaded [here](/pdf/social-decision-making-2011-conference-program.pdf)). As the name suggests, the basic idea behind the conference is to pull  together economists and evolutionary biologists to develop new  collaborations and examine how their respective approaches to social decision-making might be useful to each other.

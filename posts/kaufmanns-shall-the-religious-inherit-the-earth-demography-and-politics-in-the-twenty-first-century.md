@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2016-07-22 09:00:09+00:00
 draft: false
-aliases:
-  - /kaufmanns-shall-the-religious-inherit-the-earth-demography-and-politics-in-the-twenty-first-century
 title: 'Kaufmann''s Shall the Religious Inherit the Earth?: Demography and Politics
   in the Twenty-First Century'
 ---

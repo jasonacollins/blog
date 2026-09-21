@@ -3,8 +3,6 @@ title: 'David Leiser and Yhonatan Shemesh''s How We Misunderstand Economics and 
 author: "Jason Collins"
 date: 2019-08-05 09:00:17+00:00
 draft: false
-aliases:
-  - /david-leiser-and-yhonatan-shemeshs-how-we-misunderstand-economics-and-why-it-matters-the-psychology-of-bias-distortion-and-conspiracy
 ---
 
 From a new(ish) book by David Leiser and Yhonatan Shemesh, [How We Misunderstand Economics and Why it Matters: The Psychology of Bias, Distortion and Conspiracy](http://www.misunderstandeconomics.com/):

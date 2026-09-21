@@ -9,8 +9,6 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/jcxau/
-aliases:
-  - /about/
 ---
 
 Behavioural economics, data science and artificial intelligence. PhD economics and evolutionary biology.

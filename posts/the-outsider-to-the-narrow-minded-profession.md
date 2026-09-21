@@ -6,8 +6,6 @@ lastmod: 2022-02-24 09:00:00+00:00
 draft: false
 
 images: ["/img/logo.png"]
-aliases:
-  - /the-outsider-to-the-narrow-minded-profession
 ---
 I have always been a sucker for stories about an outsider tearing down what everyone believes to be true. With that, it's no surprise that I have fond memories from my first read of M. Mitchell Waldrop's book *Complexity: The Emerging Science at the Edge of Order and Chaos* (which must been around 20-years ago).
 

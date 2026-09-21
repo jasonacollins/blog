@@ -3,8 +3,6 @@ title: "Economists 1, Biologists 0"
 author: "Jason Collins"
 date: 2011-08-18 11:36:53+00:00
 draft: false
-aliases:
-  - /economists-1-biologists-0
 ---
 
 Sorry for the slightly inflammatory post title - but I went to a speech tonight that reminded me of one case where an economist was well ahead of evolutionary biologists in cracking a puzzle.

@@ -3,8 +3,6 @@ title: Self evident but unexplored - how genetic effects vary over time
 author: "Jason Collins"
 date: 2015-01-05 08:00:25+00:00
 draft: false
-aliases:
-  - /self-evident-but-unexplored-how-genetic-effects-vary-over-time
 ---
 
 [A new paper in PNAS](http://www.pnas.org/content/early/2014/12/25/1411893111.abstract) reports on how the effect of a variant of a gene called FTO varies over time. [Previous research](http://doi.org/10.1126/science.1141634) has shown that people with two copies of a particular FTO variant are on average three kilograms heavier than those with none. But this was not always the case. I'll let [Carl Zimmer provide the background](http://www.nytimes.com/2015/01/01/science/gene-linked-to-obesity-hasnt-always-been-a-problem-study-finds.html):

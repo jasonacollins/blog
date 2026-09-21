@@ -3,8 +3,6 @@ title: Bowles and Gintis's A Cooperative Species
 author: "Jason Collins"
 date: 2012-03-26 09:33:41+00:00
 draft: false
-aliases:
-  - /bowles-and-gintiss-a-cooperative-species
 ---
 
 Sam Bowles and Herb Gintis have an interesting reputation within the fields of economics and evolutionary biology. The recent [paper of Nowak and colleagues](http://www.nature.com/nature/journal/v466/n7310/full/nature09205.html) has given Bowles and Gintis some competition as the most prominent advocates of a group selectionist approach (or multi-level selection as Nowak and colleagues would term it), but I still have not come across anyone in evolutionary biology who will argue for the importance group selection to the extent they will (as [this video](http://vimeo.com/8179607) of Herb Gintis demonstrates).

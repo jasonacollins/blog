@@ -3,8 +3,6 @@ title: Is poverty in our genes? From the comments
 author: "Jason Collins"
 date: 2013-01-15 09:30:51+00:00
 draft: false
-aliases:
-  - /is-poverty-in-our-genes-from-the-comments
 ---
 
 In response to [the critique in Current Anthropology](is-poverty-in-our-genes.md) on Ashraf and Galor's paper on genetic diversity and economic growth, C.W. writes:

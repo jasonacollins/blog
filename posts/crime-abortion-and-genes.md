@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2012-01-16 12:58:54+00:00
 draft: false
-aliases:
-  - /crime-abortion-and-genes
 title: Crime, abortion and genes
 ---
 

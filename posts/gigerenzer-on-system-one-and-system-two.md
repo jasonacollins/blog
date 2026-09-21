@@ -3,8 +3,6 @@ title: Gigerenzer on system one and system two
 author: "Jason Collins"
 date: 2016-03-17 08:00:52+00:00
 draft: false
-aliases:
-  - /gigerenzer-on-system-one-and-system-two
 ---
 
 If you have read Daniel Kahneman's [Thinking, Fast and Slow](kahnemans-thinking-fast-and-slow.md), you will be familiar with the concepts of System One and System Two. Gerd Gigerenzer is not a fan of the dichotomy, with the below passage from an [interesting interview](https://hbr.org/2014/06/instinct-can-beat-analytical-thinking) by Justin Fox (the one over N heuristic Gigerenzer refers to is the heuristic to invest your money equally across your N options):

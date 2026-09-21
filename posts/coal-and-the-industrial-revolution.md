@@ -3,8 +3,6 @@ title: Coal and the industrial revolution
 author: "Jason Collins"
 date: 2010-12-02 11:11:19+00:00
 draft: false
-aliases:
-  - /coal-and-the-industrial-revolution
 ---
 
 In a recent discussion as part of the [Cato Unbound](http://www.cato-unbound.org/) series, [Matt Ridley](http://www.cato-unbound.org/2010/10/08/matt-ridley/dont-dismiss-the-materialist-explanation/) suggested that we shouldn't forget the Materialist explanation for the industrial revolution. The difference between the British and other bursts of economic activity, such as that of Ancient Greece, is that the British event did not peter out. The reason for that, says Ridley, is coal.

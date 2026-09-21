@@ -3,8 +3,6 @@ title: Please, not another bias! An evolutionary take on behavioural economics
 author: "Jason Collins"
 date: 2015-07-30 06:00:45+00:00
 draft: false
-aliases:
-  - /please-not-another-bias-an-evolutionary-take-on-behavioural-economics
 ---
 
 Below is a transcript of my planned presentation at today's [Marketing Science Ideas Xchange](http://www.msix.com.au/). The important images from the slide pack are below, but the full set of slides is [available here](/pdf/msix-20150729.pdf).

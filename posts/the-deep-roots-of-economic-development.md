@@ -3,8 +3,6 @@ title: The deep roots of economic development
 author: "Jason Collins"
 date: 2013-07-29 12:07:05+00:00
 draft: false
-aliases:
-  - /the-deep-roots-of-economic-development
 ---
 
 I first [flagged](the-deep-roots-of-development.md) this article a year or so ago when it was released as a working paper, but the new Journal of Economic Literature paper [How Deep Are the Roots of Economic Development](https://doi.org/10.1257/jel.51.2.325) ([ungated pdf](http://sites.tufts.edu/enricospolaore/files/2012/08/RootsF.pdf)) by Enrico Spolaore and Romain Wacziarg has so much good material in it that it is worth a revisit.

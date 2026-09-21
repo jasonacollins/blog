@@ -3,8 +3,6 @@ title: Should we tax education?
 author: "Jason Collins"
 date: 2010-09-11 03:58:00+00:00
 draft: false
-aliases:
-  - /should-we-tax-education
 ---
 
 Over the last few weeks, Bryan Caplan of [Econlog](http://econlog.econlib.org/archives/2010/08/education_and_s.html) has engaged in a debate with his former teacher Bill Dickens over the social value of education. Brian's position is that  education is largely used for signalling rather than skill acquisition. While some signalling is good (matches students and employers), it is privately optimal to far exceed the social optimal. This excessive signalling consumes resources for limited social return, so we should stop subsidising it and possibly consider taxing it. I find myself leaning towards Brian's position - particularly in relation to senior high school and university/college education.

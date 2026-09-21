@@ -3,8 +3,6 @@ title: Our visual system predicts the future
 author: "Jason Collins"
 date: 2014-07-24 13:25:22+00:00
 draft: false
-aliases:
-  - /our-visual-system-predicts-the-future
 ---
 
 I am reading John Coates’s thus far excellent [The Hour Between Dog and Wolf: How Risk Taking Transforms Us, Body and Mind](the-biology-of-boom-and-bust.md). There are many highlights and interesting pieces, the below being one of them.

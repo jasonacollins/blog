@@ -3,8 +3,6 @@ title: Saad's The Evolutionary Bases of Consumption
 author: "Jason Collins"
 date: 2012-04-05 10:35:33+00:00
 draft: false
-aliases:
-  - /saads-the-evolutionary-bases-of-consumption
 ---
 
 Over the last three to four decades, the social sciences have been subject to increasing examination under an evolutionary framework. Leading the charge into consumer and marketing theory has been Gad Saad, a pioneer of evolutionary consumer psychology who was responsible for the first evolutionary psychology papers to appear in any consumer and marketing journals.

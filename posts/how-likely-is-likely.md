@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2018-11-09 08:00:56+00:00
 draft: false
-aliases:
-  - /how-likely-is-likely
 title: How likely is "likely"?
 ---
 

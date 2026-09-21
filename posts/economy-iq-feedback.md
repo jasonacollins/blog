@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2012-09-03 10:58:13+00:00
 draft: false
-aliases:
-  - /economy-iq-feedback
 title: Economy-IQ feedback
 ---
 

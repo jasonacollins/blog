@@ -3,8 +3,6 @@ title: Selection for aggression
 author: "Jason Collins"
 date: 2011-01-04 13:26:09+00:00
 draft: false
-aliases:
-  - /selection-for-aggression
 ---
 
 Masculine appearance in a man is an indicator of their health, which in turn leads to more viable offspring. On this basis, one might assume that women prefer masculine men. However, empirical research into whether women prefer men with more masculine physical features has not shown the strong positive preference we might expect. While masculine appearance is linked to health, that masculine partner may be less interested in a long-term relationship and be unlikely to provide for the child over the long-term. In that case, a woman is likely to weigh up the benefits of a healthy child against the likelihood of provision of care by the father of that child.

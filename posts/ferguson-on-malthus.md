@@ -3,8 +3,6 @@ title: Ferguson on Malthus
 author: "Jason Collins"
 date: 2011-06-14 07:53:48+00:00
 draft: false
-aliases:
-  - /ferguson-on-malthus
 ---
 
 Last week I came across [a 2007 article](http://www.telegraph.co.uk/comment/personal-view/3641586/Worry-about-bread-not-oil.html) by Niall Ferguson on increasing food prices and the potential for future shortages.  Leaving aside Ferguson's predictions of the return of Malthusian misery, he makes an important and often forgotten point about what Malthus described in his [An Essay on the Principle of Population](http://www.gutenberg.org/ebooks/4239). Ferguson writes:

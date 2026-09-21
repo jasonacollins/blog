@@ -3,8 +3,6 @@ title: Best books I read in 2013
 author: "Jason Collins"
 date: 2013-12-23 13:33:01+00:00
 draft: false
-aliases:
-  - /best-books-i-read-in-2013
 ---
 
 As is my habit, each year I give a list of the best books I have read during the year. I tend not to focus on the newest releases, so most of the list was not published this year. In no particular order:

@@ -3,8 +3,6 @@ title: Family friendly backfires
 author: "Jason Collins"
 date: 2015-06-09 09:00:07+00:00
 draft: false
-aliases:
-  - /family-friendly-backfires
 ---
 
 Last month a [NYT article by Claire Cain Mille](http://www.nytimes.com/2015/05/26/upshot/when-family-friendly-policies-backfire.html)r documented some of the backfires associated with family friendly policies. For instance:

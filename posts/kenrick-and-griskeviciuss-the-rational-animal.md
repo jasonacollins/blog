@@ -3,8 +3,6 @@ title: Kenrick and Griskevicius's The Rational Animal
 author: "Jason Collins"
 date: 2016-02-08 08:00:15+00:00
 draft: false
-aliases:
-  - /kenrick-and-griskeviciuss-the-rational-animal
 ---
 
 I am in two minds about Doug Kenrick and Vlad Griskevicius's *The Rational Animal: How Evolution Made Us Smarter Than We Think*. As an introduction to evolutionary psychology and the idea that evolutionary psychology could add a lot of value to economics - and behavioural economics in particular - it does a pretty good job.

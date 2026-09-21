@@ -1,7 +1,5 @@
 ---
 title: "Subscribe"
-aliases:
-  - /subscribe/
 ---
 
 <p align="center"; style="margin-left: 10px; margin-right: 10px; margin-top: 50px">BE NOTIFIED OF NEW POSTS VIA EMAIL</p>

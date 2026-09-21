@@ -3,8 +3,6 @@ title: Boyd and Richerson's The Origin and Evolution of Cultures
 author: "Jason Collins"
 date: 2012-11-05 07:16:14+00:00
 draft: false
-aliases:
-  - /boyd-and-richersons-the-origin-and-evolution-of-cultures
 ---
 
 When I asked for suggestions for my [evolutionary biology and economics reading list](economics_and_evolutionary_biology_reading_list.md) earlier this year, Boyd and Richerson's *The Origin and Evolution of Cultures* was one of the most recommended. Their exploration of cultural evolution has many elements that are relevant to economics, including the development of institutional frameworks, the evolution of cooperation and the transmission of technology.

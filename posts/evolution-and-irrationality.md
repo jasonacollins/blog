@@ -3,8 +3,6 @@ title: Evolution and irrationality
 author: "Jason Collins"
 date: 2011-03-25 12:41:04+00:00
 draft: false
-aliases:
-  - /evolution-and-irrationality
 ---
 
 In a classic behavioural economics story, research participants are offered the choice between one bottle of wine a month from now and two bottles of wine one month and one day from now (alternatively, substitute cake, money or some other pay-off for wine). Most people will choose the two bottles of wine. However, when offered one bottle of wine straight away, more people will take that bottle and not wait until the next day to take up the alternative of two bottles. This suggests that people discount the value of goods received after short delays at a higher rate than they do for longer delays.

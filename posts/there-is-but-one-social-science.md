@@ -3,8 +3,6 @@ title: There is but one social science
 author: "Jason Collins"
 date: 2010-09-25 17:28:00+00:00
 draft: false
-aliases:
-  - /there-is-but-one-social-science
 ---
 
 "There is only one social science and we are its practitioners" - George Stigler, economist

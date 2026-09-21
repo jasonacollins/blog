@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2011-03-02 10:23:55+00:00
 draft: false
-aliases:
-  - /genetic-distance-and-economic-development
 title: Genetic distance and economic development
 ---
 

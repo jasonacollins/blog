@@ -4,8 +4,6 @@ author: "Jason Collins"
 
 date: 2011-06-17 10:39:21+00:00
 draft: false
-aliases:
-  - /heritability-political-views-and-personality
 ---
 
 Chris Mooney of The Intersection [has posted](http://blogs.discovermagazine.com/intersection/2011/06/16/is-politics-partly-guided-by-our-genes/) on [another article](https://doi.org/10.1017/S0022381610001015) (with [follow-up](http://blogs.discovermagazine.com/gnxp/2011/06/does-heritability-of-political-orientation-matter) by Razib at Gene Expression) supporting the well-established finding that political views are heritable. The research found evidence for linkage between political beliefs and genes.

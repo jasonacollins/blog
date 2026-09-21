@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2018-05-02 09:00:22+00:00
 draft: false
-aliases:
-  - /behavioural-economics-underrated-or-overrated
 title: 'Behavioural economics: underrated or overrated?'
 ---
 

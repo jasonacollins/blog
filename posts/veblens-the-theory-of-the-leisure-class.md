@@ -3,8 +3,6 @@ title: Veblen's The Theory of the Leisure Class
 author: "Jason Collins"
 date: 2011-05-11 05:40:09+00:00
 draft: false
-aliases:
-  - /veblens-the-theory-of-the-leisure-class-part-i
 ---
 
 I have started reading Thorstein Veblen's [The Theory of the Leisure Class](thorstein-veblens-the-theory-of-the-leisure-class.md). The book was published in 1899 and was one of the earliest books to explore the classical economic concept that people wish to consume more.

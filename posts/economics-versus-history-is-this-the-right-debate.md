@@ -3,8 +3,6 @@ title: Economics versus history - is this the right debate?
 author: "Jason Collins"
 date: 2010-09-14 05:53:00+00:00
 draft: false
-aliases:
-  - /economics-versus-history-is-this-the-right-debate
 ---
 
 Over the past few days, Tim Harford has been engaging in a [debate](http://timharford.com/2010/09/models-tell-us-more-than-hindsight/) with Gideon Rachman (along with a few other bloggers) regarding Rachman's contention that economists should be swept from their throne and historians given greater due.

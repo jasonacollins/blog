@@ -3,8 +3,6 @@ title: Variation in reproductive success
 author: "Jason Collins"
 date: 2011-10-21 22:32:43+00:00
 draft: false
-aliases:
-  - /variation-in-reproductive-success
 ---
 
 Flipping through Ronald Fisher's *The Genetical Theory of Natural Selection* this morning, I was reminded of this quite stunning factoid from the 1912 Australian Census:

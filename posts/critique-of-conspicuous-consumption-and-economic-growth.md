@@ -4,8 +4,6 @@ author: "Jason Collins"
 
 date: 2012-11-13 08:05:13+00:00
 draft: false
-aliases:
-  - /critique-of-conspicuous-consumption-and-economic-growth
 ---
 
 Last week, I presented my [paper on conspicuous consumption and economic growth](sexual-selection-conspicuous-consumption-and-economic-growth.md) at the [annual PhD Conference in Economics and Business](http://www.business.uwa.edu.au/research/conferences/phd). The basic argument of the paper is that the evolution of the propensity to engage in conspicuous consumption is a factor underlying modern economic growth, as conspicuous consumption requires productive activity to produce the resources to consume.

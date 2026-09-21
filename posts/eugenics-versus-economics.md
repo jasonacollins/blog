@@ -3,8 +3,6 @@ title: Eugenics versus economics
 author: "Jason Collins"
 date: 2012-07-22 12:09:41+00:00
 draft: false
-aliases:
-  - /eugenics-versus-economics
 ---
 
 In outing Irving Fisher as a Social Darwinist, [Bryan Caplan writes](http://econlog.econlib.org/archives/2012/07/social_darwinis.html) on how Fisher reconciled eugenics and economics. First, Caplan quotes Fisher:

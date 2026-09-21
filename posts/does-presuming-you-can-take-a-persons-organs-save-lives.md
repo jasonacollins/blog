@@ -4,8 +4,6 @@ author: "Jason Collins"
 
 date: 2017-08-30 09:00:34+00:00
 draft: false
-aliases:
-  - /does-presuming-you-can-take-a-persons-organs-save-lives
 ---
 
 I've pointed out several times on this blog the confused story about organ donation arising from [Johnson and Goldstein's _Do Defaults Save Lives?_](http://www.sciencemag.org/content/302/5649/1338) ([ungated pdf](http://www.dangoldstein.com/papers/DefaultsScience.pdf)). Even greats such as Daniel Kahneman [are not immune from misinterpreting what is going on](re-reading-kahnemans-thinking-fast-and-slow.md).

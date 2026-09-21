@@ -3,8 +3,6 @@ title: Manzi on the abortion-crime hypothesis
 author: "Jason Collins"
 date: 2015-01-26 08:00:50+00:00
 draft: false
-aliases:
-  - /manzi-on-the-abortion-crime-hypothesis
 ---
 
 My recent reading of David Colander and Roland Kupers's [Complexity and the Art of Public Policy](complexity-and-the-art-of-public-policy.md) prompted me to re-read James Manzi's [Uncontrolled: The Surprising Payoff of Trial-and-Error for Business, Politics, and Society](manzis-uncontrolled.md). I see the two books as riffs on a similar theme.

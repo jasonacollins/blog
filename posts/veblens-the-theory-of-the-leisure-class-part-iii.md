@@ -3,8 +3,6 @@ title: Veblen's The Theory of the Leisure Class, Part III
 author: "Jason Collins"
 date: 2011-05-24 07:11:37+00:00
 draft: false
-aliases:
-  - /veblens-the-theory-of-the-leisure-class-part-iii
 ---
 
 [Thorstein Veblen](http://en.wikipedia.org/wiki/Thorstein_Veblen) has been [ranked seventh](http://econjwatch.org/file_download/487/DavisMay2011.pdf) in a poll of economists on their favourite, dead, 20th century economist. He ranked behind Keynes, Friedman, Samuelson, Hayek, Schumpeter and Galbraith. His supporters were among the least liberal (in the classical sense of the word) of the survey participants. Given his approach to consumerism and the leisure class, as detailed in [The Theory of the Leisure Class](thorstein-veblens-the-theory-of-the-leisure-class.md), this is no surprise. Following from my earlier posts on the book ([here](veblens-the-theory-of-the-leisure-class.md) and [here](veblens-the-theory-of-the-leisure-class-part-ii.md)), I have finished reading it, with the rest of the book largely  applying Veblen's framework to sport, religion and education.

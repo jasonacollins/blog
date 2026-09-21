@@ -3,8 +3,6 @@ title: Sexual selection, conspicuous consumption and economic growth
 author: "Jason Collins"
 date: 2012-08-10 09:49:03+00:00
 draft: false
-aliases:
-  - /sexual-selection-conspicuous-consumption-and-economic-growth
 ---
 
 Around ten years ago, I was rummaging through books in a bargain bookshop under Sydney’s Central Station when I came across a $2 copy of Geoffrey Miller’s *The Mating Mind*. It turned out to be a good use of my $2, as The Mating Mind is one of the most important books in shaping my thinking, and it was one of the first books I put on my [economics and evolutionary biology reading list](economics_and_evolutionary_biology_reading_list.md).

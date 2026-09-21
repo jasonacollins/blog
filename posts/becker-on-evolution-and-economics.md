@@ -3,8 +3,6 @@ title: Becker on evolution and economics
 author: "Jason Collins"
 date: 2014-05-06 13:30:19+00:00
 draft: false
-aliases:
-  - /becker-on-evolution-and-economics
 ---
 
 Gary Becker was one of the first economists to seriously contemplate the role that evolutionary biology could play in economics. In 1976, he wrote:

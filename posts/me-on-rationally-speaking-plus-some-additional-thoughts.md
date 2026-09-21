@@ -3,8 +3,6 @@ title: Me on Rationally Speaking, plus some additional thoughts
 author: "Jason Collins"
 date: 2018-10-18 08:00:08+00:00
 draft: false
-aliases:
-  - /me-on-rationally-speaking-plus-some-additional-thoughts
 ---
 
 My [conversation with Julia Galef on Rationally Speaking](http://rationallyspeakingpodcast.org/219-a-skeptical-take-on-behavioral-economics-jason-collins/) is out, exploring territory on how behavioural economics and its applications could be better.

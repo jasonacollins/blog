@@ -3,8 +3,6 @@ title: The beauty of self interest
 author: "Jason Collins"
 date: 2014-11-18 08:05:26+00:00
 draft: false
-aliases:
-  - /the-beauty-of-self-interest
 ---
 
 In [my review of E.O. Wilson's The Social Conquest of Earth](e-o-wilsons-the-social-conquest-of-earth.md), I quoted this passage which captures Wilson's conception of the origin of cooperation in humans.

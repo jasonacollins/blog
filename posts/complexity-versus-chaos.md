@@ -3,8 +3,6 @@ title: Complexity versus chaos
 author: "Jason Collins"
 date: 2014-12-18 08:00:25+00:00
 draft: false
-aliases:
-  - /complexity-versus-chaos
 ---
 
 Another clip from David Colander and Roland Kupers's [Complexity and the Art of Public Policy: Solving Society's Problems from the Bottom Up]() - a nice description of how two often confused terms, complexity and chaos, differ and interrelate:

@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2016-11-04 08:00:19+00:00
 draft: false
-aliases:
-  - /joness-hive-mind-how-your-nations-iq-matters-so-much-more-than-your-own
 title: 'Jones''s Hive Mind: How Your Nation’s IQ Matters So Much More Than Your Own'
 ---
 

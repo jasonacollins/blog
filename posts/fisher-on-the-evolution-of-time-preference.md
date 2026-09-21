@@ -3,8 +3,6 @@ title: Fisher on the evolution of time preference
 author: "Jason Collins"
 date: 2013-02-18 13:36:13+00:00
 draft: false
-aliases:
-  - /fisher-on-the-evolution-of-time-preference
 ---
 
 I am re-reading Fisher's *The Genetical Theory of Natural Selection* and was reminded of this passage that predates modern economic arguments about the evolution of the rate of time preference by over 50 years. For those who want to follow the maths, _m_ is the Malthusian parameter (the relative rate of increase or decrease of a population), _lx_ is the number living to age _x_, and _bx_ is the rate of reproduction at age _x_:

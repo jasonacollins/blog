@@ -4,8 +4,6 @@ author: "Jason Collins"
 date: 2022-07-28 15:30:00+10:00
 draft: false
 images: ["/img/Works-in-pogress-issue-08-cover-hi.png"]
-aliases:
-  - /please-not-another-bias-take-two
 ---
 
 In [my last post](please-not-another-bias-correcting-the-record.md) I discussed how I would like to redo my article "[Please Not Another Bias! An Evolutionary Take on Behavioural Economics](please-not-another-bias-an-evolutionary-take-on-behavioural-economics.md)". Apart from the removing the weak experimental evidence that I referenced, I wanted to make a few points more explicitly, such as the need for theory.

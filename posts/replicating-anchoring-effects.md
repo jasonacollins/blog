@@ -3,8 +3,6 @@ title: Replicating anchoring effects
 author: "Jason Collins"
 date: 2016-05-27 09:00:20+00:00
 draft: false
-aliases:
-  - /replicating-anchoring-effects
 ---
 
 The classic [Ariely, Loewenstein, and Prelec experiment](http://qje.oxfordjournals.org/content/118/1/73.short) ([ungated pdf](http://www.cmu.edu/dietrich/sds/docs/loewenstein/CoherentArbit.pdf)) ran as follows. Students are asked to think of the last two digits of their social security number - essentially a random number - as a dollar price. They are then asked whether they would be willing to buy certain consumer goods for that price or not. Finally, they are asked what is the most they would be willing to pay for each of these goods.

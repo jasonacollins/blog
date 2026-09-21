@@ -3,8 +3,6 @@ title: Ormerod's Why Most Things Fail
 author: "Jason Collins"
 date: 2012-07-28 09:18:41+00:00
 draft: false
-aliases:
-  - /ormerods-why-most-things-fail
 ---
 
 After sitting on my reading list for a few years, I have finally read Paul Ormerod's *Why Most Things Fail*. Ormerod's basic argument is that failure is all around us and given the complexity of the world, there are limits to how much corporations can control their fate or governments can control the success of their policies. Governments, firms and households lack complete information. They do not have the cognitive power to process the available information to determine the optimal choice. As a result, when you look at their success, the outcomes look more like the result of chance than of rational strategic decisions.

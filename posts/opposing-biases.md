@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2018-07-11 09:00:27+00:00
 draft: false
-aliases:
-  - /opposing-biases
 title: Opposing biases
 ---
 

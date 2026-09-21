@@ -3,8 +3,6 @@ title: The speed of cities - afterthoughts
 author: "Jason Collins"
 date: 2011-01-14 12:32:25+00:00
 draft: false
-aliases:
-  - /the-speed-of-cities-afterthoughts
 ---
 
 Having recently discussed [the pace of life](the-speed-of-cities-part-ii.md), I have found it interesting considering the implications.

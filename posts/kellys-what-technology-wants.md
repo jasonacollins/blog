@@ -3,8 +3,6 @@ title: Kelly's What Technology Wants
 author: "Jason Collins"
 date: 2012-09-19 13:03:59+00:00
 draft: false
-aliases:
-  - /kellys-what-technology-wants
 ---
 
 Technology wants increasing efficiency, opportunity, emergence, complexity, diversity, specialisation, ubiquity, freedom, mutualism, beauty, sentience, structure and evolvability. As Kevin Kelly argues in *What Technology Wants*, these are the same things that life wants. Technology extends evolution's four billion year path.

@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2016-02-15 08:00:44+00:00
 draft: false
-aliases:
-  - /thiels-zero-to-one
 title: Thiel's Zero to One
 ---
 

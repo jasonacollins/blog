@@ -4,8 +4,6 @@ author: "Jason Collins"
 
 date: 2014-09-30 09:03:48+00:00
 draft: false
-aliases:
-  - /the-genetic-basis-of-social-mobility
 ---
 
 In 2007’s *A Farewell to Alms: A Brief Economic History of the World*, Gregory Clark argued that the higher fertility of the rich in pre-industrial England sowed the seeds for the Industrial Revolution. As children resemble their parents, the increased number of prudent, productive people made possible the modern economic era.

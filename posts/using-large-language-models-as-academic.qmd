@@ -3,8 +3,6 @@ title: 'Using large language models as an academic'
 author: "Jason Collins"
 date: 2023-04-28 09:00:00+10:00
 draft: false
-aliases:
-  - /using-large-language-models-as-an-academic
 bibliography: references.bib
 ---
 

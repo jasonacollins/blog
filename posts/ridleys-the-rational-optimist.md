@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2012-04-16 11:22:44+00:00
 draft: false
-aliases:
-  - /ridleys-the-rational-optimist
 title: Matt Ridley's The Rational Optimist
 ---
 

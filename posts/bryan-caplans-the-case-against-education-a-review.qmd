@@ -3,8 +3,6 @@ title: "Bryan Caplan's The Case Against Education: A Review"
 author: "Jason Collins"
 date: 2024-04-19 12:00:00+10:00
 draft: false
-aliases:
-  - /bryan-caplans-the-case-against-education-a-review
 bibliography: references.bib
 toc: true
 ---

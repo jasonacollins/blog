@@ -4,8 +4,6 @@ author: "Jason Collins"
 
 date: 2014-11-17 08:19:31+00:00
 draft: false
-aliases:
-  - /e-o-wilsons-the-social-conquest-of-earth
 ---
 
 The re-eruption of the war of words between E.O. Wilson and Richard Dawkins has occurred just as I have come around to reading Wilson’s 2012 book *The Social Conquest of Earth*. In an interview on BBC2 (watch it at the bottom of this post), Wilson stated:

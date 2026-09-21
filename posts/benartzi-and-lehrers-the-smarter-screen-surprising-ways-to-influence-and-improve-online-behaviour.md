@@ -4,8 +4,6 @@ title: 'Benartzi (and Lehrer’s) The Smarter Screen: Surprising Ways to Influen
 author: "Jason Collins"
 date: 2018-01-10 08:00:38+00:00
 draft: false
-aliases:
-  - /benartzi-and-lehrers-the-smarter-screen-surprising-ways-to-influence-and-improve-online-behaviour
 ---
 
 The [replication crisis](bad-behavioural-science-failures-bias-and-fairy-tales.md) has ruined my ability to relax while reading a book built on social psychology foundations. The rolling sequence of interesting but small sample and possibly not replicable findings leaves me somewhat on edge. Shlomo Benartzi's (with Jonah Lehrer) *The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior* (2015) is one such case.

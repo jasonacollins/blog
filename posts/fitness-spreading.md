@@ -3,8 +3,6 @@ title: Fitness spreading
 author: "Jason Collins"
 date: 2010-12-12 03:23:15+00:00
 draft: false
-aliases:
-  - /fitness-spreading
 ---
 
 One of the issues at the core of my research is the speed of human evolution, particularly over the last 10,000 years. There are several potential arguments to suggest that the speed of human evolution is increasing, such as a larger population (creating a larger source of mutations) and the huge changes in environment that humans have experienced.

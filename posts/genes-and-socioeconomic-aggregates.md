@@ -4,8 +4,6 @@ author: "Jason Collins"
 
 date: 2014-06-24 13:18:09+00:00
 draft: false
-aliases:
-  - /genes-and-socioeconomic-aggregates
 ---
 
 In April, a [Conference on Genetics and Behaviour](https://hceconomics.uchicago.edu/events/conference-genetics-and-behavior) was held by the Human Capital and Economic Opportunity Global Working Group at the University of Chicago.

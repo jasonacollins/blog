@@ -4,8 +4,6 @@ author: "Jason Collins"
 
 date: 2014-10-11 06:00:37+00:00
 draft: false
-aliases:
-  - /lazy-analysis-inequality-edition
 ---
 
 Over at WSJ Real Time Economics, [Josh Zumbrun turns the following chart into a claim](http://blogs.wsj.com/economics/2014/10/07/sat-scores-and-income-inequality-how-wealthier-kids-rank-higher/?mod=WSJBlog) that "the SAT is just another area in American life where economic inequality results in much more than just disparate incomes."

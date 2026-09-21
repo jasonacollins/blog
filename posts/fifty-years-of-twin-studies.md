@@ -3,8 +3,6 @@ title: Fifty years of twin studies
 author: "Jason Collins"
 date: 2015-05-28 09:00:41+00:00
 draft: false
-aliases:
-  - /fifty-years-of-twin-studies
 ---
 
 If you're familiar with the literature, this is unsurprising. A [meta-analysis in Nature Genetics](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3285.html) of 2,748 twin study publications points to the strong role of genetics and the weak role of family influence (a major component of "shared environment") in shaping human traits. The abstract:

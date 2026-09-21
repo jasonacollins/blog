@@ -3,8 +3,6 @@ title: Height through the millennia
 author: "Jason Collins"
 date: 2013-06-17 12:19:20+00:00
 draft: false
-aliases:
-  - /height-through-the-millennia
 ---
 
 For the last year or so, I have had sitting in my "to blog" pile a 2004 [New Yorker article](http://www.newyorker.com/archive/2004/04/05/040405fa_fact?currentPage=all) about the increasing height of Europeans relative to Americans. It has a lot of interesting content. It talks about how height peaked in Europe around 800 AD, before declining through to 1700 (largely associated with the rise of cities), and then commencing an upward climb. It notes how Mexican-American teenagers have now equalled the United States norm, while American Mayan teenagers have gained four inches on Guatemalan Mayan teenagers in around two decades. The overarching point of the article is also interesting, that being the failure of heights to increase in the United States (after screening for issues around immigration, race etc.) since the 1950s while European heights continue to rise.

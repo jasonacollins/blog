@@ -3,8 +3,6 @@ title: It's a risky business attracting a mate
 author: "Jason Collins"
 date: 2010-08-09 05:00:00+00:00
 draft: false
-aliases:
-  - /its-a-risky-business-attracting-a-mate
 ---
 
 Last week, ABC's Catalyst had a [story on skateboarders](http://www.abc.net.au/catalyst/stories/2967720.htm) taking extra risks based on the presence of an attractive researcher. This was based on article published earlier in the year (Ronay, R. & von Hippel, W. (2010). The presence of an attractive  woman elevates testosterone and physical risk-taking in young men. _Social Psychological and Personality Science_, _1_, 57-64).

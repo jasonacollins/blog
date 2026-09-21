@@ -3,8 +3,6 @@ title: 'Gerd Gigerenzer''s Risk Savvy: How to Make Good Decisions'
 author: "Jason Collins"
 date: 2014-09-10 09:12:36+00:00
 draft: false
-aliases:
-  - /nudging-citizens-to-be-risk-savvy
 ---
 
 I should start this review of Gerd Gigerenzer's least satisfactory but still interesting book, *Risk Savvy: How to Make Good Decisions*, by saying that I am a huge Gigerenzer fan and that this book is still worth reading. But there was something about this book that grated at times, especially against the backdrop of his other fantastic work.

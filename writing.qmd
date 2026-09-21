@@ -1,7 +1,5 @@
 ---
 title: "Writing"
-aliases:
-  - /writing/
 resources:
   - pdfs/Collins_2013_Sex_in_the_economy.pdf
 ---

@@ -3,8 +3,6 @@ title: Post-crisis economics
 author: "Jason Collins"
 date: 2010-12-05 08:45:47+00:00
 draft: false
-aliases:
-  - /post-crisis-economics
 ---
 
 Over the weekend I listened to the three-part [Lionel Robbins Memorial Lectures 2010](http://cep.lse.ac.uk/_new/events/event.asp?id=109), this year given by Lord Adair Turner.

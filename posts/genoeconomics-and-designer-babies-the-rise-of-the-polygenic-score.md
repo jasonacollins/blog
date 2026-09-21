@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2018-11-23 08:00:38+00:00
 draft: false
-aliases:
-  - /genoeconomics-and-designer-babies-the-rise-of-the-polygenic-score
 title: 'Genoeconomics and designer babies: The rise of the polygenic score'
 ---
 

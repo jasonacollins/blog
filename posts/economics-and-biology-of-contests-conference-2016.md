@@ -3,8 +3,6 @@ title: Economics and Biology of Contests Conference 2016
 author: "Jason Collins"
 date: 2015-10-06 08:00:03+00:00
 draft: false
-aliases:
-  - /economics-and-biology-of-contests-conference-2016
 ---
 
 The Cooperation and Conflict in the Family conference of early last year has resulted in a follow-up event - the [Economics and Biology of Contests Conference 2016](http://www.contests-conference-2016.qut.edu.au/):

@@ -3,8 +3,6 @@ title: 'Behavioral science policy recommendations early in the pandemic were LAR
 author: "Jason Collins"
 date: 2023-12-22 09:00:00+10:00
 draft: false
-aliases:
-  - /behavioral-science-policy-recommendations-early-in-the-pandemic-were-largely-correct-if-you-ignore-those-that-were-not
 bibliography: references.bib
 ---
 

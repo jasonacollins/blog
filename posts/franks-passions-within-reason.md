@@ -3,8 +3,6 @@ title: Robert Frank's Passions Within Reason
 author: "Jason Collins"
 date: 2012-06-11 13:17:11+00:00
 draft: false
-aliases:
-  - /franks-passions-within-reason
 ---
 
 Since reading Robert Frank's [The Darwin Economy](franks-the-darwin-economy.md), I have been working through his back catalogue. The original and innovative *Passions Within Reason: The Strategic Role of the Emotions* is the best of Frank's books I have read so far.

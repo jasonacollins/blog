@@ -3,8 +3,6 @@ title: DeLong on the pace of evolution
 author: "Jason Collins"
 date: 2011-01-18 14:11:43+00:00
 draft: false
-aliases:
-  - /delong-on-the-pace-of-evolution
 ---
 
 Any theory that seeks to invoke human evolution as a factor in the Industrial Revolution needs to deal with how quickly humans can evolve and whether this rate of change is fast enough to be a factor.

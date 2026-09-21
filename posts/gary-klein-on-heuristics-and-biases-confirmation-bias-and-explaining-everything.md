@@ -3,8 +3,6 @@ title: Gary Klein on confirmation bias in heuristics and biases research, and ex
 author: "Jason Collins"
 date: 2018-12-27 11:00:58+00:00
 draft: false
-aliases:
-  - /gary-klein-on-heuristics-and-biases-confirmation-bias-and-explaining-everything
 ---
 
 ## Confirmation bias

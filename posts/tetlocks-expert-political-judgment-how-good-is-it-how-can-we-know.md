@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2016-08-25 09:00:06+00:00
 draft: false
-aliases:
-  - /tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know
 title: 'Tetlock''s Expert Political Judgment: How Good Is It? How Can We Know?'
 ---
 

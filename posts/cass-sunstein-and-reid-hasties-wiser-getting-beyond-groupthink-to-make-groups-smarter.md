@@ -3,9 +3,6 @@ title: 'Cass Sunstein and Reid Hastie''s Wiser: Getting Beyond Groupthink to Mak
 author: "Jason Collins"
 date: 2018-03-28 08:00:58+00:00
 draft: false
-aliases:
-  - /cass-sunstein-and-reid-hasties-wiser-getting-beyond-groupthink-to-make-groups-smarter
-
 ---
 
 Cass Sunstein and Reid Hastie's *Wiser: Getting Beyond Groupthink to Make Groups Smarter* is not an exciting read. However, it is a good catalogue of group decision-making research (leading to this post to also be somewhat of a catalogue) and worth reading for an overview.

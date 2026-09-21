@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2017-07-13 22:00:51+00:00
 draft: false
-aliases:
-  - /humans-vs-algorithms
 title: Humans vs algorithms
 ---
 

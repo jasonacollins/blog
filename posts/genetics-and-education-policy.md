@@ -3,8 +3,6 @@ title: Genetics and education policy
 author: "Jason Collins"
 date: 2014-11-19 08:00:19+00:00
 draft: false
-aliases:
-  - /genetics-and-education-policy
 ---
 
 Philip Ball has an article in the [December issue of Prospect](http://www.prospectmagazine.co.uk/opinions/there-is-no-gene-for-everything) ([ungated on his blog](http://philipball.blogspot.com.au/2014/11/the-gene-delusion.html)) arguing that consideration of the genetic basis to social problems is a distraction from socioeconomic causes. The strawman punchline for the Prospect article is "It's delusional to believe that everything can be explained by genetics".

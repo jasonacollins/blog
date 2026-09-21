@@ -3,8 +3,6 @@ title: "The psychological and genes' eye view of ergodicity economics"
 author: "Jason Collins"
 date: 2024-07-08 20:00:00+10:00
 draft: false
-aliases:
-  - /the-psychological-and-genes-eye-view-of-ergodicity-economics
 execute: 
   freeze: auto
 bibliography: references.bib

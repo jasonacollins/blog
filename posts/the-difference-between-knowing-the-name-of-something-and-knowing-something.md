@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2018-08-08 09:00:21+00:00
 draft: false
-aliases:
-  - /the-difference-between-knowing-the-name-of-something-and-knowing-something
 title: The difference between knowing the name of something and knowing something
 ---
 

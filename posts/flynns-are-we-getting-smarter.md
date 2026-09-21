@@ -3,8 +3,6 @@ title: Flynn's Are We Getting Smarter?
 author: "Jason Collins"
 date: 2013-02-25 13:38:02+00:00
 draft: false
-aliases:
-  - /flynns-are-we-getting-smarter
 ---
 
 James Flynn of [Flynn effect](http://en.wikipedia.org/wiki/Flynn_effect) fame has a relatively new book out, *Are We Getting Smarter?* I have found Flynn's earlier books to be easy but not great reads, and this book followed that pattern. However, reading them is worthwhile as they tend to provide a comprehensive update on the latest in IQ testing from around the globe. Flynn is also not afraid to throw in some interesting arguments.

@@ -5,8 +5,6 @@ date: 2021-09-05T09:00:00+00:00
 toc: true
 autoCollapseToc: true
 draft: false
-aliases:
-  - /course-notes-on-applied-consumer-financial-decision-making
 ---
 
 These notes are now out-of-date. See the updated notes [here](https://cfdm.jcx.au).

@@ -3,8 +3,6 @@ title: The evolution of cornets
 author: "Jason Collins"
 date: 2012-07-31 09:47:25+00:00
 draft: false
-aliases:
-  - /the-evolution-of-cornets
 ---
 
 In my recent [review of Paul Ormerod's Why Most Things Fail](ormerods-why-most-things-fail.md), I asked if Ormerod's comparison between the extinction of species and the death of firms was the right analogy. One reason for my question was that species are typically defined due to their reproductive isolation, preventing gene transfer between species. In contrast, the unit of selection for firms, business plan modules (the [name used by Eric Beinhocker](beinhockers-the-origin-of-wealth.md)), can spread freely spread between firms.

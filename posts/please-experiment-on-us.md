@@ -3,8 +3,6 @@ title: Please experiment on us
 author: "Jason Collins"
 date: 2015-06-23 09:00:19+00:00
 draft: false
-aliases:
-  - /please-experiment-on-us
 ---
 
 [Michelle Meyer and Christopher Chabris write](http://www.nytimes.com/2015/06/21/opinion/sunday/please-corporations-experiment-on-us.html):

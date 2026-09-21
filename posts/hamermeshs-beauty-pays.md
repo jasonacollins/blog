@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2011-09-20 11:30:20+00:00
 draft: false
-aliases:
-  - /hamermeshs-beauty-pays
 title: Hamermesh's Beauty Pays
 ---
 

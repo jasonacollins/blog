@@ -3,8 +3,6 @@ title: Manzi's Uncontrolled
 author: "Jason Collins"
 date: 2015-01-28 08:00:03+00:00
 draft: false
-aliases:
-  - /manzis-uncontrolled
 ---
 
 In social science, a myriad of factors can affect outcomes. Think of all the factors claimed to affect school achievement - student characteristics such as intelligence, conscientiousness, patience and willingness to work hard, parental characteristics such as income and education, and then there is genetics, socioeconomic status, school peers, teacher quality, class size, local crime and so on.

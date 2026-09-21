@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2012-02-17 09:43:10+00:00
 draft: false
-aliases:
-  - /harfords-adapt-why-success-always-starts-with-failure
 title: 'Harford’s Adapt: Why Success Always Starts with Failure'
 ---
 

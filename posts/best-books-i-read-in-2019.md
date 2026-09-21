@@ -3,8 +3,6 @@ title: 'Best books I read in 2019'
 author: "Jason Collins"
 date: 2020-01-28 09:00:00+00:00
 draft: false
-aliases:
-  - /best-books-i-read-in-2019
 ---
 Better late than never....
 

@@ -3,8 +3,6 @@ author: "Jason Collins"
 
 date: 2012-09-12 10:34:43+00:00
 draft: false
-aliases:
-  - /genetic-diversity-and-economic-development
 title: Genetic diversity and economic development
 ---
 

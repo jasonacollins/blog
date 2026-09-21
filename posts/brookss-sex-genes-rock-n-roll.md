@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2011-06-08 07:54:18+00:00
 draft: false
-aliases:
-  - /brookss-sex-genes-rock-n-roll
 title: Brooks's Sex, Genes & Rock 'n' Roll
 ---
 

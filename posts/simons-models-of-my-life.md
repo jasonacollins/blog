@@ -3,8 +3,6 @@ title: Simon's Models of My Life
 author: "Jason Collins"
 date: 2012-07-16 11:39:05+00:00
 draft: false
-aliases:
-  - /simons-models-of-my-life
 ---
 
 Herbert Simon's autobiography is probably not the best introduction to his work (I would suggest other starting points), but below are two paragraphs that caught my eye.

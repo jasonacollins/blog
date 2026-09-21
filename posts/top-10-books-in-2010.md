@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2010-12-31 01:46:07+00:00
 draft: false
-aliases:
-  - /top-10-books-in-2010
 title: My top 10 books in 2010
 ---
 

@@ -3,8 +3,6 @@ title: Humbling wingnuts
 author: "Jason Collins"
 date: 2014-04-11 13:42:25+00:00
 draft: false
-aliases:
-  - /humbling-wingnuts
 ---
 
 I have just read Cass Sunstein's short collection of essays *How to Humble a Wingnut and Other Lessons from Behavioral Economics*. It is a decent summary of the behavioural science literature on political bias, although there are few surprises and not a lot of fresh opinion.

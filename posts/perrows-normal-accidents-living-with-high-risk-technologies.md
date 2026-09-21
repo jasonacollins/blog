@@ -3,8 +3,6 @@ title: 'Charles Perrow’s Normal Accidents: Living with High-Risk Technologies'
 author: "Jason Collins"
 date: 2017-11-02 08:00:50+00:00
 draft: false
-aliases:
-  - /perrows-normal-accidents-living-with-high-risk-technologies
 ---
 
 A typical story in Charles Perrow’s *Normal Accidents: Living with High-Risk Technologies* runs like this.

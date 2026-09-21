@@ -3,8 +3,6 @@ title: The speed of cities
 author: "Jason Collins"
 date: 2011-01-10 12:47:53+00:00
 draft: false
-aliases:
-  - /the-speed-of-cities
 ---
 
 Over the weekend, I listened to a great Radiolab [podcast](http://www.radiolab.org/2010/oct/08/) in which [Bob Levine](http://www.radiolab.org/2010/oct/08/its-alive/) was interviewed about the pace of walking in cities. Bob spoke about how people tend to walk faster in larger cities, with this relationship surprisingly consistent. Where does this walking pace comes from. As the host Jad asked, do we make the city, or does the city make us?

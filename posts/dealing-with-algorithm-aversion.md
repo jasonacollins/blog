@@ -3,8 +3,6 @@ title: Dealing with algorithm aversion
 author: "Jason Collins"
 date: 2018-02-07 08:00:25+00:00
 draft: false
-aliases:
-  - /dealing-with-algorithm-aversion
 ---
 
 Over at Behavioral Scientist is [my latest contribution](https://behavioralscientist.org/what-to-do-when-algorithms-rule/). From the intro:

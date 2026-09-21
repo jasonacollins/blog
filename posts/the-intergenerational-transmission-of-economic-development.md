@@ -3,8 +3,6 @@ title: The intergenerational transmission of economic development
 author: "Jason Collins"
 date: 2013-07-31 12:00:36+00:00
 draft: false
-aliases:
-  - /the-intergenerational-transmission-of-economic-development
 ---
 
 In my last post, I noted one of the major themes of a new Journal of Economic Literature paper, [How Deep Are the Roots of Economic Development](https://doi.org/10.1257/jel.51.2.325) ([ungated pdf](http://sites.tufts.edu/enricospolaore/files/2012/08/RootsF.pdf)). Enrico Spolaore and Romain Wacziarg reviewed some literature that makes a strong case that it is population, not institutions, that underlies long-term economic growth. This post turns to the focus of the second half of the article - the genetic and cultural intergenerational transmission of development. If it is populations that underlie development, how are the traits that affect development passed through the generations?

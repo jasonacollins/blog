@@ -3,8 +3,6 @@ title: The winner effect in humans
 author: "Jason Collins"
 date: 2015-06-11 09:00:00+00:00
 draft: false
-aliases:
-  - /the-winner-effect-in-humans
 ---
 
 I am using some material from John Coates's excellent [The Hour Between Dog and Wolf](the-biology-of-boom-and-bust.md) for a presentation I am giving next week, and decided it was worth sharing here:

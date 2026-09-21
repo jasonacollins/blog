@@ -3,8 +3,6 @@ title: The value of a species
 author: "Jason Collins"
 date: 2010-10-06 05:23:00+00:00
 draft: false
-aliases:
-  - /the-value-of-a-species
 ---
 
 Today I listened to an old (2006) interview with E.O Wilson by Michael Novacek (thanks [NYAS](http://www.nyas.org/Publications/Media/PodcastDetail.aspx?cid=62b7947b-c3aa-4f18-beb9-957b96b8a9ab)). Wilson had a few criticisms of economics - the heavy basis in mathematics for one - and he stated that this had come at the expense of building a microeconomic foundation based on evolutionary biology.

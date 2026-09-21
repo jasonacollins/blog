@@ -3,8 +3,6 @@ title: Ongoing selection against violent behaviour
 author: "Jason Collins"
 date: 2012-08-18 10:17:53+00:00
 draft: false
-aliases:
-  - /ongoing-selection-against-violent-behaviour
 ---
 
 From Mark Pagel, author of *Wired for Culture: Origins of the Human Social Mind*, in [a RSA podcast](http://www.thersa.org/events/audio-and-past-events/2012/wired-for-culture):

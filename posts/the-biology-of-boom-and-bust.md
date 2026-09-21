@@ -3,8 +3,6 @@ title: The biology of boom and bust
 author: "Jason Collins"
 date: 2014-09-04 09:47:45+00:00
 draft: false
-aliases:
-  - /the-biology-of-boom-and-bust
 ---
 
 John Coates's excellent *The Hour Between Dog and Wolf: Risk Taking, Gut Feelings and the Biology of Boom and Bust* tells the story of the effect of hormones on decision making in finance. By the end of the book, the idea that traders are rational calculating machines driven by their brains is torn apart.

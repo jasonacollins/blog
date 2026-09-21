@@ -3,8 +3,6 @@ title: Better school performance leads to more children
 author: "Jason Collins"
 date: 2010-11-06 12:50:00+00:00
 draft: false
-aliases:
-  - /better-school-performance-leads-to-more-children
 ---
 
 An article by Anna Goodman and Ilona Koupil in last month's [Evolution and Human Behavior](http://www.ehbonline.org/article/S1090-5138(10)00069-3/abstract?elsca1=etoc&elsca2=email&elsca3=1090-5138_201011_31_6&elsca4=elsevier) found a link between school performance and number of children and grandchildren (in Sweden 1915-1929). This effect, as might be expected, held in males only. The number of children was linked almost entirely to whether the male married, with marriage largely a function of socioeconomic position. As most males married (around 90%), the effect of schooling performance on number of children was largely evidenced in those males at the bottom of the distribution.

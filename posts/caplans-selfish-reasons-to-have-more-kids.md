@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2011-05-09 09:06:08+00:00
 draft: false
-aliases:
-  - /caplans-selfish-reasons-to-have-more-kids
 title: Bryan Caplan's Selfish Reasons to Have More Kids
 ---
 

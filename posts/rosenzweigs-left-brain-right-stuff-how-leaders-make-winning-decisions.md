@@ -3,8 +3,6 @@ title: 'Rosenzweig''s Left Brain, Right Stuff: How Leaders Make Winning Decision
 author: "Jason Collins"
 date: 2016-11-25 08:00:28+00:00
 draft: false
-aliases:
-  - /rosenzweigs-left-brain-right-stuff-how-leaders-make-winning-decisions
 ---
 
 I was triggered to write my recent posts on [overconfidence](overconfident-about-overconfidence.md) and the [illusion of control](the-illusion-of-the-illusion-of-control.md) - pointing to doubts about the pervasiveness of these "biases" - by Phil Rosenzweig's entertaining *Left Brain, Right Stuff: How Leaders Make Winning Decisions*. Part of the value of Rosenzweig's book comes from his examination of some classic behavioural findings, as those recent posts show. But much of Rosenzweig's major point concerns the application of behavioural findings to real-world decision making.

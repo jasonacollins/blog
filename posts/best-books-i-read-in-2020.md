@@ -4,8 +4,6 @@ author: "Jason Collins"
 date: 2021-01-06 09:00:00+00:00
 lastmod: 2021-01-06 09:00:00+00:00
 draft: false
-aliases:
-  - /best-books-i-read-in-2020
 ---
 The best books I <em>read</em> in 2020 - generally released in other years - were:
 

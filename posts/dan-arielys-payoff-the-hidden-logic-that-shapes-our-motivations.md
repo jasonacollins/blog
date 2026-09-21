@@ -3,8 +3,6 @@ title: 'Dan Ariely’s Payoff: The Hidden Logic That Shapes Our Motivations'
 author: "Jason Collins"
 date: 2018-01-31 08:00:05+00:00
 draft: false
-aliases:
-  - /dan-arielys-payoff-the-hidden-logic-that-shapes-our-motivations
 ---
 
 If you have read Dan Ariely's [The Upside of Irrationality](arielys-upside-irrationality.md), there will be few surprises for you in his TED book *Payoff: The Hidden Logic That Shapes Our Motivations*. TED books are designed to be slightly longer explorations of topics from TED talks, but short enough to be read in one sitting. That makes it an easy, enjoyable, but not particularly deep read, with most of the results covered in The Upside. (Ariely's TED talk can be viewed at the bottom of this post.)

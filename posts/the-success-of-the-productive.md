@@ -3,8 +3,6 @@ title: The success of the productive
 author: "Jason Collins"
 date: 2013-03-25 13:29:50+00:00
 draft: false
-aliases:
-  - /the-success-of-the-productive
 ---
 
 In another great section from the *The Genetical Theory of Natural Selection*, R.A. Fisher argues that the free exchange of goods and private property rights are triumphs of human organisation:

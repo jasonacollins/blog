@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2018-06-27 18:00:31+00:00
 draft: false
-aliases:
-  - /explaining-the-hot-hand-fallacy-fallacy
 title: Explaining the hot-hand fallacy fallacy
 ---
 

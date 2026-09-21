@@ -4,9 +4,6 @@ author: "Jason Collins"
 date: 2012-01-18 12:33:37+00:00
 lastmod: 2012-01-18 12:33:37+00:00
 draft: false
-
-aliases:
-  - /kahnemans-thinking-fast-and-slow
 ---
 
 [[See my 2016 update](re-reading-kahnemans-thinking-fast-and-slow.md)]

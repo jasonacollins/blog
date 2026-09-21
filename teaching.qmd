@@ -1,7 +1,5 @@
 ---
 title: "Teaching"
-aliases:
-  - /teaching/
 ---
 
 Below are links to course notes for subjects I have taught over the last couple of years.

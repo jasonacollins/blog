@@ -3,8 +3,6 @@ title: The power of heuristics
 author: "Jason Collins"
 date: 2014-12-02 08:00:22+00:00
 draft: false
-aliases:
-  - /the-power-of-heuristics
 ---
 
 Gerd Gigerenzer is a strong advocate of the idea that simple heuristics can make us smart. We don't need complex models of the world to make good decisions.

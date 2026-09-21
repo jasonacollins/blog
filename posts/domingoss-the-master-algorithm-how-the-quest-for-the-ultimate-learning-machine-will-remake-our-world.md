@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2017-02-27 08:00:33+00:00
 draft: false
-aliases:
-  - /domingoss-the-master-algorithm-how-the-quest-for-the-ultimate-learning-machine-will-remake-our-world
 title: 'Pedro Domingos''s The Master Algorithm: How the Quest for the Ultimate Learning
   Machine Will Remake Our World'
 ---

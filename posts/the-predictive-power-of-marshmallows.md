@@ -3,8 +3,6 @@ title: The predictive power of marshmallows
 author: "Jason Collins"
 date: 2010-08-22 02:11:00+00:00
 draft: false
-aliases:
-  - /the-predictive-power-of-marshmallows
 ---
 
 I have gone through the back catalogue of podcasts for [WNYC’s Radiolab](http://www.radiolab.org/) for a couple of months now. I got into it after ABC radio substituted it for the [Science Show](http://www.abc.net.au/rn/scienceshow/default.htm) for two weeks in late June. It is sensational – great content and entertaining.

@@ -3,8 +3,6 @@ title: The behaviour genetics to eugenics to Nazi manoeuvre
 author: "Jason Collins"
 date: 2014-07-16 13:04:25+00:00
 draft: false
-aliases:
-  - /the-behaviour-genetics-to-eugenics-to-nazi-manoeuvre
 ---
 
 Recently, I've tended to roll my eyes rather than respond to poor commentary on behaviour genetics. But a[ review by Kate Douglas at New Scientist](http://www.newscientist.com/article/mg22329770.800-reaping-the-whirlwind-of-nazi-eugenics.html), in which she pulls the behaviour genetics to eugenics to Nazi manoeuvre, has pointed out a potentially interesting book.

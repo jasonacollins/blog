@@ -3,8 +3,6 @@ title: Debating the conjunction fallacy
 author: "Jason Collins"
 date: 2019-05-09 09:00:57+00:00
 draft: no
-aliases:
-  - /debating-the-conjunction-fallacy
 ---
 
 From [Eliezer Yudkowsky on Less Wrong](https://www.lesswrong.com/posts/cXzTpSiCrNGzeoRAz/conjunction-controversy-or-how-they-nail-it-down) (a few years old, but worth revisiting in the light of my [recent Gigerenzer v Kahneman and Tversky post](gigerenzer-versus-kahneman-and-tversky-the-1996-face-off.md)):

@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2016-07-18 09:00:13+00:00
 draft: false
-aliases:
-  - /lasts-what-to-expect-when-no-ones-expecting-americas-coming-demographic-disaster
 title: 'Last''s What to Expect When No One''s Expecting: America''s Coming Demographic
   Disaster'
 ---

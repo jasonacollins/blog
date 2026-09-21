@@ -3,8 +3,6 @@ title: 'Failure to replicate: ego depletion edition'
 author: "Jason Collins"
 date: 2016-04-15 09:00:41+00:00
 draft: false
-aliases:
-  - /failure-to-replicate-ego-depletion-edition
 ---
 
 [Ego depletion](https://en.wikipedia.org/wiki/Ego_depletion) is the idea that we have a limited supply of willpower. As we use it through the day, we become depleted and more likely to experience a willpower failure.

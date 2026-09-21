@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2017-08-15 21:13:22+00:00
 draft: false
-aliases:
-  - /is-it-irrational
 title: Is it irrational?
 ---
 

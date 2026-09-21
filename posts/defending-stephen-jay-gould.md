@@ -4,8 +4,6 @@ author: "Jason Collins"
 
 date: 2011-06-26 11:25:59+00:00
 draft: false
-aliases:
-  - /defending-stephen-jay-gould
 ---
 
 I've been waiting for someone to defend Stephen Jay Gould from the accusations contained in [a recent paper](https://doi.org/10.1371/journal.pbio.1001071) by Lewis and Colleagues. In a nutshell, the authors found that in Gould's analysis of skull measurements by Samuel Morton, "most of Gould's criticisms are poorly supported or falsified."

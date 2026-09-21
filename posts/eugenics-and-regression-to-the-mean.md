@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2012-05-28 12:20:58+00:00
 draft: false
-aliases:
-  - /eugenics-and-regression-to-the-mean
 title: Eugenics and regression to the mean
 ---
 

@@ -3,8 +3,6 @@ title: The illusion of the illusion of control
 author: "Jason Collins"
 date: 2016-11-21 08:00:59+00:00
 draft: false
-aliases:
-  - /the-illusion-of-the-illusion-of-control
 ---
 
 In the spirit of my [recent post on overconfidence](overconfident-about-overconfidence.md), the illusion of control is another "bias" where imperfect information might be a better explanation for what is occurring.

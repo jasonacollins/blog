@@ -1,11 +1,8 @@
 ---
 title: Is aid really so complex?
 author: "Jason Collins"
-
 date: 2011-01-20 13:29:03+00:00
 draft: false
-aliases:
-  - /is-aid-really-so-complex
 ---
 
 Since Bill Easterly [stuck his head above the parapet](http://www.guardian.co.uk/global-development/poverty-matters/2011/jan/14/ivory-coast-william-bill-easterly) last week and referred to complex systems in response to [Paul Collier](http://www.guardian.co.uk/global-development/poverty-matters/2011/jan/11/ivory-coast-elections-laurent-gbagbo-ousting), the "complexity" community has been up in arms. In a quick reference to complexity, Easterly wrote:

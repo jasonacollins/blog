@@ -3,8 +3,6 @@ title: Education in the developing world
 author: "Jason Collins"
 date: 2010-09-12 05:08:00+00:00
 draft: false
-aliases:
-  - /education-in-the-developing-world
 ---
 
 Following from [my recent blog](should-we-tax-education.md) on over-education, [Tyler Cowen's words on under-education](http://www.marginalrevolution.com/marginalrevolution/2010/09/my-debate-with-bryan-caplan-on-education.html) for most of the world should be noted.

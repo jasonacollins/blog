@@ -3,8 +3,6 @@ title: Consilience Conference
 author: "Jason Collins"
 date: 2012-01-21 12:20:00+00:00
 draft: false
-aliases:
-  - /consilience-conference
 ---
 
 Have just discovered the upcoming [Consilience Conference](http://consilienceconference.com/). From the blurb:

@@ -3,8 +3,6 @@ title: 'Susan Cain''s Quiet: The Power of Introverts in a World That Can''t Stop
 author: "Jason Collins"
 date: 2018-04-05 09:00:21+00:00
 draft: false
-aliases:
-  - /susan-cains-quiet-the-power-of-introverts-in-a-world-that-cant-stop-talking
 ---
 
 I have mixed views about Susan Cain's *Quiet: The Power of Introverts in a World That Can't Stop Talking*.

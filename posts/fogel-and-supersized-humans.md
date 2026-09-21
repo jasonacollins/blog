@@ -3,8 +3,6 @@ title: Fogel and supersized humans
 author: "Jason Collins"
 date: 2011-05-03 13:05:37+00:00
 draft: false
-aliases:
-  - /fogel-and-supersized-humans
 ---
 
 Last week, the New York Times ran [a profile](http://www.nytimes.com/2011/04/27/books/robert-w-fogel-investigates-human-evolution.html?_r=2&pagewanted=all) of economist Robert Fogel in anticipation of the release of the book *The Changing Body: Health, Nutrition, and Human Development in the Western World since 1700*, of which Fogel is a co-author. During his career, Fogel and his colleagues have amassed a mound of evidence on the shape and size of the human body and how this has changed over the last few hundred years. I have not read much of Fogel's work before, but the book looks like it is worth a look.

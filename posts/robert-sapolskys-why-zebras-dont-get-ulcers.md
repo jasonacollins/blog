@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2018-07-25 09:00:48+00:00
 draft: false
-aliases:
-  - /robert-sapolskys-why-zebras-dont-get-ulcers
 title: Robert Sapolsky’s Why Zebra’s Don’t Get Ulcers
 ---
 

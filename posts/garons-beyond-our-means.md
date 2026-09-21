@@ -3,8 +3,6 @@ title: Garon's Beyond Our Means
 author: "Jason Collins"
 date: 2012-01-04 12:29:14+00:00
 draft: false
-aliases:
-  - /garons-beyond-our-means
 ---
 
 The core message of Sheldon Garon's *Beyond Our Means: Why America Spends While the World Saves* is that people's savings behaviour responds to incentives and in particular, to the institutional structure and norms created by government. These incentives range from the availability of convenient savings accounts to the establishment of social norms.

@@ -4,8 +4,6 @@ author: "Jason Collins"
 
 date: 2015-02-11 08:00:46+00:00
 draft: false
-aliases:
-  - /charts-that-dont-seem-quite-right-organ-donation-edition
 ---
 
 Organ donation rates are an often used example of the power of defaults. Take the [following passage by Dan Ariely](http://freakonomics.com/2008/04/08/how-much-progress-have-psychology-and-psychiatry-really-made-a-freakonomics-quorum/), explaining this (also often used) chart from [Johnson and Goldstein (2003)](http://www.sciencemag.org/content/302/5649/1338) ([ungated pdf](http://www.dangoldstein.com/papers/DefaultsScience.pdf)):

@@ -3,8 +3,6 @@ title: Levine's Is Behavioural Economics Doomed?
 author: "Jason Collins"
 date: 2016-06-23 09:00:23+00:00
 draft: false
-aliases:
-  - /levines-is-behavioural-economics-doomed
 ---
 
 David Levine's [Is Behavioural Economics Doomed?](http://www.openbookpublishers.com/product/77) is a good but slightly frustrating read. I agree with Levine's central argument that rationality is underweighted in many applications of behavioural economics, and he provides many good examples of the power of traditional economic thinking. For someone unfamiliar with [game theory](https://en.wikipedia.org/wiki/Game_theory), this book is in some ways a good introduction (or more particularly, to the concept of [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium)). And for some of the points, Levine shows a richness in the literature that you don't often hear about if you only consume pop behavioural economics books.

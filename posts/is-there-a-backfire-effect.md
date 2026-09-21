@@ -3,8 +3,6 @@ title: Is there a "backfire effect"?
 author: "Jason Collins"
 date: 2018-01-17 08:00:45+00:00
 draft: false
-aliases:
-  - /is-there-a-backfire-effect
 ---
 
 I saw the answer hinted at in [a paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995128) released mid last-year ([covered on WNYC](https://www.wnyc.org/story/walking-back-backfire-effect?tab=transcript)), but Daniel Engber has now [put together a more persuasive case](https://slate.com/health-and-science/2018/01/weve-been-told-were-living-in-a-post-truth-age-dont-believe-it.html):

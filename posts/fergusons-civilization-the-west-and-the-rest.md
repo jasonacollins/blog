@@ -3,8 +3,6 @@ title: 'Ferguson''s Civilization: The West and the Rest'
 author: "Jason Collins"
 date: 2011-06-20 06:46:51+00:00
 draft: false
-aliases:
-  - /fergusons-civilization-the-west-and-the-rest
 ---
 
 With the cover of Niall Ferguson's Civilization: The West and the Rest stating that it is "Now a Major Channel Four Series", I should have foreseen the pace and structure of the book would be designed for entertainment and not presenting a painstakingly worked-through framework. Ferguson attributes the West's ascension to six "killer apps": competition, science, property rights, medicine, the consumer society and work ethic. As the West possessed all six of these apps, it was able to dominate the world for 500 years, with no other region possessing the full combination.

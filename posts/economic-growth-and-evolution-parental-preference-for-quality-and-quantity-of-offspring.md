@@ -3,8 +3,6 @@ title: 'Economic growth and evolution: Parental preference for quality and quant
 author: "Jason Collins"
 date: 2013-07-04 12:02:17+00:00
 draft: false
-aliases:
-  - /economic-growth-and-evolution-parental-preference-for-quality-and-quantity-of-offspring
 resources:
   - /pdfs/Collins_et_al_2013_Economic_growth_and_evolution_parental_preference_for_quality_and_quantity_of_offspring.pdf
 ---

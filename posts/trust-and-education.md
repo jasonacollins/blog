@@ -4,8 +4,6 @@ author: "Jason Collins"
 
 date: 2011-05-10 07:41:39+00:00
 draft: false
-aliases:
-  - /trust-and-education
 ---
 
 Razib Khan of [Gene Expression](http://blogs.discovermagazine.com/gnxp/) has put together [a series of charts](http://blogs.discovermagazine.com/gnxp/2011/05/the-slow-decline-of-trust-over-time/) on changes in trust in the United States over the last 40 years. The trust data comes from the [General Social Survey](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss10), and shows a slight decline in trust over this time.

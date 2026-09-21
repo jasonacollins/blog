@@ -3,8 +3,6 @@ title: "Chimps 1, Humans 0"
 author: "Jason Collins"
 date: 2012-05-16 10:34:01+00:00
 draft: false
-aliases:
-  - /chimps-1-humans-0
 ---
 
 *See an update [here](humans-1-chimps-0-correcting-the-record.qmd).*

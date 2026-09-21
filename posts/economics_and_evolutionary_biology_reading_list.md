@@ -4,8 +4,6 @@ author: "Jason Collins"
 date: 2012-04-01 09:00:00+00:00
 draft: false
 toc: true
-aliases:
-  - /economics-and-evolutionary-biology-reading-list
 ---
 
 Below is a suggested reading list for someone interested in the intersection of economics and evolutionary biology. If you have any recommendations for additions, please let me know.

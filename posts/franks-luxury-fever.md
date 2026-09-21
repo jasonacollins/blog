@@ -3,8 +3,6 @@ title: Frank's Luxury Fever
 author: "Jason Collins"
 date: 2012-01-27 22:05:11+00:00
 draft: false
-aliases:
-  - /franks-luxury-fever
 ---
 
 Following my reading of Robert Frank's [The Darwin Economy](franks-the-darwin-economy.md), I decided to read some of Frank's back catalogue. I started with *Luxury Fever: Weighing the Cost of Excess*, which was first released in 1999.

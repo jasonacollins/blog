@@ -3,8 +3,6 @@ title: The unrealistic assumptions of biology
 author: "Jason Collins"
 date: 2014-12-04 08:00:38+00:00
 draft: false
-aliases:
-  - /the-unrealistic-assumptions-of-biology
 ---
 
 Biologists are usually among the first to tell me that economists rely on unrealistic assumptions about human decision making. They laugh at the idea that people are rational optimisers who care only about maximising consumption.

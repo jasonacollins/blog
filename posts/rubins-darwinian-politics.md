@@ -3,8 +3,6 @@ title: Rubin's Darwinian Politics
 author: "Jason Collins"
 date: 2012-05-07 14:13:34+00:00
 draft: false
-aliases:
-  - /rubins-darwinian-politics
 ---
 
 The application of evolutionary biology to politics and policy spans the political spectrum. From Peter Singer's *A Darwinian Left* to Larry Arnhart's *Darwinian Conservatism* to Michael Shermer's [libertarianism](http://www.cato-unbound.org/2011/09/06/michael-shermer/liberty-and-science/), there is something in evolutionary biology for everyone.

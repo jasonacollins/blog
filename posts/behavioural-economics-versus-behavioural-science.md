@@ -3,8 +3,6 @@ title: '"Behavioural economics" versus "behavioural science"'
 author: "Jason Collins"
 date: 2013-10-30 13:22:17+00:00
 draft: false
-aliases:
-  - /behavioural-economics-versus-behavioural-science
 ---
 
 [In the comments](a-week-of-links-37.md), [Rory Sutherland](https://twitter.com/rorysutherland) writes:

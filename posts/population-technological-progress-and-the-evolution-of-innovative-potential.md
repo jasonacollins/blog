@@ -4,8 +4,6 @@ author: "Jason Collins"
 
 date: 2013-07-02 12:12:49+00:00
 draft: false
-aliases:
-  - /population-technological-progress-and-the-evolution-of-innovative-potential
 ---
 
 In his seminal paper [Population Growth and Technological Change: One Million B.C. to 1990](more-people-more-ideas-in-the-long-run.md), Michael Kremer combined two basic concepts to explain the greater than exponential population growth in human populations over the last million years.

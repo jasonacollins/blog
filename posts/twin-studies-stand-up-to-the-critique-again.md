@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2014-08-28 11:37:02+00:00
 draft: false
-aliases:
-  - /twin-studies-stand-up-to-the-critique-again
 title: Twin studies stand up to the critique, again
 ---
 

@@ -3,8 +3,6 @@ title: Kahneman and Tversky’s “debatable” loss aversion assumption
 author: "Jason Collins"
 date: 2019-09-10 09:00:59+00:00
 draft: false
-aliases:
-  - /kahneman-and-tverskys-debatable-loss-aversion-assumption
 ---
 
 Loss aversion is the idea that losses loom larger than gains. It is one of the foundational concepts in the judgment and decision making literature. In [Thinking, Fast and Slow](re-reading-kahnemans-thinking-fast-and-slow.md), Daniel Kahneman wrote "The concept of loss aversion is certainly the most significant contribution of psychology to behavioral economics."

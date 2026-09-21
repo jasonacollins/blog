@@ -3,8 +3,6 @@ title: In contrast to less-is-more claims, ignoring information is rarely, if ev
 author: "Jason Collins"
 date: 2018-12-20 08:00:35+00:00
 draft: false
-aliases:
-  - /in-contrast-to-less-is-more-claims-ignoring-information-is-rarely-if-ever-optimal
 ---
 
 From the abstract of an interesting paper [Heuristics as Bayesian inference under extreme priors](https://doi.org/10.1016/j.cogpsych.2017.11.006) by Paula Parpart and colleagues:

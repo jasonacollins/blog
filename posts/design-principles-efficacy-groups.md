@@ -3,8 +3,6 @@ title: Design principles for the efficacy of groups
 author: "Jason Collins"
 date: 2013-09-11 12:06:46+00:00
 draft: false
-aliases:
-  - /design-principles-efficacy-groups
 ---
 
 In [Tim Harford's article](http://timharford.com/2013/08/do-you-believe-in-sharing/) contrasting Lin Ostrom and [Garrett Hardin](population-and-the-tragedy-of-the-commons.md)'s approaches to the tragedy of the commons, he writes:

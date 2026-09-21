@@ -3,8 +3,6 @@ title: The blogs I read
 author: "Jason Collins"
 date: 2015-01-08 08:00:50+00:00
 draft: false
-aliases:
-  - /the-blogs-i-read
 ---
 
 Although [RSS](http://en.wikipedia.org/wiki/RSS) seems to be on the way out, I've found myself explaining feed readers to a few people recently. They asked for some suggestions of blogs to follow, so below are some from my reading list.

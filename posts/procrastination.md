@@ -3,8 +3,6 @@ title: Procrastination
 author: "Jason Collins"
 date: 2010-10-20 06:36:00+00:00
 draft: false
-aliases:
-  - /procrastination
 ---
 
 Procrastination bothers me. Not in the sense that I want to procrastinate, but biologically. Why would a tendency to procrastinate evolve?

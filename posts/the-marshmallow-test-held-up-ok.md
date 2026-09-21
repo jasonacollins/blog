@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2018-05-31 09:00:16+00:00
 draft: false
-aliases:
-  - /the-marshmallow-test-held-up-ok
 title: The marshmallow test held up OK
 ---
 

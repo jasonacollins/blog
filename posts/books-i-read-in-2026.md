@@ -19,6 +19,7 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 - Emily M. Bender and Alex Hanna, *The AI Con: How to Fight Big Tech's Hype and Create the Future We Want*
 - Max Bennet, *A Brief History of Intelligence*
 - Hannah Fry, *Hello World: How to be Human in the Age of the Machine*
+- Mo Gawdat, *Scary Smart: The Future of Artificial Intelligence and How You Can Save Our World*
 - Keach Hagey, *The Optimist: Sam Altman, OpenAI, and the Race to Invent the Future*
 - Verity Harding, *AI Needs You: How We Can Change AI's Future and Save Our Own*
 - Blake J. Harris, *The history of the future: Oculus, Facebook, and the revolution that swept virtual reality*
@@ -59,5 +60,6 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 - Martha Wells, *Network Effect*
 - Martha Wells, *Fugitive Telemetry*
 - Martha Wells, *System Collapse*
+- Martha Wells, *Platform Decay*
 
 Previous annual book lists: [2010](top-10-books-in-2010.md), [2011](best-books-i-read-in-2011.md), [2012](the-best-books-i-read-in-2012.md), [2013](best-books-i-read-in-2013.md), [2014](best-books-i-read-in-2014.md), [2015](best-books-i-read-in-2015.md), [2016](best-books-i-read-in-2016.md), [2017](best-books-i-read-in-2017.md), [2018](books-i-read-in-2018.md), [2019](best-books-i-read-in-2019.md), [2020](best-books-i-read-in-2020.md), [2021](best-books-i-read-in-2021.md), [2022](books-i-read-in-2022.md), [2023](books-i-read-in-2023.md), [2024](books-i-read-in-2024.md), [2025](books-i-read-in-2025.md)

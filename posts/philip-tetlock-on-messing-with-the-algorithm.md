@@ -3,8 +3,6 @@ title: Philip Tetlock on messing with the algorithm
 author: "Jason Collins"
 date: 2018-02-28 08:00:20+00:00
 draft: false
-aliases:
-  - /philip-tetlock-on-messing-with-the-algorithm
 ---
 
 [From an 80,000 hours podcast episode](https://80000hours.org/2017/11/prof-tetlock-predicting-the-future/):

@@ -4,8 +4,6 @@ author: "Jason Collins"
 
 date: 2012-01-24 12:07:38+00:00
 draft: false
-aliases:
-  - /excess-males
 ---
 
 Robin Hansen [writes](http://www.overcomingbias.com/2012/01/sex-ratio-signaling.html) on the sex selective abortion of females:

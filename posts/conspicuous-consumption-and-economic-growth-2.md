@@ -3,8 +3,6 @@ title: Conspicuous consumption and economic growth
 author: "Jason Collins"
 date: 2015-05-26 09:00:23+00:00
 draft: false
-aliases:
-  - /conspicuous-consumption-and-economic-growth-2
 resources:
   -/pdfs/Collins_et_al_2015_Sexual_Selection_Conspicuous_Consumption_and_Economic_Growth.pdf
 ---

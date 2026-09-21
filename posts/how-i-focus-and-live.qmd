@@ -3,8 +3,6 @@ title: "How I focus (and live)"
 author: "Jason Collins"
 date: 2018-04-19 09:00:26+00:00
 draft: false
-aliases:
-  - /how-i-focus-and-live
 ---
 
 This post is a record of some strategies that I use to focus and be mildly productive. It also records a few other features of my lifestyle.

@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2018-07-04 09:00:37+00:00
 draft: false
-aliases:
-  - /hypotheticals-versus-the-real-world-the-trolley-problem
 title: 'Hypotheticals versus the real world: The trolley problem'
 ---
 

@@ -3,8 +3,6 @@ title: Is intelligence at the root of cooperation?
 author: "Jason Collins"
 date: 2013-11-06 13:50:44+00:00
 draft: false
-aliases:
-  - /is-intelligence-at-the-root-of-cooperation
 ---
 
 From Boyd and Richerson's [The Origin and Evolution of Cultures](boyd-and-richersons-the-origin-and-evolution-of-cultures.md) (references removed):

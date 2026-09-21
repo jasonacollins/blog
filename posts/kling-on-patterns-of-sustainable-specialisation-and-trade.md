@@ -3,8 +3,6 @@ title: Kling on patterns of sustainable specialisation and trade
 author: "Jason Collins"
 date: 2011-02-15 11:31:50+00:00
 draft: false
-aliases:
-  - /kling-on-patterns-of-sustainable-specialisation-and-trade
 ---
 
 I have just listened to the recent Econtalk [podcast with Arnold Kling](http://www.econtalk.org/archives/2011/02/kling_on_patter.html) on his new "paradigm", Patterns of Sustainable Specialisation and Trade (PSST). On first thoughts, I am not convinced about the idea. If anything, the paradigm appears to need a lot more development - although reading Kling's blog posts, he may agree. I felt that many of the stories involved too much hand-waving and not enough empirical backbone to be convincing.

@@ -3,8 +3,6 @@ title: Thaler and Sunstein's Nudge
 author: "Jason Collins"
 date: 2013-11-04 13:34:50+00:00
 draft: false
-aliases:
-  - /thaler-and-sunsteins-nudge
 ---
 
 In the process of listening to audio versions of some of the less arduous books on my reading list, I have just listened to Richard Thaler and Cass Sunstein's *Nudge*.

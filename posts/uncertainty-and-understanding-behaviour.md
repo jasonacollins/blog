@@ -3,8 +3,6 @@ title: Uncertainty and understanding behaviour
 author: "Jason Collins"
 date: 2015-04-13 09:00:09+00:00
 draft: false
-aliases:
-  - /uncertainty-and-understanding-behaviour
 ---
 
 [From Cameron Murray](http://ckmurray.blogspot.com.au/2015/03/uncertainty-and-morality-in-dynamic.html) on [the trolley problem](http://en.wikipedia.org/wiki/Trolley_problem):

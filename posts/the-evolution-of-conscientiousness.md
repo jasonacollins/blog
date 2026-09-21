@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2011-06-16 08:15:52+00:00
 draft: false
-aliases:
-  - /the-evolution-of-conscientiousness
 title: The evolution of conscientiousness
 ---
 

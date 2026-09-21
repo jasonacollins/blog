@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2012-02-03 09:08:10+00:00
 draft: false
-aliases:
-  - /triverss-the-folly-of-fools
 title: Trivers's The Folly of Fools
 ---
 

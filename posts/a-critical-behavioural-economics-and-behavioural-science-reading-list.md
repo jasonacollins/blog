@@ -4,8 +4,6 @@ author: "Jason Collins"
 date: 2025-02-19 13:00:00+11:00
 draft: false
 toc: true
-aliases:
-  - /a-critical-behavioural-economics-and-behavioural-science-reading-list
 ---
 
 This reading list is a balance to the one-dimensional view in many popular books, TED talks, conferences, academic press releases and consultancy sales pitches. For those who feel they have a good understanding of the literature after reading [Thinking Fast and Slow](re-reading-kahnemans-thinking-fast-and-slow.md), [Predictably Irrational](arielys-predictably-irrational.md) and [Nudge](thaler-and-sunsteins-nudge.md), this is for you. \[In the time since I drafted the first version of this list in 2017, it's fair to say that the balance has swung a bit.\]

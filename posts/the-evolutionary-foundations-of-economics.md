@@ -3,8 +3,6 @@ title: The Evolutionary Foundations of Economics
 author: "Jason Collins"
 date: 2015-06-22 09:00:58+00:00
 draft: false
-aliases:
-  - /the-evolutionary-foundations-of-economics
 ---
 
 [I released this working paper a few months ago](https://research-repository.uwa.edu.au/en/publications/the-evolutionary-foundations-of-economics), but neglected to blog about it - I've written (with my supervisors) a review of the literature incorporating evolutionary theory into economics. The abstract:

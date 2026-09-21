@@ -3,8 +3,6 @@ title: Sports stars born early in the year
 author: "Jason Collins"
 date: 2010-09-12 01:06:00+00:00
 draft: false
-aliases:
-  - /sports-stars-born-early-in-the-year
 ---
 
 One of the more interesting pieces of evidence in the nature or nurture debate is the that athletes on professional sports teams tend to have a higher proportion of players born early in the year. Malcolm Gladwell documented this phenomenon for ice hockey players in his book [Outliers](gladwells-outliers.md). The basic idea is that when young, those born earlier in the year are bigger and faster than their peers and, as a result, tend to get more game time, are selected for further development and so on. This ongoing cycle amplifies the original difference. (The precise time of the year can change if the age cut-off is based on another date, but the same concept still holds.)

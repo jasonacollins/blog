@@ -3,8 +3,6 @@ author: "Jason Collins"
 title: 'Evolutionary Biology in Economics: A Review'
 date: 2016-05-10 09:00:17+00:00
 draft: false
-aliases:
-  - /evolutionary-biology-in-economics-a-review
 resources:
   - /pdfs/Collins_et_al_2016_Evolutionary_Biology_in_Economics_A_Review.pdf
 ---

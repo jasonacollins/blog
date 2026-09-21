@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2018-08-24 09:00:53+00:00
 draft: false
-aliases:
-  - /concern-about-the-tyranny-of-choice-or-condescension-towards-others-preferences
 title: Concern about the "tyranny of  choice"? Or condescension towards others’ preferences?
 ---
 

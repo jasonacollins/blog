@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2016-04-13 09:00:50+00:00
 draft: false
-aliases:
-  - /notes-on-a-few-books
 title: Notes on a few books
 ---
 

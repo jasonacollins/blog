@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2017-01-20 08:00:26+00:00
 draft: false
-aliases:
-  - /christian-and-griffithss-algorithms-to-live-by-the-computer-science-of-human-decisions
 title: 'Brian Christian and Tom Griffiths''s Algorithms to Live By: The Computer Science
   of Human Decisions'
 ---

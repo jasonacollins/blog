@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2011-03-04 12:18:02+00:00
 draft: false
-aliases:
-  - /crisis-in-human-genetics
 title: Crisis in human genetics?
 ---
 

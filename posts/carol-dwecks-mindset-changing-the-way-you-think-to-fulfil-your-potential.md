@@ -3,8 +3,6 @@ title: 'Carol Dweck’s Mindset: Changing the Way You Think to Fulfil Your Poten
 author: "Jason Collins"
 date: 2019-01-10 08:00:13+00:00
 draft: false
-aliases:
-  - /carol-dwecks-mindset-changing-the-way-you-think-to-fulfil-your-potential
 ---
 
 I did not find Carol Dweck's *Mindset: Changing the Way You Think to Fulfil Your Potential* to be a compelling translation of academic work into a popular book. To all the interesting debates concerning growth mindset - such as Scott Alexander's series of growth mindset posts ([1](https://slatestarcodex.com/2015/04/08/no-clarity-around-growth-mindset-yet/), [2](https://slatestarcodex.com/2015/04/10/i-will-never-have-the-ability-to-clearly-explain-my-beliefs-about-growth-mindset/), [3](https://slatestarcodex.com/2015/04/22/growth-mindset-3-a-pox-on-growth-your-houses/) and [4](https://slatestarcodex.com/2015/05/07/growth-mindset-4-growth-of-office/)), the recent [meta-analysis](https://doi.org/10.1177%2F0956797617739704) (with [Carol Dweck response)](https://theconversation.com/growth-mindset-interventions-yield-impressive-results-97423), and [replication](https://psyarxiv.com/md2qa) of the effect - the book adds little material that might influence your views. If you want to better understand the case for (or against) growth mindset and its link with ability or performance, skip the book, follow the above links and go to the academic literature.

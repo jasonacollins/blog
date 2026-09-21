@@ -3,8 +3,6 @@ title: Teaching evolution in economics
 author: "Jason Collins"
 date: 2012-03-28 10:45:26+00:00
 draft: false
-aliases:
-  - /teaching-evolution-in-economics
 ---
 
 At the start of the concluding chapter in Gad Saad's [The Evolutionary Bases of Consumption](saads-the-evolutionary-bases-of-consumption.md), Saad quotes Kenrick and Simpson as follows:

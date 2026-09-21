@@ -3,8 +3,6 @@ title: Overcoming implicit bias
 author: "Jason Collins"
 date: 2015-03-04 08:00:57+00:00
 draft: false
-aliases:
-  - /overcoming-implicit-bias
 ---
 
 I have been working through *The Behavioral Foundations of Public Policy*, edited by Eldar Shafir, and have mixed views so far. As I go through, I will note some interesting points.

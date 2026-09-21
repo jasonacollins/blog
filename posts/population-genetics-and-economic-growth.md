@@ -3,8 +3,6 @@ title: Population genetics and economic growth
 author: "Jason Collins"
 date: 2012-02-13 12:25:21+00:00
 draft: false
-aliases:
-  - /population-genetics-and-economic-growth
 ---
 
 The title of this post comes from [a 2002 paper](https://doi.org/10.1023/A:1020604724888) by Paul Zak and Kwang Woo Park. The title is mildly deceptive, as the paper has many elements and ideas crammed into it beyond population genetics. The model described by the authors includes working, consumption, saving, marriage, genetic diversity, sexual selection, intelligence, beauty, education, the [Flynn effect](http://en.wikipedia.org/wiki/Flynn_effect), family size effects and more. While many of these elements deserve consideration, this is ultimately the paper's weakness. Even though most of the assumptions are reasonable and well supported in the literature, the resulting mix is hard to disentangle, with a few factors dominating the results.

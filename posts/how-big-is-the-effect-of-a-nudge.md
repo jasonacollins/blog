@@ -4,9 +4,6 @@ author: "Jason Collins"
 date: 2022-02-10 21:00:00+00:00
 lastmod: 2022-02-10 21:00:00+00:00
 draft: false
-
-aliases:
-  - /how-big-is-the-effect-of-a-nudge
 ---
 
 Last month a [new meta-analysis of 'nudges'](https://doi.org/10.1073/pnas.2107346118) by Stephanie Mertens and friends was published, with a headline finding that:

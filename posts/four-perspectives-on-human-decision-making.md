@@ -3,8 +3,6 @@ title: Four perspectives on human decision making
 author: "Jason Collins"
 date: 2014-11-25 08:40:04+00:00
 draft: false
-aliases:
-  - /four-perspectives-on-human-decision-making
 ---
 
 I have been rereading Gerd Gigerenzer's collection of essays [Rationality for Mortals: How People Cope with Uncertainty](gerd-gigerenzers-rationality-for-mortals-how-people-cope-with-uncertainty.md). It covers most of Gigerenzer's typical turf - ecological rationality, heuristics that make us smart, understanding risk and so on.

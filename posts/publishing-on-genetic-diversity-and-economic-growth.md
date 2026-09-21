@@ -4,9 +4,6 @@ author: "Jason Collins"
 date: 2013-02-27 13:53:47+00:00
 lastmod: 2020-06-17 09:00:00+00:00
 draft: false
-
-aliases:
-  - /publishing-on-genetic-diversity-and-economic-growth
 ---
 
 Should Ashraf and Galor's paper [The ‘Out of Africa’ Hypothesis, Human Genetic Diversity, and Comparative Economic Development](the-out-of-africa-hypothesis-human-genetic-diversity-and-comparative-economic-development.md) have been published?

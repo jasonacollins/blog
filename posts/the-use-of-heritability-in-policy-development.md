@@ -3,8 +3,6 @@ title: The use of heritability in policy development
 author: "Jason Collins"
 date: 2011-12-13 09:58:03+00:00
 draft: false
-aliases:
-  - /the-use-of-heritability-in-policy-development
 ---
 
 The  [heritability straw man has copped another bashing](http://www.aeaweb.org/articles.php?doi=10.1257/jep.25.4.83), this time in the Journal of Economic Perspectives. In it, Charles Manski picks up an old line of argument by [Goldberger from 1979](http://www.jstor.org/pss/2553675) and argues that heritability research is uninformative for the analysis of policy.

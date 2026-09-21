@@ -3,8 +3,6 @@ title: Returns to self control - unemployment edition
 author: "Jason Collins"
 date: 2015-04-15 09:00:03+00:00
 draft: false
-aliases:
-  - /returns-to-self-control-unemployment-edition
 ---
 
 [A new paper in Psychological Science](http://pss.sagepub.com/content/early/2015/04/09/0956797615569001.full) by Michael Daly and friends:

@@ -3,8 +3,6 @@ title: "The return of group selection"
 author: "Jason Collins"
 date: 2012-04-03 11:16:09+00:00
 draft: false
-aliases:
-  - /the-return-of-group-selection
 ---
 
 In 2010, Martin Nowak, Corina Tarnita and Edward O Wilson had their paper [The evolution of eusociality](http://www.nature.com/nature/journal/v466/n7310/full/nature09205.html) published in Nature. They argued that [inclusive fitness](http://en.wikipedia.org/wiki/Inclusive_fitness) could not explain [eusociality](http://en.wikipedia.org/wiki/Eusociality), and that competition between groups was required as an explanatory factor. The anti-group selection forces were quick to mobilise. Apart from the many blog posts and column inches, Nature [published a response](http://www.nature.com/nature/journal/v471/n7339/full/nature09831.html) with 137 signatories defending the concept of inclusive fitness. One [paragraph](http://blogs.discovermagazine.com/loom/2011/03/23/inclusive-fitness-return-to-the-wrestling-ring/) by Carl Zimmer captures (for me) where the argument is at:

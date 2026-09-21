@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2017-07-19 09:00:51+00:00
 draft: false
-aliases:
-  - /kasparovs-deep-thinking-where-machine-intelligence-ends-and-human-creativity-begins
 title: 'Garry Kasparov''s Deep Thinking: Where Machine Intelligence Ends and Human
   Creativity Begins'
 ---

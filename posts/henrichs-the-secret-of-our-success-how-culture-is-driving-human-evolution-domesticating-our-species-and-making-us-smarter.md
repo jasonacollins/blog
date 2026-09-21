@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2016-11-14 08:00:22+00:00
 draft: false
-aliases:
-  - /henrichs-the-secret-of-our-success-how-culture-is-driving-human-evolution-domesticating-our-species-and-making-us-smarter
 title: 'Henrich’s The Secret of Our Success: How Culture Is Driving Human Evolution,
   Domesticating Our Species, and Making Us Smarter'
 ---

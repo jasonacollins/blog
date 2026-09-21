@@ -4,9 +4,6 @@ author: "Jason Collins"
 date: 2018-09-05 09:00:22+00:00
 lastmod: 2018-09-05 09:00:22+00:00
 draft: false
-
-aliases:
-  - /has-the-behavioural-economics-pendulum-swung-too-far
 ---
 
 Over at Behavioral Scientist, as part of their "Nudge Turns 10" special issue, is my latest article [When Everything Looks Like a Nail: Building Better “Behavioral Economics” Teams](https://behavioralscientist.org/when-everything-looks-like-a-nail-building-better-behavioral-economics-teams/). Here's the opening:

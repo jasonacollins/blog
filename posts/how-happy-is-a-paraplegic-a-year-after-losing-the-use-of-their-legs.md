@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2018-11-16 08:00:35+00:00
 draft: false
-aliases:
-  - /how-happy-is-a-paraplegic-a-year-after-losing-the-use-of-their-legs
 title: How happy is a paraplegic a year after losing the use of their legs?
 ---
 

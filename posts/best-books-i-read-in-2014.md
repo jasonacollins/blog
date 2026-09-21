@@ -3,9 +3,6 @@ title: Best books I read in 2014
 author: "Jason Collins"
 date: 2014-12-30 08:00:38+00:00
 draft: false
-aliases:
-  - /best-books-i-read-in-2014
-
 ---
 
 Continuing my tradition of giving the best books I read in the year - generally released in other years - the best books I read in 2014 are below (albeit from a smaller pool than usual).

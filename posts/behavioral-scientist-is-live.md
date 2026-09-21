@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2017-06-23 12:07:28+00:00
 draft: false
-aliases:
-  - /behavioral-scientist-is-live
 title: Behavioral Scientist is live
 ---
 

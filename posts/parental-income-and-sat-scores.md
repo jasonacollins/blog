@@ -3,8 +3,6 @@ title: Parental income and SAT scores
 author: "Jason Collins"
 date: 2012-02-22 12:52:52+00:00
 draft: false
-aliases:
-  - /parental-income-and-sat-scores
 ---
 
 To make his point that socioeconomic status is a major driver of educational outcomes, [Dan Pink](http://www.danpink.com/archives/2012/02/how-to-predict-a-students-sat-score-look-at-the-parents-tax-return) made the following chart. SAT scores are on the vertical axis, and family incomes on the horizontal axis.

@@ -3,8 +3,6 @@ title: The benefits of cognitive limits
 author: "Jason Collins"
 date: 2015-01-19 08:00:56+00:00
 draft: false
-aliases:
-  - /the-benefits-of-cognitive-limits
 ---
 
 Cleaning up some notes recently, I was reminded of another interesting piece from Gerd Gigerenzer's [Rationality for Mortals](gerd-gigerenzers-rationality-for-mortals-how-people-cope-with-uncertainty.md):

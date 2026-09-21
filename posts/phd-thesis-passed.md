@@ -3,8 +3,6 @@ title: PhD thesis passed
 author: "Jason Collins"
 date: 2015-11-16 08:00:19+00:00
 draft: false
-aliases:
-  - /phd-thesis-passed
 ---
 
 A couple of months ago I was notified that my PhD thesis had been passed ([full pdf here](/pdf/2015-11-16-phd-thesis-passed/jason-collins-thesis-final-20151025.pdf)). I have posted about each chapter before:

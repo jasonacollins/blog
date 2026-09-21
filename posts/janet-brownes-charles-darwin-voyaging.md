@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2011-02-19 01:19:02+00:00
 draft: false
-aliases:
-  - /janet-brownes-charles-darwin-voyaging
 title: 'Janet Browne''s Charles Darwin: Voyaging'
 ---
 

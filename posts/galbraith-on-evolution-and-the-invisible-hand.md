@@ -3,8 +3,6 @@ title: Galbraith on evolution and the invisible hand
 author: "Jason Collins"
 date: 2011-06-30 16:02:07+00:00
 draft: false
-aliases:
-  - /galbraith-on-evolution-and-the-invisible-hand
 ---
 
 Paul Krugman's oft-quoted critique of Stephen Jay Gould is one of the more brutal dismissals of his work (it is from a [1996 speech](http://web.mit.edu/krugman/www/evolute.html) on what economists can learn from evolutionary theorists):

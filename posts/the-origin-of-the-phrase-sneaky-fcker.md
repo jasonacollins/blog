@@ -3,8 +3,6 @@ title: The origin of the phrase "sneaky f**cker"
 author: "Jason Collins"
 date: 2014-01-08 13:58:15+00:00
 draft: false
-aliases:
-  - /the-origin-of-the-phrase-sneaky-fcker
 ---
 
 When low-status males have no chance of accessing females via traditional routes such as fighting or signalling their prowess, they may attempt more deceptive means of getting a mate.

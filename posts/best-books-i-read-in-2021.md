@@ -3,8 +3,6 @@ title: 'Best books I read in 2021'
 author: "Jason Collins"
 date: 2022-01-06 09:00:00+00:00
 draft: false
-aliases:
-  - /best-books-i-read-in-2021
 ---
 The best books I <em>read</em> in 2021 - generally released in other years - were:
 

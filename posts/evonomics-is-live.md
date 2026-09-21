@@ -3,8 +3,6 @@ title: Evonomics is live!
 author: "Jason Collins"
 date: 2015-10-12 08:00:38+00:00
 draft: false
-aliases:
-  - /evonomics-is-live
 ---
 
 The web magazine [Evonomics](http://evonomics.com/) is now live. The blurb:

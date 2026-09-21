@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2017-03-13 08:00:47+00:00
 draft: false
-aliases:
-  - /simple-heuristics-that-make-us-smart
 title: Gerd Gigerenzer, Peter Todd and the ABC Research Group's Simple Heuristics
   That Make Us Smart
 ---

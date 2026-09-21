@@ -3,8 +3,6 @@ title: 'The case against loss aversion'
 author: "Jason Collins"
 date: 2019-12-05 09:00:00+00:00
 draft: false
-aliases:
-  - /the-case-against-loss-aversion
 ---
 Summary: Much of the evidence for loss aversion is weak or ambiguous. The endowment effect and status quo bias are subject to multiple alternative explanations, including inertia. There is possibly better evidence for loss aversion in the response to risky bets, but what emerges does not appear to be a general principle of loss aversion. Rather, “loss aversion” is a conditional effect that most typically emerges when rejecting the bet is not the status quo and the stakes are material.
 

@@ -3,8 +3,6 @@ title: Do students learn less from experts?
 author: "Jason Collins"
 date: 2023-11-02 09:00:00+00:00
 draft: false
-aliases:
-  - /do-students-learn-less-from-experts/
 bibliography: references.bib
 ---
 

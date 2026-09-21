@@ -3,8 +3,6 @@ title: Evolutionary psychology, fertility and economic ambition
 author: "Jason Collins"
 date: 2013-04-10 12:16:54+00:00
 draft: false
-aliases:
-  - /evolutionary-psychology-fertility-and-economic-ambition
 ---
 
 Since the time of Darwin, the same evolutionary psychology debates have played out over and over. Here is Ronald A. Fisher in *The Genetical Theory of Natural Selection* (1930), addressing the type of argument that you can still hear today about the evolution of the human mind:

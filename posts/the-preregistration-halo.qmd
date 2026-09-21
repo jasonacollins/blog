@@ -3,8 +3,6 @@ title: 'The preregistration halo'
 author: "Jason Collins"
 date: 2024-01-26 17:00:00+10:00
 draft: false
-aliases:
-  - /the-preregistration-halo
 bibliography: references.bib
 ---
 

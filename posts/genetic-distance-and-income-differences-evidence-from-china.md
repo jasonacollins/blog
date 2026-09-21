@@ -3,8 +3,6 @@ title: Genetic distance and income differences - evidence from China
 author: "Jason Collins"
 date: 2013-03-13 13:40:35+00:00
 draft: false
-aliases:
-  - /genetic-distance-and-income-differences-evidence-from-china
 ---
 
 In a [paper in Economic Letters](https://doi.org/10.1016/j.econlet.2010.11.027) (ungated version [here](http://ihome.ust.hk/~sojk/Kung_files/Genetic%20distance%20and%20income%20difference.pdf)), Ying Bai and James Kung test [Spolaore and Wacziarg's hypothesis](genetic-distance-and-economic-development.md) on genetic distant and economic development:

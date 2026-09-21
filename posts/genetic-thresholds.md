@@ -3,8 +3,6 @@ title: Genetic thresholds
 author: "Jason Collins"
 date: 2011-06-23 10:35:53+00:00
 draft: false
-aliases:
-  - /genetic-thresholds
 ---
 
 In yesterday's [post on crime](crime-and-biology.md), I quoted [David Eagleman's statement](http://www.theatlantic.com/magazine/print/2011/07/the-brain-on-trial/8520/) that "we may someday find that many types of bad behaviour have a basic  biological  explanation—as has happened with schizophrenia, epilepsy,  depression,  and mania." What we now consider culpable behaviour may fall into the class of mental illness, with the criminal justice system adjusting its threshold so.

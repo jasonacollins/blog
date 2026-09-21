@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2013-09-18 12:48:07+00:00
 draft: false
-aliases:
-  - /evolutionary-economics
 title: What is evolutionary economics?
 ---
 

@@ -3,8 +3,6 @@ title: Hwang and Horowitt's The Rainforest
 author: "Jason Collins"
 date: 2013-04-30 12:59:11+00:00
 draft: false
-aliases:
-  - /hwang-and-horowitts-the-rainforest
 ---
 
 A couple of months ago I linked to a [piece by Ronald Coase](http://hbr.org/2012/12/saving-economics-from-the-economists) about the state of economics. Coase wrote:

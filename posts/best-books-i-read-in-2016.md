@@ -3,8 +3,6 @@ title: Best books I read in 2016
 author: "Jason Collins"
 date: 2017-01-17 08:00:06+00:00
 draft: false
-aliases:
-  - /best-books-i-read-in-2016
 ---
 
 The best books I _read_ in 2016 - generally released in other years - are below (in no particular order). For the non-fiction books, the links lead to my reviews.

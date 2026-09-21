@@ -3,8 +3,6 @@ title: 'Greg Ip''s Foolproof: Why Safety Can Be Dangerous and How Danger Makes U
 author: "Jason Collins"
 date: 2017-09-28 09:00:09+00:00
 draft: false
-aliases:
-  - /ips-foolproof-why-safety-can-be-dangerous-and-how-danger-makes-us-safe
 ---
 
 Greg Ip's framework in *Foolproof: Why Safety Can Be Dangerous and How Danger Makes Us Safe* is the contrast between what he calls the ecologists and engineers. Engineers seek to use the sum of our human knowledge to make us safer and the world more stable. Ecologists recognise that the world is complex and that people adapt, meaning that many of our solutions will have unintended consequences that can be worse than the problems we are trying to solve.

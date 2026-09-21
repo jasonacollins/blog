@@ -3,8 +3,6 @@ title: Brooks on hunter-gatherers and egalitarianism
 author: "Jason Collins"
 date: 2011-09-24 04:43:51+00:00
 draft: false
-aliases:
-  - /brooks-on-hunter-gatherers-and-egalitarianism
 ---
 
 Fitting nicely with my recent post on [human nature and libertarianism](human-nature-and-libertarianism.md), Rob Brooks [has the following to say](http://www.smh.com.au/opinion/society-and-culture/playing-fair-keeps-us-grounded-20110923-1kpat.html) on the mega-rich and people's sense of fairness:

@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2017-11-13 08:00:54+00:00
 draft: false
-aliases:
-  - /getting-the-right-human-machine-mix
 title: Getting the right human-machine mix
 ---
 

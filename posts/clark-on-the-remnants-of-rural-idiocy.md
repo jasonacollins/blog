@@ -3,8 +3,6 @@ title: Clark on the remnants of rural idiocy
 author: "Jason Collins"
 date: 2011-07-11 10:23:21+00:00
 draft: false
-aliases:
-  - /clark-on-the-remnants-of-rural-idiocy
 ---
 
 Another piece from the vault, this time *A Farewell to Alms* author Gregory Clark in [an interview](http://www.abc.net.au/radionational/programs/latenightlive/a-farewell-to-alms-gregory-clark/3198398) with Phillip Adams:

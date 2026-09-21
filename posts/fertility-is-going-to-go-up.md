@@ -3,8 +3,6 @@ title: Fertility is going to go up
 author: "Jason Collins"
 date: 2013-01-31 10:09:48+00:00
 draft: false
-aliases:
-  - /fertility-is-going-to-go-up
 ---
 
 In [my latest working paper](http://ssrn.com/abstract=2208886), co-authored with Oliver Richards, we argue that recent fertility increases in developed countries may only be the beginning. From the abstract:

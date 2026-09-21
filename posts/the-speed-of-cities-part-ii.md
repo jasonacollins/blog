@@ -3,8 +3,6 @@ title: The speed of cities, part II
 author: "Jason Collins"
 date: 2011-01-12 11:44:14+00:00
 draft: false
-aliases:
-  - /the-speed-of-cities-part-ii
 ---
 
 As I described in [my last post](the-speed-of-cities.md), there is a strong relationship between the size of cities and the residents’ speed of walking. The larger the city, the quicker its residents scamper from A to B. A number of studies have confirmed this relationship and have broadened the relationship to the speed of other activities (such as [betel nuts changing hands quicker](https://doi.org/10.1177/0022002183014003008) in Port Moresby than in rural centres in Papua New Guinea).

@@ -3,8 +3,6 @@ title: Social Darwinism is back
 author: "Jason Collins"
 date: 2013-07-24 12:05:21+00:00
 draft: false
-aliases:
-  - /social-darwinism-is-back
 ---
 
 A couple of weeks ago I flagged the Journal of Economic Behavior and Organization's (JEBO) special issue [Evolution as a General Theoretical Framework for Economics and Public Policy](http://www.sciencedirect.com/science/journal/01672681/90/supp/S). I thought I would open my commentary on the special issue by examining one of the popular press articles that accompanied its launch, a piece by David Sloan Wilson called [A good social Darwinism](http://www.aeonmagazine.com/living-together/how-evolution-can-reform-economics/).

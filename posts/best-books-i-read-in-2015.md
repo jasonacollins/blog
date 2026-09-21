@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2016-01-18 08:00:50+00:00
 draft: false
-aliases:
-  - /best-books-i-read-in-2015
 title: Best books I read in 2015
 ---
 

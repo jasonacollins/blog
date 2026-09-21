@@ -3,8 +3,6 @@ title: Re-reading Kahneman's Thinking, Fast and Slow
 author: "Jason Collins"
 date: 2016-06-29 09:00:32+00:00
 draft: false
-aliases:
-  - /re-reading-kahnemans-thinking-fast-and-slow
 ---
 
 A bit over four years ago I wrote a [glowing review](kahnemans-thinking-fast-and-slow.md) of Daniel Kahneman's Thinking, Fast and Slow. I described it as a "magnificent book" and "one of the best books I have read". I praised the way Kahneman threaded his story around the System 1 / System 2 dichotomy, and the coherence provided  by prospect theory.

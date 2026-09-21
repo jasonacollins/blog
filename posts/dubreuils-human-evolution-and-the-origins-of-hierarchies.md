@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2011-12-05 13:51:45+00:00
 draft: false
-aliases:
-  - /dubreuils-human-evolution-and-the-origins-of-hierarchies
 title: Dubreuil's Human Evolution and the Origins of Hierarchies
 ---
 

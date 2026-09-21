@@ -3,8 +3,6 @@ title: 'Masel''s Bypass Wall Street: A Biologist''s Guide to the Rat Race'
 author: "Jason Collins"
 date: 2016-04-06 09:00:17+00:00
 draft: false
-aliases:
-  - /masels-bypass-wall-street-a-biologists-guide-to-the-rat-race
 ---
 
 [Tyler Cowen described](http://marginalrevolution.com/marginalrevolution/2016/03/what-ive-been-reading-69.html) Joanna Masel's *Bypass Wall Street: A Biologist's Guide to the Rat Race* as "Darwin plus Fred Hirsch on positional goods as applied to finance and portfolios. Unorthodox, interesting."

@@ -3,8 +3,6 @@ title: Evolution and education policy
 author: "Jason Collins"
 date: 2012-01-13 12:31:46+00:00
 draft: false
-aliases:
-  - /evolution-and-education-policy
 ---
 
 A couple of months ago, David Sloan Wilson [posted on a project](http://scienceblogs.com/evolution/2011/11/27/proof-that-policies-informed-b/) he has been involved in with in the Binghamton City School District, which is also the subject of an [article in PLoS ONE](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0027826) by Wilson and his colleagues. The concept behind the project is that "[K]nowledge derived from general evolutionary principles and our own evolutionary history can be used to enhance cooperation in real-world situations, such as a program for at-risk high school students."

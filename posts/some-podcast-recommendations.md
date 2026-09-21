@@ -3,8 +3,6 @@ title: Some podcast recommendations
 author: "Jason Collins"
 date: 2018-03-21 08:00:01+00:00
 draft: false
-aliases:
-  - /some-podcast-recommendations
 ---
 
 What I've been listening to recently:

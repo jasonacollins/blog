@@ -3,8 +3,6 @@ title: Beauty as a fitness indicator
 author: "Jason Collins"
 date: 2011-10-01 11:35:17+00:00
 draft: false
-aliases:
-  - /beauty-as-a-fitness-indicator
 ---
 
 A [study](http://linkinghub.elsevier.com/retrieve/pii/S0165176511000681) by Berri and colleagues on quarterback performance and their attractiveness has gained some attention over the last couple of months:

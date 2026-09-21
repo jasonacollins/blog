@@ -3,8 +3,6 @@ title: 'Deep Rationality: The Evolutionary Economics of Decision Making'
 author: "Jason Collins"
 date: 2013-04-22 10:56:03+00:00
 draft: false
-aliases:
-  - /deep-rationality-the-evolutionary-economics-of-decision-making
 ---
 
 Even though I consider that I am across the literature at the boundary of economics and evolutionary biology, now and then an article pops up that I somehow missed. The latest article of this type is a 2009 article by Douglas Kenrick and colleagues, titled (as is this post) [Deep Rationality: The Evolutionary Economics of Decision Making](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2914349/). I found it through Dan Ariely's reading list for his Coursera course [A Beginner's Guide to Irrational Behaviour](https://www.coursera.org/course/behavioralecon). Kenrick [has also posted on the article](http://www.psychologytoday.com/blog/sex-murder-and-the-meaning-life/200911/deep-rationality) over at his blog

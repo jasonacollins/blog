@@ -3,8 +3,6 @@ title: Durant's The Paleo Manifesto
 author: "Jason Collins"
 date: 2015-02-04 08:00:22+00:00
 draft: false
-aliases:
-  - /durants-the-paleo-manifesto
 ---
 
 As someone whose diet broadly (in an 80:20 way) reflects paleo principles, I consume the occasional book on the subject. The latest is John Durant's *The Paleo Manifesto: Ancient Wisdom for Lifelong Health*, which (thankfully) didn't just repeat the same information you'll hear over and over again if you dip your toes into the paleo literature.

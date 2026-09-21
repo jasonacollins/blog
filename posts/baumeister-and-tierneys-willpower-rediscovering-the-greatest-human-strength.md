@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2016-07-15 09:00:19+00:00
 draft: false
-aliases:
-  - /baumeister-and-tierneys-willpower-rediscovering-the-greatest-human-strength
 title: 'Baumeister and Tierney''s Willpower: Rediscovering the Greatest Human Strength'
 ---
 

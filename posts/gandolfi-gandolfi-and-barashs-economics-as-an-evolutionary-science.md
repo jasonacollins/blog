@@ -3,8 +3,6 @@ title: Gandolfi, Gandolfi and Barash's Economics as an Evolutionary Science
 author: "Jason Collins"
 date: 2012-05-02 14:19:07+00:00
 draft: false
-aliases:
-  - /gandolfi-gandolfi-and-barashs-economics-as-an-evolutionary-science
 ---
 
 The fundamental insight that utility in economics should be based on the concept of fitness from evolutionary biology lies at the heart of Gandolfi, Gandolfi and Barash's *Economics as an Evolutionary Science: From Utility to Fitness*.

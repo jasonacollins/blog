@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2018-08-15 09:00:22+00:00
 draft: false
-aliases:
-  - /gerd-gigerenzers-rationality-for-mortals-how-people-cope-with-uncertainty
 title: 'Gerd Gigerenzer''s Rationality for Mortals: How People Cope with Uncertainty'
 ---
 

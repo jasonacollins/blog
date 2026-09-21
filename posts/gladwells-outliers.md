@@ -3,8 +3,6 @@ title: Gladwell's Outliers
 author: "Jason Collins"
 date: 2011-03-21 12:59:48+00:00
 draft: false
-aliases:
-  - /gladwells-outliers
 ---
 
 After flipping through Malcolm Gladwell's *Outliers: The Story of Success* late last year, I have finally read the book (nothing like over 30 hours of travel to get through a few).

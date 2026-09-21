@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2012-09-07 10:48:50+00:00
 draft: false
-aliases:
-  - /genoeconomics-and-the-encode-project
 title: Genoeconomics and the ENCODE project
 ---
 

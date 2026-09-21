@@ -3,8 +3,6 @@ title: Rosenzweig's The Halo Effect ... and the Eight Other Business Delusions T
 author: "Jason Collins"
 date: 2016-09-21 09:00:27+00:00
 draft: false
-aliases:
-  - /rosenzweigs-the-halo-effect-and-the-eight-other-business-delusions-that-deceive-managers
 ---
 
 Phil Rosenzweig's *The Halo Effect ... and the Eight Other Business Delusions That Deceive Managers* is largely an exercise of shooting fish in a barrel, but is an entertaining read regardless.

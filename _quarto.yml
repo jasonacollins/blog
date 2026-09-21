@@ -2,6 +2,7 @@ project:
   type: website
   post-render:
     - scripts/normalize-urls.ts https://blog.jcx.au
+    - scripts/build-redirects.ts
   render:
     - "*.md"
     - "*.qmd"
@@ -57,4 +58,3 @@ execute:
   error: true
   keep-md: false
   fig-pos: 'H'
-  

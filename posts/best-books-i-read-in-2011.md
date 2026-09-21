@@ -4,8 +4,6 @@ author: "Jason Collins"
 
 date: 2011-12-27 09:56:10+00:00
 draft: false
-aliases:
-  - /best-books-i-read-in-2011
 ---
 
 As for last year, this year's top book list comprises the best books I _have read_ this year. I haven't read enough books published in 2011 to be able to apply a decent filter, plus there are many books out there that we should not forget. In no particular order:

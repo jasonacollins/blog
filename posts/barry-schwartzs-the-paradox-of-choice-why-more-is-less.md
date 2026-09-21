@@ -3,8 +3,6 @@ title: 'Barry Schwartz''s The Paradox of Choice: Why More Is Less'
 author: "Jason Collins"
 date: 2019-02-25 08:00:34+00:00
 draft: false
-aliases:
-  - /barry-schwartzs-the-paradox-of-choice-why-more-is-less
 ---
 
 I typically find the argument that increased choice in the modern world is "tyrannising" us to be less than compelling. On this blog, I have approvingly quoted [Jim Manzi's warning](bad-behavioural-science-failures-bias-and-fairy-tales.md) against extrapolating the results of an experiment on two Saturdays in a particular store - the [famous jam experiment](not-the-jam-study-again.md) - into "grandiose claims about the benefits of choice to society." I recently [excerpted a section](concern-about-the-tyranny-of-choice-or-condescension-towards-others-preferences.md) from Bob Sugden's excellent [The Community of Advantage: A Behavioural Economist's Defence of the Market](robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market.md) on the idea that choice restriction "appeals to culturally conservative or snobbish attitudes of condescension towards some of the preferences to which markets cater."

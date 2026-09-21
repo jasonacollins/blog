@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2011-07-05 16:17:09+00:00
 draft: false
-aliases:
-  - /darwin-and-marx
 title: Darwin and Marx
 ---
 

@@ -3,8 +3,6 @@ title: Subsidise the rich for the good of our species
 author: "Jason Collins"
 date: 2012-03-16 13:05:43+00:00
 draft: false
-aliases:
-  - /subsidise-the-rich-for-the-good-of-our-species
 ---
 
 From [Michael Shermer’s review](http://www.skepticblog.org/2012/03/13/another-fatal-conceit/) of Robert Frank’s [The Darwin Economy](franks-the-darwin-economy.md):

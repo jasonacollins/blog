@@ -3,8 +3,6 @@ title: Consilience conference afterthoughts
 author: "Jason Collins"
 date: 2012-04-30 15:43:16+00:00
 draft: false
-aliases:
-  - /consilience-conference-afterthoughts
 ---
 
 The [Consilience Conference](http://consilienceconference.com/) on evolution in biology, the social sciences and the humanities wrapped up on Saturday, and it was generally a high quality conference. It's strength was that most of the presenters were doing work across multiple fields, usually with an evolutionary twist. Conferences such as these often involve people trying to frame existing work around the topic, even if it is a weak fit, but here the presenters' work generally fitted the subject nicely.

@@ -4,8 +4,6 @@ author: "Jason Collins"
 comments: false
 date: 2011-09-10 02:26:23+00:00
 draft: false
-aliases:
-  - /male-incentives
 ---
 
 In the comments to my [post last month](the-gender-gap.md) on the Cato Unbound series [New Girl Order: Are men in decline?](http://www.cato-unbound.org/archives/august-2011-are-men-in-decline/), there was some suggestion that men were being disincentivised from working hard by the increasing income and resources of women.

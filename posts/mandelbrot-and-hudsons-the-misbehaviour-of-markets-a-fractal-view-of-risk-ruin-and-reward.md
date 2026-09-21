@@ -4,8 +4,6 @@ author: "Jason Collins"
 
 date: 2016-10-12 08:00:26+00:00
 draft: false
-aliases:
-  - /mandelbrot-and-hudsons-the-misbehaviour-of-markets-a-fractal-view-of-risk-ruin-and-reward
 ---
 
 If you have read Nassim Taleb's *The Black Swan* you will have come across some of Benoit Mandelbrot's ideas. However, Mandelbrot and Hudson's *The (mis)Behaviour of Markets: A Fractal View of Risk, Ruin, and Reward* offers a much clearer critique of the underpinnings of modern financial theory (there are many parts of The Black Swan where I'm still not sure I understand what Taleb is saying). Mandelbrot describes and pulls apart the contributions of Markowitz, Sharpe, Black, Scholes and friends in a way likely understandable to the intelligent lay reader. I expect that might flow from science journalist Richard Hudson's involvement in writing the book.

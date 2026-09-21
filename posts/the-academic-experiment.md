@@ -4,9 +4,6 @@ author: "Jason Collins"
 date: 2022-02-04 09:00:00+00:00
 lastmod: 2022-02-04 09:00:00+00:00
 draft: false
-
-aliases:
-  - /the-academic-experiment
 ---
 
 This week I finally took the plunge and [joined academia](https://profiles.uts.edu.au/Jason.Collins). It's a possibility that has been lurking over me for close to ten years, although recently I had been of the view that the time had passed.

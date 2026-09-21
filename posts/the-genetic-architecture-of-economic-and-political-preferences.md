@@ -3,8 +3,6 @@ title: The genetic architecture of economic and political preferences
 author: "Jason Collins"
 date: 2012-05-11 09:06:53+00:00
 draft: false
-aliases:
-  - /the-genetic-architecture-of-economic-and-political-preferences
 ---
 
 Evidence from twin studies implies that economic and political traits have a significant heritable component. That is, some of the variation between people is attributable to genetic variation.

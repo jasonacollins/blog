@@ -3,8 +3,6 @@ title: Pinker on violence
 author: "Jason Collins"
 date: 2011-09-25 06:50:54+00:00
 draft: false
-aliases:
-  - /pinker-on-violence
 ---
 
 The WSJ has published an essay by Steven Pinker on the decline of violence, which is adapted from his upcoming book *The Better Angels of Our Nature: Why Violence Has Declined*. Pinker points out six major declines in violence in human history, starting with the shift from the hunter-gatherer life:

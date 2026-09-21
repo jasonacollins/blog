@@ -3,8 +3,6 @@ title: Clark on violence
 author: "Jason Collins"
 date: 2011-01-06 07:28:53+00:00
 draft: false
-aliases:
-  - /clark-on-violence
 ---
 
 In Greg Clark's excellent book [A Farewell to Alms](http://www.econ.ucdavis.edu/faculty/gclark/a_farewell_to_alms.html), Clark posited that there was only one important event in human history - the Industrial Revolution. Before that time, per capita income was effectively flat, with no discernible trend. That all changed around 1800 AD with the Industrial Revolution. Clark saw the [Neolithic revolution](http://en.wikipedia.org/wiki/Neolithic_Revolution) and the move to settled agriculture as simply an extension of hunting and gathering and symptomatic of the steadily improving efficiency that had occurred over the previous tens of thousands of years.

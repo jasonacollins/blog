@@ -3,8 +3,6 @@ title: The human factor in accidents
 author: "Jason Collins"
 date: 2015-06-17 09:00:43+00:00
 draft: false
-aliases:
-  - /the-human-factor-in-accidents
 ---
 
 The below passage is from [a neat article on how mistakes can save lives](http://www.newstatesman.com/2014/05/how-mistakes-can-save-lives).

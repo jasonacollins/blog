@@ -3,8 +3,6 @@ title: Strength by outbreeding
 author: "Jason Collins"
 date: 2012-02-02 12:46:10+00:00
 draft: false
-aliases:
-  - /strength-by-outbreeding
 ---
 
 I am reading Robert Trivers's [The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life](triverss-the-folly-of-fools.md). I will review in the next few days, but these passages on the benefits of outbreeding are particularly interesting:

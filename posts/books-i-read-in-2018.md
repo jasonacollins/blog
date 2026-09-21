@@ -3,8 +3,6 @@ title: Books I read in 2018
 author: "Jason Collins"
 date: 2019-01-03 08:00:01+00:00
 draft: false
-aliases:
-  - /books-i-read-in-2018
 ---
 
 The best books I _read_ in 2018 - generally released in other years - are below. Where I have reviewed, the link leads to that review.

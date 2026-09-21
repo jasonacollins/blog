@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2018-05-24 09:00:48+00:00
 draft: false
-aliases:
-  - /teacher-expectations-and-self-fulfilling-prophesies
 title: Teacher expectations and self-fulfilling prophesies
 ---
 

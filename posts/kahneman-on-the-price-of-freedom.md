@@ -3,8 +3,6 @@ title: Kahneman on the price of freedom
 author: "Jason Collins"
 date: 2012-02-28 12:48:20+00:00
 draft: false
-aliases:
-  - /kahneman-on-the-price-of-freedom
 ---
 
 From Daniel Kahneman's [Thinking, Fast and Slow](kahnemans-thinking-fast-and-slow.md):

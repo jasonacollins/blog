@@ -3,8 +3,6 @@ title: Robert Frank's The Darwin Economy
 author: "Jason Collins"
 date: 2011-10-07 14:07:45+00:00
 draft: false
-aliases:
-  - /franks-the-darwin-economy
 ---
 
 Adam Smith's invisible hand metaphor is one of the most powerful ideas in economics. Individual action, even in the pursuit of pure self-interest, can serve the interests of others.

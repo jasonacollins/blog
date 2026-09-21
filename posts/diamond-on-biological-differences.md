@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2011-03-13 01:56:57+00:00
 draft: false
-aliases:
-  - /diamond-on-biological-differences
 title: Diamond on biological differences
 ---
 

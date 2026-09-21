@@ -3,8 +3,6 @@ title: Ration information and avoid news
 author: "Jason Collins"
 date: 2015-06-01 09:00:26+00:00
 draft: false
-aliases:
-  - /ration-information-and-avoid-news
 ---
 
 I am rereading Nassim Taleb's *Antifragile: Things That Gain from Disorder*. The first time I read it was during a series of long-haul flights, so some parts of the book are almost unfamiliar.

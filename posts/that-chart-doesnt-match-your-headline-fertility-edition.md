@@ -4,8 +4,6 @@ author: "Jason Collins"
 
 date: 2015-01-14 08:00:20+00:00
 draft: false
-aliases:
-  - /that-chart-doesnt-match-your-headline-fertility-edition
 ---
 
 Under the heading "[Japan’s birth rate problem is way worse than anyone imagined](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/01/07/japans-birth-rate-problem-is-way-worse-than-anyone-imagined/?postshare=8121420725957701)", Ana Swanson at The Washington Post's Wonkblog shows the following chart:

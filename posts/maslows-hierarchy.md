@@ -3,8 +3,6 @@ title: Maslow's hierarchy
 author: "Jason Collins"
 date: 2011-06-09 07:54:04+00:00
 draft: false
-aliases:
-  - /maslows-hierarchy
 ---
 
 I've just read Geoffrey Miller's [Spent](millers-spent-sex-evolution-and-consumer-behavior.md), which I enjoyed. There are many interesting threads to the book, which I'll blog about over the coming weeks.

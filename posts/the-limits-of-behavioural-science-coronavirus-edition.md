@@ -4,8 +4,6 @@ author: "Jason Collins"
 date: 2020-04-07 09:00:00+00:00
 lastmod: 2020-04-07 09:00:00+00:00
 draft: false
-aliases:
-  - /the-limits-of-behavioural-science-coronavirus-edition
 ---
 Most articles on how behavioural science (or "behavioural economics") can explain "X" are rubbish. "How behavioural economics explains Donald Trump's election" or the equivalent would have been "How behavioural economics doomed Donald Trump" if he had failed to be elected. It's after-the-fact storytelling of no scientific substance.
 

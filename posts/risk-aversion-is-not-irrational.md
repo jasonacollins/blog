@@ -3,8 +3,6 @@ title: Risk aversion is not irrational
 author: "Jason Collins"
 date: 2012-02-09 12:36:13+00:00
 draft: false
-aliases:
-  - /risk-aversion-is-not-irrational
 ---
 
 Several times over the last few years, I have come across someone willing to claim that risk aversion is a bias or that standard economics cannot explain it (such as this claim by [David Sloan Wilson](wilson-on-economics-and-evolution.md) - although he mistakenly named it the Allais paradox).

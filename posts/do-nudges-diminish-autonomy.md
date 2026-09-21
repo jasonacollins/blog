@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2018-09-19 09:00:07+00:00
 draft: false
-aliases:
-  - /do-nudges-diminish-autonomy
 title: Do nudges diminish autonomy?
 ---
 

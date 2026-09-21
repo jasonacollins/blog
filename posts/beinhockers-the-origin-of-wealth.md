@@ -3,8 +3,6 @@ title: Beinhocker's The Origin of Wealth
 author: "Jason Collins"
 date: 2012-04-11 10:32:04+00:00
 draft: false
-aliases:
-  - /beinhockers-the-origin-of-wealth
 ---
 
 In *The Origin of Wealth: Evolution, Complexity, and the Radical Remaking of Economics*, Eric Beinhocker argues that the economy should be studied as a complex adaptive system made up of adaptive agents. The economy emerges from the interactions of those agents. It is an excellent book and possibly the best discussion of why the economy should be studied as a complex adaptive system. But as for other explorations of this area, Beinhocker does not successfully bring complexity economics to life as an applied science.

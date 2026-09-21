@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2018-07-18 09:00:46+00:00
 draft: false
-aliases:
-  - /tom-griffiths-on-gigerenzer-versus-kahneman-and-tversky-plus-a-neat-explanation-on-why-the-availability-heuristic-can-be-optimal
 title: Tom Griffiths on Gigerenzer versus Kahneman and Tversky. Plus a neat explanation
   on why the availability heuristic can be optimal
 ---

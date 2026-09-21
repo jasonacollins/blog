@@ -3,8 +3,6 @@ title: Veblen's The Theory of the Leisure Class, Part II
 author: "Jason Collins"
 date: 2011-05-16 07:54:44+00:00
 draft: false
-aliases:
-  - /veblens-the-theory-of-the-leisure-class-part-ii
 ---
 
 Following [last week's post](veblens-the-theory-of-the-leisure-class.md) on Thorstein Veblen's [The Theory of the Leisure Class](thorstein-veblens-the-theory-of-the-leisure-class.md), I've progressed through some more of the book (to chapter 9). It hasn't got any easier to read, but Veblen's interesting observations on conspicuous consumption, beauty and evolution keep flowing.

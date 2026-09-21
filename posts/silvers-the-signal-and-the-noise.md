@@ -3,8 +3,6 @@ title: Silver's The Signal and the Noise
 author: "Jason Collins"
 date: 2013-09-25 12:09:30+00:00
 draft: false
-aliases:
-  - /silvers-the-signal-and-the-noise
 ---
 
 I'd recommend Nate Silver's *The Signal and the Noise: Why So Many Predictions Fail but Some Don't* to anyone looking for a layman's tour of applied statistics. It is not a "how to" book, although there are plenty of principles (and suggestions to be humble) worth following. It's also not a book that gets too deep into any subject area, so for those areas I was familiar with, there were no surprises. But where I wasn't, I generally enjoyed it.

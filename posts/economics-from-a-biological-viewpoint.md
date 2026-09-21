@@ -3,8 +3,6 @@ title: Economics from a biological viewpoint
 author: "Jason Collins"
 date: 2013-04-01 12:16:21+00:00
 draft: false
-aliases:
-  - /economics-from-a-biological-viewpoint
 ---
 
 One of the earlier advocates of using evolutionary biology in economics was Jack Hirshleifer, a professor of economics at the University of California, Los Angeles. Hirshleifer was author of *The Dark Side of the Force: Economic Foundations of Conflict Theory*, which includes evolutionary analysis of cooperation and conflict, and some discussion of the unification of law, economics and evolutionary biology. The subject of this post is his 1997 article [Economics from a Biological Viewpoint](http://doi.org/10.1086/466891) from the Journal of Law and Economics. Coming on the heels of E.O. Wilson's *Sociobiology*, Hirshleifer states that there is no argument about the utility of using sociobiology in economics. The only open question is how much utility can be gained.

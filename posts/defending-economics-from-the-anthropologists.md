@@ -3,8 +3,6 @@ title: Defending economics from the anthropologists
 author: "Jason Collins"
 date: 2013-09-30 13:18:04+00:00
 draft: false
-aliases:
-  - /defending-economics-from-the-anthropologists
 ---
 
 Well, one anthropologist anyway. I'm normally the first person to admit that economics would benefit from incorporating findings from other fields into its understanding of human behaviour, be that from anthropology, biology, evolutionary psychology or whatever other field might yield useful insight. After all, that is one of my focuses for this blog. But sometimes the caricatures of economics become too much to bear. So for this post, I want to take a moment to defend economics.

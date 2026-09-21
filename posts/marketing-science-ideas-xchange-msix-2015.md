@@ -3,8 +3,6 @@ title: Marketing Science Ideas Xchange (MSiX) 2015
 author: "Jason Collins"
 date: 2015-06-15 09:00:18+00:00
 draft: false
-aliases:
-  - /marketing-science-ideas-xchange-msix-2015
 ---
 
 The 2015 Marketing Science Ideas Xchange - MSiX - [has been announced](http://mumbrella.com.au/harvard-business-schools-michael-norton-to-headline-mumbrellas-marketing-science-conference-msix-299347) for 30 July in Sydney. As it says [in the blurb](http://www.msix.com.au/), MSiX "is dedicated to exploring how brands can benefit from the interface between behavioural science and marketing."

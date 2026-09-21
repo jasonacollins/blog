@@ -3,8 +3,6 @@ title: The eugenics of contraception
 author: "Jason Collins"
 date: 2012-03-07 12:30:49+00:00
 draft: false
-aliases:
-  - /the-eugenics-of-contraception
 ---
 
 After copping some criticism for his [comments](http://www.thebigquestions.com/2012/03/02/rush-to-judgment/) on the coverage of female contraception in health insurance, [Steven Landsburg has noted](http://www.thebigquestions.com/2012/03/05/contraceptive-sponges/) that some arguments in its favour may have merit. Two of the more interesting he notes are as follows:

@@ -3,8 +3,6 @@ title: 'Gerd Gigerenzer’s Gut Feelings: Short Cuts to Better Decision Making'
 author: "Jason Collins"
 date: 2018-08-22 09:00:56+00:00
 draft: false
-aliases:
-  - /gerd-gigerenzers-gut-feelings-short-cuts-to-better-decision-making
 ---
 
 For many years I have been influenced by Gerd Gigerenzer's arguments about the power of simple heuristics and the underlying rationality to many human decisions. But I have contrasting reactions to different parts of Gerd Gigerenzer's body of work.

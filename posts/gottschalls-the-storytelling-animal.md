@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2016-04-01 08:00:39+00:00
 draft: false
-aliases:
-  - /gottschalls-the-storytelling-animal
 title: Gottschall's The Storytelling Animal
 ---
 

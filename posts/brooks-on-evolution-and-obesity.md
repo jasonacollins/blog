@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2011-07-19 09:15:08+00:00
 draft: false
-aliases:
-  - /brooks-on-evolution-and-obesity
 title: Brooks on evolution and obesity
 ---
 

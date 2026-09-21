@@ -3,8 +3,6 @@ title: 'Gigerenzer versus Kahneman and Tversky: The 1996 face-off'
 author: "Jason Collins"
 date: 2019-04-01 08:00:46+00:00
 draft: false
-aliases:
-  - /gigerenzer-versus-kahneman-and-tversky-the-1996-face-off
 ---
 
 Through the late 1980s and early 1990s, Gerd Gigerenzer and friends wrote a series of articles critiquing Daniel Kahneman and Amos Tversky's work on heuristic and biases. They hit hard. As Michael Lewis wrote in [The Undoing Project](michael-lewiss-the-undoing-project-a-friendship-that-changed-the-world.md):

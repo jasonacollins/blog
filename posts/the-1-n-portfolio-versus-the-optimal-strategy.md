@@ -4,9 +4,6 @@ author: "Jason Collins"
 date: 2022-01-21 09:00:00+00:00
 lastmod: 2022-01-21 09:00:00+00:00
 draft: false
-
-aliases:
-  - /the-1-n-portfolio-versus-the-optimal-strategy-does-a-simple-heuristic-outperform
 ---
 
 Gerd Gigerenzer is fond of telling a story about [Harry Markowitz](https://en.wikipedia.org/wiki/Harry_Markowitz), modern portfolio design pioneer and winner of the 1990 Nobel Memorial Prize in Economic Sciences.

@@ -3,8 +3,6 @@ title: People should use their judgment ... except they're often lousy at it
 author: "Jason Collins"
 date: 2018-03-14 08:00:49+00:00
 draft: false
-aliases:
-  - /people-should-use-their-judgment-except-theyre-often-lousy-at-it
 ---
 
 My Behavioral Scientist article, [Don't Touch The Computer](http://behavioralscientist.org/dont-touch-computer/) was in part a reaction to Andrew McAfee and Eric Brynjolfsson's book *The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies*. In particular, I felt their story of freestyle chess as an illustration of how humans and machines can work together was somewhat optimistic.

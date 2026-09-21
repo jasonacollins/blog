@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2011-03-28 12:49:32+00:00
 draft: false
-aliases:
-  - /income-and-iq
 title: Income and IQ
 ---
 

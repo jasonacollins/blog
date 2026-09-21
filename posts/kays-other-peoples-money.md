@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2016-03-08 08:00:16+00:00
 draft: false
-aliases:
-  - /kays-other-peoples-money
 title: Kay's Other People's Money
 ---
 

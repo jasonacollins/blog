@@ -2,8 +2,6 @@
 author: "Jason Collins"
 date: 2012-12-28 08:07:45+00:00
 draft: false
-aliases:
-  - /the-best-books-i-read-in-2012
 title: The best books I read in 2012
 ---
 

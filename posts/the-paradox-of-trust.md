@@ -4,8 +4,6 @@ author: "Jason Collins"
 date: 2018-10-04 09:00:54+00:00
 draft: false
 slug: the-paradox-of-trust
-aliases:
-  - /the-paradox-of-trust
 ---
 
 In a chapter of Robert Sugden's [The Community of Advantage: A Behavioural Economist's Defence of the Market](robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market.md), he makes some interesting arguments about how we should interpret the results of the [trust game](https://en.wikibooks.org/wiki/Bestiary_of_Behavioral_Economics/Trust_Game).
