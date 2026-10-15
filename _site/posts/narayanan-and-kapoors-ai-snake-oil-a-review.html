@@ -1,2 +1,729 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"></html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.25">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Jason Collins">
+<meta name="dcterms.date" content="2026-10-16">
+
+<title>Narayanan and Kapoor’s AI Snake Oil: a review – Jason Collins blog</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../logo.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-9be722aa83fbcc428616ae682c30a50a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-XR5VGQXN14"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
+</script>
+
+
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="Narayanan and Kapoor’s AI Snake Oil: a review – Jason Collins blog">
+<meta property="og:description" content="Behavioural economics, data science and artificial intelligence.">
+<meta property="og:image" content="https://blog.jcx.au/posts/img/ai-snake-oil.png">
+<meta property="og:site_name" content="Jason Collins blog">
+<meta property="og:image:height" content="941">
+<meta property="og:image:width" content="1672">
+<meta name="twitter:title" content="Narayanan and Kapoor’s AI Snake Oil: a review – Jason Collins blog">
+<meta name="twitter:description" content="Behavioural economics, data science and artificial intelligence.">
+<meta name="twitter:image" content="https://blog.jcx.au/posts/img/ai-snake-oil.png">
+<meta name="twitter:image-height" content="941">
+<meta name="twitter:image-width" content="1672">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://blog.jcx.au/posts/narayanan-and-kapoors-ai-snake-oil-a-review">
+</head>
+
+<body class="nav-fixed fullcontent quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    </a>
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Jason Collins blog</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.jcx.au"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../research.html"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../subscribe.html"> 
+<span class="menu-text">Subscribe</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../teaching.html"> 
+<span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="../index.xml"> <i class="bi bi-rss" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Narayanan and Kapoor’s AI Snake Oil: a review</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Jason Collins </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">October 16, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>For those who want a credible critique of AI hype or the idea that superintelligent AI is an existential threat (and who have realised that Gary Marcus doesn’t fit that bill), Arvind Narayanan and Sayash Kapoor are not a bad place to turn. They appear thoughtful, engage with those they disagree with (such as the <a href="https://asteriskmag.substack.com/p/common-ground-between-ai-2027-and">AI 2027</a> crew) and do a great job getting into the weeds.</p>
+<p>Written after a <a href="https://www.cs.princeton.edu/~arvindn/talks/MIT-STS-AI-snakeoil.pdf">presentation</a><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> went viral, Narayanan and Kapoor’s <a href="https://www.normaltech.ai/p/starting-reading-the-ai-snake-oil">AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference</a> takes the potential of AI seriously while not waiting for singularity. Although some arguments are shallow, the book is worth reading. Their critique of business practice is excellent. However, their less-developed arguments that AI does not present an existential threat (albeit developed a lot more since the book was published) are not as strong.</p>
+<section id="what-is-ai" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-ai">What is AI?</h2>
+<p>Narayanan and Kapoor start the book by critiquing the umbrella term “artificial intelligence”. This is a useful beginning. In many business contexts, products sold as AI can involve anything from simple decision rules or linear regression to random forests or support vector machines to large language models. In other circles, artificial intelligence and generative AI are synonyms, despite the huge range of approaches to AI that don’t fall under the generative AI banner.<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></p>
+<p>To cut through this nomenclature issue, Narayanan and Kapoor draw a line between “predictive AI” and “generative AI”. Predictive AI is the use of AI to predict outcomes, particularly human behaviour, to support decision making (think predicting whether someone will buy a product or breach their bail conditions). Generative AI is the generation of content we have become increasingly familiar with via large language models such as ChatGPT or image generation tools like Midjourney or Dall-E.<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></p>
+<p>While I would be tempted to slice predictive AI even finer - there’s a big gap between an automated decision rule and a random forest algorithm - for the purposes of a book, their distinction is useful. What is interesting, however, are their views on these two approaches. Their critique of predictive AI is essentially that it isn’t any good. In contrast, they are much more positive about generative AI.</p>
+</section>
+<section id="predictive-ai" class="level2">
+<h2 class="anchored" data-anchor-id="predictive-ai">Predictive AI</h2>
+<p>A good illustration of their predictive AI critique concerns a competition led by Matt Salganik (Narayanan’s regular research partner). Salganik and friends <span class="citation" data-cites="salganik2020">(<a href="#ref-salganik2020" role="doc-biblioref">2020</a>)</span> provided 160 teams with data from the <a href="https://en.wikipedia.org/wiki/Future_of_Families_and_Child_Wellbeing_Study">Fragile Families and Child Wellbeing Study</a> and asked them to predict six life outcomes, such as the child’s grade point average, household material hardship and primary caregiver participation in job training. The result is typically quoted - as it is by Narayanan and Kapoor - as a failure of prediction. The paper abstract states that “the best predictions were not very accurate and were only slightly better than those from a simple benchmark model”. Narayanan and Kapoor state “the best models were only slightly better than a coin flip”. In more technical terms, the R<sup>2</sup> of the best predictions was around 0.2 for material hardship and GPA, and around 0.05 for the other four. That means that between 5% and 20% in the variation in those outcomes is “explained” by the models.</p>
+<p>There’s a glass half-empty view of prediction - and that is certainly the one Narayanan and Kapoor take. Their third chapter is titled “Why Can’t AI Predict the Future?”. But there’s also a half-full perspective.</p>
+<p>Although an R<sup>2</sup> of 0.2 doesn’t sound very good, under certain assumptions it means there is a correlation of around 0.45 between the predicted and actual outcomes. Suppose student marks average 65 out of 100, with a standard deviation of 15. Under certain assumptions, the 10% of students ranked highest by the model would average around 77. That’s much better than picking students at random.</p>
+<p>Using a model with this level of accuracy in risk identification could also substantially boost your accuracy. If you wanted to pick the 10% of students who most need help, picking randomly would have you only identify 10% of them. Using the model would boost this to close to 30%. Still a lot of uncertainty, but better than pretending you haven’t learned anything.</p>
+<p>The four outcomes for which there was an R<sup>2</sup> of 0.05 provide less scope for benefit. However, three of those four are binary outcomes, which tends to result in low R<sup>2</sup> even when the model ranks relatively well.</p>
+<p>Narayanan and Kapoor’s discussion of the COMPAS case study provides another illustration of their view. COMPAS is a private algorithm, based on 137 questions answered by defendants, used to predict appearance in court or future arrest for a crime. They note the <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">report by ProPublica</a> which (among other things) found that when comparing pairs of people, one of whom would go on to commit a crime and the other would not, the algorithm only rated the person arrested in the future higher 64% of the time. As they say, that’s “only slightly better than deciding a defendant’s fate based on a coin flip”. (Which is kind of ridiculous considering the algorithm ranks the one who reoffends higher 2 out of 3 times. I’m guessing those two aren’t bettors.) They further mention that COMPAS does not outperform an algorithm using only age and prior offences as inputs or the judgement of non-experts (who probably have the sense to see that repeat offenders will continue to offend).</p>
+<p>Narayanan and Kapoor also raise the headline ProPublica critique that the COMPAS algorithm had a higher false positive rate for black than white defendants, without noting that is an inevitable consequence of equal precision but disparate re-arrest rates. You have to trade off the various definitions of fairness!<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a> (Here’s <a href="https://www.theamericanconservative.com/does-pre-crime-have-a-race-problem/">Robert VerBruggen making this point</a> and a more technical analysis by <span class="citation" data-cites="kleinberg2016">Kleinberg et al. (<a href="#ref-kleinberg2016" role="doc-biblioref">2016</a>)</span>.)</p>
+<p>I have sympathy for some points of their critique, such as the opaque proprietary nature of the algorithm and its complexity. As they note, there is no shortage of businesses flogging off overly complex and opaque predictive algorithms that will typically deliver a fraction of the benefits they promise. And desperate for an edge, there is no shortage of buyers of snake oil.</p>
+<p>But during their critique they also hint at the benefits of predictive algorithms, such as noting the predictive power of age and prior offences as a predictor of future criminal offences. Unfortunately, they don’t flip this hint into a recommendation. They don’t push the alternative of a simple, transparent (and free!) decision rule —&nbsp;which they have noted exists — leaving a lot of benefit on the table. This new simple algorithm probably has a low R<sup>2</sup> if applied across the whole population, but is likely a good improvement on randomness or the human alternative.<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a></p>
+<p>Beyond accuracy, a simple automated decision tool allows us to have a discussion about what types of fairness trade-offs we are willing to make and, once we have decided on the trade-off we prefer, to actually implement it. With human decision makers, we’ll get poor, biased decisions, and to the extent they exhibit any consistency in their decisions, that trade-off will always exist but be out of our control.</p>
+</section>
+<section id="generative-ai" class="level2">
+<h2 class="anchored" data-anchor-id="generative-ai">Generative AI</h2>
+<p>Their other type of AI is generative AI, which Narayanan and Kapoor are surprisingly positive about (considering how it’s being packaged by many snake oil salespeople). They state they are enthusiastic users in work and their personal lives. They see its benefits for programmers, knowledge workers and science. They appreciate how it can be accessed by everyone.</p>
+<p>They identify risks such as misinformation, surveillance, misappropriation of creative labour and deepfakes, but these are engineering or policy problems for which they see solutions. They believe there has been major progress on problems of bias and offensive outputs, and hallucinations are going down. Exploitation of workers concerns them, but this can be addressed through labour regulation (pushed by collective action). While they believe regulation can be fast, they don’t see the need for much new regulation, with most of what’s needed being enforcement of existing regulations such as those against deceptive practices.</p>
+<p>They even argue that the incoming wave of AI could also just be considered the next stage in a battle between labour and automation, with generative AI providing a new flash point. Big changes might be needed, but they are of the type we have debated many times before.</p>
+<p>I don’t have a hot take on this perspective on generative AI, except to say that, even ignoring the potential for existential risk, I’m not sure they’re ready for just how disruptive it might be. The speed and breadth of coming changes may not look like anything we have seen before.</p>
+</section>
+<section id="existential-risk" class="level2">
+<h2 class="anchored" data-anchor-id="existential-risk">Existential risk</h2>
+<p>Narayanan and Kapoor’s technocratic and bureaucratic approach to generative AI is feasible because they don’t see AI as an existential threat. Their chapter on why this is the case is the weakest part of the book. They rarely engage with the strongest arguments - although since the publication of this book, they have engaged in more depth through venues such as their <a href="https://www.normaltech.ai/">AI as a normal technology</a> blog.</p>
+<p>For example, they write the following in response to the <a href="https://en.wikipedia.org/wiki/Instrumental_convergence#Paperclip_maximizer">paperclip maximiser thought experiment</a>:</p>
+<blockquote class="blockquote">
+<p>The main problem with this argument is that it posits an agent that is unfathomably powerful yet lacks an iota of common sense to recognize the absurdity of the request, and will thus interpret it extremely literally, oblivious to the fact that it goes against human safety. This kind of mindless, literal interpretation is characteristic of traditional AI agents, which are programmed with knowledge of only a very narrow domain.</p>
+</blockquote>
+<p>This common-sense objection is old. The literature is full of replies to it. Yet they give no indication of having read and engaged with it. Their response conflates knowing and caring. It doesn’t ask whether “common sense” will really result in alignment with human values versus converging on goals such as power accumulation and self-preservation. Narayanan and Kapoor are hoping for alignment by default without making the argument for why it might occur. They could have made this argument, but instead they’re stuck in a debate from 2003.</p>
+<p>Their treatment of experts who believe that there are existential risks also grates. In noting that their views differ from AI experts - who they then subsequently strawman rather than actually dealing with their arguments - Narayanan and Kapoor present a range of “biases” these experts might have. If AGI is imminent, it adds grandeur to your work. AI experts are “hedgehogs” in <a href="../posts/tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know.html">Philip Tetlock’s forecasting dichotomy</a>, in that they know one big thing and fail to integrate information from other domains. Those who selected into AI research likely dream of building big, all knowing machines.</p>
+<p>This ad hominem junk gives me the shits. Let’s try it on them. Their whole schtick is debunking the threat from AI, so obviously they’re going to present this side of the argument. They are hedgehogs in that they’re trying to jam everything into their AI as a Normal Technology framework. None of which tells us whether they’re right.</p>
+<p>Thankfully, their engagement with AI experts and those worried about existential risk has stepped up since this book. I recommend <a href="https://www.normaltech.ai">having a look</a>.</p>
+
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-kleinberg2018" class="csl-entry" role="listitem">
+Kleinberg, J., Lakkaraju, H., Leskovec, J., Ludwig, J., and Mullainathan, S. (2018). Human decisions and machine predictions*. <em>The Quarterly Journal of Economics</em>, <em>133</em>(1), 237–293. <a href="https://doi.org/10.1093/qje/qjx032">https://doi.org/10.1093/qje/qjx032</a>
+</div>
+<div id="ref-kleinberg2016" class="csl-entry" role="listitem">
+Kleinberg, J., Mullainathan, S., and Raghavan, M. (2016). <em>Inherent trade-offs in the fair determination of risk scores</em>. <a href="https://doi.org/10.48550/arXiv.1609.05807">https://doi.org/10.48550/arXiv.1609.05807</a>
+</div>
+<div id="ref-salganik2020" class="csl-entry" role="listitem">
+Salganik, M. J., Lundberg, I., Kindel, A. T., Ahearn, C. E., Al-Ghoneim, K., … McLanahan, S. (2020). Measuring the predictability of life outcomes with a scientific mass collaboration. <em>Proceedings of the National Academy of Sciences</em>, <em>117</em>(15), 8398–8403. <a href="https://doi.org/10.1073/pnas.1915006117">https://doi.org/10.1073/pnas.1915006117</a>
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>The original 2019 presentation was not recorded, but it led to many later <a href="https://www.cs.princeton.edu/news/how-recognize-ai-snake-oil">re-runs</a>.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>The 2022 edition of Russell and Norvig’s <em>Artificial Intelligence: A Modern Approach</em> sitting on my dinner table has 58 of its 1166 pages dedicated to language and 10 pages to the transformer architecture that underlies modern LLMs.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>This boundary between predictive and generative AI is often blurred. There is no shortage of people giving generative AI predictive tasks (e.g.&nbsp;<a href="https://www.forecastbench.org/">ForecastBench</a>).<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4"><p>Narayanan knows this too. He’s a coauthor of <a href="https://fairmlbook.org/">Fairness and Machine Learning</a>, which includes discussion of this trade-off.<a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn5"><p>For example, see <span class="citation" data-cites="kleinberg2018">Kleinberg et al. (<a href="#ref-kleinberg2018" role="doc-biblioref">2018</a>)</span><a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/blog\.jcx\.au");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<input type="hidden" id="giscus-base-theme" value="light">
+<input type="hidden" id="giscus-alt-theme" value="light">
+<script>
+  function loadGiscus() {
+    // Function to get the theme based on body class
+    const getTheme = () => {
+      let baseTheme = document.getElementById('giscus-base-theme').value;
+      let altTheme = document.getElementById('giscus-alt-theme').value;
+      return document.body.classList.contains('quarto-dark') ? altTheme : baseTheme;
+    };
+    const script = document.createElement("script");
+    script.src = "https://giscus.app/client.js";
+    script.async = true;
+    script.dataset.repo = "jasonacollins/blog";
+    script.dataset.repoId = "R_kgDOIbjYgQ";
+    script.dataset.category = "Announcements";
+    script.dataset.categoryId = "DIC_kwDOIbjYgc4CSiuB";
+    script.dataset.mapping = "pathname";
+    script.dataset.reactionsEnabled = "0";
+    script.dataset.emitMetadata = "0";
+    script.dataset.inputPosition = "bottom";
+    script.dataset.theme = getTheme();
+    script.dataset.lang = "en";
+    script.crossOrigin = "anonymous";
+    // Append the script to the desired div instead of at the end of the body
+    document.getElementById("quarto-content").appendChild(script);
+  }
+  loadGiscus();
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="https://creativecommons.org/licenses/by/4.0/">
+<p>Copyright: CC-BY</p>
+</a>
+  </li>  
+</ul>
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

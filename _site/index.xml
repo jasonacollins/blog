@@ -9,8 +9,86 @@
 <link>https://blog.jcx.au/</link>
 <atom:link href="https://blog.jcx.au/index.xml" rel="self" type="application/rss+xml"/>
 <description>Behavioural economics, data science and artificial intelligence.</description>
-<generator>quarto-1.10.18</generator>
-<lastBuildDate>Wed, 09 Sep 2026 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Thu, 15 Oct 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Narayanan and Kapoor’s AI Snake Oil: a review</title>
+  <dc:creator>Jason Collins</dc:creator>
+  <link>https://blog.jcx.au/posts/narayanan-and-kapoors-ai-snake-oil-a-review.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>For those who want a credible critique of AI hype or the idea that superintelligent AI is an existential threat (and who have realised that Gary Marcus doesn’t fit that bill), Arvind Narayanan and Sayash Kapoor are not a bad place to turn. They appear thoughtful, engage with those they disagree with (such as the <a href="https://asteriskmag.substack.com/p/common-ground-between-ai-2027-and">AI 2027</a> crew) and do a great job getting into the weeds.</p>
+<p>Written after a <a href="https://www.cs.princeton.edu/~arvindn/talks/MIT-STS-AI-snakeoil.pdf">presentation</a><sup>1</sup> went viral, Narayanan and Kapoor’s <a href="https://www.normaltech.ai/p/starting-reading-the-ai-snake-oil">AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference</a> takes the potential of AI seriously while not waiting for singularity. Although some arguments are shallow, the book is worth reading. Their critique of business practice is excellent. However, their less-developed arguments that AI does not present an existential threat (albeit developed a lot more since the book was published) are not as strong.</p>
+<section id="what-is-ai" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-ai">What is AI?</h2>
+<p>Narayanan and Kapoor start the book by critiquing the umbrella term “artificial intelligence”. This is a useful beginning. In many business contexts, products sold as AI can involve anything from simple decision rules or linear regression to random forests or support vector machines to large language models. In other circles, artificial intelligence and generative AI are synonyms, despite the huge range of approaches to AI that don’t fall under the generative AI banner.<sup>2</sup></p>
+<p>To cut through this nomenclature issue, Narayanan and Kapoor draw a line between “predictive AI” and “generative AI”. Predictive AI is the use of AI to predict outcomes, particularly human behaviour, to support decision making (think predicting whether someone will buy a product or breach their bail conditions). Generative AI is the generation of content we have become increasingly familiar with via large language models such as ChatGPT or image generation tools like Midjourney or Dall-E.<sup>3</sup></p>
+<p>While I would be tempted to slice predictive AI even finer - there’s a big gap between an automated decision rule and a random forest algorithm - for the purposes of a book, their distinction is useful. What is interesting, however, are their views on these two approaches. Their critique of predictive AI is essentially that it isn’t any good. In contrast, they are much more positive about generative AI.</p>
+</section>
+<section id="predictive-ai" class="level2">
+<h2 class="anchored" data-anchor-id="predictive-ai">Predictive AI</h2>
+<p>A good illustration of their predictive AI critique concerns a competition led by Matt Salganik (Narayanan’s regular research partner). Salganik and friends <span class="citation" data-cites="salganik2020">(2020)</span> provided 160 teams with data from the <a href="https://en.wikipedia.org/wiki/Future_of_Families_and_Child_Wellbeing_Study">Fragile Families and Child Wellbeing Study</a> and asked them to predict six life outcomes, such as the child’s grade point average, household material hardship and primary caregiver participation in job training. The result is typically quoted - as it is by Narayanan and Kapoor - as a failure of prediction. The paper abstract states that “the best predictions were not very accurate and were only slightly better than those from a simple benchmark model”. Narayanan and Kapoor state “the best models were only slightly better than a coin flip”. In more technical terms, the R<sup>2</sup> of the best predictions was around 0.2 for material hardship and GPA, and around 0.05 for the other four. That means that between 5% and 20% in the variation in those outcomes is “explained” by the models.</p>
+<p>There’s a glass half-empty view of prediction - and that is certainly the one Narayanan and Kapoor take. Their third chapter is titled “Why Can’t AI Predict the Future?”. But there’s also a half-full perspective.</p>
+<p>Although an R<sup>2</sup> of 0.2 doesn’t sound very good, under certain assumptions it means there is a correlation of around 0.45 between the predicted and actual outcomes. Suppose student marks average 65 out of 100, with a standard deviation of 15. Under certain assumptions, the 10% of students ranked highest by the model would average around 77. That’s much better than picking students at random.</p>
+<p>Using a model with this level of accuracy in risk identification could also substantially boost your accuracy. If you wanted to pick the 10% of students who most need help, picking randomly would have you only identify 10% of them. Using the model would boost this to close to 30%. Still a lot of uncertainty, but better than pretending you haven’t learned anything.</p>
+<p>The four outcomes for which there was an R<sup>2</sup> of 0.05 provide less scope for benefit. However, three of those four are binary outcomes, which tends to result in low R<sup>2</sup> even when the model ranks relatively well.</p>
+<p>Narayanan and Kapoor’s discussion of the COMPAS case study provides another illustration of their view. COMPAS is a private algorithm, based on 137 questions answered by defendants, used to predict appearance in court or future arrest for a crime. They note the <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">report by ProPublica</a> which (among other things) found that when comparing pairs of people, one of whom would go on to commit a crime and the other would not, the algorithm only rated the person arrested in the future higher 64% of the time. As they say, that’s “only slightly better than deciding a defendant’s fate based on a coin flip”. (Which is kind of ridiculous considering the algorithm ranks the one who reoffends higher 2 out of 3 times. I’m guessing those two aren’t bettors.) They further mention that COMPAS does not outperform an algorithm using only age and prior offences as inputs or the judgement of non-experts (who probably have the sense to see that repeat offenders will continue to offend).</p>
+<p>Narayanan and Kapoor also raise the headline ProPublica critique that the COMPAS algorithm had a higher false positive rate for black than white defendants, without noting that is an inevitable consequence of equal precision but disparate re-arrest rates. You have to trade off the various definitions of fairness!<sup>4</sup> (Here’s <a href="https://www.theamericanconservative.com/does-pre-crime-have-a-race-problem/">Robert VerBruggen making this point</a> and a more technical analysis by <span class="citation" data-cites="kleinberg2016">Kleinberg et al. (2016)</span>.)</p>
+<p>I have sympathy for some points of their critique, such as the opaque proprietary nature of the algorithm and its complexity. As they note, there is no shortage of businesses flogging off overly complex and opaque predictive algorithms that will typically deliver a fraction of the benefits they promise. And desperate for an edge, there is no shortage of buyers of snake oil.</p>
+<p>But during their critique they also hint at the benefits of predictive algorithms, such as noting the predictive power of age and prior offences as a predictor of future criminal offences. Unfortunately, they don’t flip this hint into a recommendation. They don’t push the alternative of a simple, transparent (and free!) decision rule —&nbsp;which they have noted exists — leaving a lot of benefit on the table. This new simple algorithm probably has a low R<sup>2</sup> if applied across the whole population, but is likely a good improvement on randomness or the human alternative.<sup>5</sup></p>
+<p>Beyond accuracy, a simple automated decision tool allows us to have a discussion about what types of fairness trade-offs we are willing to make and, once we have decided on the trade-off we prefer, to actually implement it. With human decision makers, we’ll get poor, biased decisions, and to the extent they exhibit any consistency in their decisions, that trade-off will always exist but be out of our control.</p>
+</section>
+<section id="generative-ai" class="level2">
+<h2 class="anchored" data-anchor-id="generative-ai">Generative AI</h2>
+<p>Their other type of AI is generative AI, which Narayanan and Kapoor are surprisingly positive about (considering how it’s being packaged by many snake oil salespeople). They state they are enthusiastic users in work and their personal lives. They see its benefits for programmers, knowledge workers and science. They appreciate how it can be accessed by everyone.</p>
+<p>They identify risks such as misinformation, surveillance, misappropriation of creative labour and deepfakes, but these are engineering or policy problems for which they see solutions. They believe there has been major progress on problems of bias and offensive outputs, and hallucinations are going down. Exploitation of workers concerns them, but this can be addressed through labour regulation (pushed by collective action). While they believe regulation can be fast, they don’t see the need for much new regulation, with most of what’s needed being enforcement of existing regulations such as those against deceptive practices.</p>
+<p>They even argue that the incoming wave of AI could also just be considered the next stage in a battle between labour and automation, with generative AI providing a new flash point. Big changes might be needed, but they are of the type we have debated many times before.</p>
+<p>I don’t have a hot take on this perspective on generative AI, except to say that, even ignoring the potential for existential risk, I’m not sure they’re ready for just how disruptive it might be. The speed and breadth of coming changes may not look like anything we have seen before.</p>
+</section>
+<section id="existential-risk" class="level2">
+<h2 class="anchored" data-anchor-id="existential-risk">Existential risk</h2>
+<p>Narayanan and Kapoor’s technocratic and bureaucratic approach to generative AI is feasible because they don’t see AI as an existential threat. Their chapter on why this is the case is the weakest part of the book. They rarely engage with the strongest arguments - although since the publication of this book, they have engaged in more depth through venues such as their <a href="https://www.normaltech.ai/">AI as a normal technology</a> blog.</p>
+<p>For example, they write the following in response to the <a href="https://en.wikipedia.org/wiki/Instrumental_convergence#Paperclip_maximizer">paperclip maximiser thought experiment</a>:</p>
+<blockquote class="blockquote">
+<p>The main problem with this argument is that it posits an agent that is unfathomably powerful yet lacks an iota of common sense to recognize the absurdity of the request, and will thus interpret it extremely literally, oblivious to the fact that it goes against human safety. This kind of mindless, literal interpretation is characteristic of traditional AI agents, which are programmed with knowledge of only a very narrow domain.</p>
+</blockquote>
+<p>This common-sense objection is old. The literature is full of replies to it. Yet they give no indication of having read and engaged with it. Their response conflates knowing and caring. It doesn’t ask whether “common sense” will really result in alignment with human values versus converging on goals such as power accumulation and self-preservation. Narayanan and Kapoor are hoping for alignment by default without making the argument for why it might occur. They could have made this argument, but instead they’re stuck in a debate from 2003.</p>
+<p>Their treatment of experts who believe that there are existential risks also grates. In noting that their views differ from AI experts - who they then subsequently strawman rather than actually dealing with their arguments - Narayanan and Kapoor present a range of “biases” these experts might have. If AGI is imminent, it adds grandeur to your work. AI experts are “hedgehogs” in <a href="../posts/tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know.html">Philip Tetlock’s forecasting dichotomy</a>, in that they know one big thing and fail to integrate information from other domains. Those who selected into AI research likely dream of building big, all knowing machines.</p>
+<p>This ad hominem junk gives me the shits. Let’s try it on them. Their whole schtick is debunking the threat from AI, so obviously they’re going to present this side of the argument. They are hedgehogs in that they’re trying to jam everything into their AI as a Normal Technology framework. None of which tells us whether they’re right.</p>
+<p>Thankfully, their engagement with AI experts and those worried about existential risk has stepped up since this book. I recommend <a href="https://www.normaltech.ai">having a look</a>.</p>
+
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2">
+<div id="ref-kleinberg2018" class="csl-entry">
+Kleinberg, J., Lakkaraju, H., Leskovec, J., Ludwig, J., and Mullainathan, S. (2018). Human decisions and machine predictions*. <em>The Quarterly Journal of Economics</em>, <em>133</em>(1), 237–293. <a href="https://doi.org/10.1093/qje/qjx032">https://doi.org/10.1093/qje/qjx032</a>
+</div>
+<div id="ref-kleinberg2016" class="csl-entry">
+Kleinberg, J., Mullainathan, S., and Raghavan, M. (2016). <em>Inherent trade-offs in the fair determination of risk scores</em>. <a href="https://doi.org/10.48550/arXiv.1609.05807">https://doi.org/10.48550/arXiv.1609.05807</a>
+</div>
+<div id="ref-salganik2020" class="csl-entry">
+Salganik, M. J., Lundberg, I., Kindel, A. T., Ahearn, C. E., Al-Ghoneim, K., … McLanahan, S. (2020). Measuring the predictability of life outcomes with a scientific mass collaboration. <em>Proceedings of the National Academy of Sciences</em>, <em>117</em>(15), 8398–8403. <a href="https://doi.org/10.1073/pnas.1915006117">https://doi.org/10.1073/pnas.1915006117</a>
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>The original 2019 presentation was not recorded, but it led to many later <a href="https://www.cs.princeton.edu/news/how-recognize-ai-snake-oil">re-runs</a>.↩︎</p></li>
+<li id="fn2"><p>The 2022 edition of Russell and Norvig’s <em>Artificial Intelligence: A Modern Approach</em> sitting on my dinner table has 58 of its 1166 pages dedicated to language and 10 pages to the transformer architecture that underlies modern LLMs.↩︎</p></li>
+<li id="fn3"><p>This boundary between predictive and generative AI is often blurred. There is no shortage of people giving generative AI predictive tasks (e.g.&nbsp;<a href="https://www.forecastbench.org/">ForecastBench</a>).↩︎</p></li>
+<li id="fn4"><p>Narayanan knows this too. He’s a coauthor of <a href="https://fairmlbook.org/">Fairness and Machine Learning</a>, which includes discussion of this trade-off.↩︎</p></li>
+<li id="fn5"><p>For example, see <span class="citation" data-cites="kleinberg2018">Kleinberg et al. (2018)</span>↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <guid>https://blog.jcx.au/posts/narayanan-and-kapoors-ai-snake-oil-a-review.html</guid>
+  <pubDate>Thu, 15 Oct 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://blog.jcx.au/posts/img/ai-snake-oil.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
 <item>
   <title>Moravec on the sentimentality of humans</title>
   <dc:creator>Jason Collins</dc:creator>
@@ -1994,158 +2072,6 @@ Vaccaro, M., Almaatouq, A., and Malone, T. (2024). When combinations of humans a
   <guid>https://blog.jcx.au/posts/human-ai-collaboration-is-it-better-when-the-human-is-asleep-at-the-wheel.html</guid>
   <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
   <media:content url="https://blog.jcx.au/posts/img/asleep-at-the-wheel.webp" medium="image" type="image/webp"/>
-</item>
-<item>
-  <title>What we learn when we test everything</title>
-  <dc:creator>Jason Collins</dc:creator>
-  <link>https://blog.jcx.au/posts/what-we-learn-when-we-test-everything.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>The below are my speaking notes for a presentation in the Innovative methodologies in behavioural science session at <a href="https://behaviouraleconomics.pmc.gov.au/bi-connect-2024">BI Connect 2024</a>, hosted by the Behavioural Economics Team of the Australian Government (BETA) in the Department of Prime Minister and Cabinet.</p>
-<p>The notes reflect many of the themes discussed in more detail in a <a href="../posts/megastudy-scepticism.html">previous post on megastudies</a>.</p>
-<p>When BETA posts the video of the session, I will link here.</p>
-<hr>
-<p>I’m going to start with a story about a <a href="https://web.archive.org/web/20061106031902/http://www.netflixprize.com/index">competition held by Netflix</a>.</p>
-<p>They offered $1 million to the team that could develop an algorithm that could predict film ratings with 10% better accuracy than Netflix’s own model. The competition began in October 2006, and by June 2007 over 20 000 teams had registered for the competition and 2000 teams had submitted predictions. The prize was <a href="https://web.archive.org/web/20090926213457/http://www.netflixprize.com/leaderboard">claimed in 2009</a>, albeit the prize algorithm was never implemented by Netflix.</p>
-<p>Competitions of this nature now underpin much progress in artificial intelligence. Many date the genesis of the current AI boom to the success of the deep convolutional neural net called AlexNet in the <a href="https://www.image-net.org/challenges/LSVRC/2012/results.html">2012 edition</a> of the <a href="https://www.image-net.org/challenges/LSVRC/index.php">ImageNet Large Scale Visual Recognition Challenge</a>.</p>
-<p><a href="https://www.kaggle.com/">Kaggle</a> has industrialised the running of these competitions for private and government entities. The organisation submits a problem and data, and competitors compete to develop the best algorithm. This <a href="https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2">Math Olympiad competition</a> is running now. You can see that 1754 submissions had already been made by participants at the time I took this snapshot.</p>
-<p><a href="img/what-we-learn-when-we-test-everything/kaggle-math-olympiad.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://blog.jcx.au/posts/img/what-we-learn-when-we-test-everything/kaggle-math-olympiad.png" class="img-fluid" style="width:80.0%"></a></p>
-<p>We have also seen informal competitions emerge, such as the measuring of generative AI against standardised benchmarks. When a new version of Claude, ChatGPT, Gemini or Llama is released, they often release measures of their performance against these benchmarks, such as <a href="https://www.anthropic.com/news/3-5-models-and-computer-use">in this screenshot</a>.</p>
-<p><a href="img/what-we-learn-when-we-test-everything/claude-benchmarking.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="https://blog.jcx.au/posts/img/what-we-learn-when-we-test-everything/claude-benchmarking.png" class="img-fluid" style="width:60.0%"></a></p>
-<p>The approach that underpins these competitions and comparisons is known as the common task framework. Researchers compete to solve the a problem using the same dataset, with each measured against the same scale.</p>
-<p>There are many benefits to the common task framework. We have objective measures of performance. We can see what is the state of the art. We can compare apples with apples.</p>
-<p>There are also some downsides to the common task framework that I will come to later.</p>
-<section id="megastudies" class="level2">
-<h2 class="anchored" data-anchor-id="megastudies">Megastudies</h2>
-<p>Is there a behavioural science version of the common task framework?</p>
-<p>According to some behavioural scientists, the answer is yes - the megastudy. First labelled megastudy in 2021, the idea behind the megastudy is to test many interventions in a single massive experiment. Don’t test one intervention against a control. Test 50. Put these interventions in direct competition with each other.</p>
-<p>This idea of testing many interventions in this way has been around since before the behavioural scientists put on their marketing hat, called it the megastudy and published it in Nature. But the megastudy has certainly increased in frequency over the last couple of years.</p>
-<p>There is a fairly simple case for the megastudy. We have many studies showing the effects of idiosyncratic behavioural interventions. We have social norms. Loss framing. Scarcity. Incentives. And so on. Which is more effective in achieving the behaviour change you want? We often can’t answer this as the various interventions aren’t directly compared against each other in the academic literature. The typical academic paper compares one intervention or class of similar interventions against a control.</p>
-<p>A megastudy enables us to make that comparison.</p>
-</section>
-<section id="increasing-gym-attendance" class="level2">
-<h2 class="anchored" data-anchor-id="increasing-gym-attendance">Increasing gym attendance</h2>
-<p>To illustrate, let me walk through the highest-profile megastudy, which as I hinted was published in Nature.</p>
-<p>Katherine Milkman and friends <span class="citation" data-cites="milkman2021">(2021a)</span> tested 54 interventions to increase the gym visits of 61,000 experimental participants.</p>
-<p>Members of a national gym chain were asked if they wished to enrol in a “habit-building science-based workout program”. Those who signed up formed the subject pool and were randomly assigned to the experimental conditions, including a control under which they received no further contact.</p>
-<p><a href="img/what-we-learn-when-we-test-everything/milkman_et_al_2021_signup.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="https://blog.jcx.au/posts/img/what-we-learn-when-we-test-everything/milkman_et_al_2021_signup.png" class="img-fluid" style="width:60.0%"></a></p>
-<p>Over the following 28-days participants were subject to interventions involving varying mixes of incentives and messages. For example, those in the “Social norm (high and increasing)” treatment group received six text message reminders, with content such as:</p>
-<blockquote class="blockquote">
-<p>Trivia time! What percent of Americans exercised at least 3 times per week in 2016? Reply 1 for 61%, 2 for 64%, 3 for 70% or 4 for 73%.</p>
-</blockquote>
-<p>If they respond 1, 2 or 3, they receive a message back stating:</p>
-<blockquote class="blockquote">
-<p>It’s actually 73%. And this is up from 71% in 2015.</p>
-</blockquote>
-<p>They also received emails with similar facts.</p>
-<p>Those in the “Social norm (low)” group received messages with a less rosy situation:</p>
-<blockquote class="blockquote">
-<p>Trivia time! What percent of Americans exercised at least 3 times per week in 2016? Reply 1 for 35%, 2 for 38%, 3 for 41% or 4 for 44%</p>
-</blockquote>
-<p>As an aside, there don’t seem to be any qualms about using deception here.</p>
-<p>Some interventions involved incentives. For example, the “Rigidity Rewarded” intervention paid 500 Amazon points worth $1.79 each time they attended a planned gym visit, and 250 Amazon points worth $0.90 if they attended the gym at another time.</p>
-<p>The headline results of all the interventions are in this figure, with the effect sizes and their 95% confidence intervals represented by the blue lines. The intervention with the largest effect size involved incentives for returning to the gym after a missed workout.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<figcaption>Milkman et al.&nbsp;(2021a) Figure 1</figcaption>
-<p><a href="img/what-we-learn-when-we-test-everything/milkman_et_al_2021_figure_1.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-4" title="Milkman et al.&nbsp;(2021a) Figure 1"><img src="https://blog.jcx.au/posts/img/what-we-learn-when-we-test-everything/milkman_et_al_2021_figure_1.jpeg" class="img-fluid figure-img" style="width:90.0%" alt="Milkman et al.&nbsp;(2021a) Figure 1"></a></p>
-</figure>
-</div>
-<p>Twenty-four of the 53 interventions were found to have a statistically significant effect over the control of no messages, increasing visits by between 9% and 27%. That equates to 0.14 to 0.40 extra weekly gym visits over the control average of 1.48 visits per week.</p>
-<p>This figure also contains predictions made by behavioural practitioners, public health academics and lay people - those orange bars on the right indicate the overestimation of effect and lack of any relationship between the predictions and the results. I’ll briefly touch on these predictions later.</p>
-</section>
-<section id="increasing-vaccination-rates" class="level2">
-<h2 class="anchored" data-anchor-id="increasing-vaccination-rates">Increasing vaccination rates</h2>
-<p>Another megastudy by most of the same authors released that same year <span class="citation" data-cites="milkman2021a">(2021b)</span> looked at a series of messages to encourage vaccination. For example:</p>
-<blockquote class="blockquote">
-<p>John, this is a reminder that a flu vaccine has been reserved for your appt with Dr.&nbsp;Smith. Please ask your doctor for the shot to make sure you receive it.</p>
-</blockquote>
-<p>Again, a bit deceptive as there was no reserved vaccine, but as you can see in this chart, that particular message of a highlighted flu dose was the most effective.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<figcaption>Milkman et al.&nbsp;(2021) Figure 1</figcaption>
-<p><a href="img/what-we-learn-when-we-test-everything/milkman_et_al_2021a_fig_1.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-5" title="Milkman et al.&nbsp;(2021) Figure 1"><img src="https://blog.jcx.au/posts/img/what-we-learn-when-we-test-everything/milkman_et_al_2021a_fig_1.jpg" class="img-fluid figure-img" style="width:75.0%" alt="Milkman et al.&nbsp;(2021) Figure 1"></a></p>
-</figure>
-</div>
-<p>Beyond giving us direct comparability, there are some other nice features about megastudies. There are economies to scale: while an individual megastudy is a large exercise, the cost can be lower on a per-intervention basis.</p>
-<p>Megastudies also have built-in publication of null findings. We get to see both the successful interventions and the duds.</p>
-</section>
-<section id="generalising" class="level2">
-<h2 class="anchored" data-anchor-id="generalising">Generalising</h2>
-<p>But what can you as a practitioner or behavioural scientist do with the output of a megastudy?</p>
-<p>If you are that particular gym chain or vaccination provider for which the megastudy was conducted, you might scale the most successful messaging.</p>
-<p>But what if you are operating in a different context? What if you are a different gym chain with different customer demographics? A yoga studio? A chess club? A university encouraging student attendance? A preventative health provider?</p>
-<p>As the authors of these papers argue, the fundamental problem that the megastudy is designed to address is the lack of comparability of interventions tested in different contexts. The context of two different experiments may be sufficiently different that it is not reasonable to ask which intervention is more effective.</p>
-<p>But if we cannot easily compare across experiments in different contexts, what confidence can you have that the ordering or magnitude of intervention effect sizes in the megastudy will be reflected in a different context?</p>
-<p>We are in a Catch-22 situation. The bigger the comparability problem that the megastudy is seeking to solve, the less useful the megastudy results are for application in other contexts.</p>
-<p>Ultimately, this is why good policy or business advice should typically be to run your own experiment.</p>
-<p>There is also the question of translating the particular interventions into the new contexts. There are so many degrees of freedom in developing a message, from the visual design, to the precise wording, to the choice of medium, to the timing. The result is that your translated intervention may not capture what drove the success of the previous intervention. The copy may not convey the concept. The wording may be confusing. And so on.</p>
-<p>This message from the first megastudy on vaccinations was the worst performing:</p>
-<blockquote class="blockquote">
-<p>It’s flu season &amp; getting a flu shot at your appt is an easy thing you can do to be healthy!</p>
-</blockquote>
-<p>Who were their copywriters?! I would argue that the poor performance of this message gives little information about the effectiveness of health messaging.</p>
-<p>This implementation problem again points to the advice: test in your own domain. A megastudy isn’t going to save you from doing that.</p>
-</section>
-<section id="power" class="level2">
-<h2 class="anchored" data-anchor-id="power">Power</h2>
-<p>And this brings me to possibly the biggest challenge with megastudies.</p>
-<p>On its face, megastudies have the benefit of getting a large sample. A total of 61,293 participants for the gym megastudy sounds solid.</p>
-<p>But it doesn’t take much thought to realise that across 54 interventions (including the control) there is an average of not much more than 1000 participants per intervention. And that relatively small number of participants means that we have low power - that is, a low ability to detect any effects that exist and to differentiate between interventions.</p>
-<p>For instance, while the largest effect size in the gym megastudy involved a bonus for returning after a missed workout, this effect size was indistinguishable from around half the other interventions.</p>
-<p>The megastudy on vaccinations has the same problem. The 19 interventions across 47 000 participants boosted vaccinations by an average of 2.1 percentage points, but the authors noted that they could not reject the null hypothesis that all 19 effects have the same true value. A megastudy where we can’t tell which message works.</p>
-<p>Not all megastudies have this problem, but they highlight an issue that we always grapple with as experimentalists. Increasing the number of interventions reduces power unless we can commensurately increase sample size. There’s a tradeoff, and sometimes you’re better off with fewer interventions.</p>
-</section>
-<section id="building-theory" class="level2">
-<h2 class="anchored" data-anchor-id="building-theory">Building theory</h2>
-<p>Beyond the applied nature of these megastudies, another question worth asking is what they offer to science. The flagship megastudy paper was published in Nature after all.</p>
-<p>To address this, let me first describe an experiment by Google.</p>
-<p>When you visit Google online, they really want you to click on advertising links. What colour link is most likely to induce a click?</p>
-<p>Google doesn’t mess around in answering questions such as this. In one experiment, they <a href="https://www.theguardian.com/technology/2014/feb/05/why-google-engineers-designers">tested 41 shades of blue</a>. While this experiment was ridiculed by outsiders as the “50 shades of blue” episode, it yielded an additional $200 million dollars a year in revenue.</p>
-<p>Where do megastudies sit between this Google experiment - a valuable optimisation exercise with limited scientific value - and a study designed to teach us something about how the world works.</p>
-<p>To date, I’d argue that megastudies are closer to the Google end of the spectrum. They’re valuable for the task being optimised, but provide limited feedback into our theoretical understanding of human behaviour.</p>
-<p>Each intervention tested in the megastudy is derived from empirical regularities observed in past experiments. But instead of taking on the challenge of giving this mass of empirical evidence some theoretical backbone, megastudies have become domain specific horse races. As a policy maker or business owner, you might reap the benefits. But for science, there is less gain.</p>
-<p>I admit I’m asking a lot. I want to see behavioural science build theoretical understanding as to what is going on. These studies are designed to test how to increase gym attendance or vaccination rates. We can’t always have everything.</p>
-<p>However, this lack of theory is not without costs. For instance, as I’ve already noted, when asked to predict the ordering of effect sizes for the gym and vaccination megastudies, the practitioners had no idea - predictions for the gym megastudy are represented by the orange bars. We don’t have a theoretical framework that can outperform common sense or guide us as to what interventions are most likely to work. You’re stuck throwing as many interventions as you can find against a wall to see which will stick. If we had better theory, we might be able to winnow down options for a higher powered study. Megastudies are in part a symptom of this failure.</p>
-<p>So, where to from here. What’s the future role of megastudies?</p>
-</section>
-<section id="building-on-the-common-task-approach" class="level2">
-<h2 class="anchored" data-anchor-id="building-on-the-common-task-approach">Building on the common task approach</h2>
-<p>I believe there is more to the common task approach. Common task exercises have catalysed some key moments in machine learning and artificial intelligence. The iterative increases in performance have provided tangible evidence of progress.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<figcaption><a href="https://aiindex.stanford.edu/wp-content/uploads/2024/04/HAI_AI-Index-Report-2024_Chapter2.pdf">AI Index 2024</a></figcaption>
-<p><a href="img/what-we-learn-when-we-test-everything/ai-index-2024.png" class="lightbox" data-gallery="quarto-lightbox-gallery-6" title="AI Index 2024"><img src="https://blog.jcx.au/posts/img/what-we-learn-when-we-test-everything/ai-index-2024.png" class="img-fluid figure-img" alt="AI Index 2024"></a></p>
-</figure>
-</div>
-<p>Can we bring the megastudy even closer to the common task approach? Common task tournaments typically create an open playing field by making the dataset generally available. Anyone can enter. People can have multiple cracks.</p>
-<p>Contrast that with the published megastudies to date from a relatively narrow set of behavioural science teams. I don’t see any evidence that behavioural science teams have skill in developing messages beyond marketers - they couldn’t predict which were more effective after all - so how could we open up and democratise who provides interventions? I saw earlier this year an open call for intervention submissions to a happiness megastudy, which is a great step, although I’m not sure it ended up on the desks of any marketing agencies. I hope they recruited some weirdos.</p>
-<p>Most common task frameworks also allow iterative exploration and progress. Teams can access the data outside of tournaments. People get to repeatedly return to the problem. In contrast, with the megastudies we’ve got a one-shot game.</p>
-<p>So why don’t we run this experiment with a gym chain or vaccination provider every year? Solicit open entries, with a process to whittle them down to the required number of interventions. Include a range of the best interventions from previous years.</p>
-<p>If we took these extra steps, however, a limitation to the common task framework will become of increasing importance to the megastudy: overfitting. If you run a contest to increase gym attendance again and again there’s a higher probability that one of the interventions will capitalise on an idiosyncratic feature of that gym and its members. Great results, poor generalisation.</p>
-<p>There are also decreasing marginal gains. The winner of the Netflix prize was never implemented as other cheaper combinations of models delivered most of the same benefits. Performance against many machine learning benchmarks plateaued or maxed out, requiring the development of new benchmarks.</p>
-<p>But there is something to be said for a process where we learn and build on what we have learnt, rather than simply trial (hopefully scale) and publish. And by taking the inspiration for the megastudies - the common task framework more seriously - megastudies could contribute to this.</p>
-<p>These performance curves on your screen are quite amazing. In the space of a decade, many tasks went from impossible for machines to machines being vastly superior to humans, despite predictions that these advances were decades away. A similar curve in understanding the drivers of human behaviour would be an amazing thing.</p>
-<p>And that’s where I’ll wind up for today.</p>
-
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2">
-<div id="ref-milkman2021" class="csl-entry">
-Milkman, K. L., Gromet, D., Ho, H., Kay, J. S., Lee, T. W., … Duckworth, A. L. (2021a). Megastudies improve the impact of applied behavioural science. <em>Nature</em>, <em>600</em>(7889), 478–483. <a href="https://doi.org/10.1038/s41586-021-04128-4">https://doi.org/10.1038/s41586-021-04128-4</a>
-</div>
-<div id="ref-milkman2021a" class="csl-entry">
-Milkman, K. L., Patel, M. S., Gandhi, L., Graci, H. N., Gromet, D. M., … Duckworth, A. L. (2021b). A megastudy of text-based nudges encouraging patients to get vaccinated at an upcoming doctor<span>’</span>s appointment. <em>Proceedings of the National Academy of Sciences</em>, <em>118</em>(20), e2101165118. <a href="https://doi.org/10.1073/pnas.2101165118">https://doi.org/10.1073/pnas.2101165118</a>
-</div>
-</div></section></div> ]]></description>
-  <guid>https://blog.jcx.au/posts/what-we-learn-when-we-test-everything.html</guid>
-  <pubDate>Wed, 13 Nov 2024 06:00:00 GMT</pubDate>
-  <media:content url="https://blog.jcx.au/posts/img/what-we-learn-when-we-test-everything/milkman_et_al_2021_figure_1.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

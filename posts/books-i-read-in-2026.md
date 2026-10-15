@@ -9,7 +9,9 @@ images: [""]
 
 The books I enjoyed the most in 2026 were:
 
-- .
+- Max Bennet, *A Brief History of Intelligence*
+- Hans Moravec, *Mind Children: The Future of Robot and Human Intelligence*
+- Dan Simmons, *Hyperion*
 
 Below is the list of books I read in 2026 (with a star if I have read them before).
 
@@ -18,6 +20,7 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 - James Barratt, *Our Final Invention: Artificial Intelligence and the End of the Human Era*
 - Emily M. Bender and Alex Hanna, *The AI Con: How to Fight Big Tech's Hype and Create the Future We Want*
 - Max Bennet, *A Brief History of Intelligence*
+- Cory Doctorow, *Enshittification: Why Everything Suddenly Got Worse and What to Do About It*
 - Hannah Fry, *Hello World: How to be Human in the Age of the Machine*
 - Mo Gawdat, *Scary Smart: The Future of Artificial Intelligence and How You Can Save Our World*
 - Keach Hagey, *The Optimist: Sam Altman, OpenAI, and the Race to Invent the Future*
@@ -29,7 +32,8 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 - Chris Miller, *Chip War: The Fight for the World's Most Critical Technology*
 - Marvin Minsky, *The Society of Mind*
 - Hans Moravec, *Mind Children: The Future of Robot and Human Intelligence*
-- Arvind Narayanan and Sayash Kapoor, *AI Snake Oil: What Artificial Intelligence Can Do, What It Can't, and How to Tell the Difference*
+- Michael Muthukrishna, *The New Science of Who We Are, How We Got Here, and Where We’re Going*
+- Arvind Narayanan and Sayash Kapoor, *[AI Snake Oil: What Artificial Intelligence Can Do, What It Can't, and How to Tell the Difference](/posts/narayanan-and-kapoors-ai-snake-oil-a-review.md)*
 - Andrew Ross Sorkin, *1929: Inside the Greatest Crash in Wall Street History*
 - Gary Rivlin, *AI Valley: Microsoft, Google, and the Trillion-Dollar Race to Cash In on Artificial Intelligence*
 - Brad Stulberg, *The Way of Excellence*
@@ -41,6 +45,7 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 - Becky Chambers, *The long way to a small, angry planet*
 - Becky Chambers, *A closed and common orbit*
 - Paulo Coelho, *The Alchemist*
+- Carl Sagan, *Contact*
 - Mary Shelley, *Franksenstein; or, The Modern Prometheus*/*
 - Dan Simmons, *Hyperion*
 - Dan Simmons, *Fall of Hyperion*

@@ -9,7 +9,8 @@ listing:
   sort-ui: false
   filter-ui: false
   page-size: 50
-  fields: [date, title]
+  fields: [date, title, image]
+  image-align: left
 page-layout: full
 title-block-banner: true
 ---

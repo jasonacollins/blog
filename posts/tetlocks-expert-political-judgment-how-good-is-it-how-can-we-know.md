@@ -1,8 +1,8 @@
 ---
+title: 'Tetlock''s Expert Political Judgment: How Good Is It? How Can We Know?'
 author: "Jason Collins"
 date: 2016-08-25 09:00:06+00:00
 draft: false
-title: 'Tetlock''s Expert Political Judgment: How Good Is It? How Can We Know?'
 ---
 
 A common summary of Philip Tetlock's *Expert Political Judgment: How Good Is It? How Can We Know?* is that "experts" are terrible forecasters. There is some truth in that summary, but I took a few different lessons from the book. While experts are bad, others are worse. Simple algorithms and more complex models outperform experts. And importantly, forecasting itself is not a completely pointless task.
