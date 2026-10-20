@@ -10,7 +10,7 @@ Links this week:
   1. A few years old, but good - [a story from a Blue Zone "where people forget to die"](http://www.nytimes.com/2012/10/28/magazine/the-island-where-people-forget-to-die.html). HT: Razib Khan
 
 	
-  2. [Another critique of modern dietary guidelines](http://time.com/3702058/dietary-guidelines-fat-wrong/). [Weight gain after a fecal transplant](http://ofid.oxfordjournals.org/content/2/1/ofv004.full). And [the US Government is about to drop warnings about cholesterol](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/02/10/feds-poised-to-withdraw-longstanding-warnings-about-dietary-cholesterol/).
+  2. [Another critique of modern dietary guidelines](http://time.com/3702058/dietary-guidelines-fat-wrong/). [Weight gain after a faecal transplant](http://ofid.oxfordjournals.org/content/2/1/ofv004.full). And [the US Government is about to drop warnings about cholesterol](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/02/10/feds-poised-to-withdraw-longstanding-warnings-about-dietary-cholesterol/).
 
 	
   3. [Improving 'Neoclassical man' with a gaze heuristic](http://ckmurray.blogspot.com.au/2015/02/an-economic-gaze-heuristic.html).
@@ -32,7 +32,7 @@ Links this week:
 
 And if you missed them, my posts this week:
 
-  1. [Will defaults lose their power in the digital age](the-death-of-defaults.md). Or, [as put by Eric Crampton](https://twitter.com/EricCrampton/status/564721317216137217), Will nudges survive the Lucs Critique?
+  1. [Will defaults lose their power in the digital age](the-death-of-defaults.md). Or, [as put by Eric Crampton](https://twitter.com/EricCrampton/status/564721317216137217), Will nudges survive the Lucas Critique?
 
 	
   2. [I recommend using a story other than organ donation rates to support defaults](charts-that-dont-seem-quite-right-organ-donation-edition.md).

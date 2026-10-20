@@ -9,7 +9,7 @@ A common recommendation for an addition to my [evolution and economics reading l
 
 The core theme of The Rational Optimist is that exchange is the major driver of human progress. Exchange allows specialisation and division of labour, which results in people doing the tasks they do best.
 
-Exhange also increases innovation, for which, as Ridley points out, there are cumulative returns. He captures this concept in the phrase "ideas having sex". Ideas can be combined into new ideas, further increasing their value.
+Exchange also increases innovation, for which, as Ridley points out, there are cumulative returns. He captures this concept in the phrase "ideas having sex". Ideas can be combined into new ideas, further increasing their value.
 
 I agree with Ridley's general argument concerning the importance of exchange and innovation, but when Ridley puts it in the context of evolution, he creates an implication of progress that evolution does not have. For example, Ridley writes:
 
@@ -27,7 +27,7 @@ Ridley also skims over human evolution, attributing change over the last thirty 
 
 Despite my discomfort with the direction that Ridley places on evolution, I like The Rational Optimist. It is an entertaining read, and despite the selective use of facts and arguments that come with an advocacy book, it places a light on human progress and the benefits to trade that most people don't appreciate. I also believe that Ridley's optimism concerning human wellbeing is well placed over the timeframes in which we can predict. In 2050, despite climate change, the people of the world will be richer, live longer, have better health, have access to more goods and services and experience less extreme poverty, on average, than they do now. Over the last 200 years, technological progress has been very good to us.
 
-Despite Ridley's claims that he is no Panglossian, he sometimes veers in that direction. Worried about overpopulation? Don't worry, fertility is falling. Worried about underpopulation and an ageing population? Don't worry, fertility is going back up again. His approach to the ecological effects of climate change reflect a similar tendency.
+Despite Ridley's claims that he is no Panglossian, he sometimes veers in that direction. Worried about overpopulation? Don't worry, fertility is falling. Worried about underpopulation and an ageing population? Don't worry, fertility is going back up again. His approach to the ecological effects of climate change reflects a similar tendency.
 
 I would have liked Ridley to discuss in more detail how he sees his expectation of increasing wilderness areas and protection for ecosystems coming to fruition. He argues that organic farming is land intensive and notes that by adopting more intensive forms of agriculture, we could return land to wilderness. If organic farming were as inefficient in its use of space as Ridley suggests, and was demanded by an increasingly rich population, what would Ridley propose we do about it? Ban it? Many of Ridley's targets for criticism are the product of the choices of rich people, and there are going to be more rich people.
 

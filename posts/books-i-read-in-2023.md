@@ -28,7 +28,7 @@ Below is the list of books I read in 2023 (with a star if I have read them befor
 - Paige Harden, *The Genetic Lottery*
 - Douglas Hofstadter, *Godel, Escher, Bach*
 - Chuck Klosterman, *The Nineties*
-- Jon Krakuer, *Into Thin Air*
+- Jon Krakauer, *Into Thin Air*
 - Michael Lewis, *Liar's Poker*\*
 - John List, *The Voltage Effect*
 - Andrew Lo, *Adaptive Markets*
@@ -53,9 +53,9 @@ Below is the list of books I read in 2023 (with a star if I have read them befor
 - Baroness Orczy, *The Scarlet Pimpernel*
 - George Orwell, *1984*
 - Robert Louis Stevenson, *Treasure Island*\*
-- JRR Tolkein, *The Fellowship of the Ring*\*
-- JRR Tolkein, *The Two Towers*\*
-- JRR Tolkein, *The Return of the King*\*
+- JRR Tolkien, *The Fellowship of the Ring*\*
+- JRR Tolkien, *The Two Towers*\*
+- JRR Tolkien, *The Return of the King*\*
 
 
 Previous annual book lists: [2010](top-10-books-in-2010.md), [2011](best-books-i-read-in-2011.md), [2012](the-best-books-i-read-in-2012.md), [2013](best-books-i-read-in-2013.md), [2014](best-books-i-read-in-2014.md), [2015](best-books-i-read-in-2015.md), [2016](best-books-i-read-in-2016.md), [2017](best-books-i-read-in-2017.md), [2018](books-i-read-in-2018.md), [2019](best-books-i-read-in-2019.md), [2020](best-books-i-read-in-2020.md), [2021](best-books-i-read-in-2021.md), [2022](books-i-read-in-2022.md)

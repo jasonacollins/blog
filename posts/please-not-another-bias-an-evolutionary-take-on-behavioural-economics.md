@@ -13,7 +13,7 @@ Below is a transcript of my planned presentation at today's [Marketing Science 
 
 Thank you for the invitation to speak today.
 
-I accepted the invite because natural selection has shaped the human mind to take actions that have, in our past, tended increase reproductive success.
+I accepted the invite because natural selection has shaped the human mind to take actions that have, in our past, tended to increase reproductive success.
 
 That statement isn't as creepy as it sounds. I did not calculate the direct reproductive opportunity of this speaking engagement. Rather, our evolutionary past means that we are inclined to pursue proximate objectives that lead to the ultimate goal.
 
@@ -45,13 +45,17 @@ Let me draw an analogy with the history of astronomy. In 1500, the dominant mode
 
 Since that wasn't what was actually happening, there was a huge list of deviations from this model. We have the Venus effect, where Venus appears in the evening and morning and never crosses the night sky. We have the Jupiter bias, where it moves across the night sky, but then suddenly starts going the other way.
 
-[![Cassini](img/2015-07-30-please-not-another-bias-an-evolutionary-take-on-behavioural-economics/cassini.jpg?w=300)](https://commons.wikimedia.org/wiki/File:Cassini_apparent.jpg)Putting all the biases in the orbits of the planets and sun together, we end up with a picture of the orbits that looks something like this picture – epicycles on epicycles.
+[![Cassini](img/2015-07-30-please-not-another-bias-an-evolutionary-take-on-behavioural-economics/cassini.jpg?w=300)](https://commons.wikimedia.org/wiki/File:Cassini_apparent.jpg)
+
+Putting all the biases in the orbits of the planets and sun together, we end up with a picture of the orbits that looks something like this picture – epicycles on epicycles.
 
 But instead of this model of biases, deviations and epicycles, what about an alternative model?
 
 The earth and the planets orbit the sun.
 
-[![Copernicus](img/2015-07-30-please-not-another-bias-an-evolutionary-take-on-behavioural-economics/copernicus1.jpg?w=289)](https://commons.wikimedia.org/wiki/File:Copernican_heliocentrism_theory_diagram.svg)Of course, it’s not quite as simple as this picture – the orbits of the planets around the sun are elliptical, not circular. But, essentially, by adopting this new model of how the solar system worked, a large collection of “biases” was able to become a coherent theory.
+[![Copernicus](img/2015-07-30-please-not-another-bias-an-evolutionary-take-on-behavioural-economics/copernicus1.jpg?w=289)](https://commons.wikimedia.org/wiki/File:Copernican_heliocentrism_theory_diagram.svg)
+
+Of course, it’s not quite as simple as this picture – the orbits of the planets around the sun are elliptical, not circular. But, essentially, by adopting this new model of how the solar system worked, a large collection of “biases” was able to become a coherent theory.
 
 Behavioural economics has some similarities to the state of astronomy in 1500 – it is still at the collection of deviation stage. There aren’t 165 human biases. There are 165 deviations from the wrong model.
 
@@ -97,7 +101,7 @@ Now, I consider Gigerenzer’s approach to be superior to the biases and heurist
 
 Anticipating two common responses to this point, I am not going to spend today trying to convince the doubters in the audience that the human mind is a product of evolution – although I am happy to do that over a drink later.
 
-And I will highlight that humans are cultural and well as biological creatures. That we have a range of universal instincts and preferences shaped by natural selection does not say that culture is not important. What we see is a combination of evolved preferences, social norms, technologies and the like, each interacting with and shaping the others. Yes environment matters, but if you ignore the biology, you will do a poor job of understanding why consumers act the way they do.
+And I will highlight that humans are cultural as well as biological creatures. That we have a range of universal instincts and preferences shaped by natural selection does not say that culture is not important. What we see is a combination of evolved preferences, social norms, technologies and the like, each interacting with and shaping the others. Yes environment matters, but if you ignore the biology, you will do a poor job of understanding why consumers act the way they do.
 
 So what does an evolutionary approach tell us about the human mind?
 
@@ -113,7 +117,7 @@ On reproduction, we enjoy sex – which has obvious reproductive benefits, at le
 
 Before going on, however, I should say that the shaping of proximate rather than ultimate mechanisms for survival and reproduction has some interesting consequences. Our evolved traits and preferences were shaped in times vastly different to today. Our taste for food was shaped at a time when calories were generally scarce and provided in the form of meat, tubers, nuts, vegetables and Glyptodons. The gorging that would occur after the occasional slaughter of a large prey is very different to the eating that occurs in today’s age of grain and calorie abundance. Today, we are effectively calorie unconstrained.
 
-And the joy of sex that once led us to have children clearly isn't working as efficiently as it once did. Fertility across the developed world has plunged – although I’d be happy argue later over a drink that [evolutionary forces will tend to drive fertility back up](fertility-is-going-to-go-up.md).
+And the joy of sex that once led us to have children clearly isn't working as efficiently as it once did. Fertility across the developed world has plunged – although I’d be happy to argue later over a drink that [evolutionary forces will tend to drive fertility back up](fertility-is-going-to-go-up.md).
 
 This backfiring of our evolved traits and preferences is known as mismatch. Our evolved traits do not always match the new modern environment – and this is something that makes Gigerenzer’s model of looking at the interaction of the decision making tools with the environment such a useful tool for analysis. Sometimes the tool works. Sometimes it doesn't.
 
@@ -141,7 +145,7 @@ More men than women have zero children - the worst possible evolutionary outcome
 
 Then, for a few men, the rewards are vast.
 
-As one example, [approximately 16 million men in central Asia carry the same Y chromosome](https://doi.org/10.1086/367774) – the Y chromosome is passed from down the male lineage from father to son. This chromosome originated in Mongolia around 1000 AD with around 8 per cent of the men in the region carrying it (0.5% of the world’s male population) – they all trace their male lineage back to the same man.
+As one example, [approximately 16 million men in central Asia carry the same Y chromosome](https://doi.org/10.1086/367774) – the Y chromosome is passed down the male lineage from father to son. This chromosome originated in Mongolia around 1000 AD with around 8 per cent of the men in the region carrying it (0.5% of the world’s male population) – they all trace their male lineage back to the same man.
 
 One possibility is that this chromosome was so successful as it was carried by Genghis Khan and his close relatives. Genghis had multiple wives and a harem. He may have fathered thousands of children. His grandson Kublai Khan was famous for the size of his harem – I have seen some estimates that it contained 7,000 women (although I haven’t been able to source those estimates reliably). Whether that number is accurate or not, it is feasible that Kublai Khan could have been having hundreds of children a year.
 
@@ -153,7 +157,7 @@ One of my favourite examples of this comes from [research by Richard Ronay and B
 
 First, this risk taking should be seen in the context of what they are trying to achieve – attracting the female. So much of economics – and behavioural economics – is looking at the wrong objective.
 
-Second, this change in risk preference in the presence of a women points to one of the most important findings in evolutionary psychology – our decision-making changes with the immediate context. We might be considered to be different personalities. Evolution has not shaped an all-knowing computer, but rather a modular computer for making different decisions based on different contexts.
+Second, this change in risk preference in the presence of a woman points to one of the most important findings in evolutionary psychology – our decision-making changes with the immediate context. We might be considered to be different personalities. Evolution has not shaped an all-knowing computer, but rather a modular computer for making different decisions based on different contexts.
 
 As an example of this, [show one group of people](https://doi.org/10.1509/jmkr.46.3.384) the movie The Shining, the other half a romantic movie starring Ethan Hawke. Then manipulate the ads they see during the movies to either accentuate the uniqueness of the product, or its popularity.
 
@@ -189,15 +193,17 @@ The men who had seen the attractive faces became more severe discounters than th
 
 So here, what might be called a very strong present bias has a degree of rationality to it in that the objective of the participants is mating. Obviously, they didn't have a chance to mate with these pictures – so there we have the issue of mismatch – but you can see the evolutionary foundation of their decision. If they did manage to capitalise on that moment and manage to mate, their evolutionary future is set.
 
-[![Mantis](img/2015-07-30-please-not-another-bias-an-evolutionary-take-on-behavioural-economics/mantis.jpg)](https://commons.wikimedia.org/wiki/File:Praying_Mantis_Sexual_Cannibalism_European-26.jpg)An extreme example of this is seen in other species. A male black widow or preying mantis would allow themselves to be eaten at the moment of mating – this picture is of a male preying mantis getting lucky but losing his head as a consequence – massive present bias in terms of the typical measures an economist might use, highly rational from an evolutionary perspective.
+[![Mantis](img/2015-07-30-please-not-another-bias-an-evolutionary-take-on-behavioural-economics/mantis.jpg)](https://commons.wikimedia.org/wiki/File:Praying_Mantis_Sexual_Cannibalism_European-26.jpg)
+
+An extreme example of this is seen in other species. A male black widow or praying mantis would allow themselves to be eaten at the moment of mating – this picture is of a male praying mantis getting lucky but losing his head as a consequence – massive present bias in terms of the typical measures an economist might use, highly rational from an evolutionary perspective.
 
 **Costly signalling**
 
 Now I want to move to what I believe is the most important idea I will communicate today.
 
-Shortly after publishing The Origin of Species, [Charles Darwin wrote](http://www.darwinproject.ac.uk/entry-2743) “The sight of a feather in a peacock’s tail, whenever I gaze at it, makes me sick!”. He wrote this because, to him, the tail simply did not make any sense. It harmed the peacocks chance of survival. Why would a female mate with a long-tailed male and subject her long-tailed son to the same dilemma.
+Shortly after publishing The Origin of Species, [Charles Darwin wrote](http://www.darwinproject.ac.uk/entry-2743) “The sight of a feather in a peacock’s tail, whenever I gaze at it, makes me sick!”. He wrote this because, to him, the tail simply did not make any sense. It harmed the peacock's chance of survival. Why would a female mate with a long-tailed male and subject her long-tailed son to the same dilemma?
 
-But in the mid-1970’s an evolutionary biologist, Amotz Zahavi, proposed that signals such as peacock tails can be a trusted as they handicap the bearer. Only a high quality peacock can bear the cost. If a sickly peacock tried to carry such a large tail, they’d be toast. In evolutionary lingo, the peacock’s tail is an excellent fitness indicator.
+But in the mid-1970’s an evolutionary biologist, Amotz Zahavi, proposed that signals such as peacock tails can be trusted as they handicap the bearer. Only a high quality peacock can bear the cost. If a sickly peacock tried to carry such a large tail, they’d be toast. In evolutionary lingo, the peacock’s tail is an excellent fitness indicator.
 
 Biologists argued about whether signals could be honest because they create a handicap for fifteen or so years after Zahavi espoused this theory. But in the early 1990s it was agreed that the maths checked out, and the idea is now broadly accepted by biologists.
 
@@ -207,7 +213,7 @@ This handicap principle also applies to human signalling. When humans are seekin
 
 The most obvious example of this type of signalling is conspicuous consumption. Conspicuous consumption is a signal of resources and the traits required to acquire those resources.
 
-One of the most expensive watches in the world is the Patek Philippe Calibre 89. I first heard of this watch when I read [Robert Franks Luxury Fever](franks-luxury-fever.md). Only four were made, with the first selling for $2.5 million and the last auction price I can find was over $5 million.  The watch has 1728 components, gives you the date of Easter each year, and unlike most mechanical watches, will not record the years 2100, 2200 and 2300 as leap years, while still recording 2400 as one (as per the order of Pope Gregory XIII in 1582). It has 28 hands and there are 2800 stars on the star chart.
+One of the most expensive watches in the world is the Patek Philippe Calibre 89. I first heard of this watch when I read [Robert Frank's Luxury Fever](franks-luxury-fever.md). Only four were made, with the first selling for $2.5 million and the last auction price I can find was over $5 million.  The watch has 1728 components, gives you the date of Easter each year, and unlike most mechanical watches, will not record the years 2100, 2200 and 2300 as leap years, while still recording 2400 as one (as per the order of Pope Gregory XIII in 1582). It has 28 hands and there are 2800 stars on the star chart.
 
 Since it is mechanical, it includes a tourbillon, a mechanism to improve accuracy by accounting for the earth’s rotation. But the funny thing is that my cheap quartz watch does not require such a mechanism, as gravity does not affect the vibrations of the crystal. The Calibre 89 also weighs over a kilo and is the size of a hockey puck. For several million dollars less, I have scored a more accurate watch that I can wear.
 
@@ -219,7 +225,7 @@ There’s a decent size literature on this topic, so let’s look at two typical
 
 [Take a group of men](https://doi.org/10.1037/0022-3514.93.1.85) and show them pictures of attractive women and then ask them what they will do with their money. The mating prime makes men more likely to engage in conspicuous consumption or conspicuous charitable donation, but has no effect on inconspicuous consumption.
 
-Women can also be affected by mating primes, although in that particular experiment their change in behaviour in response to pictures of attractive men was an desired increase in volunteering in a public way (but no increase in private benevolence).
+Women can also be affected by mating primes, although in that particular experiment their change in behaviour in response to pictures of attractive men was a desired increase in volunteering in a public way (but no increase in private benevolence).
 
 The difference reflects the different traits each are communicating – men are communicating resources and the traits required to accumulate them, women their conscientiousness.
 
@@ -235,7 +241,7 @@ Of course, signalling involves far more than conspicuous consumption. We don’t
 
 We buy a Cassini 1100mm reflecting telescope to signal our intelligence. We subject ourselves to years of post-secondary education to signal intelligence and conscientiousness. We buy hybrid cars to signal our agreeableness. And we don’t only signal to potential mates. We also signal to friends, relatives and rivals.
 
-Importantly, good signals are difficult to fake. It is difficult to exploit many products if you don’t have the right personality traits – faking education below certain levels of intelligence or conscientious is too difficult, faking wealth will run a poor person dry, faking appreciation of jazz if you have low openness will drive you nuts – the handicap is what makes the signal reliable.
+Importantly, good signals are difficult to fake. It is difficult to exploit many products if you don’t have the right personality traits – faking education below certain levels of intelligence or conscientiousness is too difficult, faking wealth will run a poor person dry, faking appreciation of jazz if you have low openness will drive you nuts – the handicap is what makes the signal reliable.
 
 Ultimately, this approach indicates that there is an important question to be asked when marketing a product. How does your product or brand allow the consumer to signal their traits to potential mates, their spouse, allies or rivals?
 
@@ -249,13 +255,13 @@ So when a man sees a billboard with an attractive woman on a billboard, it gets 
 
 But there is another more important, subtle message. This product will help you in the mating game. The girl on the car gets attention, but the more important implicit message is that this car can get you the girl. I understand there is the saying “sex sells”, and then the rebuttal, “sex sells, but only if you are selling sex”. Well, far more of you are selling sex than you realise.
 
-Personally, I’d like to see more research in this area. Survey the buyers of different cars for number of sexual encounters too see if there is a difference. Of course, we have selection bias issues with those who buy the cars – so maybe we need some random allocation of sports cars to get some reliable results.
+Personally, I’d like to see more research in this area. Survey the buyers of different cars for number of sexual encounters to see if there is a difference. Of course, we have selection bias issues with those who buy the cars – so maybe we need some random allocation of sports cars to get some reliable results.
 
 **A reading list**
 
 Now, I have only scratched the surface over the last half hour or so, but if you are interested in this area, here are a few books to get you started – and I should say that these books heavily influenced what I have talked about today.
 
-*The Red Queen: Sex and the Evolution of Human Nature*] by Matt Ridley was the first book that made me realise that evolutionary biology was at the core of understanding human behaviour. The first half gives a great synopsis of the origins of sex – that is, why we have sex as opposed to budding off clones – and the second asks what this means for human interactions.
+*The Red Queen: Sex and the Evolution of Human Nature* by Matt Ridley was the first book that made me realise that evolutionary biology was at the core of understanding human behaviour. The first half gives a great synopsis of the origins of sex – that is, why we have sex as opposed to budding off clones – and the second asks what this means for human interactions.
 
 In [Spent: Sex, Evolution and Consumer Behavior](millers-spent-sex-evolution-and-consumer-behavior.md), Geoffrey Miller asks whether the signalling we engage in in a mass-consumerist society does a good job of signalling the traits of interest. A consumer culture has a degree of self-deception – that above average products can compensate for below average traits. We get to know each other in minutes and are quite good at judging other people’s qualities from our interactions – that is, our intelligence, conscientiousness and so on. We can see through the product haze, and most products do a crap job of signalling the traits we think we are.
 
@@ -265,7 +271,7 @@ I spoke a lot about signalling, and Amotz Zahavi was the person in the mid-1970�
 
 Gerd Gigerenzer’s [Rationality for Mortals: How People Cope with Uncertainty](gerd-gigerenzers-rationality-for-mortals-how-people-cope-with-uncertainty.md) is from where I stole the first four stages of human decision making. If you do start reading Gigerenzer’s books, I suggest you don’t stop there.
 
-[The Rational Animal: How Evolution Made Us Smarter Than We Think](kenrick-and-griskeviciuss-the-rational-animal.md) by Douglas Kendrick and Vlad Griskevicus in some ways does what I did in the early part of the presentation – they show that many apparently irrational actions are actually quite rational from an evolutionary perspective. They are behind a lot of the studies I have referred to.
+[The Rational Animal: How Evolution Made Us Smarter Than We Think](kenrick-and-griskeviciuss-the-rational-animal.md) by Douglas Kenrick and Vlad Griskevicius in some ways does what I did in the early part of the presentation – they show that many apparently irrational actions are actually quite rational from an evolutionary perspective. They are behind a lot of the studies I have referred to.
 
 And then there are some related articles that I also recommend reading – [particularly by Owen Jones](improving-behavioural-economics.md) who writes a lot about the need to interface behavioural economics and evolutionary biology.
 
@@ -279,4 +285,4 @@ Obviously, to understand humans you need to understand our evolutionary past. An
 
 Second, a large part of our evolved behaviour involves our desire to signal important traits and qualities to potential mates, allies and rivals. When buying a product, what traits does the consumer believe they will be signalling?
 
-And third, our evolved minds are sometimes out-of-sync with our modern environments. Use Gigerenzer’s framework (or Herbert Simon’s scissors) – what are the decision making tools we have evolved to use, what is the environment we intend to use them in, and what is the resulting decision? Biases, purchases and a large range of human behaviour will make much more sense when look at them under this lens.
+And third, our evolved minds are sometimes out-of-sync with our modern environments. Use Gigerenzer’s framework (or Herbert Simon’s scissors) – what are the decision making tools we have evolved to use, what is the environment we intend to use them in, and what is the resulting decision? Biases, purchases and a large range of human behaviour will make much more sense when we look at them under this lens.

@@ -20,7 +20,7 @@ In a recent [article in Behavioral Scientist](https://behavioralscientist.org/a-
 
 I've been compiling some thoughts on how universities don't take teaching seriously, so was interested in finding the source of this story.
 
-There is no link to the paper in the Behavioral Scientist article, but the paper appears to be one by David Figlio, Morton Schapiro and Kevin Soter [-@figlio2015] from The Review of Economics and Statistics, titled "Are Tenure Track Professors Better Teachers?". The basic facts match": 15,662 freshman students between fall 2011 and fall 2008.
+There is no link to the paper in the Behavioral Scientist article, but the paper appears to be one by David Figlio, Morton Schapiro and Kevin Soter [-@figlio2015] from The Review of Economics and Statistics, titled "Are Tenure Track Professors Better Teachers?". The basic facts match: 15,662 freshman students between fall 2001 and fall 2008.
 
 Figlio and friends describe the result in the abstract as follows:
 
@@ -48,5 +48,5 @@ Putting it together, there is little evidence in that paper that experts are wor
 
 I also poked around in some of the cited and citing literature and didn't see anything there to support the claim. It might exist - I didn't search thoroughly - but if something decent existed, I would have expected Grant to use that instead. Here are two of the interesting ones:
 
--   @carrell2010 find that "that less experienced and less qualified professors produce students who perform significantly better in the contemporaneous course being taught, whereas more experienced and highly qualified professors produce students who perform better in the follow-on related curriculum." Somewhat ambiguous, but I'd put more weight on long-term performance and suggest a tick for expertise.
+-   @carrell2010 find "that less experienced and less qualified professors produce students who perform significantly better in the contemporaneous course being taught, whereas more experienced and highly qualified professors produce students who perform better in the follow-on related curriculum." Somewhat ambiguous, but I'd put more weight on long-term performance and suggest a tick for expertise.
 -   @feld2019 found that "students are almost as effective as senior instructors", although "exclusively using them will likely negatively affect student outcomes." Not a big tick to the benefits of expertise, but also not in line with a story that experts are worse teachers.

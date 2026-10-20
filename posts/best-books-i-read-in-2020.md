@@ -35,7 +35,7 @@ I expect that's a better use of my time. If you asked me to summarise a book I r
 - John Cleese, _So, anyway_
 - Andy Grove, _Only the Paranoid Survive_
 - David Krakauer (ed), _Worlds Hidden in Plain Sight: The Evolving Idea of Complexity at the Santa Fe Institute 1984-2019_
-- Howard Kunreuther, Mak Pauly and Stacey McMorrow, _Insurance and Behavioural Economics_
+- Howard Kunreuther, Mark Pauly and Stacey McMorrow, _Insurance and Behavioural Economics_
 - Burton Malkiel, _A Random Walk Down Wall Street_
 - Kevin Mitchell, _Innate: How the Wiring of Our Brains Shapes Who We Are_
 - Melanie Mitchell, _Artificial Intelligence, A Guide for Thinking Humans_
@@ -61,7 +61,7 @@ I expect that's a better use of my time. If you asked me to summarise a book I r
 - William Gibson, _Neuromancer_
 - Frances Hodgson Burnett, _The Secret Garden_
 - Robert Heinlein, _The Moon is a Harsh Mistress_
-- Miles Kundera, _The Unbearable Lightness of Being_
+- Milan Kundera, _The Unbearable Lightness of Being_
 - DH Lawrence, _Lady Chatterley's Lover_
 - Harper Lee, _To Kill a Mockingbird_*
 - Thomas Mann, _Death in Venice_

@@ -13,7 +13,7 @@ Links this week:
   2. [Tort reform preventing people from suing for "weight related harms" may increase attempts to lose weight](http://www.nber.org/papers/w21170#fromrss). HT: [Ryan Murphy](https://twitter.com/increasingmu)
 
 	
-  3. [What does behavioural economics mean for income distribution](http://marginalrevolution.com/marginalrevolution/2015/05/from-the-comments-on-the-political-implications-of-behavioral-economics.html)? The argument ignores most the interesting subtleties, as there are questions around what the reference point is, how you could redistribute while avoiding loss frames etc., but the idea is still worth considering.
+  3. [What does behavioural economics mean for income distribution](http://marginalrevolution.com/marginalrevolution/2015/05/from-the-comments-on-the-political-implications-of-behavioral-economics.html)? The argument ignores most of the interesting subtleties, as there are questions around what the reference point is, how you could redistribute while avoiding loss frames etc., but the idea is still worth considering.
 
 	
   4. [Cholesterol is OK](http://www.rationaloptimist.com/blog/cholesterol-is-not-bad-for-you.aspx).

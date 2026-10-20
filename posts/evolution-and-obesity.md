@@ -19,7 +19,7 @@ For most of our evolutionary history, humans ate a diet high in protein and fat,
 
 One of the arguments as to why the modern diet poses a problem is the protein leverage hypothesis. The basic idea is that humans have a stronger propensity to regulate protein intake than non-protein calories. As humans have a basic daily protein need - we eat until we satisfy our protein requirements. If the food we are eating has low protein content, we need to eat more before hitting that satiation point. These extra calories are what make us obese.
 
-Brooks and his paper co-authors then took this question into the modern supermarket and looked at the prices of protein and carbohydrates. In his book, Brook's summarises their findings:
+Brooks and his paper co-authors then took this question into the modern supermarket and looked at the prices of protein and carbohydrates. In his book, Brooks summarises their findings:
 
 
 <blockquote>I did a quick assessment of the costs of 111 common foods in my local supermarket and takeaway outlets. I was amazed that every megajoule (1000 kilojoules or 239 calories) of energy from protein adds US$3.26 to the average price of a food, but every megajoule of carbohydrate actually reduces the cost of food by 38 cents. .... Because sugars and starches are cheaper relative to protein than at any other time in human history, economic costs are likely to bias the foods we buy and eat toward energy-rich yet protein-poor diets. Within industrialised societies this effect is likely to be most extreme for poor people who have access to a wide range of foods but who are constrained in which foods they can afford to buy.</blockquote>
@@ -27,7 +27,7 @@ Brooks and his paper co-authors then took this question into the modern supermar
 
 This led them to estimate that to cut kilojoule intake by 1,600 kilojoules (the estimated jump in calorie intake since the early 1970s) would require a subsidy of US$0.72 per person per day. This is around $262 per obese person per year, or around one-fifth of the estimated annual medical spending due to obesity.
 
-It provides a case for government action, with the benefits well excess of the cost. Brooks puts it as follows:
+It provides a case for government action, with the benefits well in excess of the cost. Brooks puts it as follows:
 
 
 <blockquote>One possibility is to subsidise high-protein foods such as lentils, lean meat and fish. Another is to reduce subsidies or tariff protection on sugar and cereal staples. An alternative to the politically perilous business of intervening in commodities markets is to tax products that clearly generate a large part of the public health burden. Reductions in carbohydrate intake might more effectively be achieved by raising the price of carbohydrate energy than by lowering the price of protein. Products like soft drinks, cordials, fried potato products and ice cream constitute a large proportion of the energy intake of adults and children at risk of obesity but contain little or no protein. Special taxes on cheap carbohydrates could well prove to be particularly effective.</blockquote>

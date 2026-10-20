@@ -19,7 +19,7 @@ In [Left Brain, Right Stuff](rosenzweigs-left-brain-right-stuff-how-leaders-make
 
 But when it came to those who had high control (clicking the mouse worked 85% of the time), they believed they had less control than they did. Rather than having an illusion of control, they failed to recognise the degree of control that they had. The one point where there was accurate calibration was when there was 100% control.
 
-The net finding of this and other experiments is that we don't systematically have an illusion on control. Rather, we have imperfect information about our level of control. When low, we tend to overestimate. When high (but not perfect), we tend to underestimate.
+The net finding of this and other experiments is that we don't systematically have an illusion of control. Rather, we have imperfect information about our level of control. When low, we tend to overestimate. When high (but not perfect), we tend to underestimate.
 
 That the illusion of control was previously seen to be largely acting in one direction was due to experimental design. When people have no control and can only err in one way, that is naturally what will be found. Gino and friends term this problem as the illusion of the illusion of control.
 
@@ -27,4 +27,4 @@ So when it comes to decision making advice, we need to be aware of the context. 
 
 Should we be warning against underestimating control? If we were to err consistently in one direction, it is not clear to me that having an illusion of control is of greater concern. Maybe we should err on the side of believing we can get things done.
 
-*As an aside, there is a [failed replication](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0017.1995.tb00022.x/abstract) ([pdf](http://www.schulte-mecklenbeck.com/pubs/Kuehberger1995.pdf)) of one of Langer's 1975 experiments from the paper for which the illusion is named.
+*As an aside, there is a [failed replication](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0017.1995.tb00022.x/abstract) ([pdf](http://www.schulte-mecklenbeck.com/pubs/Kuehberger1995.pdf)) of one of Langer's 1975 experiments from the paper for which the illusion is named.*

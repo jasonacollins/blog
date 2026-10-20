@@ -77,9 +77,9 @@ The authors don't state the degraded AI's accuracy. Workers were again told it h
 Workers were then placed in the following conditions.
 
 -   **Human only**: Workers provide their prediction without an AI prediction. They are given 25 seconds for each prediction
--   **Constant time**: Workers provide their prediction with the help of the AI prediction, with 18 second per prediction.\
+-   **Constant time**: Workers provide their prediction with the help of the AI prediction, with 18 seconds per prediction.\
 -   **Random time**: AI assistance with the time allocation randomly set to either 10 seconds or 25 seconds each trial.\
--   **Confidence-based time**: AI assistance with 10 or 25 seconds depending of AI confidence (low confidence = more time).\
+-   **Confidence-based time**: AI assistance with 10 or 25 seconds depending on AI confidence (low confidence = more time).\
 -   **Confidence-based time with explanation**: As for confidence-based time but the AI confidence is explicitly provided (“low” or “high”).
 
 Each of these conditions aligns with a hypothesis that they might reduce anchoring. The one I will focus on is H2: Anchoring bias has a negative effect on human-AI collaborative decision-making accuracy when AI is incorrect.
@@ -108,7 +108,7 @@ Again, for this not to be true, we would need the person to completely ignore th
 
 There's an interesting pattern across all the conditions. Whenever you decrease the probability of following an incorrect AI recommendation, you also decrease the probability of following a correct recommendation. The result is that performance across all conditions is largely the same. Because the AI in this experiment is degraded to a quality similar to that of humans alone, reliance on the AI is largely a wash.
 
-Finally, the authors provide another interesting interpretation when they state that they achieve complementary knowledge. Due to the three excluded variables, the human has more information than the AI. There are a lot of real-world application where the human will have information the AI doesn't - an AI-financial adviser for example - so finding ways to enhance the use of unshared information is vital to achieving complementary performance. In this case, we get complementary knowledge in that the humans do as well as the AI alone despite the fact they don't always follow the AI. Unfortunately, we don't get complementary performance - that is, outperformance by the human-AI team of both the human and AI alone. But examining how to get people to use unshared information seems a prospective path.
+Finally, the authors provide another interesting interpretation when they state that they achieve complementary knowledge. Due to the three excluded variables, the human has more information than the AI. There are a lot of real-world applications where the human will have information the AI doesn't - an AI-financial adviser for example - so finding ways to enhance the use of unshared information is vital to achieving complementary performance. In this case, we get complementary knowledge in that the humans do as well as the AI alone despite the fact they don't always follow the AI. Unfortunately, we don't get complementary performance - that is, outperformance by the human-AI team of both the human and AI alone. But examining how to get people to use unshared information seems a prospective path.
 
 ## The problem is more often insufficient anchoring
 
@@ -118,7 +118,7 @@ In other words, experiments typically find that people adjust too much! Here's s
 
 ![@dietvorst2018 Figure 2b](img/is-following-ai-advice-anchoring/dietvorst-et-al-2018-fig-2b.png){width="400"}
 
-But how does the performance of those who selected the model compare to the model itself. Here is a chart I have generated from the experimental data provided in the [supplementary materials](https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2016.2643/suppl_file/mnsc.2016.2643-sm-data.zip). (Again noting that business schools [more often share data](why-i-dont-trust-most-human-ai-interaction-experimental-research.md).) In the "Adjust by 10" group, the participant's adjustments were a wash, with their performance on par with the unadjusted model. But for those in the "Change 10" group, their changes increased the error. The AI alone was a stronger performer.
+But how does the performance of those who selected the model compare to the model itself? Here is a chart I have generated from the experimental data provided in the [supplementary materials](https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2016.2643/suppl_file/mnsc.2016.2643-sm-data.zip). (Again noting that business schools [more often share data](why-i-dont-trust-most-human-ai-interaction-experimental-research.md).) In the "Adjust by 10" group, the participant's adjustments were a wash, with their performance on par with the unadjusted model. But for those in the "Change 10" group, their changes increased the error. The AI alone was a stronger performer.
 
 ```{r dietvorst-error, message=FALSE, warning=FALSE}
 library(tidyverse)

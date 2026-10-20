@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,16 @@
 
 <title>Brian Christian and Tom Griffiths’s Algorithms to Live By: The Computer Science of Human Decisions – Jason Collins blog</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -35,15 +41,14 @@ ul.task-list li input[type="checkbox"] {
 <link href="../logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-9be722aa83fbcc428616ae682c30a50a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-cd8592f072b9d28f7be82a1360dc3fa5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -98,8 +103,6 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Jason Collins blog</span>
     </a>
@@ -190,9 +193,9 @@ The intuitive standard for rational decision-making is carefully considering all
 </blockquote>
 <p>Here’s a few examples.</p>
 <p>Suppose you face a choice between two uncertain options. Those options have an expected value - the most likely result. If your objective is to maximise your outcome, you pick the option with the highest expected value.</p>
-<p>But what if you objective is to minimise regret - the feeling of pain when you look back at what you did compared to what you could have done? In that case it may be worth looking at the confidence intervals around that expected value - the plausible ranges in which the actual value could lie. Picking the option which has the highest upper confidence interval - the highest plausible value - is the rational approach, even if it has the lower expected value. It is “optimism” in the way a behavioural scientist might frame it, but for an objective of minimising regret, it is rational.</p>
+<p>But what if your objective is to minimise regret - the feeling of pain when you look back at what you did compared to what you could have done? In that case it may be worth looking at the confidence intervals around that expected value - the plausible ranges in which the actual value could lie. Picking the option which has the highest upper confidence interval - the highest plausible value - is the rational approach, even if it has the lower expected value. It is “optimism” in the way a behavioural scientist might frame it, but for an objective of minimising regret, it is rational.</p>
 <p>Or&nbsp;consider memory. From a computer science perspective, memory is often not a question of storage but of organisation - particularly in today’s world of cheap storage. How does a computer predict which items it will want from its memory in the future such that they are accessible within a reasonable time? Faced with that problem, it makes sense to forget things. In particular, it is often useful to forget things with time - those items least recently used. The human mind mimics this strategy, as more recently used items are more likely to be used in the future. It is too expensive to maintain access to an unbounded number of items.</p>
-<p>One chapter of the book covers the idea of “less is more”, which you may be familiar if you know the work of Gerd Gigerenzer and friends. The idea behind “less is more” it that it is often rational to ignore information in making decisions to prevent “overfitting”. Overfitting is an over-sensitivity to the observed data in developing a model. The inclusion of every detail helps the model match the observed data, but prevents generalisation to new situations&nbsp;and predictions based on new data lack reliability.</p>
+<p>One chapter of the book covers the idea of “less is more”, which you may be familiar with if you know the work of Gerd Gigerenzer and friends. The idea behind “less is more” is that it is often rational to ignore information in making decisions to prevent “overfitting”. Overfitting is an over-sensitivity to the observed data in developing a model. The inclusion of every detail helps the model match the observed data, but prevents generalisation to new situations&nbsp;and predictions based on new data lack reliability.</p>
 <p>To avoid overfitting you might deliberately exclude certain factors, impose penalties for including factors in analysis, or stop the analysis early. These strategies are often used in both computer science or machine learning applications, and by humans, and can result in better decisions.</p>
 <p>Christian and Griffiths suggest that evolution tends not to overfit as it is constrained by existing infrastructure and time - features of the environment need some degree of persistence before adaptations to that environment spread, preventing major changes in response to short-term phenomena. Preventing overfitting is also a benefit of a conservative bias in society – preventing us getting caught up in the boom and bust of fads.</p>
 <p>There are times in the book where Christian and Griffiths jump too far from experiment or algorithm to real world application. As an example, they suggest that <a href="http://theory.stanford.edu/~tim/papers/routing.pdf">analysis of a routing</a> tells us not to try to control traffic congestion using a top down coordinator, as the selfish solution is only 33% worse than best case top down coordination. They give little thought to whether congestion has more dimensions of control than just routing. The prisoner’s dilemma chapter also seemed shallow at points - possibly reflecting that it is the area for which I already had&nbsp;the most understanding.</p>

@@ -6,7 +6,7 @@ draft: false
 title: Unskilled and unaware
 ---
 
-[Robin Hanson](http://www.overcomingbias.com/2008/11/all-are-unaware.html) has had another stab at the oft-quoted paper by Kruger and Dunning, [Unskilled and Unaware of It](https://doi.org/10.1037%2F0022-3514.77.6.1121). The first couple of sentences of the paper's abstract gives Kruger and Dunning's basic (and somewhat amusing) claim:
+[Robin Hanson](http://www.overcomingbias.com/2008/11/all-are-unaware.html) has had another stab at the oft-quoted paper by Kruger and Dunning, [Unskilled and Unaware of It](https://doi.org/10.1037%2F0022-3514.77.6.1121). The first couple of sentences of the paper's abstract give Kruger and Dunning's basic (and somewhat amusing) claim:
 
 
 <blockquote>People tend to hold overly favorable views of their abilities in many  social and intellectual domains. The authors suggest that this  overestimation occurs, in part, because people who are unskilled in these domains suffer a dual burden: Not only  do these people reach erroneous conclusions and make unfortunate  choices, but their incompetence robs them of the metacognitive ability  to realize it.</blockquote>

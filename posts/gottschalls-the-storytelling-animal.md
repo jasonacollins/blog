@@ -23,7 +23,7 @@ We each have a little Sherlock Holmes in our brain. His job is to "reason backwa
 But the storytelling mind is imperfect. ... The storytelling mind is allergic to uncertainty, randomness and coincidence. It is addicted to meaning. If the storytelling mind cannot find meaningful patterns in the world, it will try to impose them. In short, the storytelling mind is a factory that churns out true stories when it can, but will manufacture lies when it can't.</blockquote>
 
 
-The second snippet relates to the fallibility of our memories in telling stories. Memories are open to contamination, and are fictionalisations of past events rather than perfectly recollections.
+The second snippet relates to the fallibility of our memories in telling stories. Memories are open to contamination, and are fictionalisations of past events rather than perfect recollections.
 
 
 <blockquote>In a classic experiment, Elizabeth Loftus and her colleagues gathered information from independent sources about undergraduate students' childhoods. The psychologists then brought students into the lab and went over lists of actual events in their lives. The lists were Trojan horses that hid a single lie: When the student was five years old, the psychologists claimed, he wandered away from his parents in a mall. His parents were frightened, and so was he. Eventually an old man reunited him with his parents. At first, the students had no memory of this fictional event. But when they were later called back into the lab and asked about the mall episode, 25 percent of them said they remembered it. These students not only recalled the bare events that the researchers had supplied, but they also added many vivid details of their own.

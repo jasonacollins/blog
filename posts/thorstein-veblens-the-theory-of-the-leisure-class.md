@@ -11,7 +11,7 @@ The Theory of the Leisure Class, published in 1899, was one of the earliest boo
 
 **Conspicuous leisure and consumption**
 
-To turn wealth into status and reputation, you needs to signal your wealth. Veblen explored two possible signals, conspicuous leisure and conspicuous consumption, with Veblen's coining of the latter term his best known claim to fame. Veblen has a relatively modern take on these two concepts, recognising the need for waste. [Signalling theory tells us](economists-1-biologists-0.md) that waste required for a signal to be reliable.
+To turn wealth into status and reputation, you need to signal your wealth. Veblen explored two possible signals, conspicuous leisure and conspicuous consumption, with Veblen's coining of the latter term his best known claim to fame. Veblen has a relatively modern take on these two concepts, recognising the need for waste. [Signalling theory tells us](economists-1-biologists-0.md) that waste is required for a signal to be reliable.
 
 When there are few goods for conspicuous consumption, as would be the case in primitive societies, conspicuous leisure is a more accessible way to signal wealth. Conspicuous leisure might involve reaching a level of manners and etiquette that could only be achieved through an excessive use of time, or becoming proficient at sports. Veblen also considers what he calls "vicarious conspicuous leisure", whereby the head of the house employs servants (or even the housewife) in exercises that waste time.
 
@@ -25,7 +25,7 @@ Veblen considered that conspicuous consumption will consume all future growth in
 
 
 
-Veblen also suggests that the use of additional production for conspicuous consumption acts as a Malthusian check on fertility. If signals are wasteful, then some of these resources will not be available for increasing the number of offspring. However, to be evolutionary stable, any reduction in conspicuous consumption by an individual would have them suffer a cost in the form of reputation and status, and in turn, mating opportunities.
+Veblen also suggests that the use of additional production for conspicuous consumption acts as a Malthusian check on fertility. If signals are wasteful, then some of these resources will not be available for increasing the number of offspring. However, to be evolutionarily stable, any reduction in conspicuous consumption by an individual would have them suffer a cost in the form of reputation and status, and in turn, mating opportunities.
 
 One of Veblen's interesting perspectives is that costliness masquerades under the name of beauty. Veblen states that “beauty, in the naive sense of the word, is the occasion rather than the ground of their monopolization or of their commercial value.” The marks of expensiveness, rarity and exclusivity become known as beauty.
 
@@ -61,7 +61,7 @@ Sports reflect the predatory skills of the leisure class and delinquents. Veblen
 
 Veblen considered that the temperament that inclines one to sport inclines one to religion (and vice versa). Religion, and the conspicuous leisure and consumption associated with it, change the patterns of consumption in the community and lowers its vitality. As an example, Veblen referred to the religious Southern United States. He considered that their industry was more handicraft than industrial. Their range of habits, such as duels, cock-fighting and male sexual incontinence (shown by the presence of mulattoes) were evidence of barbarian traits.
 
-On education, Veblen saw the alignment of education institutions with sport and religion as evidence of education’s status as a leisure class activity. Higher education has many rituals and ceremonies and encourages proper speech and spelling (conspicuous leisure), while lower schools tend to more practical. The teaching of the classics and dead languages were, in particular, conspicuous consumption.
+On education, Veblen saw the alignment of education institutions with sport and religion as evidence of education’s status as a leisure class activity. Higher education has many rituals and ceremonies and encourages proper speech and spelling (conspicuous leisure), while lower schools tend to be more practical. The teaching of the classics and dead languages were, in particular, conspicuous consumption.
 
 One interesting sideline is Veblen’s view on how industrialisation has affected the status of women. Industrialisation allows women to revert to a more primitive type (Veblen’s primitive type being peaceful and industrial). The leisure class, however, needs to keep women in their place to engage in vicarious conspicuous leisure (they are, after all, a signal for the man). As a result, when educational institutions finally began to admit women, they were primarily enrolled in courses with a quasi-artistic quality, which help women in performing vicarious conspicuous leisure.
 

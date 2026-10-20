@@ -14,6 +14,6 @@ title: Selection during pregnancy
 A woman in Bangladesh has a very different history behind her. Her ancestors ate fish, unprocessed rice, and other foods with modest levels of carbohydrates. In that environment, women with mutations that _increased_ their blood sugar during pregnancy might have had healthier children than women without them.  Throw those genes into a modern Western city, and trouble looms. Women with low-sugar genes are now drinking soda and eating bread, ice cream, and lots of other food loaded in carbs. They don’t have the evolved defenses to keep them from developing gestational diabetes.</blockquote>
 
 
-From New York birth data, Women of European descent have less than a 4 per cent chance of developing gestational diabetes during pregnancy, compared to around 20 per cent for Bangladeshi women.
+From New York birth data, women of European descent have less than a 4 per cent chance of developing gestational diabetes during pregnancy, compared to around 20 per cent for Bangladeshi women.
 
 The paper also points to recent evolution relating to production of vitamin D, altitude and malaria.

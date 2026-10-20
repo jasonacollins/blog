@@ -8,7 +8,7 @@ title: An evolutionary Occupy
 
 In an evolutionary sense, resource inequality affects survival and access to mates. While the current “Occupy” debates about growing inequality and the power of the 1 per cent are very much focused on the resource issue, the underlying reason people have an innate aversion to the unequal distribution of power (or, more particularly, their being at the wrong end of that distribution) comes back to these evolutionary factors. But to what extent are survival and reproduction actually affected by the inequality being protested?
 
-In the case of survival in a developed country, the “we are the 99 per cent” is a useful benchmark, but in this case it is the 1 per cent at the bottom compared to the 99 per cent above. Only those at the very bottom likely to have their survival through their reproductive years threatened. Survival is not at the core of the debate.
+In the case of survival in a developed country, the “we are the 99 per cent” is a useful benchmark, but in this case it is the 1 per cent at the bottom compared to the 99 per cent above. Only those at the very bottom are likely to have their survival through their reproductive years threatened. Survival is not at the core of the debate.
 
 When we consider the issue from a reproductive perspective, the issue becomes more interesting. I would expect that the increased share of income to the top 1 per cent increases their ability to attract mates. This might be through the ability to support more mistresses and to engage in serial monogamy, with the increased wealth allowing second and third wives to be obtained more easily despite advancing years. There would also be some effect on mate quality.
 

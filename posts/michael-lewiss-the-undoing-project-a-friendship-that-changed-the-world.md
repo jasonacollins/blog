@@ -7,7 +7,7 @@ draft: false
 
 My journey into understanding human decision making started when I read Michael Lewis's [Moneyball](https://en.wikipedia.org/wiki/Moneyball) in 2005. The punchline - which, as it turns out, has been known across numerous domains since at least the 1950s - is that "expert" judgement is often outperformed by simple statistical analysis.
 
-A couple of years later I read Malcolm Gladwell's [Blink](https://en.wikipedia.org/wiki/Blink:_The_Power_of_Thinking_Without_Thinking) and was diverted into the world of  [Gary Klein](https://en.wikipedia.org/wiki/Gary_A._Klein), which then led me to Kahneman and Tversky among others. It was only then that I started to think about the what it is that causes the experts to under-perform (For all Gladwell's flaws, [Gladwell is a great gateway](in-praise-of-malcolm-gladwell.md) to new ideas).
+A couple of years later I read Malcolm Gladwell's [Blink](https://en.wikipedia.org/wiki/Blink:_The_Power_of_Thinking_Without_Thinking) and was diverted into the world of  [Gary Klein](https://en.wikipedia.org/wiki/Gary_A._Klein), which then led me to Kahneman and Tversky among others. It was only then that I started to think about what it is that causes the experts to under-perform (For all Gladwell's flaws, [Gladwell is a great gateway](in-praise-of-malcolm-gladwell.md) to new ideas).
 
 In the opening to [The Undoing Project: A Friendship That Changed The World](https://en.wikipedia.org/wiki/The_Undoing_Project), Lewis tells of a similar intellectual journey (although obviously with a somewhat closer connection to Moneyball):
 

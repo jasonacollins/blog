@@ -5,7 +5,7 @@ date: 2013-05-22 12:39:22+00:00
 draft: false
 ---
 
-If nothing else, David Sloan Wilson is ambitious. He's been pushing the multilevel selection wheelbarrow with not much support for close to forty years (although support seems to be growing in some circles). And over the last couple of years, he's been increasingly promoting the idea of a evolution-centred "science of intentional change" that will allow us to change our behavioural and cultural practices. And as a simple step on the way there, all we have to do is conceptually unify the behavioural sciences.
+If nothing else, David Sloan Wilson is ambitious. He's been pushing the multilevel selection wheelbarrow with not much support for close to forty years (although support seems to be growing in some circles). And over the last couple of years, he's been increasingly promoting the idea of an evolution-centred "science of intentional change" that will allow us to change our behavioural and cultural practices. And as a simple step on the way there, all we have to do is conceptually unify the behavioural sciences.
 
 This program for a science of intentional change is now sketched out in [an article for Behavioral and Brain Sciences](http://journals.cambridge.org/images/fileUpload/documents/Wilson_BBS-D-11-00562_preprint.pdf) (in press), co-authored with Steven Hayes, Anthony Biglan and Dennis Embry. The interesting thing about BBS articles of this nature, as explained in a companion [post by Wilson at Evolution: This View of Life](http://www.thisviewoflife.com/index.php/magazine/articles/evolving-the-future), is that they are followed by commentary of peers, with submissions for commentary due by 28 May. Given some of the criticisms in the article, I hope that the right respondents will be flushed out.
 
@@ -19,7 +19,7 @@ Still, there are plenty of good and interesting ideas in the article and maybe I
 We will argue that the first steps toward integration, represented by a configuration of ideas that most people associate with the term evolutionary psychology (EP), was only the beginning and in some ways led in the wrong direction. In particular, the distinction between EP and the standard social science model (SSSM) was a wrong turn we must correct. A mature EP needs to include elements of the SSSM associated with major thinkers such as Emile Durkheim, B.F. Skinner, and Clifford Geertz. Only when we depolarize the distinction between EP and the SSSM can a science of change occur.</blockquote>
 
 
-Do evolutionists rely upon their own "blank slate" assumption"? I hope Steven Pinker takes the time to respond to this piece.
+Do evolutionists rely upon their own "blank slate" assumption? I hope Steven Pinker takes the time to respond to this piece.
 
 
 <blockquote>Ironically, although Tooby and Cosmides praised genetic evolution as a domain-general process, capable of adapting organisms to virtually any environment, they failed to generalize this insight to include other evolutionary processes. If they had, their critique of the “blank slate” traditions in the human behavioral sciences would have appeared in a new light.

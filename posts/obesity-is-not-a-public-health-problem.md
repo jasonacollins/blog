@@ -6,7 +6,7 @@ draft: false
 title: Obesity is not a public health problem
 ---
 
-It has taken a while for this month's Cato Unbound, "[Can Public Policy Stop Obesity?](http://www.cato-unbound.org/issues/january-2015/can-public-policy-stop-obesity)", to warm up. But [Christopher Snowdon's latest post](http://www.cato-unbound.org/2015/01/27/christopher-snowdon/slippery-slope-food-regulations) is full of good material. He takes on the question of whether obesity is a drain on the public purse, whether we consumer high sugar soda because we have no no choice, and the burden of sugar taxation.
+It has taken a while for this month's Cato Unbound, "[Can Public Policy Stop Obesity?](http://www.cato-unbound.org/issues/january-2015/can-public-policy-stop-obesity)", to warm up. But [Christopher Snowdon's latest post](http://www.cato-unbound.org/2015/01/27/christopher-snowdon/slippery-slope-food-regulations) is full of good material. He takes on the question of whether obesity is a drain on the public purse, whether we consume high sugar soda because we have no choice, and the burden of sugar taxation.
 
 The opening is particularly pointed. Is obesity a public health problem? And, can parents solve the childhood obesity crisis?
 

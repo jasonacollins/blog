@@ -11,7 +11,7 @@ draft: false
 >
 >Why does one “experiment” (i.e., introducing a new product) fail to raise ethical concerns, whereas a true scientific experiment (i.e., introducing a variation of the product to determine the comparative safety or efficacy of the original) sets off ethical alarms?
 >
-In [a forthcoming article in the Colorado Technology Law Journal](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2605132), one of us (Professor Meyer) calls this the “A/B illusion” — the human tendency to focus on the risk, uncertainty and power asymmetries of running a test that compares A to B, while ignoring those factors when A is simply imposed by itself.
+>In [a forthcoming article in the Colorado Technology Law Journal](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2605132), one of us (Professor Meyer) calls this the “A/B illusion” — the human tendency to focus on the risk, uncertainty and power asymmetries of running a test that compares A to B, while ignoring those factors when A is simply imposed by itself.
 >
 >....
 >

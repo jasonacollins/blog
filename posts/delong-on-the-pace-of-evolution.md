@@ -19,7 +19,7 @@ The following table indicates how he came to that conclusion (the numbers are ho
 
 ![](img/2011-01-18-delong-on-the-pace-of-evolution/delong-1.png)
 
-DeLong took this slow rate of change to be a challenge for any genetically based theory of the Industrial Revolution. If those numbers were the last word, I would be inclined to agree. However, I would not rule out a scenario where a change in a relatively small part of the population could have large effects if s small group of individuals were responsible for a large proportion of innovation in an economy or there were positive feedback loops.
+DeLong took this slow rate of change to be a challenge for any genetically based theory of the Industrial Revolution. If those numbers were the last word, I would be inclined to agree. However, I would not rule out a scenario where a change in a relatively small part of the population could have large effects if a small group of individuals were responsible for a large proportion of innovation in an economy or there were positive feedback loops.
 
 More importantly, a closer look at the numbers can change the assessment. The first issue is DeLong's interpretation of his own example. While DeLong's estimate of 0.04 for the rate of growth is approximately right when the population is composed of equal numbers of each genotype, it underestimates the growth rate when there are proportionally less patient genotypes. Take the situation where the population has 1 per cent patient genotypes. In such a case, the increase of patient genotypes is effectively their absolute growth rate as they make little difference to the total population. Therefore, they increase as a proportion of the population at a rate of 1/13, or approximately 8 per cent per generation.
 
@@ -29,7 +29,7 @@ Further playing with the numbers gives us some other possibilities. If instead o
 
 ![](img/2011-01-18-delong-on-the-pace-of-evolution/delong-2.png)
 
-These calculations yield us a proportional growth rate of 12 per cent when there is a low proportion of patient genotypes, and 6 per cent when the population is composed of around 50 per cent patient genotypes. That is a doubling in proportion every 6 generations or 150 years when there is a low proportions of patient genotypes.
+These calculations yield us a proportional growth rate of 12 per cent when there is a low proportion of patient genotypes, and 6 per cent when the population is composed of around 50 per cent patient genotypes. That is a doubling in proportion every 6 generations or 150 years when there is a low proportion of patient genotypes.
 
 Another alternative is to simply cut out a step and assume that patient genotypes have a two-thirds chance of being rich, while the others have a one-third chance. This dramatically increases the potential growth rates:
 

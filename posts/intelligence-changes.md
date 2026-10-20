@@ -6,7 +6,7 @@ draft: false
 title: Intelligence changes
 ---
 
-Scott Haufman has [written a post](http://www.huffingtonpost.com/scott-barry-kaufman/intelligence-is-still-not_b_1078112.html) on the variation in IQ over a person's life. He writes:
+Scott Kaufman has [written a post](http://www.huffingtonpost.com/scott-barry-kaufman/intelligence-is-still-not_b_1078112.html) on the variation in IQ over a person's life. He writes:
 
 
 
@@ -18,6 +18,6 @@ These results are illustrative of what psychologists find over and over again. I
 
 
 
-In his analysis, Haufman rightly points out that this is further evidence that IQ is not fixed. However, he hasn't noted one element of the change in IQ - the heritability of IQ increases through childhood and adolescence. The idiosyncratic environmental influences wash out. Some of the variation is movement reflecting some fixed underlying factors.
+In his analysis, Kaufman rightly points out that this is further evidence that IQ is not fixed. However, he hasn't noted one element of the change in IQ - the heritability of IQ increases through childhood and adolescence. The idiosyncratic environmental influences wash out. Some of the variation is movement reflecting some fixed underlying factors.
 
 If the experiment reported changes in IQ between the ages of 20 and 80, I expect the variation would be smaller.

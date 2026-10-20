@@ -8,7 +8,7 @@ title: Is it human nature to riot?
 
 In a [post earlier this month](http://blogs.scientificamerican.com/primate-diaries/2011/09/06/freedom-to-riot/), Eric Johnson put together an interesting argument on the evolution of collective violence  (I recommend reading his whole post).
 
-Johnson opens with some of the arguments that group violence is a consequence of our evolutionary history. One of this arguments is the called the Elaborated Social Identity Model of crowd behaviour:
+Johnson opens with some of the arguments that group violence is a consequence of our evolutionary history. One of his arguments is called the Elaborated Social Identity Model of crowd behaviour:
 
 
 <blockquote>Each individual remains a rational actor, but has been primed by natural selection to identify with the group during a period of crisis. This well developed ingroup/outgroup bias is what has allowed our species to be the most cooperative of the primates, but certain conditions have the potential to turn us against our own community. ...

@@ -7,7 +7,7 @@ draft: false
 
 Loss aversion is the idea that losses loom larger than gains. It is one of the foundational concepts in the judgment and decision making literature. In [Thinking, Fast and Slow](re-reading-kahnemans-thinking-fast-and-slow.md), Daniel Kahneman wrote "The concept of loss aversion is certainly the most significant contribution of psychology to behavioral economics."
 
-Yet, over the last couple of years several critiques have emerged that question the foundations of loss aversion and whether loss aversion is a phenomena at all.
+Yet, over the last couple of years several critiques have emerged that question the foundations of loss aversion and whether loss aversion is a phenomenon at all.
 
 One is an article by Eldad Yechiam, titled [Acceptable losses: the debatable origins of loss aversion](https://doi.org/10.1007/s00426-018-1013-8) ([pdf](https://ie.technion.ac.il/~yeldad/Y2018.pdf)). Framed in one case as a [spread of the replication crisis](https://twitter.com/DegenRolf/status/985864400664973312) to loss aversion, the abstract reads as follows:
 
@@ -19,7 +19,7 @@ A second, [The Loss of Loss Aversion: Will It Loom Larger Than Its Gain](https:/
 
 A third strain of criticism relates to the concept of ergodicity. Put forward by [Ole Peters](https://ergodicityeconomics.com), the basic claim is that people are not maximising the expected value of a series of gambles, but rather the time average. If people maximise the latter, not the former as many approaches assume, you don't need risk or loss aversion to explain the decisions. (I'll leave explaining what exactly this means to a later post.)
 
-I'm as sceptical and cynical about the some of the findings in the behavioural sciences as most (here's my [critical behavioural economics and behavioural science reading list](a-critical-behavioural-economics-and-behavioural-science-reading-list.md)), but I'm not sure I am fully on board with these arguments, particularly the stronger statements of Gal and Rucker. This post is the first of a few rummaging through these critiques to make sense of the debate, starting with Yechiam's paper on the foundations of loss aversion in prospect theory.
+I'm as sceptical and cynical about some of the findings in the behavioural sciences as most (here's my [critical behavioural economics and behavioural science reading list](a-critical-behavioural-economics-and-behavioural-science-reading-list.md)), but I'm not sure I am fully on board with these arguments, particularly the stronger statements of Gal and Rucker. This post is the first of a few rummaging through these critiques to make sense of the debate, starting with Yechiam's paper on the foundations of loss aversion in prospect theory.
 
 ## Acceptable losses: the debatable origins of loss aversion
 
@@ -27,7 +27,7 @@ One of the most cited papers in the social sciences is Daniel Kahneman and Amos 
 
 Under expected utility theory, people assign a utility value to each possible outcome of a lottery or gamble, with that outcome typically relating to a final level of wealth. The expected utility for a decision under risk is simply the probability weighted sum of these utilities. The utility of a 50% chance of \$0 and a 50% chance of \$200 is simply the sum of 50% of the utility of each of \$0 and \$200.
 
-When utility is assumed to increase at a decreasing rate with each additional dollar of additional wealth - as is typically the case - it leads to risk averse behaviour, with a certain sum preferred to a gamble with an equivalent expected value. For example, a risk averse person would prefer \$100 for certain that the 50-50 gamble for \$0 or \$200.
+When utility is assumed to increase at a decreasing rate with each additional dollar of additional wealth - as is typically the case - it leads to risk averse behaviour, with a certain sum preferred to a gamble with an equivalent expected value. For example, a risk averse person would prefer \$100 for certain to the 50-50 gamble for \$0 or \$200.
 
 In their 1979 paper, Kahneman and Tversky described a number of departures from expected utility theory. These included:
 
@@ -47,7 +47,7 @@ Through the paper, Kahneman and Tversky describe experiments on each of the cert
 
 >[I]n their 1979 paper, Kahneman and Tversky (1979) strongly argued for loss aversion, even though, at the time, they had not reported any experiments to support it. By indicating that this was a robust finding in earlier research, Kahneman and Tversky (1979) were able to rely upon it as a stylized fact. They begin their discussion on losses by stating that “a salient characteristic of attitudes to changes in welfare is that losses loom larger than gains” (p. 279), which suggests that this stylized fact is based on earlier findings. They then follow with the (much cited) sentence that “the aggravation that one experiences in losing a sum of money appears to be greater than the pleasure associated with gaining the same amount [17]” (p. 279). Most people who cite this sentence do so without the end quote of Galenter and Pliner (1974). Galenter and Pliner (1974) are, therefore, the first empirical study used to support the notion of loss aversion.
 
-So what did Galenter and Pliner find? Yechiam writes:
+So what did Galanter and Pliner find? Yechiam writes:
 
 >Summing up their findings, Galenter and Pliner (1974) reported as follows: “We now turn to the question of the possible asymmetry of the positive and negative limbs of the utility function. On the basis of intuition and anecdote, one would expect the negative limb of the utility function to decrease more sharply than the positive limb increases... what we have observed if anything is an asymmetry of much less magnitude than would have been expected ... the curvature of the function does not change in going from positive to negative” (p. 75).
 >
@@ -65,7 +65,7 @@ Yechiam walks through three of the studies. On Swalm (1966):
 
 >The results of the 13 individuals examined by Swalm ... appear at the first glance to be consistent with an asymmetric utility function implying overweighting of losses compared to gains (i.e., loss aversion). Notice, however, that amounts are in the thousands, such that the smallest amount used was set above \$1000 and typically above \$5000, because it was derived from the participant’s “planning horizon”. Moreover, for more than half of the participants, the utility curve near the origin ..., which spans the two smallest gains and two smallest losses for each person, was linear. This deviates from the notion of loss aversion which implies that asymmetries should also be observed for small amounts as well.
 
-This point reflects an argument that Yechiam and other have made in several papers (including [here](http://www.decisionsciencenews.com/sjdm/journal.sjdm.org/12/12712/jdm12712.pdf) and [here](https://doi.org/10.1037/a0029383)) that loss aversion is only apparent in high-stakes gambles. When the stakes are low, loss aversion does not appear.
+This point reflects an argument that Yechiam and others have made in several papers (including [here](http://www.decisionsciencenews.com/sjdm/journal.sjdm.org/12/12712/jdm12712.pdf) and [here](https://doi.org/10.1037/a0029383)) that loss aversion is only apparent in high-stakes gambles. When the stakes are low, loss aversion does not appear.
 
 On Grayson (1960):
 
@@ -77,7 +77,7 @@ On Green (1963):
 
 >... Green (1963) did not examine any losses, making any interpretation concerning loss aversion in this study speculative as it rests on the authors’ subjective impression.
 
-The results from Swalm (1966), Grayson (1960) and Green (1963) covers 26 of the 30 participants aggregated by Fishburn and Kochenberger. Halter and Dean (1971) and Barnes and Reinmuth (1976) only involved two participants each.
+The results from Swalm (1966), Grayson (1960) and Green (1963) cover 26 of the 30 participants aggregated by Fishburn and Kochenberger. Halter and Dean (1971) and Barnes and Reinmuth (1976) only involved two participants each.
 
 So what of other studies that were available to Kahneman and Tversky at the time?
 
@@ -103,6 +103,6 @@ I'll examine the post-1979 evidence in more detail in a future post, but in the 
 
 The presence of loss aversion for only large stakes gambles raises some interesting questions. In particular, are we actually observing the effect of "minimal requirements", whereby a loss would push them below some minimum threshold for, say, survival or other basic necessities? (Or at least a heuristic that operates with that intent?) This is a distinct concept from loss aversion as presented in prospect theory.
 
-Finally - and a minor point on the claim that Yechiam's paper was the beginning of the spread of the replication crisis to loss aversion - there is of course no direct experiment on loss aversion in the initial prospect theory paper to be replicated. A [recent replication](https://osf.io/esxc4/) of the experiments in the 1979 paper had positive results (excepting some mixed results concerning the reflection effect). Replication of the 1979 paper doesn't, however, resolve provide any evidence on the replicability of loss aversion itself, nor the appropriate interpretation of the experiments.
+Finally - and a minor point on the claim that Yechiam's paper was the beginning of the spread of the replication crisis to loss aversion - there is of course no direct experiment on loss aversion in the initial prospect theory paper to be replicated. A [recent replication](https://osf.io/esxc4/) of the experiments in the 1979 paper had positive results (excepting some mixed results concerning the reflection effect). Replication of the 1979 paper doesn't, however, provide any evidence on the replicability of loss aversion itself, nor the appropriate interpretation of the experiments.
 
 On that point, in my next post on the topic I'll turn to some of the alternative explanations for what appears to be loss aversion, particularly the claims of Gal and Rucker that losses do not loom larger than gains.

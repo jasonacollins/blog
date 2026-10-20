@@ -26,4 +26,4 @@ In contrast, at last week's [Consilience Conference](consilience-conference-afte
 
 Having dug myself into a hole through some broad, over-generalised criticism, this critique is not to say that there are no useful and important ideas coming out of this work. My [economics and evolutionary biology reading list](economics_and_evolutionary_biology_reading_list.md) has a sample of what I consider to be some of the more important contributions. Rather, my critique reflects my instinct that the field will remain a world unto itself, without being a significant contributor to the congruence of biology and economics. Research into the biological basis of preferences and behaviour has massive potential to affect the broader field of economics. It would be disappointing if this research did not achieve that result.
 
-*The videos are many of the presentations [are now up](videos-for-the-biological-basis-of-preferences-and-behavior-conference.md).
+*The videos of many of the presentations [are now up](videos-for-the-biological-basis-of-preferences-and-behavior-conference.md).*

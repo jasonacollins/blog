@@ -6,7 +6,7 @@ date: 2012-01-24 12:07:38+00:00
 draft: false
 ---
 
-Robin Hansen [writes](http://www.overcomingbias.com/2012/01/sex-ratio-signaling.html) on the sex selective abortion of females:
+Robin Hanson [writes](http://www.overcomingbias.com/2012/01/sex-ratio-signaling.html) on the sex selective abortion of females:
 
 >A simple supply and demand analysis says that selective abortion both _expresses_ a preference for boys and _causes_ a reduction in that preference as wives become scarce. In South Korea this process is mostly complete, with excess girls down from 15% in the 1990s to 7% today (with ~5% as the biologically natural excess). ...
 
@@ -20,7 +20,7 @@ Take the following chart of Australian marriage rates (data from [Heard (2011)]
 
 There is no shortage of unmarried males in low-income groups even where there is no (or minimal) sex selective abortion. Women care about quality. It could be argued that in Australia, without sex selective abortion, there is a shortage of high-quality males.
 
-So, what is the status of the excess males in China? In the [article](http://www.thenewatlantis.com/publications/the-global-war-against-baby-girls) that triggered Hansen's post, Nicholas Eberstadt writes:
+So, what is the status of the excess males in China? In the [article](http://www.thenewatlantis.com/publications/the-global-war-against-baby-girls) that triggered Hanson's post, Nicholas Eberstadt writes:
 
 >For one thing, abnormal sex ratios appear to be almost entirely a Han phenomenon within China — and China’s Han are, generally speaking, better educated and more affluent than the country’s non-Han minorities.
 

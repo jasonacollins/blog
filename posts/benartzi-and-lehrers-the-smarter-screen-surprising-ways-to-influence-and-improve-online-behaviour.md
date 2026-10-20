@@ -16,7 +16,7 @@ The central thesis in The Smarter Screen is that since so many of our decisions 
 
 I saw Benartzi present about screen decision-making a few years ago, when he highlighted how some biases play out differently on screens compared to other mediums. For example, he suggested that defaults were less sticky on screens (we are quick to un-check the pre-checked box). While that particular example didn't appear in The Smarter Screen, other examples followed a similar theme.
 
-As a start, we read much faster on screens. Benartzi gives the example of a test with a written instruction at the front of the test to not answer the following questions. Experimental subjects suffered double rate of failure when on a computer - up from around 20% to 46% - skipping over the instruction and answering questions they should not have answered.
+As a start, we read much faster on screens. Benartzi gives the example of a test with a written instruction at the front of the test to not answer the following questions. Experimental subjects suffered double the rate of failure when on a computer - up from around 20% to 46% - skipping over the instruction and answering questions they should not have answered.
 
 People are also more truthful on screens. For instance, people report more health problems and drug use to screens. Men report less sexual partners, women more. We order pizza closer to our preferences (no embarrassment about those idiosyncratic tastes).
 
@@ -34,7 +34,7 @@ Or take disfluency and the study by [Adam Alter and friends](https://doi.org/10
 
 >A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?
 
-The two versions differed in that one used a small light grey font that made the questions hard to read. Those exposed to the harder to read questions achieved higher scores. Exciting stuff
+The two versions differed in that one used a small light grey font that made the questions hard to read. Those exposed to the harder to read questions achieved higher scores. Exciting stuff.
 
 But 16 replications involving a total of around 7,000 people found nothing (Terry Burnham discusses these replications in more detail [here](http://www.terryburnham.com/2015/04/a-trick-for-higher-sat-scores.html)). Here's how Benartzi deals with the replications:
 
@@ -54,7 +54,7 @@ Other random thoughts:
     
   * Benartzi discusses the potential of [query theory](https://en.m.wikipedia.org/wiki/Query_theory), which proposes that people arrive at decisions by asking themselves a series of internal questions. How can we shape decisions by posing the questions externally?
     
-  * Benartzi references a study in which 255 students received an annual corporate report. One report was aesthetically pleasing, the other less attractive. Despite both reports containing the same information, the students gave a higher valuation for the company with the attractive report (more than double). Bernartzi suggests the valuations should have been the same, but I am not sure. In the same way that wasteful advertising can be a signal that the brand has money and will stick around, the attractive report provides a signal about the company. If a company doesn't have the resources to make its report look decent, how much should you trust the data and claims in it?
+  * Benartzi references a study in which 255 students received an annual corporate report. One report was aesthetically pleasing, the other less attractive. Despite both reports containing the same information, the students gave a higher valuation for the company with the attractive report (more than double). Benartzi suggests the valuations should have been the same, but I am not sure. In the same way that wasteful advertising can be a signal that the brand has money and will stick around, the attractive report provides a signal about the company. If a company doesn't have the resources to make its report look decent, how much should you trust the data and claims in it?
     
   * Does The Smarter Screen capture a short period where screens have their current level of importance? Think of ordering a pizza. Ten years ago we might have phoned, been given an estimated time of delivery and then waited. Today we can order our pizza on our smartphone, then watch it move through the process of construction, cooking and delivery. Shortly (if you're not already doing this), you'll simply order your pizza through your Alexa.
     

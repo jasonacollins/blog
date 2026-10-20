@@ -5,7 +5,7 @@ date: 2011-11-06 10:09:29+00:00
 draft: false
 ---
 
-While IQ research seems to be be emerging from its taboo phase, Anneli Rufus has written an article in [Alternet](http://www.alternet.org/story/152944/iq_blackout:_why_did_studying_intelligence_become_taboo?page=entire) which asks why the study of human intelligence was off the agenda for so long.
+While IQ research seems to be emerging from its taboo phase, Anneli Rufus has written an article in [Alternet](http://www.alternet.org/story/152944/iq_blackout:_why_did_studying_intelligence_become_taboo?page=entire) which asks why the study of human intelligence was off the agenda for so long.
 
 The analysis points to the usual suspects - the shadow of eugenics and racial research - but the article does have a couple of interesting quotes from Stephen Murdoch and Dennis Garlick. First, in much of the literature on IQ, the focus is on finding 'g', a single measure of general intelligence. Murdoch is agnostic as to whether 'g' exists:
 

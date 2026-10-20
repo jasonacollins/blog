@@ -1,9 +1,8 @@
 ---
+title: Crime and biology
 author: "Jason Collins"
-
 date: 2011-06-22 08:04:09+00:00
 draft: false
-title: Crime and biology
 ---
 
 The July/August 2011 edition of the Atlantic has a [great article](http://www.theatlantic.com/magazine/print/2011/07/the-brain-on-trial/8520/) by David Eagleman on the implications of advances in brain science on the way we approach crime (HT: [Jeffrey Horn](https://twitter.com/#!/jrhorn424)). Eagleman argues that these advances will require a reshaping of the criminal justice system to reflect the declining gap between whether actions can be attributed to biology and free will. Eagleman writes:
@@ -26,9 +25,9 @@ Eagleman's first response to this problem is to move away from blameworthiness. 
 Deeper biological insight into behavior will foster a better   understanding of recidivism—and this offers a basis for empirically   based sentencing. Some people will need to be taken off the streets for a   longer time (even a lifetime), because their likelihood of reoffense  is  high; others, because of differences in neural constitution, are  less  likely to recidivate, and so can be released sooner.</blockquote>
 
 
-While I agree the criminal justice system should ask what the law-breaker is likely to do in the future, it cannot desert the look in the rearview mirror. If you wish the justice system to offer an incentive to not commit crimes, it needs to act retrospectively or the threat of punishment will not be credible. If people have a biological propensity to commit a crime, you may need to make these incentives even stronger (Steven Pinker discusses this argument in *The Blank Slate*.
+While I agree the criminal justice system should ask what the law-breaker is likely to do in the future, it cannot desert the look in the rearview mirror. If you wish the justice system to offer an incentive to not commit crimes, it needs to act retrospectively or the threat of punishment will not be credible. If people have a biological propensity to commit a crime, you may need to make these incentives even stronger (Steven Pinker discusses this argument in *The Blank Slate*).
 
-To make his forward-looking approach work, Eagleman suggests that the courts use statistically based sentencing. Statistical analysis can be used to find out which factors have the highest link to re-offending - and the evidence suggests that this is more accurate than leaving it to judges. I [suggested this recently](hungry-judges.md) in response to the finding that the timing of lunch breaks in Israeli courts. Human judgement is a primary weakness in the criminal justice system. However, there will need to be a component of the algorithm that provides a certain, strong punishment that potential criminals can take into account.
+To make his forward-looking approach work, Eagleman suggests that the courts use statistically based sentencing. Statistical analysis can be used to find out which factors have the highest link to re-offending - and the evidence suggests that this is more accurate than leaving it to judges. I [suggested this recently](hungry-judges.md) in response to the finding that the timing of lunch breaks in Israeli courts affected parole decisions. Human judgement is a primary weakness in the criminal justice system. However, there will need to be a component of the algorithm that provides a certain, strong punishment that potential criminals can take into account.
 
 While Eagleman's article is thorough, there is one biological element missing from his analysis - the dynamic effects. Incarceration removes young men from the mating market during their mating prime. As the propensity to commit crime is heritable, the removal of criminals from the mating market will reduce the frequency of the genes associated with crime in the next generation. As Eagleman notes:
 

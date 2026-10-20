@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,16 @@
 
 <title>John List’s The Voltage Effect: A review – Jason Collins blog</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -55,15 +61,14 @@ div.csl-indent {
 <link href="../logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-9be722aa83fbcc428616ae682c30a50a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-cd8592f072b9d28f7be82a1360dc3fa5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
@@ -127,8 +132,6 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Jason Collins blog</span>
     </a>
@@ -227,7 +230,7 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 </blockquote>
 <p>I’m not sure what is being described in that paragraph is confirmation bias. But more notably, we seem to have entered “drop a bias” territory: see a behaviour and tell a post-fact story about what bias is supposedly causing this problem. List tells us about the bandwagon effect, where we jump on board with others, effectively leaving the selection of ideas to a few people rather than the collective group. We hear about sunk cost bias. List even shoehorns the winner’s curse into the story, a phenomenon in common-value auctions (an auction where the auctioned good has the same value to everyone) whereby the winner tends to overpay. The winner will tend to have the most optimistic estimate of the value of the good - and if you’ve got a higher estimate than everyone else, there’s a decent chance you’ve overestimated. How does this apply to scaling false positives? After reading the section several times, I’m not sure.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
 <p>And where’s the experimental evidence that these biases are driving the problem? At this point, List’s stories feel loose.</p>
-<p>List’s second barrier to scaling relates to” knowing your audience”. This is essentially a story of heterogeneity in your sample and the population in which the intervention will be rolled out. How broadly will your intervention work when you move from your trial sample to full-scale implementation? This includes a perspective across time: your current and future audience might differ. Sound advice.</p>
+<p>List’s second barrier to scaling relates to “knowing your audience”. This is essentially a story of heterogeneity in your sample and the population in which the intervention will be rolled out. How broadly will your intervention work when you move from your trial sample to full-scale implementation? This includes a perspective across time: your current and future audience might differ. Sound advice.</p>
 <p>The third barrier is whether all the elements of the intervention can scale. Is the pilot representative of the circumstances at scale? For example, if your educational intervention pilot involves all of the good teachers, it likely won’t work when it scales and the weaker teachers become involved. If you are monitoring compliance in the pilot - that is, the experimenters are watching - failure to monitor during the rollout may result in a substantial voltage drop. I have seen this myself, where the deck was stacked in the pilot.</p>
 <p>To illustrate this point, List tells the story of the restaurant chain Jamie’s Italian. Initially, the key to the restaurants was the simple ingredients and recipes, easily replicable at a larger scale. Brand and fame can also scale. But later on the unscalable part of the operation - Jamie Oliver himself - became stretched, and the whole enterprise came down.</p>
 <p>I understand why people include stories like this in pop science books. I use examples like this myself. But this involves going out on a limb, ascribing causes to events that aren’t backed by a robust analysis of causation. We’re telling stories.</p>
@@ -243,7 +246,7 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 <p>[T]he fact that human psychology doesn’t vary much across groups (most people experience loss aversion to a similar degree, and nearly everyone cares about their social image) makes this type of incentive strategy highly scalable. In contrast, the level of financial rewards necessary to incentivize one’s employees will vary widely from person to person, and for some might be unduly high.</p>
 </blockquote>
 <p>I couldn’t locate in the book the reference supporting this claim. And it doesn’t align with any of the studies I might look to on this point. On variation, Joe Henrich and friends <span class="citation" data-cites="henrich2001">(<a href="#ref-henrich2001" role="doc-biblioref">2001</a>)</span> showed substantial variation across societies in trust and reciprocity in economic games. <span class="citation" data-cites="harrison2009">Harrison and Rutström (<a href="#ref-harrison2009" role="doc-biblioref">2009</a>)</span> showed evidence for a mix of “economic” and “behavioural” decision makers in a group of experimental subjects. The whole concern about experiments on WEIRD people is due to the potential for variation across cultures.</p>
-<p>To be honest, I believe that the worry about the generalisability of experiments using WEIRD subjects is overblown (particularly compared to the other dimensions we should be worrying about). The Many Labs 2 project <span class="citation" data-cites="klein2018">(<a href="#ref-klein2018" role="doc-biblioref">Klein et al., 2018</a>)</span> found little heterogeneity across cultures as to which effects were replicable. But I would expect an equivalent experiment using incentives would similarly replicate across cultures.</p>
+<p>To be honest, I believe that the worry about the generalisability of experiments using WEIRD subjects is overblown (particularly compared to the other dimensions we should be worrying about). The Many Labs 2 project <span class="citation" data-cites="klein2018">(<a href="#ref-klein2018" role="doc-biblioref"><span class="nocase">Klein et al.</span>, 2018</a>)</span> found little heterogeneity across cultures as to which effects were replicable. But I would expect an equivalent experiment using incentives would similarly replicate across cultures.</p>
 <p>On the power of psychological interventions versus incentives, ideally, we’d want a suite of studies comparing the two directly. List has a couple of studies where the psychological intervention outperforms the incentive. But it’s easy enough to find studies going the other way. Here’s one from <span class="citation" data-cites="dellavigna2018">DellaVigna and Pope (<a href="#ref-dellavigna2018" role="doc-biblioref">2018</a>)</span>. In their particular (artificial) context, incentives were the more powerful motivator and effort scaled with the incentives. Amusingly, the “experts” predicting the results also underestimated the power of the incentives.</p>
 <p><a href="img/dellavigna-and-pope-2018-figure-5.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="img/dellavigna-and-pope-2018-figure-5.png" class="img-fluid"></a></p>
 <p>Putting this together, I’m sure there are cases where a behavioural strategy will outperform a simple monetary incentive. But I don’t buy the general claim about variability or scalability.</p>
@@ -251,7 +254,7 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 <p>The third secret is optimal quitting. Don’t sink more time into the wrong idea. We get stories about PayPal and Twitter emerging from other failing strategies, and List’s own decision to give up on a professional golf career. We get another dose of biases here, including sunk cost bias and ambiguity aversion, but it’s sound advice all the same. The challenge is, as List highlights, determining the optimal point to quit. It’s hard.</p>
 <p>The chapter on the fourth and final secret, the need to scale culture, opens with the story of two Brazilian villages, Cabuçu and Santo Estêvão.</p>
 <p>Cabuçu is a small fishing community in which the men fish in groups of three to eight. This teamwork is needed to manage the boats on the choppy Atlantic waters, set the nets and pull in the large fish. A single fisherman would fail.</p>
-<p>Santo Estêvão sits inland of Cabuçu on the Paraguaçu rover. The villagers from Santo Estêvão catch small fish alone on the calm waters.</p>
+<p>Santo Estêvão sits inland of Cabuçu on the Paraguaçu river. The villagers from Santo Estêvão catch small fish alone on the calm waters.</p>
 <p>List and colleagues ran games in the two villages to test whether their style of fishing, shaped by the environment each found themselves in, was reflected in their level of trust and cooperation. They found that the villagers from Cabuçu proposed more equal offers in the <a href="https://en.wikipedia.org/wiki/Ultimatum_game">Ultimatum game</a>, contributed more in <a href="https://en.wikipedia.org/wiki/Public_goods_game">public goods games</a> and invested more in the <a href="https://en.wikipedia.org/wiki/Dictator_game#Variants">trust game</a> (and sent back more). They also donated more to charity. The habit of cooperation in their work flowed over into other domains.</p>
 <p>List leverages this story into one of scaling up workplace cultures. How the organisation works will affect the values underlying that organisation.</p>
 <p>This leads to the case of Uber and Travis Kalanick. The story, in a nutshell, was a series of scandals in early 2017 - claims of sexism and sexual harassment, a lawsuit by Waymo alleging the theft of trade secrets, a video of Kalanick berating an Uber driver who challenged him on driver compensation, and most damaging, the revelation of software designed to evade law enforcement and regulators - ultimately led to Kalanick resigning as CEO.</p>
@@ -265,7 +268,7 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 <p>Ultimately, we lost track of what our purpose is all about—people. We forgot to put people first and as we grew, we left behind too many of the inspiring employees we work with and too many of the amazing partners who serve our cities …. Growth is something to celebrate, but without the appropriate checks and balances can lead to serious mistakes. At scale, our mistakes have a much greater impact—on our teams, customers and the communities we serve. That’s why small company approaches must change when you scale. I succeeded by acting small, but failed in being bigger.</p>
 </blockquote>
 <p>This might all be right, but I find it amusing hearing a story about how the founder of a company, personally worth over $4b, stuffed up in creating their (as of the day of writing this paragraph) $87b market cap company by having the wrong culture. I am sure Kalanick could have done better, but I’m also sure he could have done worse. (Lyft, the company to which List moved after Uber, has a market cap of $3.8b.) Would a more toned-down Kalanick have been able to build Uber? Could someone with the personality to drive the smaller company simply transition as required? And is it even optimal to do so?</p>
-<p>There’s a lot of “halo effect” storytelling going on here - problems emerge, must have been the culture, a disaster waiting to happen. And yet by the measurable outcome, arguably the number one measure for a company, Uber is a massive success for Kalanick. It reminds me of those criticizing the range of choice on Amazon as paralysing consumers with excessive choice. And what would happen if you tried to get the fisherman of Santo Estêvão to work in teams? Maybe they’d cooperate more in economic games, but would they do better at feeding their families?</p>
+<p>There’s a lot of “halo effect” storytelling going on here - problems emerge, must have been the culture, a disaster waiting to happen. And yet by the measurable outcome, arguably the number one measure for a company, Uber is a massive success for Kalanick. It reminds me of those criticising the range of choice on Amazon as paralysing consumers with excessive choice. And what would happen if you tried to get the fishermen of Santo Estêvão to work in teams? Maybe they’d cooperate more in economic games, but would they do better at feeding their families?</p>
 </section>
 <section id="concluding-note" class="level2">
 <h2 class="anchored" data-anchor-id="concluding-note">Concluding note</h2>
@@ -293,13 +296,13 @@ DellaVigna, S., and Pope, D. (2018). What motivates effort? Evidence and expert 
 Genesove, D., and Mayer, C. (2001). Loss aversion and seller behavior: Evidence from the housing market. <em>The Quarterly Journal of Economics</em>, <em>116</em>(4), 1233–1260. <a href="https://www.jstor.org/stable/2696458">https://www.jstor.org/stable/2696458</a>
 </div>
 <div id="ref-harrison2009" class="csl-entry" role="listitem">
-Harrison, G. W., and Rutström, E. E. (2009). Expected utility theory and prospect theory: one wedding and a decent funeral. <em>Experimental Economics</em>, <em>12</em>(2), 133–158. <a href="https://doi.org/10.1007/s10683-008-9203-7">https://doi.org/10.1007/s10683-008-9203-7</a>
+Harrison, G. W., and Rutström, E. E. (2009). Expected utility theory and prospect theory: One wedding and a decent funeral. <em>Experimental Economics</em>, <em>12</em>(2), 133–158. <a href="https://doi.org/10.1007/s10683-008-9203-7">https://doi.org/10.1007/s10683-008-9203-7</a>
 </div>
 <div id="ref-henrich2001" class="csl-entry" role="listitem">
-Henrich, J., Boyd, R., Bowles, S., Camerer, C., Fehr, E., … McElreath, R. (2001). In Search of Homo Economicus: Behavioral Experiments in 15 Small-Scale Societies. <em>American Economic Review</em>, <em>91</em>(2), 73–78. <a href="https://doi.org/10.1257/aer.91.2.73">https://doi.org/10.1257/aer.91.2.73</a>
+Henrich, J., Boyd, R., Bowles, S., Camerer, C., Fehr, E., … McElreath, R. (2001). In search of homo economicus: Behavioral experiments in 15 small-scale societies. <em>American Economic Review</em>, <em>91</em>(2), 73–78. <a href="https://doi.org/10.1257/aer.91.2.73">https://doi.org/10.1257/aer.91.2.73</a>
 </div>
 <div id="ref-klein2018" class="csl-entry" role="listitem">
-Klein, R. A., Vianello, M., Hasselman, F., Adams, B. G., Adams, R. B., … Nosek, B. A. (2018). Many Labs 2: Investigating Variation in Replicability Across Samples and Settings. <em>Advances in Methods and Practices in Psychological Science</em>, <em>1</em>(4), 443–490. <a href="https://doi.org/10.1177/2515245918810225">https://doi.org/10.1177/2515245918810225</a>
+<span class="nocase">Klein, R. A., Vianello, M., Hasselman, F., Adams, B. G., Adams, R. B., … Nosek, B. A.</span> (2018). Many labs 2: Investigating variation in replicability across samples and settings. <em>Advances in Methods and Practices in Psychological Science</em>, <em>1</em>(4), 443–490. <a href="https://doi.org/10.1177/2515245918810225">https://doi.org/10.1177/2515245918810225</a>
 </div>
 <div id="ref-levitt2008" class="csl-entry" role="listitem">
 Levitt, S. D., and Syverson, C. (2008). Market distortions when agents are better informed: The value of information in real estate transactions. <em>Review of Economics &amp; Statistics</em>, <em>90</em>(4), 599–611. <a href="https://doi.org/10.1162/rest.90.4.599">https://doi.org/10.1162/rest.90.4.599</a>

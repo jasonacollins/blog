@@ -6,7 +6,7 @@ draft: false
 images: ["/img/Works-in-pogress-issue-08-cover-hi.png"]
 ---
 
-In [my last post](please-not-another-bias-correcting-the-record.md) I discussed how I would like to redo my article "[Please Not Another Bias! An Evolutionary Take on Behavioural Economics](please-not-another-bias-an-evolutionary-take-on-behavioural-economics.md)". Apart from the removing the weak experimental evidence that I referenced, I wanted to make a few points more explicitly, such as the need for theory.
+In [my last post](please-not-another-bias-correcting-the-record.md) I discussed how I would like to redo my article "[Please Not Another Bias! An Evolutionary Take on Behavioural Economics](please-not-another-bias-an-evolutionary-take-on-behavioural-economics.md)". Apart from removing the weak experimental evidence that I referenced, I wanted to make a few points more explicitly, such as the need for theory.
 
 Well, that [re-write is here](https://www.worksinprogress.co/issue/biases-the-wrong-model/) in the latest edition of [Works in Progress](https://www.worksinprogress.co).
 

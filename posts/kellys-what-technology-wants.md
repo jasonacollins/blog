@@ -19,7 +19,7 @@ I am not convinced that Kelly's examples of concurrent invention or convergent e
 
 Another issue is that we can find examples of one-off inventions or evolutionary solutions. As pointed out in [a review by Jerry Coyne](http://www.nytimes.com/2010/11/07/books/review/Coyne-t.html?pagewanted=all), the wheel only appeared in North America when brought by Eurasians. Similarly, bones, feathers and the human brain have only appeared once. How different would Africa or Australia's path have been, and for how long, if they had been isolated from industrialising Europe?
 
-I lean towards the view that biology is not repeatable . Small chance events have large effects. Although I am open to the idea that intelligence might be likely to evolve, a one-off example in over 4 billion years is hardly a strong case and doesn't provide very many sample points.
+I lean towards the view that biology is not repeatable. Small chance events have large effects. Although I am open to the idea that intelligence might be likely to evolve, a one-off example in over 4 billion years is hardly a strong case and doesn't provide very many sample points.
 
 If you pull that theoretical pin out of What Technology Wants, the argument that technology has direction lacks a solid thesis. As Matt Ridley did in [The Rational Optimist](ridleys-the-rational-optimist.md), Kelly takes a general direction and tries to use evolution to turn it into an iron law. But it is the wrong tool to do so.
 

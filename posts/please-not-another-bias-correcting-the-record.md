@@ -8,7 +8,7 @@ images: ["/img/ronay-and-von-hippel-2010-figure-1.jpg"]
 
 In 2015 I gave a presentation titled "Please Not Another Bias! An Evolutionary Take on Behavioural Economics" at the Marketing and Science Ideas Exchange (MSIX) conference. I posted my presentation [on this blog](please-not-another-bias-an-evolutionary-take-on-behavioural-economics.md), where it had around 100,000 readers in the first month (a lot for this blog). [A copy of the post](https://evonomics.com/please-not-another-bias-the-problem-with-behavioral-economics/) was the most popular post on Evonomics in its first year.
 
-I still see the post shared, which brings a slight cringe, as its not the article I would write today. I stand by the general argument, but there are several points that I would like to change.
+I still see the post shared, which brings a slight cringe, as it’s not the article I would write today. I stand by the general argument, but there are several points that I would like to change.
 
 First, I wrote it for a marketing audience. It would be nice if it were more general.
 
@@ -30,7 +30,7 @@ I opened with a broad claim:
 >
 > Second, the driver is likely young (in this case, 25).
 
-I"ll back this being a robust phenomena, but we don't exactly need a body of science to make that prediction.
+I’ll back this being a robust phenomenon, but we don't exactly need a body of science to make that prediction.
 
 I then supported that point with some storytelling about the different motivations of men and women:
 
@@ -58,7 +58,7 @@ Here's the first study I would no longer reference (which also happened to be th
 
 > One of my favourite examples of this comes from [research by Richard Ronay and Bill von Hippel](https://doi.org/10.1177/1948550609352807). They got some young male skateboarders to perform tricks, including a difficult trick that they could complete only half the time. Halfway through filming, a woman rated as highly attractive (corroborated by "many informal comments and phone number requests from the skateboarders") walked onto the scene. Once she appeared, they took more risks and were less likely to bail a trick half-way through, instead riding all the way through to the crash landing ([a story on ABC's Catalyst demonstrates this effect](http://www.abc.net.au/catalyst/stories/2967720.htm)).
 
-In this experiment there was a small sample of 96 male skateboarders, giving groups of 43 and 53 skateboarders performing ten tricks for the male and female experimenter respectively. There were also have large effect sizes. I wouldn't claim these effects sizes are impossible using the "[effect is too large heuristic](the-effect-is-too-large-heuristic.md)", but they certainly don't make me feel comfortable. The figure below gives a sense of the change in behaviour.
+In this experiment there was a small sample of 96 male skateboarders, giving groups of 43 and 53 skateboarders performing ten tricks for the male and female experimenter respectively. There were also large effect sizes. I wouldn't claim these effect sizes are impossible using the "[effect is too large heuristic](the-effect-is-too-large-heuristic.md)", but they certainly don't make me feel comfortable. The figure below gives a sense of the change in behaviour.
 
 ![](img/ronay-and-von-hippel-2010-figure-1.jpg)
 
@@ -76,7 +76,7 @@ Among the numbers Schimmack generated was the significance threshold we would ha
 
 In this light, I feel I have to place a heavy discount on the skateboarding paper. There's nothing special about it that should lead us to give it more credence than the broader body of von Hippel's work. 
 
-Before going to the next study, I should note that the reason I am highlighting von Hippel is because he took the criticism seriously and sought to understand what he could do better. That conversation with Shimmack excerpted above was part of the process. He then ran a replication of one of the studies he was more confident in as a test of Schimmack's arguments, and lo and behold, [it failed to replicate](https://replicationindex.com/2021/06/20/bill-von-hippel-r-index-part2/). Good on von Hippel for taking this on.
+Before going to the next study, I should note that the reason I am highlighting von Hippel is because he took the criticism seriously and sought to understand what he could do better. That conversation with Schimmack excerpted above was part of the process. He then ran a replication of one of the studies he was more confident in as a test of Schimmack's arguments, and lo and behold, [it failed to replicate](https://replicationindex.com/2021/06/20/bill-von-hippel-r-index-part2/). Good on von Hippel for taking this on.
 
 Back to my talk, unfortunately it only gets worse from here. If I had to bet which experiment would have the best (albeit limited) chance of replicating, it would be Ronay and von Hippel's.
 
@@ -88,9 +88,9 @@ One of those less reliable studies is a classic. In some ways it kick-started th
 >
 > So here, what might be called a very strong present bias has a degree of rationality to it in that the objective of the participants is mating. Obviously, they didn't have a chance to mate with these pictures -- so there we have the issue of mismatch -- but you can see the evolutionary foundation of their decision. If they did manage to capitalise on that moment and manage to mate, their evolutionary future is set.
 
-There might be something to the hypothesis underlying this experiment but if you wanted a study to have all the hallmarks of one that won't replicate, this is it. The men who rated "hot" women had a significant increase in discount rate. But, there were only 21 of them. This study simply comes from an era where sample sizes were so small that the experiments couldn't be expected to find a realistic effect size even if they existed. Then throw into the mix the fact that this is effectively a priming study - and we've all seen how that's fared the last decade - and absent a large replication I think we can redeuce the weight of this experiment to zero.
+There might be something to the hypothesis underlying this experiment but if you wanted a study to have all the hallmarks of one that won't replicate, this is it. The men who rated "hot" women had a significant increase in discount rate. But, there were only 21 of them. This study simply comes from an era where sample sizes were so small that the experiments couldn't be expected to find a realistic effect size even if they existed. Then throw into the mix the fact that this is effectively a priming study - and we've all seen how that's fared the last decade - and absent a large replication I think we can reduce the weight of this experiment to zero.
 
-Before moving onto the body of research that Wilson and Daly inspired, I do want to note that priming lies at the heart of the problem with many of these evolutionary studies. I suspect many of the hypothesised effects exist in the wild. People behave differently around highly attractive potential partners. But to do a nice, cheap, easy lab experiment you need to use a weak prime to generate the phenomena, and that weak prime is the weak link in the chain. (This is why I have less slightly less scepticism about the skateboarding example - the experimental subjects weren't just reading about an attractive lab assistant.)
+Before moving onto the body of research that Wilson and Daly inspired, I do want to note that priming lies at the heart of the problem with many of these evolutionary studies. I suspect many of the hypothesised effects exist in the wild. People behave differently around highly attractive potential partners. But to do a nice, cheap, easy lab experiment you need to use a weak prime to generate the phenomena, and that weak prime is the weak link in the chain. (This is why I have slightly less scepticism about the skateboarding example - the experimental subjects weren't just reading about an attractive lab assistant.)
 
 Daly and Wilson's experiment seems highly unlikely to replicate. The next one didn't. I wrote:
 
@@ -110,9 +110,9 @@ Even more striking is Shanks and friends' funnel plot of results published on th
 
 It looks like we have a hideous case of publication bias.
 
-That said, a [subset of the authors whose studies were replicated responded](https://doi.org/10.1037/xge0000527), claiming that that an alternative approach to the meta-analysis suggested there was no evidence of p-hacking, and that the replications had numerous issues. [Shanks and Vadillo responded in turn](https://doi.org/10.1037/xge0000597). I won't tackle the back-and-forth in detail here, but will say that I believe the conclusion that romantic priming is on shaky grounds holds. Much of the critique of the replications is the often-seen handwaving that the replication methods were not close enough to the originals. But that's a sign of a flaky phenomena at best, and more likely a sign that the effect doesn't exist. The critique of the meta-analysis only serves to highlight the gross lack of statistical power across the literature.
+That said, a [subset of the authors whose studies were replicated responded](https://doi.org/10.1037/xge0000527), claiming that an alternative approach to the meta-analysis suggested there was no evidence of p-hacking, and that the replications had numerous issues. [Shanks and Vadillo responded in turn](https://doi.org/10.1037/xge0000597). I won't tackle the back-and-forth in detail here, but will say that I believe the conclusion that romantic priming is on shaky grounds holds. Much of the critique of the replications is the often-seen handwaving that the replication methods were not close enough to the originals. But that's a sign of a flaky phenomenon at best, and more likely a sign that the effect doesn't exist. The critique of the meta-analysis only serves to highlight the gross lack of statistical power across the literature.
 
-There's also another body of evidence relevant here. Following the replications and meta-analysis by Shanks and friends, Ulrich Schimmack [put a larger set of romantic priming papers through the R-index wringer](https://replicationindex.com/2016/05/21/replicability-report-no-2-do-mating-primes-have-a-replicable-effects-on-behavior/). Perhaps most damming, a histogram of results showed evidence of severe selection bias and, Schimmack argued, evidence of questionable research practices. The papers also scored low on his R-Index, suggesting a low probability of replication across the whole literature.
+There's also another body of evidence relevant here. Following the replications and meta-analysis by Shanks and friends, Ulrich Schimmack [put a larger set of romantic priming papers through the R-index wringer](https://replicationindex.com/2016/05/21/replicability-report-no-2-do-mating-primes-have-a-replicable-effects-on-behavior/). Perhaps most damning, a histogram of results showed evidence of severe selection bias and, Schimmack argued, evidence of questionable research practices. The papers also scored low on his R-Index, suggesting a low probability of replication across the whole literature.
 
 Now onto the next paper referenced in my talk:
 

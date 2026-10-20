@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.18">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -100,7 +100,7 @@ div.csl-indent {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-cd8592f072b9d28f7be82a1360dc3fa5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -267,7 +267,7 @@ window.Quarto = {
   <li><a href="#generating-quiz-questions" id="toc-generating-quiz-questions" class="nav-link" data-scroll-target="#generating-quiz-questions">Generating quiz questions</a></li>
   </ul></li>
   <li><a href="#ai-voiced-lectures" id="toc-ai-voiced-lectures" class="nav-link" data-scroll-target="#ai-voiced-lectures">AI-voiced lectures</a></li>
-  <li><a href="#accessing-github-copilot" id="toc-accessing-github-copilot" class="nav-link" data-scroll-target="#accessing-github-copilot">Accessing GitHub CoPilot</a></li>
+  <li><a href="#accessing-github-copilot" id="toc-accessing-github-copilot" class="nav-link" data-scroll-target="#accessing-github-copilot">Accessing GitHub Copilot</a></li>
   </ul>
 </nav>
     </div>
@@ -310,9 +310,9 @@ window.Quarto = {
 <section id="my-toolkit" class="level2">
 <h2 class="anchored" data-anchor-id="my-toolkit">My toolkit</h2>
 <p>I use multiple tools, switching between them depending on the task and comparing the responses. I want to gain a sense of the frontier.</p>
-<p>As an academic, I gain free access to <a href="https://github.com/features/copilot">Github Copilot</a>. (Students can also get free access.) CoPilot provides code suggestions in coding environments. But while badged this way, CoPilot also provides text suggestions more broadly. To access CoPilot, I write markdown documents in <a href="https://code.visualstudio.com">Visual Studio Code</a> or <a href="https://posit.co/download/rstudio-desktop/">RStudio</a>. (For those who want more specific guidance on how to set this up, I’ve added that at the bottom of this post.) If you use CoPilot in Visual Studio Code you also gain access to <a href="https://docs.github.com/en/copilot/using-github-copilot/asking-github-copilot-questions-in-your-ide">Copilot Chat</a>.</p>
+<p>As an academic, I gain free access to <a href="https://github.com/features/copilot">GitHub Copilot</a>. (Students can also get free access.) Copilot provides code suggestions in coding environments. But while badged this way, Copilot also provides text suggestions more broadly. To access Copilot, I write markdown documents in <a href="https://code.visualstudio.com">Visual Studio Code</a> or <a href="https://posit.co/download/rstudio-desktop/">RStudio</a>. (For those who want more specific guidance on how to set this up, I’ve added that at the bottom of this post.) If you use Copilot in Visual Studio Code you also gain access to <a href="https://docs.github.com/en/copilot/using-github-copilot/asking-github-copilot-questions-in-your-ide">Copilot Chat</a>.</p>
 <p>I also work with <a href="https://chat.openai.com/">ChatGPT Plus</a> and <a href="https://www.anthropic.com/claude">Claude Pro</a> open in a browser. I subscribe to the Pro/Plus version of both: it is worth it for the superior tools. As you’ll see from the below, I use them all the time, although more recently I lean toward Claude.</p>
-<p>I run some other large language models locally on my computer using <a href="https://ollama.com/">Ollama</a>. I do this more to get a feel for them than for current utility. Most of my recent experimentation has been with <a href="https://ollama.com/library/llama3">Llama 3</a>. I use these models via the command line or the <a href="https://github.com/logancyang/obsidian-copilot">CoPilot plugin</a> in <a href="https://obsidian.md/">Obsidian</a>.</p>
+<p>I run some other large language models locally on my computer using <a href="https://ollama.com/">Ollama</a>. I do this more to get a feel for them than for current utility. Most of my recent experimentation has been with <a href="https://ollama.com/library/llama3">Llama 3</a>. I use these models via the command line or the <a href="https://github.com/logancyang/obsidian-copilot">Copilot plugin</a> in <a href="https://obsidian.md/">Obsidian</a>.</p>
 <p>I also subscribe to <a href="https://elevenlabs.io/">ElevenLabs</a> for its voice-generation capabilities. More on that below.</p>
 <p>I’ve experimented with other tools, but they haven’t yet formed a large part of my workflow. I don’t use Bing much, except for images if ChatGPT isn’t giving me what I want. I like that it gives four images for every prompt. I experimented with Google Gemini but haven’t found a reason for it to supplant the Claude plus ChatGPT combination. I revisit it every month or two to see whether I should add it to the mix.</p>
 </section>
@@ -331,8 +331,8 @@ window.Quarto = {
 <li>Efficiency gain: 10x</li>
 <li>Quality gain: 50%</li>
 </ul>
-<p>Despite spending a lot of time in R, I am a crap coder. As a result, my typical approach is to write a comment and let CoPilot do the first cut of the code. I will then tweak the code until it is in shape. That tweaking isn’t manual tweaking either. If there is an error or problem that I can’t resolve, I’ll use CoPilot Chat to get a solution. Chat will usually provide code solving the problem.</p>
-<p>CoPilot is also great in helping me understand someone else’s code. I’ll highlight sections and ask CoPilot Chat to explain what it does. Often, I’ll paste poorly documented code into Claude or ChatGPT and ask it to write comments. Further, If the code looks overly complicated, a request to simplify often yields good results. (I’ve been asking ChatGPT to review some of my old code recently. I’m a bit embarrassed at how much more efficiently I could have written it.)</p>
+<p>Despite spending a lot of time in R, I am a crap coder. As a result, my typical approach is to write a comment and let Copilot do the first cut of the code. I will then tweak the code until it is in shape. That tweaking isn’t manual tweaking either. If there is an error or problem that I can’t resolve, I’ll use Copilot Chat to get a solution. Chat will usually provide code solving the problem.</p>
+<p>Copilot is also great in helping me understand someone else’s code. I’ll highlight sections and ask Copilot Chat to explain what it does. Often, I’ll paste poorly documented code into Claude or ChatGPT and ask it to write comments. Further, if the code looks overly complicated, a request to simplify often yields good results. (I’ve been asking ChatGPT to review some of my old code recently. I’m a bit embarrassed at how much more efficiently I could have written it.)</p>
 <p>One large benefit has come from cross-language translation. Last year I wanted to reproduce the results in Berkeley Dietvorst’s <a href="https://doi.org/10.1037/xge0000033">Algorithm aversion: People erroneously avoid algorithms after seeing them err</a>. Data and the code for analysis were <a href="https://researchbox.org/379&amp;PEER_REVIEW_passcode=MOQTEQ">available on ResearchBox</a>. The problem was that the code was in Stata, and I have no desire to learn Stata.</p>
 <p>I pasted the Stata code into ChatGPT and asked for a conversion to R. What I received was 90% of the way there. Initially, there was an error, but pasting the error into ChatGPT gave me the solution first shot. I then tweaked a couple of the variable manipulations and specified that some of the t-tests were paired t-tests. That was it. In less than 10 minutes I had code that reproduced exactly the results from Study 1. I’ve now done this translation dozens of times when examining and reproducing studies by others.</p>
 <p>I’m increasingly asking ChatGPT and Claude to provide me with working programs. For example, I am building a website with an underlying database and model for predicting AFL games. (I wanted to experiment with how far I could go with these tools.) I obtained a web interface and underlying code from Claude to access the database. I used ChatGPT for the first version of the predictive model. I’m now playing with the details, but the core is there. I wouldn’t even attempt it without these tools.</p>
@@ -358,19 +358,19 @@ window.Quarto = {
 <li>Efficiency gain: 20%</li>
 <li>Quality gain: 10%</li>
 </ul>
-<p>When I first started using GitHub CoPilot, I would have it on whenever I was writing. I would receive suggestions as I typed. Today, I generally turn it off when writing a first draft. The distraction in filtering suggestions was too costly, and I was worried about getting dragged in random directions.</p>
+<p>When I first started using GitHub Copilot, I would have it on whenever I was writing. I would receive suggestions as I typed. Today, I generally turn it off when writing a first draft. The distraction in filtering suggestions was too costly, and I was worried about getting dragged in random directions.</p>
 <p>However, I use Claude and ChatGPT a lot to improve my writing. When I’m having trouble getting a sentence or paragraph right, I’ll often hand it over and ask for 10 possible rewrites. Similarly, I will ask for simpler, shorter or more conversational text. I’ll rarely take a rewrite as provided, but it often gives me a word or turn of phrase that does the job.</p>
 <section id="lecture-notes" class="level3">
 <h3 class="anchored" data-anchor-id="lecture-notes">Lecture notes</h3>
-<p>For more mechanical lecture notes, there are some clear gains. The notes for my undergraduate behavioural economics subject (which you can access <a href="https://be.jcx.au">here</a>) were produced with CoPilot assistance.</p>
-<p>Here are a few instances where CoPilot has been useful.</p>
+<p>For more mechanical lecture notes, there are some clear gains. The notes for my undergraduate behavioural economics subject (which you can access <a href="https://be.jcx.au">here</a>) were produced with Copilot assistance.</p>
+<p>Here are a few instances where Copilot has been useful.</p>
 <p>Often the notes include a statement of a concept followed by a step-by-step example or illustration. The gain comes when you’re writing those steps.</p>
 <p>For example, in a section about decision making under risk, I might write:</p>
 <blockquote class="blockquote">
 <p>Bill is a risk-averse agent with utility function <span class="math inline">u(x)=\text{ln}(x)</span> and wealth of $100. He is offered a 50:50 bet to win $100, lose $50.</p>
 <p>Will Bill accept the bet?</p>
 </blockquote>
-<p>If I write the first couple of words of the answer “First, we calculate…”, CoPilot is away.</p>
+<p>If I write the first couple of words of the answer “First, we calculate…”, Copilot is away.</p>
 <blockquote class="blockquote">
 <p>First, we calculate the expected utility of each option. The expected utility of the bet is:</p>
 </blockquote>
@@ -401,9 +401,9 @@ EU(\text{bet}) &amp;= 0.5 \times u(100) + 0.5 \times u(-50) \\
 &amp;= 0.5 \times \text{ln}(100) + 0.5 \times \text{ln}(50) \\
 &amp;= 4.259
 \end{aligned}</span>
-<p>I might beef this up with a better explanation, or paste the question into ChatGPT directly, where I tend to get more detailed answers. CoPilot has done OK with the math here - the logs are correct!</p>
-<p>CoPilot is also great when I’m doing repetitive tasks such as describing the elements of an equation or diagram. Start describing the first element and it might give you the rest. And if you write a point followed by “Conversely, …”, CoPilot is often on the money.</p>
-<p>I also use CoPilot with <a href="https://ggplot2.tidyverse.org">ggplot</a> to produce graphs for the notes. When I wanted to generate a chart showing a <a href="https://be.jcx.au/prospect-theory/probability-weighting">probability weighting function</a> from prospect theory, I created an R code block and typed a comment:</p>
+<p>I might beef this up with a better explanation, or paste the question into ChatGPT directly, where I tend to get more detailed answers. Copilot has done OK with the maths here - the logs are correct!</p>
+<p>Copilot is also great when I’m doing repetitive tasks such as describing the elements of an equation or diagram. Start describing the first element and it might give you the rest. And if you write a point followed by “Conversely, …”, Copilot is often on the money.</p>
+<p>I also use Copilot with <a href="https://ggplot2.tidyverse.org">ggplot</a> to produce graphs for the notes. When I wanted to generate a chart showing a <a href="https://be.jcx.au/prospect-theory/probability-weighting">probability weighting function</a> from prospect theory, I created an R code block and typed a comment:</p>
 <blockquote class="blockquote">
 <p>#Plot of probability weighting function using ggplot2</p>
 </blockquote>
@@ -436,8 +436,8 @@ EU(\text{bet}) &amp;= 0.5 \times u(100) + 0.5 \times u(-50) \\
 </div>
 </div>
 <p>Exactly what I wanted. When I implemented this in the notes, I only tweaked the style and added a 45-degree line.</p>
-<p>CoPilot’s offering uses Prelec’s <span class="citation" data-cites="prelec1998">(<a href="#ref-prelec1998" role="doc-biblioref">1998</a>)</span> probability weighting function. Whether it picked that up from earlier text in my notes or just gave the most common function for probability weighting, I don’t know, but it’s what I would have used if doing it manually. However, in writing this post I wasn’t able to replicate what I did when writing the lecture notes. I got better results in the lecture notes themselves. A few paragraphs about probability weighting before I ask for the code generated better results than asking for the chart straight up.</p>
-<p>CoPilot didn’t offer this full chunk of code at once. Each comment was offered, then the piece of code after it, one after the other. But the only work I did was writing the first comment and pressing tab several times as each succeeding comment or chunk of code was suggested. (CoPilot has certainly increased the level of comments in my code too.)</p>
+<p>Copilot’s offering uses Prelec’s <span class="citation" data-cites="prelec1998">(<a href="#ref-prelec1998" role="doc-biblioref">1998</a>)</span> probability weighting function. Whether it picked that up from earlier text in my notes or just gave the most common function for probability weighting, I don’t know, but it’s what I would have used if doing it manually. However, in writing this post I wasn’t able to replicate what I did when writing the lecture notes. I got better results in the lecture notes themselves. A few paragraphs about probability weighting before I ask for the code generated better results than asking for the chart straight up.</p>
+<p>Copilot didn’t offer this full chunk of code at once. Each comment was offered, then the piece of code after it, one after the other. But the only work I did was writing the first comment and pressing tab several times as each succeeding comment or chunk of code was suggested. (Copilot has certainly increased the level of comments in my code too.)</p>
 </section>
 <section id="writing-organisational-fluff" class="level3">
 <h3 class="anchored" data-anchor-id="writing-organisational-fluff">Writing organisational fluff</h3>
@@ -467,7 +467,7 @@ EU(\text{bet}) &amp;= 0.5 \times u(100) + 0.5 \times u(-50) \\
 <p>There are three pain points in this exercise. First, I speak too fast (even when I think I’m speaking slow) and I enunciate many words poorly. Second, recording takes a lot of time. I rarely get a two to five-minute video in a single take that I’m happy with. Third, if I want to tweak the recording, I need to either re-record solid chunks of text or fiddle around with video edits.</p>
 <p>So, why not get an artificial voice to do the speaking? When I wrote my last post, AI-voiced lectures were the future. It’s now a core part of my subject delivery.</p>
 <p>I experimented with <a href="https://murf.ai">Murf.ai</a>, <a href="https://speechify.com">Speechify</a>, <a href="https://play.ht/">play.ht</a> and <a href="https://beta.elevenlabs.io">ElevenLabs</a>. Initially I used Murf.ai to make some videos, as it allowed me to pair slides and text easily. I could also integrate with Google Slides. However, the voices sound a bit robotic, so I currently use ElevenLabs, even though all I get is an audio file. ElevenLabs has fantastic voices. Even a hint of AI voicing gets a negative reaction from students, so voice quality needs to be my primary criterion. If the Murf.ai voices improve and Eleven doesn’t develop video integration, I may shift back.</p>
-<p>The production process is easy. I paste the text into an ElevenLabs project chapter and render the voice. Typically, the pacing won’t be quite right, so I’ll add some commas and dashes to create some pauses. I then export the voice file and combine it with images in Final Cut Pro. I can normally create a five to 10 minute video from text and slides in less than a hour.</p>
+<p>The production process is easy. I paste the text into an ElevenLabs project chapter and render the voice. Typically, the pacing won’t be quite right, so I’ll add some commas and dashes to create some pauses. I then export the voice file and combine it with images in Final Cut Pro. I can normally create a five to 10 minute video from text and slides in less than an hour.</p>
 <p>The fantastic part is that if I want to update a section or change a sentence, I update the script in ElevenLabs, re-render the relevant sentences, load a new voice file into the Final Cut Pro project and tweak the slide timings (if the voice edits require it). It’s fast, simple and gives me a consistently high-quality video.</p>
 <p>ElevenLabs can “clone” your voice. I tried a quick clone on play.ht, but it gave me an American accent. On ElevenLabs, you can get a professional clone of a voice by uploading three or more hours of audio. I did that, and it sounds just like me, even with the Australian accent. Unfortunately, it comes with my faults, particularly speaking too fast. ElevenLabs doesn’t have an option to slow down the speaking outside of putting a mountain of dashes through the text. It also reflects the quality of my home recording setup and sounds a bit echoey. So, for now, I’m using one of their off-the-shelf Australian voices.</p>
 <p>Here are two samples of the above paragraph, an off-the-shelf Australian voice and my “cloned” voice.</p>
@@ -478,14 +478,14 @@ EU(\text{bet}) &amp;= 0.5 \times u(100) + 0.5 \times u(-50) \\
 <p>I’ve also started looking at options to create an AI avatar based on videos or photos of me for some parts of the videos. I’m leaving that one for the moment but can see myself revisiting it in the next year.</p>
 </section>
 <section id="accessing-github-copilot" class="level2">
-<h2 class="anchored" data-anchor-id="accessing-github-copilot">Accessing GitHub CoPilot</h2>
-<p>The below gives the basic steps to access GitHub CoPilot.</p>
-<p>If you are an academic, you can sign up for (free) academic access to CoPilot at <a href="https://education.github.com/discount_requests/application">this link</a>. If you’re not an academic or student, sign up for a free trial as described <a href="https://docs.github.com/en/billing/managing-billing-for-github-copilot/managing-your-github-copilot-subscription-for-your-personal-account">here</a>. You’ll need a Github account to do this. The $10 a month is worth it.</p>
+<h2 class="anchored" data-anchor-id="accessing-github-copilot">Accessing GitHub Copilot</h2>
+<p>The below gives the basic steps to access GitHub Copilot.</p>
+<p>If you are an academic, you can sign up for (free) academic access to Copilot at <a href="https://education.github.com/discount_requests/application">this link</a>. If you’re not an academic or student, sign up for a free trial as described <a href="https://docs.github.com/en/billing/managing-billing-for-github-copilot/managing-your-github-copilot-subscription-for-your-personal-account">here</a>. You’ll need a GitHub account to do this. The $10 a month is worth it.</p>
 <p>Visual Studio Code is available <a href="https://code.visualstudio.com">here</a>. (I use the Mac version.) Download and install.</p>
-<p>Install the Github CoPilot extension into Visual Studio Code. Instructions on installing the extension are <a href="https://docs.github.com/en/copilot/quickstart#installing-the-github-copilot-extension-for-visual-studio-code">here</a>. On installation you’ll be prompted to login to GitHub to gain access to authorise CoPilot.</p>
-<p>Once you have done that, using CoPilot is easy. You simply type. As you type, you will be given suggestions.</p>
-<p>The setup in RStudio is even easier. Download RStudio from <a href="https://posit.co/download/rstudio-desktop/">here</a>. Under Tools/Global Options is a CoPilot menu item. Enable CoPilot there. You will be asked to enter your GitHub login details to get it running.</p>
-<p>I write in markdown (and at the moment, a flavour of markdown called <a href="https://quarto.org">Quarto</a>). It allows me to include <span class="math inline">\LaTeX</span> math and R computations within any document (as I have in this post). If you’re an academic stuck in the <span class="math inline">\LaTeX</span> ecosystem, you can also write in Visual Studio Code wholly in <span class="math inline">\LaTeX</span>. You can also just get CoPilot in Word. I’m looking forward to my university moving beyond the experimental stage and giving us access. (I took a one-month free trial of Microsoft CoPilot on the home computer, but didn’t find the time to give it a proper go.)</p>
+<p>Install the GitHub Copilot extension into Visual Studio Code. Instructions on installing the extension are <a href="https://docs.github.com/en/copilot/quickstart#installing-the-github-copilot-extension-for-visual-studio-code">here</a>. On installation you’ll be prompted to log in to GitHub to gain access to authorise Copilot.</p>
+<p>Once you have done that, using Copilot is easy. You simply type. As you type, you will be given suggestions.</p>
+<p>The setup in RStudio is even easier. Download RStudio from <a href="https://posit.co/download/rstudio-desktop/">here</a>. Under Tools/Global Options is a Copilot menu item. Enable Copilot there. You will be asked to enter your GitHub login details to get it running.</p>
+<p>I write in markdown (and at the moment, a flavour of markdown called <a href="https://quarto.org">Quarto</a>). It allows me to include <span class="math inline">\LaTeX</span> maths and R computations within any document (as I have in this post). If you’re an academic stuck in the <span class="math inline">\LaTeX</span> ecosystem, you can also write in Visual Studio Code wholly in <span class="math inline">\LaTeX</span>. You can also just get Copilot in Word. I’m looking forward to my university moving beyond the experimental stage and giving us access. (I took a one-month free trial of Microsoft Copilot on the home computer, but didn’t find the time to give it a proper go.)</p>
 
 
 

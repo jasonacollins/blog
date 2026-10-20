@@ -20,7 +20,7 @@ The next thing you know, he sends a version so utterly transformed that it is un
 The first time this happened, I was thunderstruck. _How did he do that? How could _anybody _do that? _When I asked Danny how he could start again as if we had never written an earlier draft, he said the words I've never forgotten: "I have no sunk costs."</blockquote>
 
 
-Second, Eric Kandel (an 84 year-old Nobel laureate):
+Second, Eric Kandel (an 84-year-old Nobel laureate):
 
 
 <blockquote>Daniel Kahneman has not yet influenced my work on snails and mice, but I am only in an early point in my career and I still look forward to exploring his ideas in a molecular biological context in the future.</blockquote>

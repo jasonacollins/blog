@@ -18,7 +18,7 @@ in part, because:
 <blockquote>[P]eople who are unskilled in these domains suffer a dual burden: Not only do these people reach erroneous conclusions and make unfortunate choices, but their incompetence robs them of the metacognitive ability to realize it.</blockquote>
 
 
-There have been plenty of critiques and explanations over the years, including [an article by Marian Krajc and Andreas Ortmann](https://doi.org/10.1016/j.joep.2007.12.006) who argue the overestimation of ability is partly a signal extraction problem. In environments where people are not provided with feedback on their relative standing, they are will tend to make larger estimation errors.
+There have been plenty of critiques and explanations over the years, including [an article by Marian Krajc and Andreas Ortmann](https://doi.org/10.1016/j.joep.2007.12.006) who argue the overestimation of ability is partly a signal extraction problem. In environments where people are not provided with feedback on their relative standing, they will tend to make larger estimation errors.
 
 Krajc and Ortmann point out that the Dunning-Kruger study, as is typical, was done using psychology undergraduates at Cornell. This sample is already a self-selected pool that excludes those unable to gain admission. And once in University, the feedback they receive on their performance is not as useful as it could be. Krajc and Ortmann write [references largely excluded]:
 
@@ -28,4 +28,4 @@ Krajc and Ortmann point out that the Dunning-Kruger study, as is typical, was 
 
 Grade inflation is robbing people of feedback they could use to understand their level of competence.
 
-*[A post by Eaon Pritchard](http://www.warc.com/Blogs/The_DunningKruger_Peak_of_Advertising.blog?ID=1998) on the "Dunning-Kruger peak" reminded me that I was sitting on this passage.
+*[A post by Eaon Pritchard](http://www.warc.com/Blogs/The_DunningKruger_Peak_of_Advertising.blog?ID=1998) on the "Dunning-Kruger peak" reminded me that I was sitting on this passage.*

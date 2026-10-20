@@ -6,7 +6,7 @@ draft: false
 title: Heritability of religion and fertility
 ---
 
-The United States is one of the few developed countries in the world with a fertility rate close to the replacement rate - that is, the rate of fertility required to maintain existing population levels. The two reasons most often cited for this is are high levels of fertility in the Hispanic immigrant population and the high level of fertility of religious people. Even when you control for income and education, religious people have more children than non-religious people (on average).
+The United States is one of the few developed countries in the world with a fertility rate close to the replacement rate - that is, the rate of fertility required to maintain existing population levels. The two reasons most often cited for this are high levels of fertility in the Hispanic immigrant population and the high level of fertility of religious people. Even when you control for income and education, religious people have more children than non-religious people (on average).
 
 The higher fertility among religious people raises a couple of questions. As religion is heritable (that is, the predisposition to be religious and not the specific religion itself), will religion spread through society and what will the consequences of this be? What will happen to the underlying alleles (alleles are the different variants of a particular gene)?
 
@@ -30,10 +30,10 @@ Rowthorn does not venture far into the implications of his findings beyond the s
 <blockquote>It is interesting to speculate how such a predisposition might manifest itself in a secular context. The findings of Koenig & Bouchard suggest that a genetic predisposition towards religion is associated with obedience to authority and conservatism. If this is correct, then the diffusion of religiosity genes into the rest of society should see an increase in the number of secular people who are genetically inclined towards such values. The implications of such a development are beyond the scope of this paper to consider.</blockquote>
 
 
-Is the growing conservatism among youth, which seems to be a common media topic in recent years, an early reflection this effect?
+Is the growing conservatism among youth, which seems to be a common media topic in recent years, an early reflection of this effect?
 
 Rowthorn does not specifically explore the question of overall population size. If the religious allele(s) spread through society, fertility would be expected to be higher and overall population higher. This could have significant implications for the debate on population size I have posted about in the last week (such as [here](libertarians-and-fertility.md), [here](caplans-selfish-reasons-to-have-more-kids.md) and [here](population-and-the-tragedy-of-the-commons.md)).
 
 Further, Rowthorn's findings show the general result that any genetically based predisposition that increases fertility can be expected to spread through the population. Whether that predisposition is religion, dislike of contraception, urge to have a larger family or some other trait, the effect is the same. The alleles responsible for higher fertility spread and, barring further environmental shocks, population growth increases. The only question is how long this will take.
 
-*As an extension to this idea, [I have a working paper](fertility-is-going-to-go-up.md) that examines the consequences of heritability of fertility more generally.
+*As an extension to this idea, [I have a working paper](fertility-is-going-to-go-up.md) that examines the consequences of heritability of fertility more generally.*

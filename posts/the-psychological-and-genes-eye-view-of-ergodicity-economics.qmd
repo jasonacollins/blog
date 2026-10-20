@@ -215,7 +215,7 @@ What is the intuition behind this?
 
 The black line reflects the expected gain of 5% per flip.
 
-But for the red lines, over the long term, an individual will tend to get around half heads and half tails. As the number of flips goes to infinite, the proportion of heads or tails "[almost surely](https://en.wikipedia.org/wiki/Almost_surely)" converges to 0.5. This means that each person will tend to get a 50% increase half the time (or 1.5 times the initial wealth), and a 40% decrease half the time (60% of the initial wealth). The time average growth in wealth for an individual is $(1.5\times 0.6)^{0.5} \sim 0.95$, or approximately a 5% decline in wealth each period. Every individual's wealth will tend to decay at that rate. The black line is held up by a very lucky few.
+But for the red lines, over the long term, an individual will tend to get around half heads and half tails. As the number of flips goes to infinity, the proportion of heads or tails "[almost surely](https://en.wikipedia.org/wiki/Almost_surely)" converges to 0.5. This means that each person will tend to get a 50% increase half the time (or 1.5 times the initial wealth), and a 40% decrease half the time (60% of the initial wealth). The time average growth in wealth for an individual is $(1.5\times 0.6)^{0.5} \sim 0.95$, or approximately a 5% decline in wealth each period. Every individual's wealth will tend to decay at that rate. The black line is held up by a very lucky few.
 
 A system where the time average converges to the ensemble average (our population mean) is known as an ergodic system. The sequence of gambles I have just shown you is non-ergodic as the time average and the ensemble average diverge. (I'll ignore the finer debates about whether this problem even involves ergodicity to the side.)
 
@@ -301,7 +301,7 @@ Now for a wrinkle, which we can see in the plotted figure. Of those first 20 peo
 
 To the extent zero wealth is ruinous when it occurs, that event is severe. If the player only incurs the consequences of their final position, the bet is unlikely to result in ruin but still presents a non-zero threat of catastrophe.
 
-What would an expected utility maximiser do here? For a person with log utility, any probability of ruin during the flips would lead them to reject the gamble. The log of zero is negative infinite, which outweighs all other possible outcomes, whatever their magnitude or probability.
+What would an expected utility maximiser do here? For a person with log utility, any probability of ruin during the flips would lead them to reject the gamble. The log of zero is negative infinity, which outweighs all other possible outcomes, whatever their magnitude or probability.
 
 The growth-rate maximiser would accept the bet if they didn't fear ruin. The time-average growth of \$5 per flip would pull them in. If ruin was feared and consequential, then they might also reject.
 
@@ -317,9 +317,9 @@ Second, the optimal action to maximise the time-average growth rate varies betwe
 
 The advocates of ergodicity economics have applied this claim to a range of economics problems.
 
-@peters2023 argues that we can think of insurance as a tool to make wealth grow faster rather than as protection for the risk averse. This plot shows the outcomes for agents facing a 5% probability of a loss of 95% of their wealth each period. Uninsured agents experience ruinous path over time, losing far more than would be implied by the expected value. Those who insure at a cost experience a slower decline.
+@peters2023 argues that we can think of insurance as a tool to make wealth grow faster rather than as protection for the risk averse. This plot shows the outcomes for agents facing a 5% probability of a loss of 95% of their wealth each period. Uninsured agents experience a ruinous path over time, losing far more than would be implied by the expected value. Those who insure at a cost experience a slower decline.
 
-As an aside, I do find these numbers quite comical: 2500 periods with a 5% probability of loss, leading to an expected value of around $10^{-70}$ times the initial wealth even under the insured scenario. The expected-value optimisers, even if they stated with every atom in the universe, would be left with a fraction of an atom by the end.
+As an aside, I do find these numbers quite comical: 2500 periods with a 5% probability of loss, leading to an expected value of around $10^{-70}$ times the initial wealth even under the insured scenario. The expected-value optimisers, even if they started with every atom in the universe, would be left with a fraction of an atom by the end.
 
 ![](img/the-psychological-and-genes-eye-view-of-ergodicity-economics/peters-2023-figure-3.png){width="60%"}
 
@@ -333,7 +333,7 @@ I won't cover all the scenarios, but this image captures a situation where an ag
 
 ![](img/the-psychological-and-genes-eye-view-of-ergodicity-economics/adamou-et-al-2021-figure-3.png)
 
-It is when seeing ideas such as this that the suggestion that ergodicity economics is a "psychology free" seem slightly ridiculous. The agent must be myopic to be unable to see their upcoming preference reversal, or to realise the foregone larger opportunity on the other side of that smaller sooner payment.
+It is when seeing ideas such as this that the suggestion that ergodicity economics is "psychology free" seems slightly ridiculous. The agent must be myopic to be unable to see their upcoming preference reversal, or to realise the foregone larger opportunity on the other side of that smaller sooner payment.
 
 ## The experiment
 
@@ -376,7 +376,7 @@ This chart shows the result. Thin lines represent individual participants. The t
 
 Despite the elements of this experiment that I would do differently - I have only hinted at a couple - this is a strong result.
 
-If the ergodocity economics hypotheis is correct, it is worth thinking about what this means psychologically.
+If the ergodicity economics hypothesis is correct, it is worth thinking about what this means psychologically.
 
 When modelling the utility function, the researchers took the value of $x$ to be the participant's experimental wealth at the time the participant makes their decision. It is the initial endowment, plus or minus the results of the previous bets. $x$ does not include outside wealth.
 
@@ -479,7 +479,7 @@ So here we have a toy model that shows that time-average growth rate maximisatio
 
 This behaviour could also emerge where it did not previously exist. The simulation I just showed you had 10,000 agents with expected value maximising behaviour to start. What if we had a population of time-average growth rate optimisers, and a single expected value maximiser emerged?
 
-I simulated 10,000 instances of a single individual developing the mutation. This plot shows the population of the first ten mutants. For five of them, the mutation appears and disappears. For the other five, however, they grow into a substantial population.It only takes a few agents with this mutation to effectively diversify the results.
+I simulated 10,000 instances of a single individual developing the mutation. This plot shows the population of the first ten mutants. For five of them, the mutation appears and disappears. For the other five, however, they grow into a substantial population. It only takes a few agents with this mutation to effectively diversify the results.
 
 ```{r mutation_simulation, warning=FALSE}
 #| code-summary: "Code for evolutionary simulation"
@@ -561,7 +561,7 @@ These illustrations suggest that time-average growth optimisation may not be the
 
 In that case, we are effectively back to the world that I showed you at the beginning. You could consider each line to represent an individual and their children, with their children all bound to the same bet. In almost all cases, this leads to a decline in frequency. An extraordinarily lucky few might boom through many rolls of the dice, but that is a rare chance.
 
-Further, recall decline toward the end of the 100 periods. This occurred as a small number of genetic lines comprise most of the population - in fact, one single line of the original 10,000 comprises `r round(nonErgodicStats$perc_max_wealth_share, 0)`% of the population at the end of 100 periods - and they cannot diversify their risk. A few unlucky coin flips and they are gone.
+Further, recall the decline toward the end of the 100 periods. This occurred as a small number of genetic lines comprise most of the population - in fact, one single line of the original 10,000 comprises `r round(nonErgodicStats$perc_max_wealth_share, 0)`% of the population at the end of 100 periods - and they cannot diversify their risk. A few unlucky coin flips and they are gone.
 
 The result is that, over a long enough time horizon, *everyone* is wiped out. There is no longer a lucky few. Here's the same simulation plotted through 1000 iterations, over evolutionary time, in both linear and log scales.
 
@@ -610,7 +610,7 @@ Each generation there is a 75 per cent probability of sun. In such a case, the t
 
 What, then, is the growth maximising breeding strategy?
 
-Let's set $q$ as the proportion of tribbles that breed in the valley. If we maximise the expected number of offspring, tribbles would breed in the valley 100 per cent of the time. That is, $q=1$, leading to an an expected $0.75\times 3=2.25$ offspring.
+Let's set $q$ as the proportion of tribbles that breed in the valley. If we maximise the expected number of offspring, tribbles would breed in the valley 100 per cent of the time. That is, $q=1$, leading to an expected $0.75\times 3=2.25$ offspring.
 
 However, in the long run, if all tribbles make this choice, the tribbles will be wiped out. Over the long term, the tribbles will experience droughts 75 per cent of the time and floods 25 per cent of the time. Putting this into the language of ergodicity economics, the time average growth rate is zero.
 
@@ -644,7 +644,7 @@ q&=0.75
 
 Here we have a world where maximising the time-average growth rate is the optimal solution. In this case, it is achieved via probability matching.
 
-There is one feature of this scenario that might seem off. Probability matching maximises the growth rate for the species. But which individuals are heading off to the plateau where 75% of the time they are going to be fried? If this an altruistic act for the benefit of the species? Why not head down to the cool valley where they, as an individual, is more likely to survive?
+There is one feature of this scenario that might seem off. Probability matching maximises the growth rate for the species. But which individuals are heading off to the plateau where 75% of the time they are going to be fried? Is this an altruistic act for the benefit of the species? Why not head down to the cool valley where they, as an individual, are more likely to survive?
 
 The answer was provided by @grafen1999. Suppose we have a large population of size $N$. If an agent heads to the valley, the expected fraction of the population comprising their offspring ($\pi$) will be:
 
@@ -668,6 +668,6 @@ I am hardly the first to propose this. I'm drawing on a rich history of research
 
 But, I like to think that this ergodicity economics exercise provides a nice opportunity to tie multiple threads together to provide a different perspective.
 
-What's next? I've been building a set of simulations examining mixed environments. What if the probabilistic structure of the environment is a mix of multiplicative and additive bets? You could think of the additive phase of the experiment I described earlier as comprising an few additive gambles in a multiplicative world. What if the environment switches between additive and multiplicative?
+What's next? I've been building a set of simulations examining mixed environments. What if the probabilistic structure of the environment is a mix of multiplicative and additive bets? You could think of the additive phase of the experiment I described earlier as comprising a few additive gambles in a multiplicative world. What if the environment switches between additive and multiplicative?
 
 There isn't a simple closed form solution to this problem. If you have a mix of additive and multiplicative bets, or even a non-constant multiplicative growth rate, an "ergodic observable" cannot easily be created. At present, it is best examined via simulation.

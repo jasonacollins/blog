@@ -6,7 +6,7 @@ lastmod: 2020-06-17 09:00:08+00:00
 draft: false
 ---
 
-In 1995 Werner De Bondt and Richard Thaler [wrote](https://doi.org/10.1016/S0927-0507(05)80057-X) "Perhaps the most robust finding in the psychology of judgment and choice is that people are overconfident." They are hardly been alone in making such a proclamation. And looking at the evidence, they seem to have a case. Take the following examples:
+In 1995 Werner De Bondt and Richard Thaler [wrote](https://doi.org/10.1016/S0927-0507(05)80057-X) "Perhaps the most robust finding in the psychology of judgment and choice is that people are overconfident." They have hardly been alone in making such a proclamation. And looking at the evidence, they seem to have a case. Take the following examples:
 
 - When asked to estimate the length of the Nile by providing a range the respondent is 90% sure contains the correct answer, the estimate typically contains the correct answer only 50% of the time.
 - PGA golfers typically believe they sink around 75% of 6 foot putts - some even believe they sink as many as 85% - when the average is closer to 55%.
@@ -18,7 +18,7 @@ But despite all being labelled as showing overconfidence, these examples are act
 
 Overprecision is the tendency to believe that our predictions or estimates are more accurate than they actually are. The typical study seeking to show overprecision asks for someone to give confidence ranges for their estimates, such as estimating the length of the Nile. The evidence that we are overprecise is relatively robust (although I have to admit I haven't seen any tests asking for 10% confidence intervals).
 
-Overestimation is the belief that we can perform at a level beyond that which we realistically can (I tend to think of this as overoptimism). The evidence here is more mixed. When attempting a difficult task such as a six foot putt, we typically overestimate. But on easy tasks, the opposite is often the case - we tend underestimate our performance. Whether over or underestimation occurs depends upon the domain.
+Overestimation is the belief that we can perform at a level beyond that which we realistically can (I tend to think of this as overoptimism). The evidence here is more mixed. When attempting a difficult task such as a six foot putt, we typically overestimate. But on easy tasks, the opposite is often the case - we tend to underestimate our performance. Whether over or underestimation occurs depends upon the domain.
 
 Overplacement is the erroneous relative judgment that we are better than others. Obviously, we cannot all be better than average. But this relative judgment, like overestimation, tends to vary with task difficulty. For easy tasks, such as driving a car, we overplace and consider ourselves better than most. But as Phil Rosenzweig points out in his book [Left Brain, Right Stuff](rosenzweigs-left-brain-right-stuff-how-leaders-make-winning-decisions.md) (which contains a great summary of Moore and Healy's paper), ask people where they rate for a skill such as drawing, and most people will rate themselves as below average. People don't suffer from pervasive overplacement. Whether they overplace depends on what the situation is.
 
@@ -26,7 +26,7 @@ You might note from the above that we tend to both underestimate and overplace o
 
 So are we both underconfident and overconfident at the same time? The blanket term of overconfidence does little justice to what is actually occurring.
 
-Moore and Healy's explanation for what is going on is these situations is that, after performing a task, we have imperfect information about our own performance, and even less perfect information about that of others. As Rosenzweig puts it, we are myopic, which is a better descriptor of what is going on than saying we are biased.
+Moore and Healy's explanation for what is going on in these situations is that, after performing a task, we have imperfect information about our own performance, and even less perfect information about that of others. As Rosenzweig puts it, we are myopic, which is a better descriptor of what is going on than saying we are biased.
 
 Consider an easy task. We do well because it is easy. But because we imperfectly assess our performance, our assessment is regressive - that is, it tends to revert to the typical level of performance. Since we have even less information about others, our assessment of them is even more regressive. The net result is we believe we performed worse than we actually did but better than others.
 

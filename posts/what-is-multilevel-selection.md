@@ -19,7 +19,7 @@ Since then, multilevel selection theory has tightened a few of those issues up. 
 
 </blockquote>
 
-As well as tightening up the mathematics, the definition of group was also tweaked. Rather than talking about competition between distinct populations, multilevel selection looks at competition of all levels of organisation, with groups formed within populations at various stages of the life-cycle. [Pinker](http://edge.org/conversation/the-false-allure-of-group-selection#sp2) writes:
+As well as tightening up the mathematics, the definition of group was also tweaked. Rather than talking about competition between distinct populations, multilevel selection looks at competition at all levels of organisation, with groups formed within populations at various stages of the life-cycle. [Pinker](http://edge.org/conversation/the-false-allure-of-group-selection#sp2) writes:
 
 
 <blockquote>In most models of the new group selection, a group is defined as any subset of interacting individuals, that is, as organisms which interact with one another more intensely than they interact with organisms selected from the population at random. Two sisters who help each other, for example, or a pair of friends who trade favors, are dubbed "a group".
@@ -55,4 +55,4 @@ Pinker also picks up what I consider to be the major reason multilevel selection
 
 This point can be drawn out through examining some of the similarities between the cooperation identified in a multilevel selection framework and the way economists look at economic exchange. I will offer some more thoughts on this in [my next post on group selection](groups-kin-and-self-interest.md).
 
-*As an aside, I am deliberately avoiding the cultural group selection issue for the moment.
+*As an aside, I am deliberately avoiding the cultural group selection issue for the moment.*

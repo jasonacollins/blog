@@ -19,7 +19,7 @@ Possibly the most important point about this model is that it is not designed to
 
 In this approach, people are no longer omniscient. They need to search for information. As Gigerenzer points out, however, this attempt to inject realism creates another problem. Optimisation with constraints can be even harder to solve than optimisation with unbounded rationality. As a result, the cognitive power required is even greater.
 
-Gigerenzer is adamant that optimisation under constraints is not bounded rationality - and if we use Herbert Simon's definition of the term, I would agree - but analysis of this type commonly attracts the "boundedly rational" label. Gigerenzer's does not want the unrealistic nature of optimisation under constraints to tar the concept of bounded rationality.
+Gigerenzer is adamant that optimisation under constraints is not bounded rationality - and if we use Herbert Simon's definition of the term, I would agree - but analysis of this type commonly attracts the "boundedly rational" label. Gigerenzer does not want the unrealistic nature of optimisation under constraints to tar the concept of bounded rationality.
 
 **3. Cognitive illusions - logical irrationality**
 

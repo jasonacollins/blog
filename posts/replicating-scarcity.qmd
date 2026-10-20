@@ -50,7 +50,7 @@ Summarising their findings, the authors write:
 
 > Scarcity is a real and enduring societal problem, yet our results suggest that behavioral scientists have not fully identified the underlying psychology. Although this project has neither the goal nor the capacity to "accept the null" hypothesis for any of these tests, the replications of these 20 studies indicate that within this set, scarcity primes have a minimal influence on cognitive ability, product attitudes, or well being. Nevertheless, feeling poor may influence financial and consumer decisions.
 
-It's not time to write off the concept of scarcity. A few of the results replicated, at least one them surprisingly so for me (economic insecurity causing physical pain). These were also lab experiments, so shouldn't necessarily be used to ignore scarcity research from the field.
+It's not time to write off the concept of scarcity. A few of the results replicated, at least one of them surprisingly so for me (economic insecurity causing physical pain). These were also lab experiments, so shouldn't necessarily be used to ignore scarcity research from the field.
 
 But it is time to take a more nuanced view of scarcity. The term captures what I consider to be several different phenomena. Which of these concepts might hold? And where? And it is definitely time to retire the story of a hypothetical car repair dropping a poor person's IQ by 13 to 14 points.
 

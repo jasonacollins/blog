@@ -18,4 +18,4 @@ I like the idea, but how could this experiment practically be implemented? Thei
 <blockquote>[M]edia mogul Ted Turner once bemoaned the influence of the Forbes 400 list of richest Americans, pointing out that it discouraged the wealthy from giving away their money for fear of slipping down in the rankings (Plotz, 2006). He suggested instead that a public ranking of top philanthropists could inspire the wealthy to compete in a more beneficial way—in essence, by shifting the signaling arena from conspicuous consumption to blatant benevolence. Perhaps it was not a coincidence that just such a list—the Slate 60—was established the same year that Ted Turner pledged $1 billion to humanitarian relief. When asked about the reaction of his then-wife Jane Fonda to this donation, Turner fondly reminisced, “It brought tears to her eyes . . . . She said, ‘I’m so proud to be married to you’ ”</blockquote>
 
 
-The need to engage is conspicuous consumption drops away if your wealth is published each year.
+The need to engage in conspicuous consumption drops away if your wealth is published each year.

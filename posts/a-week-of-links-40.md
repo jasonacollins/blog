@@ -25,6 +25,6 @@ Links this week:
   5. [A piece by Robert Shiller](http://www.theguardian.com/business/economics-blog/2013/nov/06/is-economics-a-science-robert-shiller) where, among other things, he defends the use of mathematics in economics.
 
 	
-  6. A few more pieces of criticising economics - [Chris Dillow](http://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2013/10/economics-good-and-bad.html), [Alex Marsh](http://www.alexsarchives.org/on-signs-youre-reading-bad-criticism-of-economics/) and [Diane Coyle](http://www.enlightenmenteconomics.com/blog/index.php/2013/11/how-to-criticise-economics/).
+  6. A few more pieces criticising economics - [Chris Dillow](http://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2013/10/economics-good-and-bad.html), [Alex Marsh](http://www.alexsarchives.org/on-signs-youre-reading-bad-criticism-of-economics/) and [Diane Coyle](http://www.enlightenmenteconomics.com/blog/index.php/2013/11/how-to-criticise-economics/).
 
 

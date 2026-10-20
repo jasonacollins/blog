@@ -5,7 +5,7 @@ draft: false
 title: My top 10 books in 2010
 ---
 
-As is the fashion for this time of year, here are my top ten books of 2010. As I tend to read books that are both old and new, these are the top 10 books I_ have read_ this year.
+As is the fashion for this time of year, here are my top ten books of 2010. As I tend to read books that are both old and new, these are the top 10 books I _have read_ this year.
 
 1. *The Enlightened Economy: An Economic History of Britain 1700-1850* by Joel Mokyr - Although I don't agree with the underlying hypothesis, it is a great analysis of the Industrial Revolution.
 

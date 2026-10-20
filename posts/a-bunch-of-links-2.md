@@ -6,7 +6,7 @@ draft: false
 images: [""]
 ---
 
-Social science a mess, journals no good, the meaningless of the label "misinformation", Flipper Zero, and cleaning up the list of named "biases":
+Social science a mess, journals no good, the meaninglessness of the label "misinformation", Flipper Zero, and cleaning up the list of named "biases":
 
 1. [Social science is a mess and it's not getting better](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/). A few years old, but a lot of gold. A few nuggets:
 

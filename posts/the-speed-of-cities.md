@@ -5,7 +5,7 @@ date: 2011-01-10 12:47:53+00:00
 draft: false
 ---
 
-Over the weekend, I listened to a great Radiolab [podcast](http://www.radiolab.org/2010/oct/08/) in which [Bob Levine](http://www.radiolab.org/2010/oct/08/its-alive/) was interviewed about the pace of walking in cities. Bob spoke about how people tend to walk faster in larger cities, with this relationship surprisingly consistent. Where does this walking pace comes from. As the host Jad asked, do we make the city, or does the city make us?
+Over the weekend, I listened to a great Radiolab [podcast](http://www.radiolab.org/2010/oct/08/) in which [Bob Levine](http://www.radiolab.org/2010/oct/08/its-alive/) was interviewed about the pace of walking in cities. Bob spoke about how people tend to walk faster in larger cities, with this relationship surprisingly consistent. Where does this walking pace come from? As the host Jad asked, do we make the city, or does the city make us?
 
 The early movers in this area of research were [Bornstein and Bornstein](https://doi.org/10.1038/259557a0), who between 1972 and 1974 went to 15 countries across Europe, North America and Asia and measured the speed of pedestrians. They took a 50 feet stretch in similar downtown areas of each city and measured the speed of single, unencumbered walkers traversing that distance.
 

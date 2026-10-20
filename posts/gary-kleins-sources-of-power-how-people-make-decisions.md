@@ -25,7 +25,7 @@ Klein is cognisant of the limitations of this approach. He notes that he gives d
 
 >What are the criteria for doing a scientific piece of research? Simply, that the data are collected so that others can repeat the study and that the inquiry depends on evidence and data rather than argument. For work such as ours, replication means that others could collect data the way we have and could also analyze and code the results as we have done.
 
-The primary "weakness" of his approach is the reliance on observational data, not experiments. As Klein suggests, there are plenty of other sciences that have this feature. His approach is closer to anthropology that psychology. But obviously, an approach constrained to the laboratory has its own limitations:
+The primary "weakness" of his approach is the reliance on observational data, not experiments. As Klein suggests, there are plenty of other sciences that have this feature. His approach is closer to anthropology than psychology. But obviously, an approach constrained to the laboratory has its own limitations:
 
 >Both the laboratory methods and the field studies have to contend with shortcomings in their research programs. People who study naturalistic decision making must worry about their inability to control many of the conditions in their research. People who use well-controlled laboratory paradigms must worry about whether their findings generalize outside the laboratory.
 
@@ -33,7 +33,7 @@ Klein has a faith in stories (the subject of one of the chapters) serving as nat
 
 **Recognition-primed decision making**
 
-Klein's "sources of power" for decision-making by experts are intuition, mental simulation, metaphor and storytelling. This is in contrast to what might be considered a more typical decisions-making toolkit (the one you are more likely to be taught) of logical thinking, probabilistic analysis and statistics.
+Klein's "sources of power" for decision-making by experts are intuition, mental simulation, metaphor and storytelling. This is in contrast to what might be considered a more typical decision-making toolkit (the one you are more likely to be taught) of logical thinking, probabilistic analysis and statistics.
 
 Klein's workhorse model integrating these sources of power is _recognition-primed decision making_. This is a two stage process, involving an intuitive recognition of what response is required, followed by mental simulation of the response to see if it will work. Metaphors and storytelling are mental simulation tools. The recognition-primed model involves a blend of intuition and analysis, so is not just sourced from gut feelings.
 
@@ -49,13 +49,13 @@ Klein's examination of various experts found that the recognition-primed decisio
 
 **Mental simulation**
 
-Mental simulation involves the expert imagining the situation and transforming the situation until can they picture it in a different way from the start. Mental simulations are typically not overly elaborate, and generally rely on just a few factors (rarely more than three). The expert runs the simulation and assesses: can it pass an internal evaluation? Sometimes mental simulation can be wrong, but Klein considers them to be fairly accurate.
+Mental simulation involves the expert imagining the situation and transforming the situation until they can picture it in a different way from the start. Mental simulations are typically not overly elaborate, and generally rely on just a few factors (rarely more than three). The expert runs the simulation and assesses: can it pass an internal evaluation? Sometimes mental simulation can be wrong, but Klein considers them to be fairly accurate.
 
 Klein's examples of mental simulation were not always convincing. For example, he describes an economist who mentally simulated what the Polish economy would do following interventions to reduce inflation. It is hard to take seriously single examples of such mental simulation hitting the mark when I am aware of so many backfires in this space. And how would expertise in such economic simulations develop? (More on developing expertise below.)
 
 One strength of simulations is that they can be used where traditional decision analytic strategies do not apply. You can use simulations (or stories) if you cannot otherwise remember every piece of information. Klein points to evidence that this is how juries absorb evidence.
 
-One direct use of simulation is the premortem strategy. Imagine in the future plan has failed and you have to understand why. You can also do simulation through decision scenarios.
+One direct use of simulation is the premortem strategy. Imagine in the future the plan has failed and you have to understand why. You can also do simulation through decision scenarios.
 
 **Novices versus experts**
 
@@ -77,7 +77,7 @@ Rather, we should teach people to learn like experts. They should engage in deli
 
 Klein argues that recognition strategies are not a substitute for analytical methods, but an improvement. Analytical methods are the fallback for those without experience.
 
-Klein sees a range of environments where recognition strategies will be the superior options. These include the presence of time pressure, when the decision maker is experienced in the domain, when conditions are dynamic (meaning effort can be rendered useless if conditions shift), and when the goals ill-defend (making it hard to develop evaluation criteria). Comparative evaluation is more useful where people have to justify choice, where it is required for conflict resolution, where you are trying to optimise (as opposed to finding just workable option), and where the decision is computationally complex (e.g. investment portfolio).
+Klein sees a range of environments where recognition strategies will be the superior options. These include the presence of time pressure, when the decision maker is experienced in the domain, when conditions are dynamic (meaning effort can be rendered useless if conditions shift), and when the goals are ill-defined (making it hard to develop evaluation criteria). Comparative evaluation is more useful where people have to justify choice, where it is required for conflict resolution, where you are trying to optimise (as opposed to finding just a workable option), and where the decision is computationally complex (e.g. investment portfolio).
 
 From this, it is hard to use a rigorous analytical approach in many natural settings. Rational, linear approaches run into problems when the goal is shifting or ill-defined.
 
@@ -85,11 +85,11 @@ From this, it is hard to use a rigorous analytical approach in many natural sett
 
 I [previously posted](gary-klein-on-heuristics-and-biases-confirmation-bias-and-explaining-everything.md) some of Klein's views on the heuristics and biases approach to assessing decision quality. Needless to say, Klein is sceptical that poor decisions are largely due to faulty reasoning. More effort should be expended in finding the sources of poor decisions, rather than blaming the operator.
 
-Klein describes a review a sample of 25 decisions with poor outcomes (from 600 he had available) to assess what went wrong. Sixteen outcomes were due to lack of experience, such as someone not realising that construction of the building on fire was problematic. The second most common issue was lack of information. The third most common involved noticing but explaining away problems during mental simulation - possibly involving bias.
+Klein describes a review of a sample of 25 decisions with poor outcomes (from 600 he had available) to assess what went wrong. Sixteen outcomes were due to lack of experience, such as someone not realising that construction of the building on fire was problematic. The second most common issue was lack of information. The third most common involved noticing but explaining away problems during mental simulation - possibly involving bias.
 
 **Conditions for expertise**
 
-The conditions for developing the expertise for effective recognition-primed decision making is delved into in depth in Klein's article with Daniel Kahneman, [Conditions for Intuitive Exertise: A Failure to Disagree](https://doi.org/10.1037/a0016755) ([pdf](http://www.hansfagt.dk/Kahneman_and_Klein(2009).pdf)). However, Klein does examine this area to some degree in Sources of Power.
+The conditions for developing the expertise for effective recognition-primed decision making is delved into in depth in Klein's article with Daniel Kahneman, [Conditions for Intuitive Expertise: A Failure to Disagree](https://doi.org/10.1037/a0016755) ([pdf](http://www.hansfagt.dk/Kahneman_and_Klein(2009).pdf)). However, Klein does examine this area to some degree in Sources of Power.
 
 Klein notes that it is one thing to gain experience, and another to turn that into expertise.  It is often difficult to see cause and effect relationships. There is typically delay between the two. It is difficult to disentangle luck and skill. Drawing on work by Jim Shanteau, Klein also notes that expertise was hard to develop when the domain is dynamic, we need to predict human behaviour, there is less chance for feedback, there is not enough repetition to get sense of typicality or there are fewer trials. Funnily enough, this description seems to align somewhat with many of the naturalistic decision making environments.
 

@@ -20,7 +20,7 @@ In 2009, Ashraf and Galor [published in the American Economic Review](https://d
 
 To untie the two, Ashraf and Galor use the timing of the onset of the Neolithic Revolution in different regions as a proxy for technology. The Neolithic Revolution occurred when populations moved from hunting and gathering to agricultural activities. If we accept Jared Diamond's thesis that countries with favourable biogeographical factors gained a technological head start through the advent of agriculture that they maintain through to today, the timing of the Neolithic Revolution in different societies could be a proxy for technology and productivity.
 
-Using this proxy, Ashraf and Galor found that, consistent with Malthusian theory, technology and productivity had a positive effect on population density, but no effect on per person income levels for the period 1 to 1500 CE. The result is robust to a range of controls including geographic and climactic factors, and holds when they use a more direct (but possibly less reliable) measure of technology.
+Using this proxy, Ashraf and Galor found that, consistent with Malthusian theory, technology and productivity had a positive effect on population density, but no effect on per person income levels for the period 1 to 1500 CE. The result is robust to a range of controls including geographic and climatic factors, and holds when they use a more direct (but possibly less reliable) measure of technology.
 
 There are two particularly interesting observations that Ashraf and Galor draw from their work. The first is that despite income stagnation, pre-Industrial times could be very dynamic. It is just that the Malthusian dynamics mask the effect of technological changes.
 
@@ -34,7 +34,7 @@ However, this support for the Malthusian model is not a ticket to use any popula
 
 
 
-Given that McEvedy and Jones are allowing the level of culture to colour their population estimates, those population estimates cannot be considered a sound basis for measuring technology. Population data shaped by the Malthusian model is not ideal to use as a measure of development. I don't expect that changing the population density numbers substantially change Ashraf and Galor's results (although [the data is online](http://www.aeaweb.org/articles.php?doi=10.1257/aer.103.1.1) if you want to check this), but we should use the numbers with some caution.
+Given that McEvedy and Jones are allowing the level of culture to colour their population estimates, those population estimates cannot be considered a sound basis for measuring technology. Population data shaped by the Malthusian model is not ideal to use as a measure of development. I don't expect that changing the population density numbers would substantially change Ashraf and Galor's results (although [the data is online](http://www.aeaweb.org/articles.php?doi=10.1257/aer.103.1.1) if you want to check this), but we should use the numbers with some caution.
 
 My posts on Ashraf and Galor's paper on genetic diversity and economic growth are as follows:
 

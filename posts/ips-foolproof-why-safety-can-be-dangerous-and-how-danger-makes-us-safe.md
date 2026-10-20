@@ -27,7 +27,7 @@ Another way that Ip frames his balanced landing point is that we should accept s
 
 Some of Ip's argument is captured by what is known as the Peltzman effect, named after University of Chicago economist Sam Peltzman. Peltzman published a paper in 1975 examining the effect of safety improvements in cars over the previous 10 years. Peltzman found a reduction in deaths per mile travelled for vehicle occupants, but also an increase in pedestrian injuries and property damage.
 
-Peltzman's point was that risky driving has a price. If safety improvements reduce that price, people will take more risk. The costs of that additional risk can offsett the safety gains.
+Peltzman's point was that risky driving has a price. If safety improvements reduce that price, people will take more risk. The costs of that additional risk can offset the safety gains.
 
 While this is in some ways an application of basic economics - make something cheaper and people will consume more - the empirical evidence on the Peltzman effect is interesting.
 
@@ -37,7 +37,7 @@ But when you look at individual safety improvements, there are some interesting 
 
 In contrast, anti-lock brakes were predicted to materially reduce crashes, but the evidence suggests effectively no net change. Drivers with anti-lock brakes drive faster and brake harder. While reducing some risks - less front-end collisions - they increase others - such as the increased rear end collisions induced by their hard braking behaviour.
 
-So why the difference between seatbelts and anti-lock brakes? Ip argues that the difference depends on what the safety improvement allows us to do and how it feeds back into our behaviour. Anti-lock brakes give a driver with a feeling of control and a belief they can drive faster. This belief is correct, but occasionally it backfires and they have an accident they would not have had otherwise. With seatbelts, most people want to avoid a crash and a car crash remains unpleasant even when wearing a seatbelt. At many times the seatbelt is not even in people's minds.
+So why the difference between seatbelts and anti-lock brakes? Ip argues that the difference depends on what the safety improvement allows us to do and how it feeds back into our behaviour. Anti-lock brakes give a driver a feeling of control and a belief they can drive faster. This belief is correct, but occasionally it backfires and they have an accident they would not have had otherwise. With seatbelts, most people want to avoid a crash and a car crash remains unpleasant even when wearing a seatbelt. At many times the seatbelt is not even in people's minds.
 
 **Irrational risk taking?**
 
@@ -47,8 +47,8 @@ Much of this “irrationality” concerns our myopia. We rebuild on sites where 
 
 A contrasting effect is our fear response to vivid events, which leads us to overweight them in our decision making despite the larger costs of the alternative.
 
-But despite the ease in spotting these anomalies, for many of Ip's real world examples of individual actions that might by myopic or irrational it wouldn’t be hard to craft an argument that the individual might be making a good decision. If the previous building on the site was destroyed by a hurricane, can you still get flood insurance (possibly subsidised), making it a good investment all the same? As Ip points out, there are also many benefits to living in disaster prone areas, which are often sites of great economic opportunity (such as proximity to water).
+But despite the ease in spotting these anomalies, for many of Ip's real world examples of individual actions that might be myopic or irrational it wouldn’t be hard to craft an argument that the individual might be making a good decision. If the previous building on the site was destroyed by a hurricane, can you still get flood insurance (possibly subsidised), making it a good investment all the same? As Ip points out, there are also many benefits to living in disaster prone areas, which are often sites of great economic opportunity (such as proximity to water).
 
 In a similar vein, Ip points to the individual irrationality of “overconfident” entrepreneurs, whose businesses will more often than not end up failing. But as [catalogued by Phil Rosenzweig](rosenzweigs-left-brain-right-stuff-how-leaders-make-winning-decisions.md), the idea that these "failed" businesses generally involve large losses is wrong. Overconfident is a poor word to describe these entrepreneurs’ actions (see also [here on overconfidence](overconfident-about-overconfidence.md)).
 
-I have a other few quibbles with the book. One was when Ip's discussion of our response to uncertainty conflated risk aversion with loss aversion, the certainty effect and the endowment effect. But as I say, they are just quibbles. Ip's book is well worth the read.
+I have a few other quibbles with the book. One was when Ip's discussion of our response to uncertainty conflated risk aversion with loss aversion, the certainty effect and the endowment effect. But as I say, they are just quibbles. Ip's book is well worth the read.

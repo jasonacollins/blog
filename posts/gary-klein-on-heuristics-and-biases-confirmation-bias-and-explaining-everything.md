@@ -21,7 +21,7 @@ In [Sources of Power: How People Make Decisions](gary-kleins-sources-of-power-ho
 
 ## On explaining everything
 
-On 3 July 1988 a missile fired from the USS Vincennes [destroyed a commercial Iran Air flight](https://en.wikipedia.org/wiki/Iran_Air_Flight_655) taking off over the Persian gulf, killing all onboard. The crew of the Vincennes had incorrectly identified the aircraft as an attacking F-14.
+On 3 July 1988 a missile fired from the USS Vincennes [destroyed a commercial Iran Air flight](https://en.wikipedia.org/wiki/Iran_Air_Flight_655) taking off over the Persian Gulf, killing all on board. The crew of the Vincennes had incorrectly identified the aircraft as an attacking F-14.
 
 Klein writes:
 

@@ -27,7 +27,7 @@ To distinguish the two, Alexander writes:
 
 The bloody obvious and controversial positions are often conflated in popular articles, and in Dweck's book the lack of differentiation is shifted up another gear. The book is interspersed with stories about people expending some effort to improve or win, with almost no information as to what they believe about growth and ability. The fact that they are expending effort is almost taken to be evidence of the growth mindset. At best the stories are evidence toward the bloody obvious position.
 
-But Dwecks's strong statements about growth mindset through the book make it clear that she holds the controversial position. Here are some snippets from the introduction:
+But Dweck's strong statements about growth mindset through the book make it clear that she holds the controversial position. Here are some snippets from the introduction:
 
 >Believing that your qualities are carved in stone—the fixed mindset—creates an urgency to prove yourself over and over.
 >
@@ -35,7 +35,7 @@ But Dwecks's strong statements about growth mindset through the book make it cle
 >
 >It’s not just that some people happen to recognize the value of challenging themselves and the importance of effort. Our research has shown that this comes directly from the growth mindset.
 
-Although Dweck marshals her stories from business and sports to support these "controversial position" claims, it does't work absent the evidence of beliefs. Add in the survivorship bias in the examples at hand, plus the [halo effect](rosenzweigs-the-halo-effect-and-the-eight-other-business-delusions-that-deceive-managers.md) in assessing whether the successful people have a "growth mindset", and there is little compelling evidence that these people held a growth or fixed mindset (as per the "controversial position) and that the mindset in turn caused the outcomes.
+Although Dweck marshals her stories from business and sports to support these "controversial position" claims, it doesn't work absent the evidence of beliefs. Add in the survivorship bias in the examples at hand, plus the [halo effect](rosenzweigs-the-halo-effect-and-the-eight-other-business-delusions-that-deceive-managers.md) in assessing whether the successful people have a "growth mindset", and there is little compelling evidence that these people held a growth or fixed mindset (as per the "controversial position") and that the mindset in turn caused the outcomes.
 
 To find evidence in support of Dweck's statements you need to turn to the academic work, but Dweck covers her research in little detail. From the limited descriptions in the book, it was often hard to know what the experiment involved and how much weight to give it. The book pointed me to interesting papers, but absent that visit to the academic literature I felt lost.
 
@@ -59,7 +59,7 @@ One point that becomes clear through the book is that Dweck sees people with gro
 
 I need to better understand the literature on how growth mindset correlates with (or causes) these kinds of behaviours, but a lot is being put into the growth mindset basket.
 
-In some of Dweck's examples of people without a growth mindset, there is a certain boldness. John McEnroe is a recurring example, despite his seven singles and ten doubles grand slam titles. On McEnroe's note that part of 1982 did not go as well as expected when little things kept him off his game (he still ended the year number one), Dweck asks "Always a victim of outside forces. Why didn’t he take charge and learn how to perform well in spite of them?" McEnroe later recorded the best single season record in the open era (82-3 in 1984), ending the year at number one for the fourth straight time. McEnroe feels he did not fulfil his potential as he often folded when the going got tough, but would have he had really been more successful with a "growth mindset"?
+In some of Dweck's examples of people without a growth mindset, there is a certain boldness. John McEnroe is a recurring example, despite his seven singles and ten doubles grand slam titles. On McEnroe's note that part of 1982 did not go as well as expected when little things kept him off his game (he still ended the year number one), Dweck asks "Always a victim of outside forces. Why didn’t he take charge and learn how to perform well in spite of them?" McEnroe later recorded the best single season record in the open era (82-3 in 1984), ending the year at number one for the fourth straight time. McEnroe feels he did not fulfil his potential as he often folded when the going got tough, but would he have really been more successful with a "growth mindset"?
 
 Similarly, Mike Tyson is labelled as someone who "reached the top, but ... didn't stay there", despite having the third longest unified championship reign in heavyweight history with eight consecutive defences. Tyson obviously had some behavioural issues, but would he have been the same fighter if he didn't believe in his ability?
 

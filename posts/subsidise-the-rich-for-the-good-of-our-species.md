@@ -13,7 +13,7 @@ From [Michael Shermer’s review](http://www.skepticblog.org/2012/03/13/another-
 
 Frank's proposal of a consumption tax to curb conspicuous consumption does not change the relative ranking of the signallers. As Shermer notes, some signalling is socially optimal, but an arms race that does not change rank order is not. Signals are honest by virtue of their cost. By adding a cost in the form of the tax, a smaller signal will require as much creative effort and will be as hard to fake. The assortment based on signalling will continue.
 
-So does the activity itself – the conspicuous consumption – have benefits through requiring innovation or creativity. It may be possible to make this argument if we assume that innovation occurs in the race to produce goods to consume. As Porsche adds new features to its car each year, or as Rolex develops more complex watches with higher precision (a precision far beyond that which any human cares), what are the spill over effects?
+So does the activity itself – the conspicuous consumption – have benefits through requiring innovation or creativity? It may be possible to make this argument if we assume that innovation occurs in the race to produce goods to consume. As Porsche adds new features to its car each year, or as Rolex develops more complex watches with higher precision (a precision far beyond that which any human cares), what are the spill over effects?
 
 Then there is the question as to whether conspicuous consumption is actually sending the signals we are intending to send. As asked by Geoffrey Miller in [Spent](millers-spent-sex-evolution-and-consumer-behavior.md), are our consumption instincts tuned to our current environment? Are signals using our intelligence and creativity a forgotten but better signal of our qualities? Regardless of the tax, displays of intelligence and creativity will still be freely available.
 
@@ -31,16 +31,16 @@ As a final note, Shermer also pitches his long stated argument that both evoluti
 
 >Robert Frank is not a socialist and yet the design conceit is there nonetheless. Even when gussied up in economic jargon with Darwinian overtones, hints of the totalitarian mind from millennia past creep into our thoughts and reach for the controls. …. It’s counterintuitive to think bottom up instead of top down. It is why so many people struggle to truly grasp the deep meaning of evolutionary theory, and it is why so many people fail to see that economic order is the product not of human design but of human action.
 
-Just because something is a bottom up system does not imply that you cannot or do not want to have rules imposed from the top. What evolution show us is that bottom up systems do not always deliver good results, and as Shermer rightly notes, that top down design is fraught with difficulty. Looking at some of [Shermer’s other writings](http://www.cato-unbound.org/2011/09/06/michael-shermer/liberty-and-science/), Shermer is not short of top down design wishes in his libertarian world:
+Just because something is a bottom up system does not imply that you cannot or do not want to have rules imposed from the top. What evolution shows us is that bottom up systems do not always deliver good results, and as Shermer rightly notes, that top down design is fraught with difficulty. Looking at some of [Shermer’s other writings](http://www.cato-unbound.org/2011/09/06/michael-shermer/liberty-and-science/), Shermer is not short of top down design wishes in his libertarian world:
 
-•	The rule of law.
-•	Property rights.
-•	Economic stability through a secure and trustworthy banking and monetary system.
-•	A reliable infrastructure and the freedom to move about the country.
-•	Mass education.
-•	A robust military for protection of our liberties from attacks by other states.
-•	A potent police for protection of our freedoms from attacks by other people within the state.
-•	A viable legislative system for establishing fair and just laws.
-•	An effective judicial system for the equitable enforcement of those fair and just laws.
+- The rule of law.
+- Property rights.
+- Economic stability through a secure and trustworthy banking and monetary system.
+- A reliable infrastructure and the freedom to move about the country.
+- Mass education.
+- A robust military for protection of our liberties from attacks by other states.
+- A potent police for protection of our freedoms from attacks by other people within the state.
+- A viable legislative system for establishing fair and just laws.
+- An effective judicial system for the equitable enforcement of those fair and just laws.
 
 While I _generally_ agree with where Shermer draws the boundary, it is apparent that the question is not whether there should be top down interference in an economy, but rather what the nature of that interference should be.

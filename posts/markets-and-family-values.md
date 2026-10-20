@@ -20,7 +20,7 @@ Arnhart quotes Hayek to point out that the tension between markets and family ha
 <blockquote>It is important, then, Hayek explains, that we neither apply the rules of the market to family life nor apply the rules of family life to the market. "If we were to apply the unmodified, uncurbed, rules of the micro-cosmos (i.e., of the small band or troop, or of, say, our families) to the macro-cosmos (our wider civilization), as our instincts and sentimental yearnings often make us wish to do, _we woud destroy it._ Yet if we were always to apply the rules of the extended order to our more intimate groupings, _we would crush them_. So we must learn to live in two sorts of world at once"</blockquote>
 
 
-Arnhart takes Hayeks’ argument further, and suggests that the existence of these two worlds points to the need for the family as an institution:
+Arnhart takes Hayek’s argument further, and suggests that the existence of these two worlds points to the need for the family as an institution:
 
 
 <blockquote>As Horwitz indicates, Hayek's idea of "living in two worlds at once" points to the need for the family as an institution in which children can learn the moral rules for both the micro world of face-to-face interactions and the macro world of anonymous interactions in the extended spontaneous order of society.

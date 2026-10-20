@@ -7,7 +7,7 @@ draft: false
 
 Over the Easter break, I read Ian Morris's *Why the West Rules- for Now*. Morris seeks to develop what might be called a "unified theory of history" that can shed light on why the West rules the world and not the East. He covers from the emergence of the first members of the genus _homo_ in Africa, through the development of agriculture and the Industrial Revolution to modern times.
 
-Morris looks at his question through the lens of biology, sociology and geography. In this post, I'll focus on Morris's treatment of the biological factors, as his conclusions on biology make it obsolete for his central claims. I'll offer my thoughts on the rest of the book in another post later this week (which I should note are more positive than what I am have written below).
+Morris looks at his question through the lens of biology, sociology and geography. In this post, I'll focus on Morris's treatment of the biological factors, as his conclusions on biology make it obsolete for his central claims. I'll offer my thoughts on the rest of the book in another post later this week (which I should note are more positive than what I have written below).
 
 In Chapter 1, Morris describes the history of human development. Starting from the emergence of _homo habilis_ in Africa, Morris walks the reader through the various migrations of early humans out of Africa and their spread across the globe, the discovery of "Peking man" and finally, the Out of Africa migration that occurred 60,000 to 70,000 years ago. For Morris, the final migration from Africa and the fact that this migration generally swept away humans from earlier migrations is the nail in the coffin for any biological theory of why there is a difference between East and West. He states that:
 

@@ -19,7 +19,7 @@ And the "bias bias":
 
 --------------
 
-[A recent Spectator article](http://www.spectator.co.uk/2016/06/id-have-said-lets-not-do-this-what-osborne-never-asked-his-nudge-guru/) on an interview with Richard Thaler - a contributor the 2016 Guide - opened with the following:
+[A recent Spectator article](http://www.spectator.co.uk/2016/06/id-have-said-lets-not-do-this-what-osborne-never-asked-his-nudge-guru/) on an interview with Richard Thaler - a contributor to the 2016 Guide - opened with the following:
 
 >‘For ten years or so, my name was “that jerk”,’ says Professor Richard Thaler, president of the American Economics Association and principal architect of the behavioural economics movement. ‘But that was a promotion. Before, I was “Who’s he?”’
 

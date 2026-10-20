@@ -27,4 +27,4 @@ I will, however, stop well short of saying that the use of evolutionary approach
 
 For me, the strongest case for a more evolutionary approach in economics comes from the timeframes with which economics is engaged. In evolutionary biology, maximisation and equilibrium approaches typically assume plenty of time for the traits of interest to have evolved. Economics is more interested in short-term dynamics, possibly more in the style of ecological models where dynamic modelling is the norm. In that case, there may be a stronger case for evolutionary economics than for "evolutionary" evolutionary biology.
 
-*I've posted about other parts of this Krugman article before - [here](krugman-on-gould-and-maynard-smith.md) and [here](galbraith-on-evolution-and-the-invisible-hand.md).
+*I've posted about other parts of this Krugman article before - [here](krugman-on-gould-and-maynard-smith.md) and [here](galbraith-on-evolution-and-the-invisible-hand.md).*

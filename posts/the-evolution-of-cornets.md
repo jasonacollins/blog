@@ -5,7 +5,7 @@ date: 2012-07-31 09:47:25+00:00
 draft: false
 ---
 
-In my recent [review of Paul Ormerod's Why Most Things Fail](ormerods-why-most-things-fail.md), I asked if Ormerod's comparison between the extinction of species and the death of firms was the right analogy. One reason for my question was that species are typically defined due to their reproductive isolation, preventing gene transfer between species. In contrast, the unit of selection for firms, business plan modules (the [name used by Eric Beinhocker](beinhockers-the-origin-of-wealth.md)), can spread freely spread between firms.
+In my recent [review of Paul Ormerod's Why Most Things Fail](ormerods-why-most-things-fail.md), I asked if Ormerod's comparison between the extinction of species and the death of firms was the right analogy. One reason for my question was that species are typically defined due to their reproductive isolation, preventing gene transfer between species. In contrast, the unit of selection for firms, business plan modules (the [name used by Eric Beinhocker](beinhockers-the-origin-of-wealth.md)), can spread freely between firms.
 
 Interestingly, I have just picked up Kevin Kelly's [What Technology Wants](kellys-what-technology-wants.md), 18 months after [my post speculating](the-evolution-of-technology.md) on Kelly's approach, where he raises a similar issue. Kelly notes that whereas the passage of biological traits is limited to the passing of traits to offspring, technology transmission can occur horizontally. He writes:
 

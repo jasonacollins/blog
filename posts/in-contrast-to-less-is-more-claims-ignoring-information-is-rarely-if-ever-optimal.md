@@ -37,7 +37,7 @@ So what is an alternative explanation to the performance of heuristics?
 >
 >Heuristics may work well in practice because they correspond to infinitely strong priors that make them oblivious to aspects of the training data, but they will usually be outperformed by a prior of finite strength that leaves room for learning from experience. That is, the strong form of less-is-more, that one can do better with heuristics by throwing out information rather than using it, is false. The optimal solution always uses all relevant information, but it combines that information with the appropriate prior. In contrast, no amount of data can overcome the heuristics’ inductive biases.
 
-So why have heuristics proven to be so useful? According this Bayesian argument, it is not because of a "computational advantage of simplicity per se, but rather to the fact that simpler models can approximate strong priors that are well-suited to the true structure of the environment."
+So why have heuristics proven to be so useful? According to this Bayesian argument, it is not because of a "computational advantage of simplicity per se, but rather to the fact that simpler models can approximate strong priors that are well-suited to the true structure of the environment."
 
 An interesting question from this work is whether our minds use heuristics as a good approximation of complex models, or whether heuristics are good approximations of more complex processes that the mind uses. The authors write:
 

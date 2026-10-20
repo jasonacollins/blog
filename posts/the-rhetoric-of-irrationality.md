@@ -29,7 +29,7 @@ Below are some of the more interesting passages. First:
 >
 >If you think of it, this is a great trick, for the studies in question have managed to shed their experimental details without sacrificing scientific authority. Somehow the message of irrationality has been sprung free of its factual supports, allowing it to be seen entire, unobstructed by the hopeful assumptions and tedious methodologies that brace up all laboratory research.
 
-One interesting thread concerns the purpose of the experiments and the contrasting conclusions drawn from them. For this discussion, Lopes looks at six of the experiments in four of Kahneman and Tversky papers published between 1971 and 1973, plus a summary article in Science from 1974. One example involved this question:
+One interesting thread concerns the purpose of the experiments and the contrasting conclusions drawn from them. For this discussion, Lopes looks at six of the experiments in four of Kahneman and Tversky's papers published between 1971 and 1973, plus a summary article in Science from 1974. One example involved this question:
 
 >Consider the letter R. Is R more likely to appear in the first position of a word or the third position of a word?
 

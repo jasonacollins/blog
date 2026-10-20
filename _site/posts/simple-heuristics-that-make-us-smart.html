@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,16 @@
 
 <title>Gerd Gigerenzer, Peter Todd and the ABC Research Group’s Simple Heuristics That Make Us Smart – Jason Collins blog</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -35,15 +41,14 @@ ul.task-list li input[type="checkbox"] {
 <link href="../logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-9be722aa83fbcc428616ae682c30a50a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-cd8592f072b9d28f7be82a1360dc3fa5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -98,8 +103,6 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Jason Collins blog</span>
     </a>
@@ -178,7 +181,7 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 
 
 <p>I have recommended Gerd Gigerenzer, Peter Todd and the ABC Research Group’s&nbsp;<em>Simple Heuristics That Make Us Smart</em> enough times on this blog that I figured it was time to post a synopsis or review.</p>
-<p>After re-reading it for the first time in five or so years, this book will still be high on my recommended reading list. It provides&nbsp;a nice&nbsp;contrast to the increasing use&nbsp;of&nbsp;complex machine learning algorithms for decision making, although it is that same increasing use&nbsp;that makes some parts of the book are seem&nbsp;a touch dated.</p>
+<p>After re-reading it for the first time in five or so years, this book will still be high on my recommended reading list. It provides&nbsp;a nice&nbsp;contrast to the increasing use&nbsp;of&nbsp;complex machine learning algorithms for decision making, although it is that same increasing use&nbsp;that makes some parts of the book seem&nbsp;a touch dated.</p>
 <p>The crux of the book is that much human (or other animal) decision making is based on fast and frugal heuristics. These heuristics are fast in that they do not rely on heavy computation, and frugal in that they only search for or use some of the available information.</p>
 <p>Importantly, fast and frugal&nbsp;heuristics do not simply trade-off speed for accuracy. They can be both fast and accurate as the tradeoff is between generality versus specificity. The simplicity of fast and frugal heuristics allows them to be robust in the face of environmental change and generalise well to new situations, leading to more accurate predictions for new data than a complex, information-guzzling strategy. The heuristics avoid the problem of overfitting as they don’t assume every detail to be of utmost relevance, and tend to ignore the noise in many cues by looking for the cues that swamp all others.</p>
 <p>These fast and frugal heuristics often fail the test of logical coherence, a point often made in the heuristics and biases program kicked off by Kahneman and Tversky. But as Gigerenzer and Todd argue in the opening chapter, pursuing rationality of this nature as an ideal is misguided, as many of our forms of reasoning are powerful and accurate despite not being logically coherent. The function of heuristics is not to be coherent. Their function is to make reasonable adaptive inference with limited time and knowledge.</p>
@@ -206,10 +209,10 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 <p>The general story is that in terms of fitting the full dataset, take-the-best performs well but is narrowly beaten by multiple regression (75% to 77% - although multiple regression was only fed cue direction, not quantitative variables). The closeness across the range of datasets suggests that the power of take the best is not just restricted to one environment.</p>
 <p>The story changes more in favour of take-the-best when the assessment shifts to prediction out-of-sample, with multiple regression suffering a severe penalty. Regression accuracy dropped to 68%, whereas take-the-best dropped less to 71%.</p>
 <p>There was a model in the competition - the minimalist - which only considered a randomly chosen cue and seeing if it points in one direction or the other. If so, select that choice, otherwise select another cue. The performance of the minimalist suggested frugality can be pushed too far, although it did perform only 3 percentage points below regression in out-of-sample prediction.</p>
-<p>The results of the challenge suggests that take-the-best tends not to sacrifice accuracy for its frugality. The relative performance of take-the-best is particularly strong when there is a low number of training examples, with regression having less chance of overfitting in larger environments. Regression tended to perform relatively worse when there were less examples per cue. One point that favoured take-the-best is that the trial didn’t have many large environments. Only two had more than 100 examples, and many had between 10 and 30.</p>
+<p>The results of the challenge suggest that take-the-best tends not to sacrifice accuracy for its frugality. The relative performance of take-the-best is particularly strong when there is a low number of training examples, with regression having less chance of overfitting in larger environments. Regression tended to perform relatively worse when there were less examples per cue. One point that favoured take-the-best is that the trial didn’t have many large environments. Only two had more than 100 examples, and many had between 10 and 30.</p>
 <p>The restriction of regression to use cue direction rather than the quantitative variable also dampened its effectiveness. If able to use quantitative predictors, regression tied take the best on 76% out of sample, even though take-the-best doesn’t use these quantitative values. There was effectively no penalty for the frugality.</p>
-<p>A later chapter added to the competition computationally expensive Bayesian models. Bayesians networks won the competition on out-of-sample testing by three percentage points over take-the-best. Again, take-the-best did best relatively when there were small numbers of examples. The more frugal naive Bayes also did pretty well - falling somewhere between the two approaches.</p>
-<p>The results suggest that each approach has its place. Use fast and frugal approaches when you need to be quick with low numbers of examples, and use Bayesian approaches when have time, computational power and knowledge. This is where some of the examples start to feel dated when the size of the datasets in many domains is rapidly growing in combination with cheaper computational power.</p>
+<p>A later chapter added to the competition computationally expensive Bayesian models. Bayesian networks won the competition on out-of-sample testing by three percentage points over take-the-best. Again, take-the-best did best relatively when there were small numbers of examples. The more frugal naive Bayes also did pretty well - falling somewhere between the two approaches.</p>
+<p>The results suggest that each approach has its place. Use fast and frugal approaches when you need to be quick with low numbers of examples, and use Bayesian approaches when you have time, computational power and knowledge. This is where some of the examples start to feel dated when the size of the datasets in many domains is rapidly growing in combination with cheaper computational power.</p>
 <p>This dated feel is even more apparent in the competition between another heuristic, categorisation by elimination, and neural networks across 3 datasets.</p>
 <p>Categorisation by elimination is a classification algorithm that walks through examples and cues, starting from the cue with the highest probability of success. If the example can be categorised, categorise it and move to the next example. If not, move to the next cue, with possible categories limited to those possible given earlier cues. Repeat until classified.</p>
 <p>In measured performance, categorisation by elimination was only a few percentage points behind neural networks, although the datasets contained only 150, 178 and 8124 examples. The performance of neural networks also capped out at 100% on the largest mushroom dataset (not bad when picking what should eat and consequences) and 94 and 96% on the other two. There wasn’t much room for a larger victory.</p>
@@ -219,14 +222,14 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 <p>To maximise your probability of finding the best secretary, you should view 37% of the candidates without making any choice, and then accept the next candidate who is better than all you have seen to date. This rule gives (coincidentally) a 37% chance of ending up with the best mate.</p>
 <p>But this rule is not without risks. If the best candidate was in that first 37%, you will end up with the last person you see, effectively a random person from the population. So there is effectively a 37% chance of a random choice. Because of that random choice, the 37% rule leaves you with a 9% chance you will end up with someone in the bottom quartile.</p>
 <p>But what if, like most people, you have a degree of risk aversion - particularly if you are applying the rule to serious questions such as mate choice. Suppose there are 100 candidates and you want someone out of the top 10%. In that case you only want to look at the first 14% of candidates and choose the next candidate who is better than all previous candidates. That gives you an 83% chance of a top 10% candidate. If you will settle for the top 25%, you only need look at the first 7% for a 92% chance of getting someone in the top quartile.</p>
-<p>In larger populations, you need to look at even less. With 1000 people, you need only look at only 3% of the candidates to maximise chance of top 10% at 97% probability. For a top 25% mate, you should only check out 1 to 2%.</p>
+<p>In larger populations, you need to look at even less. With 1000 people, you need only look at 3% of the candidates to maximise chance of top 10% at 97% probability. For a top 25% mate, you should only check out 1 to 2%.</p>
 <p>The net result is that the 37% rule sets aspirations too high unless you will settle for nothing but the best. It is less robust than other rules.</p>
 <p>This exploration points to the potential for a simple search heuristic. Try a dozen will generally outperform the 37% rule across most population sizes for getting a good but not perfect mate. Try a few dozen is a great rule for someone in New York who wants close to the best.</p>
 <p>Then there is the issue that the success of the 37% rule depends on your own value. On finding the mate you will finally propose to, what is the probability that the two-sided choice will end up with them saying yes? In domains such as mate choice, only one or two people could get away with applying that rule - and that leads to a whole new range of considerations.</p>
 <p><strong>Odds and ends</strong></p>
 <p>The book is generally interesting throughout. Here are a few odds and ends:</p>
 <ul>
-<li><p>One chapter argues that the hindsight bias is the product of fast and frugal approach to recalling decisions. We update knowledge when it is received. If we cannot recall the original decision, we can approximate it by going through the same process as used to generate the decision last time. But if we have updated our knowledge, we get a new answer.</p></li>
+<li><p>One chapter argues that the hindsight bias is the product of a fast and frugal approach to recalling decisions. We update knowledge when it is received. If we cannot recall the original decision, we can approximate it by going through the same process as used to generate the decision last time. But if we have updated our knowledge, we get a new answer.</p></li>
 <li><p>As mentioned, some chapters are a bit out of date. One chapter is on using heuristics to predict intention from motion. I expect neural networks will likely be in another league on domains such as this compared to when the book was written.</p></li>
 <li><p>Another chapter is on investment in offspring. Heuristics such as invest in the oldest do almost as well as the optimal investment rules developed by <a href="https://en.m.wikipedia.org/wiki/Gary_Becker#Families">Becker</a>, despite their lack of relative complexity. The best rule for a particular time will depend on the harshness of the environment.</p></li>
 </ul>

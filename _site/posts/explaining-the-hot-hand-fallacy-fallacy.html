@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,16 @@
 
 <title>Explaining the hot-hand fallacy fallacy – Jason Collins blog</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -35,15 +41,14 @@ ul.task-list li input[type="checkbox"] {
 <link href="../logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-9be722aa83fbcc428616ae682c30a50a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-cd8592f072b9d28f7be82a1360dc3fa5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -100,8 +105,6 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Jason Collins blog</span>
     </a>
@@ -179,7 +182,7 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 </header>
 
 
-<p>Since first coming across <a href="https://doi.org/10.2139/ssrn.2627354">Joshua Miller and Adam Sanurjo’s great work</a> demonstrating that the hot-hand fallacy was itself a fallacy, I’ve been looking for a good way to explain simply the logic behind their argument. I haven’t found something that completely hits the mark yet, but the following explanation from Miller and Sanjurjo in <a href="http://theconversation.com/momentum-isnt-magic-vindicating-the-hot-hand-with-the-mathematics-of-streaks-74786">The Conversation</a> might be useful to some:</p>
+<p>Since first coming across <a href="https://doi.org/10.2139/ssrn.2627354">Joshua Miller and Adam Sanjurjo’s great work</a> demonstrating that the hot-hand fallacy was itself a fallacy, I’ve been looking for a good way to explain simply the logic behind their argument. I haven’t found something that completely hits the mark yet, but the following explanation from Miller and Sanjurjo in <a href="http://theconversation.com/momentum-isnt-magic-vindicating-the-hot-hand-with-the-mathematics-of-streaks-74786">The Conversation</a> might be useful to some:</p>
 <blockquote class="blockquote">
 <p>In the landmark 1985 paper “<a href="https://doi.org/10.1016/0010-0285(85)90010-6">The hot hand in basketball: On the misperception of random sequences</a>,” psychologists Thomas Gilovich, Robert Vallone and Amos Tversky (GVT, for short) found that when studying basketball shooting data, the sequences of makes and misses are indistinguishable from the sequences of heads and tails one would expect to see from flipping a coin repeatedly.</p>
 <p>Just as a gambler will get an occasional streak when flipping a coin, a basketball player will produce an occasional streak when shooting the ball. GVT concluded that the hot hand is a “<a href="https://doi.org/10.1037/0033-295X.103.3.582">cognitive illusion</a>”; people’s tendency to detect patterns in randomness, to see perfectly typical streaks as atypical, led them to believe in an illusory hot hand.</p>

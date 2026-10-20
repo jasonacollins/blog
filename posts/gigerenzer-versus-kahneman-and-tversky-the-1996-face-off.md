@@ -5,7 +5,7 @@ date: 2019-04-01 08:00:46+00:00
 draft: false
 ---
 
-Through the late 1980s and early 1990s, Gerd Gigerenzer and friends wrote a series of articles critiquing Daniel Kahneman and Amos Tversky's work on heuristic and biases. They hit hard. As Michael Lewis wrote in [The Undoing Project](michael-lewiss-the-undoing-project-a-friendship-that-changed-the-world.md):
+Through the late 1980s and early 1990s, Gerd Gigerenzer and friends wrote a series of articles critiquing Daniel Kahneman and Amos Tversky's work on heuristics and biases. They hit hard. As Michael Lewis wrote in [The Undoing Project](michael-lewiss-the-undoing-project-a-friendship-that-changed-the-world.md):
 
 >Gigerenzer had taken the same angle of attack as most of their other critics. But in Danny and Amos’s view he’d ignored the usual rules of intellectual warfare, distorting their work to make them sound even more fatalistic about their fellow man than they were. He also downplayed or ignored most of their evidence, and all of their strongest evidence. He did what critics sometimes do: He described the object of his scorn as he wished it to be rather than as it was. Then he debunked his description. ... “Amos says we absolutely must do something about Gigerenzer,” recalled Danny. ... Amos didn’t merely want to counter Gigerenzer; he wanted to destroy him. (“Amos couldn’t mention Gigerenzer’s name without using the word ‘sleazeball,’ ” said UCLA professor Craig Fox, Amos’s former student.) Danny, being Danny, looked for the good in Gigerenzer’s writings. He found this harder than usual to do.
 
@@ -52,7 +52,7 @@ Now into the details.
 
 **Argument 1: Does the use of frequentist rather than probabilistic representations make many of the so-called biases disappear?**
 
-Gigerenzer's argues that many biases involving probabilistic decision-making can be "made to disappear" by framing the problems in terms of frequencies rather than probabilities. The back-and-forth on this point centres on three major biases: overconfidence, the conjunction fallacy and base-rate neglect. I'll take each in turn.
+Gigerenzer argues that many biases involving probabilistic decision-making can be "made to disappear" by framing the problems in terms of frequencies rather than probabilities. The back-and-forth on this point centres on three major biases: overconfidence, the conjunction fallacy and base-rate neglect. I'll take each in turn.
 
 **_Overconfidence_**
 
@@ -137,7 +137,7 @@ Here Gigerenzer stretches his defence of human consistency a step too far:
 
 >[T]he effect depends crucially on presenting the two alternatives to a participant at different times, that is, with a number (unspecified in their reports) of other tasks between the alternatives. This does not seem to be a violation of internal consistency, which I take to be the point of the conjunction fallacy.
 
-Kahneman and Tversky also point out that they they had studied the effect of frequencies in other contexts:
+Kahneman and Tversky also point out that they had studied the effect of frequencies in other contexts:
 
 >We therefore turned to the study of cues that may encourage extensional reasoning and developed the hypothesis that the detection of inclusion could be facilitated by asking subjects to estimate frequencies. To test this hypothesis, we described a health survey of 100 adult men and asked subjects, "How many of the 100 participants have had one or more heart attacks?" and "How many of the 100 participants both are over 55 years old and have had one or more heart attacks?" The incidence of conjunction errors in this problem was only 25%, compared to 65% when the subjects were asked to estimate percentages rather than frequencies. Reversing the order of the questions further reduced the incidence to 11%.
 
@@ -149,7 +149,7 @@ Gigerenzer concedes, but then turns to Kahneman and Tversky's lack of focus on t
 
 >It is correct that they demonstrated the effect on conjunction violations first (but not for overconfidence bias and the base-rate fallacy). Their accusation, however, is out of place, as are most others in their reply. I referenced their demonstration in every one of the articles they cited ... It might be added that Tversky and Kahneman (1983) themselves paid little attention to this result, which was not mentioned once in some four pages of discussion.
 
-A debate about who was first and how much focus each gave to the findings is not substantive, but Kahneman and Tversky (1996) do not leave this problem here. While the frequency representation can reduce error when there is the possibility of direct comparison (the same subject sees and provides frequencies for both alternatives), they have less effect in between-subject experiment designs; that is, where one set of subjects will see one of the options and another set of subject the other:
+A debate about who was first and how much focus each gave to the findings is not substantive, but Kahneman and Tversky (1996) do not leave this problem here. While the frequency representation can reduce error when there is the possibility of direct comparison (the same subject sees and provides frequencies for both alternatives), they have less effect in between-subject experiment designs; that is, where one set of subjects will see one of the options and another set of subjects the other:
 
 >Linda is in her early thirties. She is single, outspoken, and very bright. As a student she majored in philosophy and was deeply concerned with issues of discrimination and social justice.
 >

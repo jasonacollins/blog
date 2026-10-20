@@ -8,7 +8,7 @@ title: Gerd Gigerenzer, Peter Todd and the ABC Research Group's Simple Heuristic
 
 I have recommended Gerd Gigerenzer, Peter Todd and the ABC Research Group's *Simple Heuristics That Make Us Smart* enough times on this blog that I figured it was time to post a synopsis or review.
 
-After re-reading it for the first time in five or so years, this book will still be high on my recommended reading list. It provides a nice contrast to the increasing use of complex machine learning algorithms for decision making, although it is that same increasing use that makes some parts of the book are seem a touch dated.
+After re-reading it for the first time in five or so years, this book will still be high on my recommended reading list. It provides a nice contrast to the increasing use of complex machine learning algorithms for decision making, although it is that same increasing use that makes some parts of the book seem a touch dated.
 
 The crux of the book is that much human (or other animal) decision making is based on fast and frugal heuristics. These heuristics are fast in that they do not rely on heavy computation, and frugal in that they only search for or use some of the available information.
 
@@ -64,13 +64,13 @@ The story changes more in favour of take-the-best when the assessment shifts to 
 
 There was a model in the competition - the minimalist - which only considered a randomly chosen cue and seeing if it points in one direction or the other. If so, select that choice, otherwise select another cue. The performance of the minimalist suggested frugality can be pushed too far, although it did perform only 3 percentage points below regression in out-of-sample prediction.
 
-The results of the challenge suggests that take-the-best tends not to sacrifice accuracy for its frugality. The relative performance of take-the-best is particularly strong when there is a low number of training examples, with regression having less chance of overfitting in larger environments. Regression tended to perform relatively worse when there were less examples per cue. One point that favoured take-the-best is that the trial didn't have many large environments. Only two had more than 100 examples, and many had between 10 and 30.
+The results of the challenge suggest that take-the-best tends not to sacrifice accuracy for its frugality. The relative performance of take-the-best is particularly strong when there is a low number of training examples, with regression having less chance of overfitting in larger environments. Regression tended to perform relatively worse when there were less examples per cue. One point that favoured take-the-best is that the trial didn't have many large environments. Only two had more than 100 examples, and many had between 10 and 30.
 
 The restriction of regression to use cue direction rather than the quantitative variable also dampened its effectiveness. If able to use quantitative predictors, regression tied take the best on 76% out of sample, even though take-the-best doesn't use these quantitative values. There was effectively no penalty for the frugality.
 
-A later chapter added to the competition computationally expensive Bayesian models. Bayesians networks won the competition on out-of-sample testing by three percentage points over take-the-best. Again, take-the-best did best relatively when there were small numbers of examples. The more frugal naive Bayes also did pretty well - falling somewhere between the two approaches.
+A later chapter added to the competition computationally expensive Bayesian models. Bayesian networks won the competition on out-of-sample testing by three percentage points over take-the-best. Again, take-the-best did best relatively when there were small numbers of examples. The more frugal naive Bayes also did pretty well - falling somewhere between the two approaches.
 
-The results suggest that each approach has its place. Use fast and frugal approaches when you need to be quick with low numbers of examples, and use Bayesian approaches when have time, computational power and knowledge. This is where some of the examples start to feel dated when the size of the datasets in many domains is rapidly growing in combination with cheaper computational power.
+The results suggest that each approach has its place. Use fast and frugal approaches when you need to be quick with low numbers of examples, and use Bayesian approaches when you have time, computational power and knowledge. This is where some of the examples start to feel dated when the size of the datasets in many domains is rapidly growing in combination with cheaper computational power.
 
 This dated feel is even more apparent in the competition between another heuristic, categorisation by elimination, and neural networks across 3 datasets.
 
@@ -90,7 +90,7 @@ But this rule is not without risks. If the best candidate was in that first 37%,
 
 But what if, like most people, you have a degree of risk aversion - particularly if you are applying the rule to serious questions such as mate choice. Suppose there are 100 candidates and you want someone out of the top 10%. In that case you only want to look at the first 14% of candidates and choose the next candidate who is better than all previous candidates. That gives you an 83% chance of a top 10% candidate. If you will settle for the top 25%, you only need look at the first 7% for a 92% chance of getting someone in the top quartile.
 
-In larger populations, you need to look at even less. With 1000 people, you need only look at only 3% of the candidates to maximise chance of top 10% at 97% probability. For a top 25% mate, you should only check out 1 to 2%.
+In larger populations, you need to look at even less. With 1000 people, you need only look at 3% of the candidates to maximise chance of top 10% at 97% probability. For a top 25% mate, you should only check out 1 to 2%.
 
 The net result is that the 37% rule sets aspirations too high unless you will settle for nothing but the best. It is less robust than other rules.
 
@@ -102,7 +102,7 @@ Then there is the issue that the success of the 37% rule depends on your own val
 
 The book is generally interesting throughout. Here are a few odds and ends:
     
-  * One chapter argues that the hindsight bias is the product of fast and frugal approach to recalling decisions. We update knowledge when it is received. If we cannot recall the original decision, we can approximate it by going through the same process as used to generate the decision last time. But if we have updated our knowledge, we get a new answer.
+  * One chapter argues that the hindsight bias is the product of a fast and frugal approach to recalling decisions. We update knowledge when it is received. If we cannot recall the original decision, we can approximate it by going through the same process as used to generate the decision last time. But if we have updated our knowledge, we get a new answer.
 
     
   * As mentioned, some chapters are a bit out of date. One chapter is on using heuristics to predict intention from motion. I expect neural networks will likely be in another league on domains such as this compared to when the book was written.

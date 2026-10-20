@@ -6,7 +6,7 @@ draft: false
 title: Economics is a branch of ecology
 ---
 
-In an [interview](http://www.skeptic.com/eskeptic/10-09-29/#feature) published in 1996, Garret Hardin stated:
+In an [interview](http://www.skeptic.com/eskeptic/10-09-29/#feature) published in 1996, Garrett Hardin stated:
 
 
 <blockquote>The view that I and a number of other ecologists share is that ecology is the overall science of which economics is a minor specialty.</blockquote>
@@ -22,6 +22,6 @@ Also, on ecological grounds, humans are rather dominant. Paul MacCready estimate
 
 The second point of disagreement is the implicit description of ecology as the "overall science". It is, of course, possible to take this deconstruction further. Is biology just glorified chemistry? Or physics?
 
-Despite the potential for arguments that some branches of science are derivative of other, the division of the branches is useful. In economics, we don't always need to ask what the evolutionary basis of a specific characteristic is. If we see it in experimental results, it might be useful to take it as given and to ask what this trait means economically. Similarly, if we see a certain behaviour in animals, we don't always need to inquire into the brain chemistry. What level is appropriate will depend on the hypothesis being tested.
+Despite the potential for arguments that some branches of science are derivative of others, the division of the branches is useful. In economics, we don't always need to ask what the evolutionary basis of a specific characteristic is. If we see it in experimental results, it might be useful to take it as given and to ask what this trait means economically. Similarly, if we see a certain behaviour in animals, we don't always need to inquire into the brain chemistry. What level is appropriate will depend on the hypothesis being tested.
 
-However, we do need to know when to call on these other sciences. In the same way that chemists should know some physics and biologists should know some chemistry, economists should know some biology to place the discipline its context and to know when it is useful to treat economics as a part of a larger science.
+However, we do need to know when to call on these other sciences. In the same way that chemists should know some physics and biologists should know some chemistry, economists should know some biology to place the discipline in its context and to know when it is useful to treat economics as a part of a larger science.

@@ -12,7 +12,7 @@ title: The consequences of shrinking brains
 <blockquote>This neither worries nor surprises me. We ceased relying upon individual brain power tens of thousands of years ago. Our civilization now gets all its inventive and creative power from the linking of brains into networks. Our future depends on being clever not individually, but collectively.</blockquote>
 
 
-Ridley's reason for not worrying is at odds with evidence that the return to an increase in an individual persons IQ is lower than that for an equivalent increase in average IQ for a population.
+Ridley's reason for not worrying is at odds with evidence that the return to an increase in an individual person's IQ is lower than that for an equivalent increase in average IQ for a population.
 
 Take this factoid from [Garett Jones's website](http://mason.gmu.edu/~gjonesb/) (I have blogged about work by Jones before, including [here](jones-on-iq-and-productivity.md)):
 

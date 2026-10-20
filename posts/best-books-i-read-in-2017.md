@@ -22,7 +22,7 @@ The best books I _read_ in 2017 - generally released in other years - are below 
   * Gerd Gigerenzer, Peter Todd and the ABC Research Group's [Simple Heuristics That Make Us Smart](simple-heuristics-that-make-us-smart.md) (1999) - A re-read for me (and now a touch dated), but a book worth revisiting.
 
 	
-  * Pedro Domingos [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World](domingoss-the-master-algorithm-how-the-quest-for-the-ultimate-learning-machine-will-remake-our-world.md) (2015) - On the list for the five excellent chapters on the various “tribes” of machine learning. The rest is either techno-Panglossianism or beyond my domain of expertise to assess.
+  * Pedro Domingos's [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World](domingoss-the-master-algorithm-how-the-quest-for-the-ultimate-learning-machine-will-remake-our-world.md) (2015) - On the list for the five excellent chapters on the various “tribes” of machine learning. The rest is either techno-Panglossianism or beyond my domain of expertise to assess.
 
 	
   * Brian Christian and Tom Griffiths's [Algorithms to Live By: The Computer Science of Human Decisions](christian-and-griffithss-algorithms-to-live-by-the-computer-science-of-human-decisions.md) (2016) - An excellent analysis of decision making, with the benchmark the solutions of computer science. As they say, "the best algorithms are all about doing what makes the most sense in the least amount of time, which by no means involves giving careful consideration to every factor and pursuing every computation to the end."

@@ -79,7 +79,7 @@ ggplot(trials, aes(fill=Status, x=end_year)) +
 
 The proposed "end date" entered by registrants is likely the best benchmark for when we should see a result. Around half of the trials proposed to end between 2014 and 2019 have been marked as completed. The completion rate declines in more recent years. The registry gives a glimpse of the file drawer, but we see a non-random selection of what's in it.
 
-Eliot Abrams, Jonathan Libgoer and John List [-@abrams2020] also catalogued some of the issues with the AEA Registry. Over 90% of RCTs don't register. Only 50% of those who register do so before the intervention begins. And most preregistrations lack detail.
+Eliot Abrams, Jonathan Libgober and John List [-@abrams2020] also catalogued some of the issues with the AEA Registry. Over 90% of RCTs don't register. Only 50% of those who register do so before the intervention begins. And most preregistrations lack detail.
 
 Now to the recent story, via [Jessica Hullman](https://statmodeling.stat.columbia.edu/2023/11/21/of-course-its-preregistered-just-give-me-a-sec/)
 
@@ -87,7 +87,7 @@ John Protzko and friends [-@protzko2023] published a paper in Nature Human Behav
 
 > This paper reports an investigation by four coordinated laboratories of the prospective replicability of 16 novel experimental findings using rigour-enhancing practices: confirmatory tests, large sample sizes, preregistration and methodological transparency. In contrast to past systematic replication efforts that reported replication rates averaging 50%, replication attempts here produced the expected effects with significance testing (P \< 0.05) in 86% of attempts, slightly exceeding the maximum expected replicability based on observed effect sizes and sample sizes.
 
-In the text, they note that they preregistered their analyses. We have a preregistered analysis of the benefits of preregisteration (or so it seems):
+In the text, they note that they preregistered their analyses. We have a preregistered analysis of the benefits of preregistration (or so it seems):
 
 > All confirmatory tests, replications and analyses were preregistered both in the individual studies (Supplementary Information section 3 and Supplementary Table 2) and for this meta-project.
 

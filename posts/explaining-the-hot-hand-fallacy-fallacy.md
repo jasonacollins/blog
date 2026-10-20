@@ -5,7 +5,7 @@ draft: false
 title: Explaining the hot-hand fallacy fallacy
 ---
 
-Since first coming across [Joshua Miller and Adam Sanurjo's great work](https://doi.org/10.2139/ssrn.2627354) demonstrating that the hot-hand fallacy was itself a fallacy, I've been looking for a good way to explain simply the logic behind their argument. I haven't found something that completely hits the mark yet, but the following explanation from Miller and Sanjurjo in [The Conversation](http://theconversation.com/momentum-isnt-magic-vindicating-the-hot-hand-with-the-mathematics-of-streaks-74786) might be useful to some:
+Since first coming across [Joshua Miller and Adam Sanjurjo's great work](https://doi.org/10.2139/ssrn.2627354) demonstrating that the hot-hand fallacy was itself a fallacy, I've been looking for a good way to explain simply the logic behind their argument. I haven't found something that completely hits the mark yet, but the following explanation from Miller and Sanjurjo in [The Conversation](http://theconversation.com/momentum-isnt-magic-vindicating-the-hot-hand-with-the-mathematics-of-streaks-74786) might be useful to some:
 
 >In the landmark 1985 paper “[The hot hand in basketball: On the misperception of random sequences](https://doi.org/10.1016/0010-0285(85)90010-6),” psychologists Thomas Gilovich, Robert Vallone and Amos Tversky (GVT, for short) found that when studying basketball shooting data, the sequences of makes and misses are indistinguishable from the sequences of heads and tails one would expect to see from flipping a coin repeatedly.
 >

@@ -20,7 +20,7 @@ Links this week:
   3. David Sloan Wilson [provides another critique](http://www.theeuropean-magazine.com/david-sloan-wilson--2/973-self-regulating-markets) of a straw man version of the invisible hand. The interesting aspect of this critique, as for many other of Wilson's takes on economics, is that the group selection framework he wants to bring into economics doesn't even have the evolutionary biologists onside.
 
 	
-  4. [Geoffrey Miller presents](http://newpaltz.mediasite.suny.edu/Mediasite/Play/f8755c8250624bdc95360e9cfd80c1401d) on sexual selection and runway consumerism.
+  4. [Geoffrey Miller presents](http://newpaltz.mediasite.suny.edu/Mediasite/Play/f8755c8250624bdc95360e9cfd80c1401d) on sexual selection and runaway consumerism.
 
 	
   5. The [Santa Fe Institute MOOC on complexity](http://www.complexityexplorer.org/) has kicked off.

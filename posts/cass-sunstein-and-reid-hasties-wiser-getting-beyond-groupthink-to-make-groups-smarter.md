@@ -5,7 +5,7 @@ date: 2018-03-28 08:00:58+00:00
 draft: false
 ---
 
-Cass Sunstein and Reid Hastie's *Wiser: Getting Beyond Groupthink to Make Groups Smarter* is not an exciting read. However, it is a good catalogue of group decision-making research (leading to this post to also be somewhat of a catalogue) and worth reading for an overview.
+Cass Sunstein and Reid Hastie's *Wiser: Getting Beyond Groupthink to Make Groups Smarter* is not an exciting read. However, it is a good catalogue of group decision-making research (leading this post to also be somewhat of a catalogue) and worth reading for an overview.
 
 The book's theme is that group decisions are often better than individual decisions, but that groups have weaknesses that can impair outcomes. Much of the analysis of failures in group decision-making follows a similar theme to the research into individual judgement and decision-making, in that the research has generated a long list of "biases" that groups are subject to. Most of the book, however, focuses on getting better decisions, and a lot of these (thankfully) don't rest on identification of particular biases.
 
@@ -19,11 +19,11 @@ There is no shortage of material about the wisdom of statistical groups. The sto
 
 In deliberating groups, individuals provide input during deliberations. Those inputs can affect and be affected by the inputs of other group members. People aim to influence others. People might change their minds.
 
-Even if most members of a group have the wrong answer or belief, you can picture a scenario where reason and discussion allow the right answer emerge. That is sometimes the case, but the evidence is that deliberating groups do not necessarily converge on the truth.
+Even if most members of a group have the wrong answer or belief, you can picture a scenario where reason and discussion allow the right answer to emerge. That is sometimes the case, but the evidence is that deliberating groups do not necessarily converge on the truth.
 
 In one experiment, people answered questions individually before answering those same questions in groups. If the majority of the group knew the correct answer to a problem, the group's decision was correct 79% of the time. (It's impressive that the incorrect minority were able to derail the group 21% of the time.) If the majority of the group answered a question incorrectly when answering individually, the group converged on the right answer only 44% of the time. The result of this dynamic was that the average group decision was better, but only marginally so, than the average individual (66% versus 62%).
 
-As a result, it may be easier to simple elicit people's individual views and average them (or combine in some other novel way) than go through the effort of the group discussion. A statistical group may be a more efficient solution.
+As a result, it may be easier to simply elicit people's individual views and average them (or combine in some other novel way) than go through the effort of the group discussion. A statistical group may be a more efficient solution.
 
 ## Why deliberating groups go wrong (or right)
 
@@ -61,7 +61,7 @@ That said, deliberating groups can temper some biases:
 
 ## Improving deliberation
 
-The most interesting part of the book is when Sunstein and Hastie turn to their tactics to improve group decision. There are two groups of tactics: those designed to improve deliberation, and alternative decision-making methods. A common threads to these is diversity, although this is "not necessarily along demographic lines, but in terms of ideas and perspectives."
+The most interesting part of the book is when Sunstein and Hastie turn to their tactics to improve group decision. There are two groups of tactics: those designed to improve deliberation, and alternative decision-making methods. A common thread to these is diversity, although this is "not necessarily along demographic lines, but in terms of ideas and perspectives."
 
 They list eight ways to avoid problems in deliberating groups: (1) inquisitive and self-silencing leaders; (2) “priming” critical thinking (although we have seen [how the priming literature is holding up](https://replicationindex.wordpress.com/2017/02/02/reconstruction-of-a-train-wreck-how-priming-research-went-of-the-rails/)); (3) rewarding group success (incentives are important, particularly to counter self-censorship and reputational cascades); (4) role assignment; (5) perspective changing; (6) devil’s advocates; (7) red teams; and (8) the Delphi method. A few are worth mentioning.
 

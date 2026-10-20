@@ -13,7 +13,7 @@ This paper has two great charts that illustrate the findings. The first compares
 
 ![Hawks et al (2007) Fig 1](img/2013-06-26-accelerating-adaptive-evolution-in-humans/hawks-et-al-2007-fig-1.jpg)
 
-The second chart plots the observed variant ages against two models: one with constant mutation rates, and a second where mutations rates increase with population size. The second model provides a far better (but not perfect) fit to the observed data.
+The second chart plots the observed variant ages against two models: one with constant mutation rates, and a second where mutation rates increase with population size. The second model provides a far better (but not perfect) fit to the observed data.
 
 ![Hawks et al (2007) Fig 3](img/2013-06-26-accelerating-adaptive-evolution-in-humans/hawks-et-al-2007-fig-3.jpg)
 
@@ -23,8 +23,8 @@ The [second paper by Fu and colleagues](https://doi.org/10.1038/nature11690), pu
 
 ![Fu et al (2007) Fig 3a](img/2013-06-26-accelerating-adaptive-evolution-in-humans/fu-et-al-2007-fig-3a.jpg)
 
-While Fu and colleagues don't transfer this story of the growth in rare variants to one of adaptive evolution, you can see how it fits with the first paper by Hawks and colleagues. These variants, even though most may be deleterious, provides the store of variation on which evolution can act.
+While Fu and colleagues don't transfer this story of the growth in rare variants to one of adaptive evolution, you can see how it fits with the first paper by Hawks and colleagues. These variants, even though most may be deleterious, provide the store of variation on which evolution can act.
 
 I [posted a round-up](a-flood-of-new-genetic-variation.md) of some other blog posts on this second article at the end of last year when the article underwent initial electronic release. The [post by John Hawks](http://johnhawks.net/weblog/reviews/genomics/selection/fu-2012-mutation-ages-europeans-africans.html) is very good.
 
-*The reason I'm covering this territory is to lay the groundwork for a post on my latest working paper: [Population, Technological Progress and the Evolution of Innovative Potential](http://ssrn.com/abstract=2284456). You can now find that [post here](population-technological-progress-and-the-evolution-of-innovative-potential.md).
+*The reason I'm covering this territory is to lay the groundwork for a post on my latest working paper: [Population, Technological Progress and the Evolution of Innovative Potential](http://ssrn.com/abstract=2284456). You can now find that [post here](population-technological-progress-and-the-evolution-of-innovative-potential.md).*

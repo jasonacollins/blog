@@ -34,7 +34,7 @@ Gregory Cochran and Henry Harpending's (2010) *The 10,000 Year Explosion: How C
 
 Jared Diamond's (2005) *Guns, Germs, and Steel: The Fates of Human Societies*: Jared Diamond gets a lot of flack for his strong support of environmental causation, but I believe the thesis in Guns, Germs and Steel is basically right - you just need to add in some evolutionary feedback with the environment.
 
-Robert Franks's (1988) [Passions Within Reason: The Strategic Role of the Emotions](franks-passions-within-reason.md): A fantastic game theoretic approach to the role of the emotions.
+Robert Frank's (1988) [Passions Within Reason: The Strategic Role of the Emotions](franks-passions-within-reason.md): A fantastic game theoretic approach to the role of the emotions.
 
 Gerd Gigerenzer, Peter M. Todd and the ABC Research Group's (1999) [Simple Heuristics That Make Us Smart](simple-heuristics-that-make-us-smart.md): As the title suggests, simple heuristics allow us to make smart choices. I could have put any number of Gigerenzer books here, but this is possibly the best.
 
@@ -74,9 +74,9 @@ De Fraja, Gianni (2009) [The origin of utility: Sexual selection and conspicuou
 
 Hansson, Ingemar and Charles Stuart (1990) [Malthusian Selection of Preferences](natural-selection-and-savings.md "Natural selection and saving") *American Economic Review* 80(3), pp.529-544: The earliest article I am aware of that explicitly examines the evolution of an economic preference.
 
-Hirshleifer, Jack (1977) [Economics from a Biological Viewpoint](economics-from-a-biological-viewpoint.md "Economics from a biological viewpoint") *Journal of Law of Economics* 20(1), pp.1-52: Another of the earliest calls for biology to be used in economics.
+Hirshleifer, Jack (1977) [Economics from a Biological Viewpoint](economics-from-a-biological-viewpoint.md "Economics from a biological viewpoint") *Journal of Law and Economics* 20(1), pp.1-52: Another of the earliest calls for biology to be used in economics.
 
-Rayo, Luis and Gary Becker (2007)[Evolutionary Efficiency and Happiness](the-evolution-of-happiness.md "The evolution of happiness") *Journal of Political Economy* 155(2), pp.302-337: An argument that if happiness is a tool through which human choices are directed to evolutionary goals, constraints on our feelings may lead to relative preferences and habit formation.
+Rayo, Luis and Gary Becker (2007) [Evolutionary Efficiency and Happiness](the-evolution-of-happiness.md "The evolution of happiness") *Journal of Political Economy* 155(2), pp.302-337: An argument that if happiness is a tool through which human choices are directed to evolutionary goals, constraints on our feelings may lead to relative preferences and habit formation.
 
 Rogers, Alan (1994) [Evolution of Time Preference by Natural Selection](evolution-of-time-preference-by-natural-selection.md "Evolution of time preference by natural selection") *American Economic Review* 83(3), pp.460-481: One of the first articles to propose an evolutionary basis to time preference.
 

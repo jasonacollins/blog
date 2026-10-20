@@ -7,7 +7,7 @@ draft: false
 The best books I <em>read</em> in 2022 - generally released in other years - were:
 
 - Bryan Caplan, *The Case Against Education*: I find the argument compelling and somewhat disheartening.
-- Stanlislas Dehaene, *How We Learn*: The optimistic case for doing education right. Despite Caplan's argument, there is a niche where this is important.
+- Stanislas Dehaene, *How We Learn*: The optimistic case for doing education right. Despite Caplan's argument, there is a niche where this is important.
 - David Epstein, *Range: Why Generalists Triumph in a Specialized World*: Generally great book, although the end about diversity fell flat.
 
 Below is the full list of books that I read in 2022 (starred if I have read before). The volume of my reading of books cover-to-cover was on par with last year, with 34 total (18 non-fiction, 16 fiction). I read to the kids much less than the previous year as they are taking on more reading themselves. Somehow that didn't translate to more reading by myself.
@@ -21,7 +21,7 @@ I've also included an incomplete list of books commenced but abandoned. There ar
 - Ananyo Bhattacharya, *The Man from the Future: The Visionary Life of John von Neumann*
 - Bryan Caplan, *The Case Against Education*
 - Brian Christian, *The Alignment Problem*
-- Stanlislas Dehaene, *How We Learn*
+- Stanislas Dehaene, *How We Learn*
 - David Epstein, *Range: Why Generalists Triumph in a Specialized World*
 - Oded Galor, *The Journey of Humanity*
 - David Graeber, *Bullshit Jobs*
@@ -48,12 +48,12 @@ I've also included an incomplete list of books commenced but abandoned. There ar
 - Arthur Conan Doyle, *The Valley of Fear*\*
 - Arthur Conan Doyle, *His Last Bow*\*
 - Arthur Conan Doyle, *The Case-Book of Sherlock Holmes* (Conan Doyle had really given up by these final stories.)
-- Michael Houellebecq, *Submission*\*
+- Michel Houellebecq, *Submission*\*
 - Victor Hugo, *The Hunchback of Notre Dame*\*
 - George RR Martin, *A Game of Thrones*
 - George RR Martin, *A Clash of Kings*
 - George RR Martin, *A Storm of Swords*
-- Haruki Muakami, *1Q84*
+- Haruki Murakami, *1Q84*
 - Neal Stephenson, *Termination Shock*
 
 *Commenced but abandoned*
@@ -65,7 +65,7 @@ I've also included an incomplete list of books commenced but abandoned. There ar
 - Paul Gilding, *The Great Disruption*
 - Nick Hornby, *About a Boy*
 - Nick Hornby, *High Fidelity*
-- Michael Houellebecq, *Serotonin*
+- Michel Houellebecq, *Serotonin*
 - Eric Kaufmann, *White Shift* (will probably come back to this)
 - Haruki Murakami, *Hear the Wind Sing*
 - Marcel Proust, *Swann's Way*
@@ -80,7 +80,7 @@ I've also included an incomplete list of books commenced but abandoned. There ar
 - Gillian Cross, *The Odyssey* (twice)
 - J.K. Rowling, *Harry Potter and the Philosopher's Stone*\* (twice)
 - Anna Sewell, *Black Beauty*
-- Lemony Snickett, *The Bad Beginning*
+- Lemony Snicket, *The Bad Beginning*
 - Johanna Spyri, *Heidi*
 - Tui T. Sutherland, *Dragonslayer*
 - Tui T. Sutherland, *The Lost Continent*
@@ -89,7 +89,7 @@ I've also included an incomplete list of books commenced but abandoned. There ar
 - Tui T. Sutherland, *The Dangerous Gift*
 - Tui T. Sutherland, *Flames of Hope*
 - Geronimo Stilton, Multiple
-- J.R.R. Tolkein, *The Hobbit*\*
-- J.R.R.Tolkein, *The Fellowship of the Ring*\*
+- J.R.R. Tolkien, *The Hobbit*\*
+- J.R.R. Tolkien, *The Fellowship of the Ring*\*
 
 Previous best book lists: [2010](top-10-books-in-2010.md), [2011](best-books-i-read-in-2011.md), [2012](the-best-books-i-read-in-2012.md), [2013](best-books-i-read-in-2013.md), [2014](best-books-i-read-in-2014.md), [2015](best-books-i-read-in-2015.md), [2016](best-books-i-read-in-2016.md), [2017](best-books-i-read-in-2017.md), [2018](books-i-read-in-2018.md), [2019](best-books-i-read-in-2019.md), [2020](best-books-i-read-in-2020.md), [2021](best-books-i-read-in-2021.md)

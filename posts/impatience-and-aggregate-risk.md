@@ -24,4 +24,4 @@ Putting this theory into context, human populations through our evolutionary his
 
 One way to think about it is to picture population growth as occurring in a saw-tooth manner - increases and then sudden drops. The population growth rate during those periods of increase is more relevant for the rate of time preference than the fact that the sudden drops through droughts and disasters reduce long-term population growth to near zero. The rate of population growth during the good times is what matters.
 
-Ultimately, this paper is one of my favourite in economics. It has a great idea that is not immediately obvious (nor intuitive), but once you wrap your mind around it, it makes a lot of sense.
+Ultimately, this paper is one of my favourites in economics. It has a great idea that is not immediately obvious (nor intuitive), but once you wrap your mind around it, it makes a lot of sense.

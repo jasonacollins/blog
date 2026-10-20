@@ -21,7 +21,7 @@ Bryan Caplan [notes one](http://econlog.econlib.org/archives/2011/08/male_varian
 
 >But isn't the obvious explanation just that men have higher variance in general?  This is easiest to prove for cognitive ability - see Garett Jones' [review of the evidence](http://econjwatch.org/file_download/210/2008-05-jones-invest_apparatus.pdf).  But it also seems very plausible for interests and obsessiveness.  Anyone can start a blog, but men are much more likely to do so.  The reason, I'll warrant, is that the male distribution of ego has a right tail that stretches far into the horizon.<
 
-From an evolutionary perspective, the higher variance for men makes sense. In a winner takes all competition for women, men at the top can have many children. Meanwhile, women are constrained in the maximum of number of children they can have. The jackpot of being the best male far outweighs the cost of being the worst. Genghis Khan was so reproductively successful (as was his grandson Kublai Khan) that one in 200 men globally are direct descendants along the male line and hence carry his y-chromosome. Such success would be impossible for a woman. Being a rich, successful male could buy additional access to mates and reproductive success that being a rich, successful woman does not. The evolutionary incentives are stacked in favour of the man seeking those top positions.
+From an evolutionary perspective, the higher variance for men makes sense. In a winner takes all competition for women, men at the top can have many children. Meanwhile, women are constrained in the maximum number of children they can have. The jackpot of being the best male far outweighs the cost of being the worst. Genghis Khan was so reproductively successful (as was his grandson Kublai Khan) that one in 200 men globally are direct descendants along the male line and hence carry his y-chromosome. Such success would be impossible for a woman. Being a rich, successful male could buy additional access to mates and reproductive success that being a rich, successful woman does not. The evolutionary incentives are stacked in favour of the man seeking those top positions.
 
 An evolutionary perspective also assists in the following, in which Hymowitz asks whether the loss of the historical male role as provider has played a part in the "decline of men":
 
@@ -33,6 +33,6 @@ Ultimately, I wonder how long the trend that triggered the essays will last. Man
 
 >The point is that today, with the important exception of the technical and financial sector, younger women (that is, childless women, an important caveat) have shown they can easily be men’s equals, and possibly even their superiors, in the knowledge economy.
 
-That important caveat will be applied more and more in the future. In that case, some of the gap will remain. (And as an aside, I recommend that you read all of [Hymowitz's essay](http://www.cato-unbound.org/2011/08/08/kay-hymowitz/whats-happening-to-men/) - there are a lot of interesting ideas in it)
+That important caveat will be applied more and more in the future. In that case, some of the gap will remain. (And as an aside, I recommend that you read all of [Hymowitz's essay](http://www.cato-unbound.org/2011/08/08/kay-hymowitz/whats-happening-to-men/) - there are a lot of interesting ideas in it).
 
 Update: A follow-up post [is here](male-incentives.md).

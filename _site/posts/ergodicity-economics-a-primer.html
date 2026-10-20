@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,16 @@
 
 <title>Ergodicity economics: a primer – Jason Collins blog</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -70,15 +76,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link href="../logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-9be722aa83fbcc428616ae682c30a50a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-cd8592f072b9d28f7be82a1360dc3fa5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
@@ -185,8 +190,6 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Jason Collins blog</span>
     </a>
@@ -474,7 +477,7 @@ Figure&nbsp;3: Plot of first 20 people against average wealth (log scale)
 </section>
 <section id="almost-surely" class="level3">
 <h3 class="anchored" data-anchor-id="almost-surely">3.2 Almost surely</h3>
-<p>Over the very long term, an individual will tend to get around half heads and half tails. As the number of flips goes to infinite, the proportion of heads or tails “<a href="https://en.wikipedia.org/wiki/Almost_surely">almost surely</a>” converges to 0.5.</p>
+<p>Over the very long term, an individual will tend to get around half heads and half tails. As the number of flips goes to infinity, the proportion of heads or tails “<a href="https://en.wikipedia.org/wiki/Almost_surely">almost surely</a>” converges to 0.5.</p>
 <p>This means that each person will tend to get a 50% increase half the time (or 1.5 times the initial wealth), and a 40% decrease half the time (60% of the initial wealth). A bit of maths and the time average growth in wealth for an individual is <span class="math inline">(1.5\times 0.6)^{0.5} \sim 0.95</span>, or approximately a 5% decline in wealth each period. Every individual’s wealth will tend to decay at that rate.</p>
 <p>To get an intuition for this, a long run of equal numbers of heads and tails is equivalent to flipping a head and a tail every two periods. Suppose that is exactly what you did - flipped a head and then flipped a tail. Your wealth would increase to $150 in the first round ($<span class="math inline">100\times 1.5</span>), and then decline to $90 in the second ($<span class="math inline">150\times 0.6</span>). You get the same result if you change the order. Effectively, you are losing 10% (or getting only <span class="math inline">1.5\times 0.6=0.9</span>) of your money every two periods.</p>
 <p>A system where the time average converges to the ensemble average (our population mean) is known as an ergodic system. The system of gambles above is non-ergodic as the time average and the ensemble average diverge. And given we cannot individually experience the ensemble average, we should not be misled by it. The focus on ensemble averages, as is typically done in economics, can be misleading if the system is non-ergodic.</p>
@@ -548,10 +551,10 @@ Figure&nbsp;5: Plot of average wealth over 1000 periods (log plot)
 <p><em>q</em> is the probability of losing (1-p)</p>
 </blockquote>
 <p>For the bet above, we have <em>p</em>=0.5 and <em>b</em>=0.5/0.4=1.25. As offered, we are effectively required to bet <em>f</em>=0.4, or 40% of our wealth, for that chance to win a 50% increase.</p>
-<p>However, if we apply the above formula given <em>p</em> and <em>b</em>, a person should bet 10%, of their wealth each round to maximise the geometric growth rate.</p>
+<p>However, if we apply the above formula given <em>p</em> and <em>b</em>, a person should bet 10% of their wealth each round to maximise the geometric growth rate.</p>
 <p><span class="math display">\frac{(0.5*(1.25+1)-1)}{1.25}=0.1</span></p>
 <p>The Kelly criterion is effectively maximising the expected log utility of the bet through setting the size of the bet. The Kelly criterion will result in someone wanting to take a share of any bet with positive expected value.</p>
-<p>The Kelly bet “almost surely”” leads to higher wealth than any other strategy in the long run.</p>
+<p>The Kelly bet “almost surely” leads to higher wealth than any other strategy in the long run.</p>
 <p>If we simulate the above scenarios, but risking only 10% of wealth each round rather than 40% (i.e.&nbsp;heads wealth will increase by 12.5%, tails it will decrease by 10%), what happens? The expected value of the Kelly bet is <span class="math inline">0.5\times 0.125+0.5\times -0.1=0.0125</span> or 1.25% per round. This next figure shows the ensemble average, showing a steady increase.</p>
 <div class="cell">
 <details class="code-fold">
@@ -588,7 +591,7 @@ Figure&nbsp;6: Average wealth of population applying Kelly criterion (1000 perio
 </div>
 </div>
 </div>
-<p>If we look at the individuals in this population, we can also see that their paths more closely resemble that of the population average. Most still under-perform the mean (the system is still non-ergodic - the time average growth rate is (<span class="math inline">1.125\times 0.9)^{0.5}=1.006</span> or 0.6%), and there is a large wealth disparity with the wealthiest person having 36% of the total wealth after 1000 periods (after 100, they have 0.5% of the wealth). Still, most people are better off, with 70% and 95% of the population experiencing a gain after 100 and 1000 periods respectively. The median wealth is almost $50,000 after 1000 periods.</p>
+<p>If we look at the individuals in this population, we can also see that their paths more closely resemble that of the population average. Most still under-perform the mean (the system is still non-ergodic - the time average growth rate is <span class="math inline">(1.125\times 0.9)^{0.5}=1.006</span> or 0.6%), and there is a large wealth disparity with the wealthiest person having 36% of the total wealth after 1000 periods (after 100, they have 0.5% of the wealth). Still, most people are better off, with 70% and 95% of the population experiencing a gain after 100 and 1000 periods respectively. The median wealth is almost $50,000 after 1000 periods.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -631,7 +634,7 @@ Figure&nbsp;7: Plot of first 20 people applying Kelly criterion against average 
 <p>An intuitive reaction to the above examples might be that while the accepting type might have a short-term gain, in the long run they are almost surely going to drive themselves extinct. There are a couple of scenarios where that would be the case.</p>
 <p>One is where the children of a particular type were all bound to the same coin flip as their siblings for subsequent bets. Suppose one individual had over 1 million children after 100 periods, comprising around 70% of the population (which is what they would have if we borrowed the above simulations for our evolutionary scenario, with one coin flip per generation). If all had to bet on exactly the same coin flip in period 101 and beyond, they are doomed.</p>
 <p>If, however, each child faces their own coin flip (experiencing, say, idiosyncratic risks), that crash never comes. Instead, the risk of those flips is diversified and the growth of the population more closely resembles the ensemble average, even over the very long term.</p>
-<p>Below is a chart of population for a simulation of 100 generations of the accepting population, starting with a population of 10,000. For this simulation, I have assumed that at the end of each period, the accepting types will have a number of children equal to the proportional increase in their wealth. For example, if they flip heads, they will have 1.5 children, For tails, they will have 0.6 children. They then die. (The simulation works out largely the same if I make the number of children probabilistic in accord with those numbers.) Each child takes their own flip.</p>
+<p>Below is a chart of population for a simulation of 100 generations of the accepting population, starting with a population of 10,000. For this simulation, I have assumed that at the end of each period, the accepting types will have a number of children equal to the proportional increase in their wealth. For example, if they flip heads, they will have 1.5 children. For tails, they will have 0.6 children. They then die. (The simulation works out largely the same if I make the number of children probabilistic in accord with those numbers.) Each child takes their own flip.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>

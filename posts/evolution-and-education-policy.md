@@ -5,7 +5,7 @@ date: 2012-01-13 12:31:46+00:00
 draft: false
 ---
 
-A couple of months ago, David Sloan Wilson [posted on a project](http://scienceblogs.com/evolution/2011/11/27/proof-that-policies-informed-b/) he has been involved in with in the Binghamton City School District, which is also the subject of an [article in PLoS ONE](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0027826) by Wilson and his colleagues. The concept behind the project is that "[K]nowledge derived from general evolutionary principles and our own evolutionary history can be used to enhance cooperation in real-world situations, such as a program for at-risk high school students."
+A couple of months ago, David Sloan Wilson [posted on a project](http://scienceblogs.com/evolution/2011/11/27/proof-that-policies-informed-b/) he has been involved in within the Binghamton City School District, which is also the subject of an [article in PLoS ONE](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0027826) by Wilson and his colleagues. The concept behind the project is that "[K]nowledge derived from general evolutionary principles and our own evolutionary history can be used to enhance cooperation in real-world situations, such as a program for at-risk high school students."
 
 Among other things, the authors drew on the work of Elinor Ostrom and the design features that she identified as contributing to group success. The authors also looked at bodies of evolutionary knowledge about development, psychological function and learning.
 
@@ -29,7 +29,7 @@ Every time I read about Direct Instruction, I struggle to understand how it coul
 Direct Instruction won hands down. Education writer Richard Nadler summed it up this way: "When the testing was over, students in DI classrooms had placed first in reading, first in math, first in spelling, and first in language. No other model came close." And DI's dominance wasn't just in basic skill acquisition. DI students could also more easily answer questions that required higher-order thinking.</blockquote>
 
 
-Can evolutionary theory provide an explanation? I don't know - but it does not matter from a policy perspective if one can't be developed. This is because policy decisions such as teaching method do not need to be made though a non-repeatable top down decision. Instead, randomised controlled trials can be used to test all the teaching ideas, crazy or not, and see which delivers the best result. Evolutionary theory can be used to develop ideas to test, but it is the results that matter.
+Can evolutionary theory provide an explanation? I don't know - but it does not matter from a policy perspective if one can't be developed. This is because policy decisions such as teaching method do not need to be made through a non-repeatable top down decision. Instead, randomised controlled trials can be used to test all the teaching ideas, crazy or not, and see which delivers the best result. Evolutionary theory can be used to develop ideas to test, but it is the results that matter.
 
 Even better, competition between schools can provide a basis by which teaching methods compete. Student and parent choice would drive outcomes. As a result, I am more interested in seeing competition between schools in the marketplace than having them consider what evolutionary strategy they should use to teach.
 

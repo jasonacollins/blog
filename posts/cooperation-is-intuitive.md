@@ -33,7 +33,7 @@ Thus, there are some people for whom the intuitive response is more cooperative 
 
 In many of the debates about cooperation and why it occurs, we forget that there is often a direct benefit to being cooperative. In most of life today, cooperative behaviour is the path to success.
 
-The effect of the external environments highlights an important point on trust, a core part of the cooperative behaviour in the experiments. Trustworthiness is important generating trust. As [Garett Jones recently wrote](http://econlog.econlib.org/archives/2012/09/trustworthiness.html):
+The effect of the external environments highlights an important point on trust, a core part of the cooperative behaviour in the experiments. Trustworthiness is important in generating trust. As [Garett Jones recently wrote](http://econlog.econlib.org/archives/2012/09/trustworthiness.html):
 
 
 

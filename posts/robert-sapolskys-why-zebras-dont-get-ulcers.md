@@ -2,12 +2,12 @@
 author: "Jason Collins"
 date: 2018-07-25 09:00:48+00:00
 draft: false
-title: Robert Sapolsky’s Why Zebra’s Don’t Get Ulcers
+title: Robert Sapolsky’s Why Zebras Don’t Get Ulcers
 ---
 
-Before tackling Robert Sapolsky's new book *Behave: The Biology of Humans at Our Best and Worst*, I decided to read Sapolsky's earlier, well-regarded book *Why Zebra's Don't Get Ulcers*. I have been a fan of Sapolsky's for some time, largely through his appearance on various podcasts. (This [discussion with Sam Harris ](https://samharris.org/podcasts/the-biology-of-good-and-evil/)is excellent.)
+Before tackling Robert Sapolsky's new book *Behave: The Biology of Humans at Our Best and Worst*, I decided to read Sapolsky's earlier, well-regarded book *Why Zebras Don't Get Ulcers*. I have been a fan of Sapolsky's for some time, largely through his appearance on various podcasts. (This [discussion with Sam Harris ](https://samharris.org/podcasts/the-biology-of-good-and-evil/)is excellent.)
 
-Why Zebra's Don't Get Ulcers is a wonderful book. Sapolsky is a great writer, and the science is interesting. That Sapolsky did not sugarcoat the introduction to every chapter with a cute story, as seems to be a common formula today, made the book a pleasant contrast to a lot of my recent reading.
+Why Zebras Don't Get Ulcers is a wonderful book. Sapolsky is a great writer, and the science is interesting. That Sapolsky did not sugarcoat the introduction to every chapter with a cute story, as seems to be a common formula today, made the book a pleasant contrast to a lot of my recent reading.
 
 The core theme of the book is that chronic stress is bad for your health. It can lead to cardiovascular disease, destroy your sleep, age you faster, and so on. The one positive (relative to common beliefs) is that stress probably doesn't cause cancer (with the possible exception of colon cancer).
 
@@ -19,11 +19,11 @@ Fast forward 15 seconds, and the CRH has triggered the pituitary at the base of 
 
 Many of the costs of stress arise through the actions of these hormones when the stress is intermittent or chronic. CRH is cleared from the body a couple of minutes after the end of the stressor. It can take hours for glucocorticoids to be cleared. Continued intermittent or chronic stressors results in permanently elevated glucocorticoid levels, subjecting the body to a stress response without pause. For instance, the stress response makes the heart work harder. If you are in chronic stress, this increased work effort is constant, leading to high blood pressure, and wearing out your blood vessels.
 
-There are a raft of other hormones and processes involved in the stress response, each with their own roles, costs and benefits, but this basic picture, particularly the cost of ongoing high levels of glucocorticoids, forms the books central thread.
+There are a raft of other hormones and processes involved in the stress response, each with their own roles, costs and benefits, but this basic picture, particularly the cost of ongoing high levels of glucocorticoids, forms the book’s central thread.
 
 Although this sounds like a somewhat mechanical process, an important theme in the book is that the cost of stress is not just a mechanical equation, whereby stress causes a bodily response with various costs. The book balances a reductive view of biology, in which you can trace everything back to physical factors such as bacteria, viruses, genes, hormones and so on, with another view that is more psychologically grounded. In that latter view, stress can be purely psychological, affected by someone's sense of control and so on.
 
-The one part of the book that I found mildly unsatisfying was the chapter on the link between stress, poverty and health. Naturally, poverty and poor health are closely linked, with poverty associated with greater stress. Sapolsky asks about direction of causality: does poverty harm health, or does poor health lead to poverty. But (as he does in some other chapters), Sapolsky does not delve deeply into whether there might be other causal factors. I felt that that chapter deserves another book.
+The one part of the book that I found mildly unsatisfying was the chapter on the link between stress, poverty and health. Naturally, poverty and poor health are closely linked, with poverty associated with greater stress. Sapolsky asks about direction of causality: does poverty harm health, or does poor health lead to poverty? But (as he does in some other chapters), Sapolsky does not delve deeply into whether there might be other causal factors. I felt that that chapter deserves another book.
 
 More generally, I don't have the subject expertise to critique the book, but I highlighted a lot of interesting passages. Below is a selection.
 

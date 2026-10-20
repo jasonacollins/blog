@@ -63,7 +63,7 @@ Despite all the talk about people becoming deskilled as AI takes over, there isn
 
 @endsley1995 [The Out-of-the-Loop Performance Problem and Level of Control in Automation](https://doi.org/10.1518/001872095779064555) ([ungated pdf](https://www.researchgate.net/profile/Mica-Endsley/publication/238726310_The_Out-of-the-Loop_Performance_Problem_and_Level_of_Control_in_Automation/links/56426ab008aebaaea1f8e7a9/The-Out-of-the-Loop-Performance-Problem-and-Level-of-Control-in-Automation.pdf)): Operators "out of the loop" have a harder time detecting errors and stepping in when automation errs than those who manually perform the same tasks.
 
-@parasuraman1997 [Humans and Automation: Use, Misuse, Disuse, Abuse](https://doi.org/10.1518/001872097778543886) ([ungated pdf](https://andy-blog.oss-cn-beijing.aliyuncs.com/blog/2021-08-02-parasurman-humans-and-automation-use-misuse-disuse-abuse.pdf)): A classic paper on automation. The use, misuse, disuse, abuse split helpful is helpful.
+@parasuraman1997 [Humans and Automation: Use, Misuse, Disuse, Abuse](https://doi.org/10.1518/001872097778543886) ([ungated pdf](https://andy-blog.oss-cn-beijing.aliyuncs.com/blog/2021-08-02-parasurman-humans-and-automation-use-misuse-disuse-abuse.pdf)): A classic paper on automation. The use, misuse, disuse, abuse split is helpful.
 
 @skitka1999 [Does automation bias decision-making?](https://doi.org/10.1006/ijhc.1999.0252) ([ungated pdf](https://www.researchgate.net/profile/Kathleen-Mosier/publication/222507469_Does_automation_bias_decision-making/links/5a1b614c4585155c26adec90/Does-automation-bias-decision-making.pdf)): Participants given an imperfect decision aid did worse than those given none.
 

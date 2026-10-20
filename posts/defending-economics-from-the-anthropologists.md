@@ -17,7 +17,7 @@ So what is the benchmark for disarray? Johnson provides two potential reasons:
 
 >Not only is the economic outcome so often [in conflict with our most celebrated moral principles](http://www.theguardian.com/world/2013/sep/22/pope-francis-idol-money), ...
 
-Following Johnson's link, it seems that economics is in disarray because the Pope is concerned about our economic system. So economics in disarray because the subject of study isn't behaving in the way that someone wants?
+Following Johnson's link, it seems that economics is in disarray because the Pope is concerned about our economic system. So economics is in disarray because the subject of study isn't behaving in the way that someone wants?
 
 Finishing Johnson's sentence:
 
@@ -31,15 +31,15 @@ Turning to Johnson's own field, cultural and evolutionary anthropologists still 
 
 And of course, Fama and Thaler have much common ground. [Even Thaler thinks](a-unified-behavioural-theory-of-economic-activity.md) that the selfish, rational agent model is the best theory of economic behaviour available. The question is when is the right time to use that abstraction, and when not.
 
-As a a result, I'll accept that economics is in disarray if evolutionary biology, sociobiology and anthropology are in disarray too.
+As a result, I'll accept that economics is in disarray if evolutionary biology, sociobiology and anthropology are in disarray too.
 
 Moving to Johnson's next sentence,
 
 >Despite the millions of dollars that go into economic think tanks and the construction of complicated financial models we can’t even come to a consensus on whether government [spending helps or hurts an economy in recession](http://www.washingtonpost.com/blogs/plum-line/wp/2013/01/31/we-all-agree-that-spending-cuts-hurt-the-economy-right-right/).
 
-Actually, there's a surprising level of consensus. [A poll of Chicago Booth's Economic Experts Panel](http://www.igmchicago.org/igm-economic-experts-panel/poll-results?SurveyID=SV_cw5O9LNJL1oz4Xi) found 80 per cent agreed unemployment was lower in 2010 than it would have been without the stimulus bill (and only 86 per cent responded, making it 2 per cent uncertain and 4 per cent disagreeing). There was less (but still moderate) agreement about the long-term costs and benefits once future tax changes and the like were taken into account, but how can there be consensus when you don't even know what form those future tax and policy changes will take? So who are these disagreeing people who Johnson refers to? Follow the link and you find its Republicans and Democrats.
+Actually, there's a surprising level of consensus. [A poll of Chicago Booth's Economic Experts Panel](http://www.igmchicago.org/igm-economic-experts-panel/poll-results?SurveyID=SV_cw5O9LNJL1oz4Xi) found 80 per cent agreed unemployment was lower in 2010 than it would have been without the stimulus bill (and only 86 per cent responded, making it 2 per cent uncertain and 4 per cent disagreeing). There was less (but still moderate) agreement about the long-term costs and benefits once future tax changes and the like were taken into account, but how can there be consensus when you don't even know what form those future tax and policy changes will take? So who are these disagreeing people who Johnson refers to? Follow the link and you find it's Republicans and Democrats.
 
-To be fair to Johnson, there is a lot that economists do not know about stimulus. In an update to his post, he quotes Doyne Farmer, Duncan Foley, Olivier Blanchard and friends on that point. But it's hardly surprising. We have a highly complex system involving millions of people and firms, complex networks and masses of complex regulation and bureaucracy, together with an astounding range of ways in which stimulus might be implemented. In Australia, one of the prime forms of stimulus after the financial crisis was installation of insulation bats in house roofs. How is that going to play out in your economic model? (So far, the result seems to be a boost to employment in bat installation, more energy efficient houses, house fires, fraud, the occasional electrocution, a couple of government inquiries and continuing debate about whether it was worth it.)
+To be fair to Johnson, there is a lot that economists do not know about stimulus. In an update to his post, he quotes Doyne Farmer, Duncan Foley, Olivier Blanchard and friends on that point. But it's hardly surprising. We have a highly complex system involving millions of people and firms, complex networks and masses of complex regulation and bureaucracy, together with an astounding range of ways in which stimulus might be implemented. In Australia, one of the prime forms of stimulus after the financial crisis was installation of insulation batts in house roofs. How is that going to play out in your economic model? (So far, the result seems to be a boost to employment in batt installation, more energy efficient houses, house fires, fraud, the occasional electrocution, a couple of government inquiries and continuing debate about whether it was worth it.)
 
 All up, Johnson's caricatures distract potential supporters of his more important argument. The paragraph I pulled apart could have simply been omitted from Johnson's post and other statements tweaked, and his central argument would not have been any weaker (and we might be responding to and talking about that instead of the caricature).
 
@@ -49,4 +49,4 @@ Another alternative would be to get a deeper understanding of which parts of the
 
 A more focussed approach would have the benefit of not turning off those who might learn from Johnson, and give a better picture of what Johnson's conception of morality would actually add to economics. Because the question I have at the end of Johnson's post is, "what exactly would change if economists adopted Johnson's conception of morality in their analysis?" I expect it's not determining the effects of economic stimulus.
 
-*In the comments to Johnson's post, Chris Auld makes some good points.
+*In the comments to Johnson's post, Chris Auld makes some good points.*

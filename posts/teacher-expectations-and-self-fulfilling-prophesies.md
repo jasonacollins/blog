@@ -2,10 +2,10 @@
 author: "Jason Collins"
 date: 2018-05-24 09:00:48+00:00
 draft: false
-title: Teacher expectations and self-fulfilling prophesies
+title: Teacher expectations and self-fulfilling prophecies
 ---
 
-I first came across the idea of teacher expectations turning into self-fulfilling prophesies more than a decade ago, in Steven Covey's *The 7 Habits of Highly Effective People*:
+I first came across the idea of teacher expectations turning into self-fulfilling prophecies more than a decade ago, in Stephen Covey's *The 7 Habits of Highly Effective People*:
 
 
 >One of the classic stories in the field of self-fulfilling prophecies is of a computer in England that was accidently programmed incorrectly. In academic terms, it labeled a class of “bright” kids “dumb” kids and a class of supposedly “dumb” kids “bright.” And that computer report was the primary criterion that created the teachers’ paradigms about their students at the beginning of the year.
@@ -18,7 +18,7 @@ I first came across the idea of teacher expectations turning into self-fulfillin
 
 I tried to find the source for this story, and failed. But what I did find was a similar concept called the Pygmalion effect, and assumed that Covey's story was a mangled or somewhat made-up telling of that research.
 
-What is the Pygmalion effect? It has appeared in my blog feed twice in the past two weeks. Here's a slice from the first, by [Shane Pa](https://www.fs.blog/2018/05/pygmalion-effect/)[r](https://www.fs.blog/2018/05/pygmalion-effect/)[rish at Farnam Street](https://www.fs.blog/2018/05/pygmalion-effect/), describing the effect and the most famous study in the area:
+What is the Pygmalion effect? It has appeared in my blog feed twice in the past two weeks. Here's a slice from the first, by [Shane Parrish at Farnam Street](https://www.fs.blog/2018/05/pygmalion-effect/), describing the effect and the most famous study in the area:
 
 >The Pygmalion effect is a psychological phenomenon wherein high expectations lead to improved performance in a given area. Its name comes from the story of Pygmalion, [a mythical Greek sculptor](https://en.wikipedia.org/wiki/Pygmalion_(mythology)). Pygmalion carved a statue of a woman and then became enamored with it. Unable to love a human, Pygmalion appealed to Aphrodite, the goddess of love. She took pity and brought the statue to life. The couple married and went on to have a daughter, Paphos.
 >

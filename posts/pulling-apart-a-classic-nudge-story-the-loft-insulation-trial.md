@@ -10,7 +10,7 @@ In the early days of the Behavioural Insights Team (aka The Nudge Unit), their s
 
 These stories included how adding social norms to tax letters [increased on-time submission](https://www.bi.team/publications/fraud-error-and-debt-behavioural-insights-team-paper/), giving sweets and a personalised message from the CEO [tripled charitable giving rates](https://www.bi.team/publications/applying-behavioural-insights-to-charitable-giving/), and messages crafted around reciprocity and fairness would boost organ donation registrations by [almost 100,000 a year](https://www.bi.team/publications/applying-behavioural-insights-to-organ-donation/). These stories are still told now.
 
-One story I heard a lot concerned loft insulation as an energy efficiency measure. It is one of the four projects highlighted on the (promotional puff-piece) [Behavioural Insights Team Wikipedia page](https://en.wikipedia.org/wiki/Behavioural_Insights_Team#Increasing_loft_insulation_installation). Could removing the hassle factor, by offering a loft cleanout in conjunction with the installation, increase takeup?
+One story I heard a lot concerned loft insulation as an energy efficiency measure. It is one of the four projects highlighted on the (promotional puff-piece) [Behavioural Insights Team Wikipedia page](https://en.wikipedia.org/wiki/Behavioural_Insights_Team#Increasing_loft_insulation_installation). Could removing the hassle factor, by offering a loft cleanout in conjunction with the installation, increase take-up?
 
 Here's how David Halpern describes the results in [Inside the Nudge Unit](https://www.bi.team/blogs/inside-the-nudge-unit-out-on-27th-august/). (When I searched for other tellings of this story, the examples I found almost always involved David Halpern. It must be one of his favourites.)
 
@@ -30,7 +30,7 @@ I'll leave the discount for neighbours aside - this was from a separate trial - 
 
 The trial and its outcomes are described in a Department of Energy & Climate Change report [Removing the hassle factor associated with loft insulation: Results of a behavioural trial](https://assets.publishing.service.gov.uk/media/5a7c4f94ed915d3d0e87b850/DECC_loft_clearance_trial_report_final.pdf).
 
-The trial concerned three different Boroughs - Kingston, Merton and Sutton - so it's not a randomised trial as such. In each Borough, around 24,000 leaflets were distributed advertising either loft insulation for $179 (Kingston), loft insulation and clearance for £369 (Merton) or insulation and clearance for £450 (Sutton). The leaflets included a phone number and led to 8, 17 and 11 calls respectively. That's right, a response rate of around 0.05%
+The trial concerned three different Boroughs - Kingston, Merton and Sutton - so it's not a randomised trial as such. In each Borough, around 24,000 leaflets were distributed advertising either loft insulation for £179 (Kingston), loft insulation and clearance for £369 (Merton) or insulation and clearance for £450 (Sutton). The leaflets included a phone number and led to 8, 17 and 11 calls respectively. That's right, a response rate of around 0.05%.
 
 From there, there was an audit to check whether the loft was suitable for insulation, which led to a total of 3, 16 and 9 loft installations. The "three-times" in Halpern's story is the difference between 3 and 9, and the "five times" the difference between 3 and 16. When Halpern said the "numbers were small", he meant it.
 
@@ -60,7 +60,7 @@ The reference is to a Telegraph article by Chris Bell. The opening of the articl
 >
 > Using research, plus a smidgen of common sense, they quickly identified the problem: laziness. More specifically, the sheer hassle of clearing an attic before you can insulate it. This alone was deterring us from taking up, effectively, a free lunch. And so, in a pilot trial in September 2011, they suggested a simple solution: that insulation firms offer to clear the lofts first, and dispose of our unwanted junk. In weeks, the uptake increased threefold, even though it cost the customer more. And when this service was subsidised to cost price, there was a fivefold increase.
 
-And where did this come from. David Halpern!
+And where did this come from? David Halpern!
 
 > And David Halpern, director of the nine-person unit, has been tasked with turning theory into government method.
 > 

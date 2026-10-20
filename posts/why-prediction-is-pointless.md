@@ -5,11 +5,11 @@ date: 2016-09-27 09:00:44+00:00
 draft: false
 ---
 
-One of my favourite parts of Philip Tetlock's [Expert Political Judgment](tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know.md) is his chapter examining the reasons for "radical skepticism" about forecasting. Radical skeptics believe that Tetlock's mission to improve forecasting of political and economic events is doomed as the world is inherently unpredictable (beyond conceding that no expertise was required to know that war would not erupt in Scandinavia in the 1990s). Before reading Expert Political Judgment, I largely fell into this radical skeptic camp (and much of me still resides in it).
+One of my favourite parts of Philip Tetlock's [Expert Political Judgment](tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know.md) is his chapter examining the reasons for "radical skepticism" about forecasting. Radical sceptics believe that Tetlock's mission to improve forecasting of political and economic events is doomed as the world is inherently unpredictable (beyond conceding that no expertise was required to know that war would not erupt in Scandinavia in the 1990s). Before reading Expert Political Judgment, I largely fell into this radical sceptic camp (and much of me still resides in it).
 
-Tetlock suggests skeptics have two lines of intellectual descent - ontological skeptics who argue that the properties of the world make prediction impossible, and psychological skeptics who point to the human mind as being unsuited to teasing out any predictability that might exist. Below are excerpts of Tetlock's examinations of each (together with the occasional rejoinder by Tetlock).
+Tetlock suggests sceptics have two lines of intellectual descent - ontological sceptics who argue that the properties of the world make prediction impossible, and psychological sceptics who point to the human mind as being unsuited to teasing out any predictability that might exist. Below are excerpts of Tetlock's examinations of each (together with the occasional rejoinder by Tetlock).
 
-## Ontological skeptics
+## Ontological sceptics
 
 ### Path dependency and punctuated equilibria
 
@@ -33,7 +33,7 @@ Tetlock suggests skeptics have two lines of intellectual descent - ontological 
 
 >If a statistician were to conduct a prospective study of how well retrospectively identified causes, either singly or in combination, predict plane crashes, our measure of predictability—say, a squared multiple correlation coefficient—would reveal gross unpredictability. Radical skeptics tell us to expect the same fate for our quantitative models of wars, revolutions, elections, and currency crises. Retrodiction is enormously easier than prediction.
 
-## Psychological skeptics
+## Psychological sceptics
 
 ### Preference for simplicity
 

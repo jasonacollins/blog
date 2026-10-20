@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,16 @@
 
 <title>Charles Perrow’s Normal Accidents: Living with High-Risk Technologies – Jason Collins blog</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -35,15 +41,14 @@ ul.task-list li input[type="checkbox"] {
 <link href="../logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-9be722aa83fbcc428616ae682c30a50a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-cd8592f072b9d28f7be82a1360dc3fa5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -98,8 +103,6 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Jason Collins blog</span>
     </a>
@@ -199,10 +202,10 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 <p>Despite Perrow’s thesis being that accidents are normal in some systems, and that no organisational improvement will eliminate them, he dedicates a considerable effort to critiquing management error, production pressures and general incompetence. The book could have been half the length with a more focused approach, but it does suggest that despite the inability to eliminate normal accidents, many complex, tightly coupled systems could be made safer through better incentives, competent management and the like.</p>
 <p>Other interesting threads:</p>
 <ul>
-<li><p>Normal Accidents was published in 1984, but the edition I read had an afterword written in 1999 in which Perrow examined new domains to which normal accident theory might be applied. Foreshadowing how I first came across the concept, he points to financial markets as a new domain for application. I first heard of “normal accidents” in Tim Harford’s discussion financial markets in <a href="../posts/harfords-adapt-why-success-always-starts-with-failure.html">Adapt</a>. Perrow’s analysis of the upcoming Y2K bug under his framework seems slightly overblown in hindsight.</p></li>
+<li><p>Normal Accidents was published in 1984, but the edition I read had an afterword written in 1999 in which Perrow examined new domains to which normal accident theory might be applied. Foreshadowing how I first came across the concept, he points to financial markets as a new domain for application. I first heard of “normal accidents” in Tim Harford’s discussion of financial markets in <a href="../posts/harfords-adapt-why-success-always-starts-with-failure.html">Adapt</a>. Perrow’s analysis of the upcoming Y2K bug under his framework seems slightly overblown in hindsight.</p></li>
 <li><p>The maritime accident chapter introduced (to me) the concepts of radar assisted collisions and non collision course collisions. Radar assisted collisions are a great example of the <a href="https://en.wikipedia.org/wiki/Risk_compensation">Peltzman effect</a>, whereby vessels that would have once remained stationary or crawled through fog now speed through. The first vessels with radar were comforted that they could see all the stationary or slow-moving obstacles as dots on their radar screen. But as the number of vessels with radars increased and those other dots also start moving with speed, we have more radar assisted collisions. On non collision course collisions, Perrow notes that most collisions involve two (or more) ships that were not on a collision course, but on becoming aware of each other managed to change course to effect a collision. Coordination failures are rife.</p></li>
 <li><p>Perrow argues that nuclear weapon systems are so complex and prone to failure that there is inherent protection against catastrophic accident. Not enough pieces are likely to work to give us the catastrophe. Of course, this gives reason for concern about whether they will work when we actually need them (again, maybe a positive). Perrow even asks if complexity and coupling can be so problematic that the system ceases to exist.</p></li>
-<li><p>Perrow spends some time critiquing hindsight bias in assessing accidents. He gives one example of a Union Carbide plant that received a glowing report from a US government department. Following an accidental gas release some months later, that same government department described the plant as accident waiting to happen. I recommend Phil Rosenzweig’s <a href="../posts/rosenzweigs-the-halo-effect-and-the-eight-other-business-delusions-that-deceive-managers.html">The Halo Effect</a> for a great analysis of this problem in assessing the factors behind business performance after the fact.</p></li>
+<li><p>Perrow spends some time critiquing hindsight bias in assessing accidents. He gives one example of a Union Carbide plant that received a glowing report from a US government department. Following an accidental gas release some months later, that same government department described the plant as an accident waiting to happen. I recommend Phil Rosenzweig’s <a href="../posts/rosenzweigs-the-halo-effect-and-the-eight-other-business-delusions-that-deceive-managers.html">The Halo Effect</a> for a great analysis of this problem in assessing the factors behind business performance after the fact.</p></li>
 </ul>
 
 

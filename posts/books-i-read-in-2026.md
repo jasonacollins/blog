@@ -1,5 +1,5 @@
 ---
-title: "Books i read in 2026"
+title: "Books I read in 2026"
 author: "Jason Collins"
 date: 2027-01-01 15:49:17+10:00
 draft: true
@@ -44,9 +44,11 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 
 - Becky Chambers, *The long way to a small, angry planet*
 - Becky Chambers, *A closed and common orbit*
+- Becky Chambers, *A Psalm for the Wind-Built*
+- Becky Chambers, *A Prayer for the Crown-Shy*
 - Paulo Coelho, *The Alchemist*
 - Carl Sagan, *Contact*
-- Mary Shelley, *Franksenstein; or, The Modern Prometheus*/*
+- Mary Shelley, *Frankenstein; or, The Modern Prometheus*\*
 - Dan Simmons, *Hyperion*
 - Dan Simmons, *Fall of Hyperion*
 - Lemony Snicket, *The Vile Village*

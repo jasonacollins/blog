@@ -24,7 +24,7 @@ While this experiment shows that problems emerge following arbitrary outcomes, I
 
 More importantly, I am not convinced that the experiment fully tested whether fair outcomes could generate unrest. As the stone gathering ability of monkeys is not likely to vary much, particularly when compared to the variation in human ability across different professions, the variation in opportunity for the monkeys was negligible. The variation in outcomes was also relatively small.
 
-As a result, if a monkey was hungry, it is an easy task to get some stones. However, if a human needs money, the range of possibly courses of action are large, with the returns widely variable. A cleaner and a brain surgeon earn significantly different rates of return for an hour of effort.
+As a result, if a monkey was hungry, it is an easy task to get some stones. However, if a human needs money, the range of possible courses of action are large, with the returns widely variable. A cleaner and a brain surgeon earn significantly different rates of return for an hour of effort.
 
 What if the monkeys were paid on the basis that whoever collects the most stones gets the vast majority of the cucumbers or grapes? Or what if effort started to pay compound dividends, meaning that long-term focussed stone gathering delivered much higher returns. The rules might be clear and the victory fair, but I am not sure that the reaction to the significantly different outcomes would be benign.
 

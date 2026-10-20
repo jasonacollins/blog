@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,16 @@
 
 <title>The use of heritability in policy development – Jason Collins blog</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -35,15 +41,14 @@ ul.task-list li input[type="checkbox"] {
 <link href="../logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-9be722aa83fbcc428616ae682c30a50a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-cd8592f072b9d28f7be82a1360dc3fa5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -98,8 +103,6 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Jason Collins blog</span>
     </a>
@@ -177,7 +180,7 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 </header>
 
 
-<p>The &nbsp;<a href="http://www.aeaweb.org/articles.php?doi=10.1257/jep.25.4.83">heritability straw man has copped another bashing</a>,&nbsp;this time in the Journal of Economic Perspectives. In it, Charles Manski picks up an old line of argument by <a href="http://www.jstor.org/pss/2553675">Goldberger from 1979</a> and argues that heritability research is uninformative for the analysis of policy.</p>
+<p>The&nbsp;<a href="http://www.aeaweb.org/articles.php?doi=10.1257/jep.25.4.83">heritability straw man has copped another bashing</a>,&nbsp;this time in the Journal of Economic Perspectives. In it, Charles Manski picks up an old line of argument by <a href="http://www.jstor.org/pss/2553675">Goldberger from 1979</a> and argues that heritability research is uninformative for the analysis of policy.</p>
 <p>Manski starts by arguing that heritability estimates are based on the assumption that there is no gene-environment correlation. Manski writes:</p>
 <blockquote class="blockquote">
 <p>The assumption that g and e are uncorrelated is at odds with the reasonable conjecture that persons who inherit relatively strong genetic endowments tend to grow up in families with more favorable environments for child development.</p>
@@ -194,7 +197,7 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 <p>There is no shortage of other areas where heritability estimates might add value. Heritability estimates can inform whether it is an effective use of resources to make sure that everyone has a university degree or is over six-foot tall. Is everyone putty in the hands of the policy maker, or are there some constraints? On a personal level, Bryan Caplan’s use of heritability in <a href="../posts/caplans-selfish-reasons-to-have-more-kids.html">Selfish Reasons to Have More Kids</a> is a useful input to his parenting strategy.</p>
 <p>For me, the most salient example of the usefulness of heritability research comes from <a href="https://doi.org/10.1046/j.0956-7976.2003.psci_1475.x">examination of the heritability of IQ among children</a>. Among high socioeconomic status families, the heritability tends to be high. Among low socioeconomic status families, it is significantly lower. This suggests that there is significant room to improve the outcomes of the children at the bottom of the socioeconomic ladder in the early years of their life (assuming those changes have effects that persist into adulthood). Increasing heritability of IQ might be evidence that environmental disadvantages are being ameliorated and opportunity equalised.</p>
 <p>The latter part of Manski’s paper turns to the use of genes as covariates in statistical regressions. Regression identifies statistical association and not causation, which appears to be an important point in attracting Manski to this use. Noting the wealth of data being created and the possibility of observing changes in the effect of genes as the environment changes, Manski considers that these regression exercises may assist in examining how genes and environment interact.</p>
-<p>I don’t disagree with Manski, but at present, genome association studies have plenty of issues. First, there is the missing heritability problem. To date, the magnitude of the identified effect of genes on most traits accounts for a miniscule proportion of the trait’s heritability. This points to the important role played by heritability research to provide direction to research on genes as covariates. It also indicates that until these genes are found, heritability estimates will be more informative for social policy.</p>
+<p>I don’t disagree with Manski, but at present, genome association studies have plenty of issues. First, there is the missing heritability problem. To date, the magnitude of the identified effect of genes on most traits accounts for a minuscule proportion of the trait’s heritability. This points to the important role played by heritability research to provide direction to research on genes as covariates. It also indicates that until these genes are found, heritability estimates will be more informative for social policy.</p>
 <p>A second issue is that with 30,000 odd genes and the ability to test so many of them for correlation with traits, many are found to have a statistically significant relationship through chance. As <a href="http://blogs.discovermagazine.com/gnxp/2011/12/most-reported-genetic-associations-with-general-intelligence-are-probably-false-positives/">blogged about recently by Razib</a>, this is shown when people seek to replicate earlier results - such as when it was found that&nbsp;<a href="http://www.arts.cornell.edu/econ/dbenjamin/IQ-SNPs-PsychSci-20111205-accepted.pdf">most reported genetic associations with general intelligence are probably false positives</a>&nbsp;(pdf).</p>
 <p>Finally, genome based research is now feeding back into estimates of heritability. From <a href="http://www.nature.com/doifinder/10.1038/mp.2011.85">a recent paper</a>:</p>
 <blockquote class="blockquote">

@@ -21,7 +21,7 @@ Haldane and May list a number of policy implications of their model. The first i
 
 A second implication concerned the goal of regulatory intervention. Typically, regulation might seek to reduce the probability of failure of all institutions to below a certain threshold. Haldane and May suggest that particular institutions that pose broad systemic risk should face higher regulatory requirements.
 
-The most interesting suggestion concerned the desire to shape the topology of the financial system. As banks diversify, they became homogeneous. Accordingly, Haldane and May noted that a diversity objective of regulators may have merit. Trying to introduce "modularity" to prevent cascades through the entire system may also be desirable.
+The most interesting suggestion concerned the desire to shape the topology of the financial system. As banks diversify, they become homogeneous. Accordingly, Haldane and May noted that a diversity objective of regulators may have merit. Trying to introduce "modularity" to prevent cascades through the entire system may also be desirable.
 
 Nature published [two responses](http://doi.org/10.1038/469302a) to Haldane and May’s article: one in support of the use of such analysis by Thomas Lux, while Neil Johnson suggests that a model as simple as that used by Haldane and May will produce unreliable predictions that are only as robust as the assumptions used to prepare the model.
 

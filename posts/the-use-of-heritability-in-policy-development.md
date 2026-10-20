@@ -5,7 +5,7 @@ date: 2011-12-13 09:58:03+00:00
 draft: false
 ---
 
-The  [heritability straw man has copped another bashing](http://www.aeaweb.org/articles.php?doi=10.1257/jep.25.4.83), this time in the Journal of Economic Perspectives. In it, Charles Manski picks up an old line of argument by [Goldberger from 1979](http://www.jstor.org/pss/2553675) and argues that heritability research is uninformative for the analysis of policy.
+The [heritability straw man has copped another bashing](http://www.aeaweb.org/articles.php?doi=10.1257/jep.25.4.83), this time in the Journal of Economic Perspectives. In it, Charles Manski picks up an old line of argument by [Goldberger from 1979](http://www.jstor.org/pss/2553675) and argues that heritability research is uninformative for the analysis of policy.
 
 Manski starts by arguing that heritability estimates are based on the assumption that there is no gene-environment correlation. Manski writes:
 
@@ -31,7 +31,7 @@ For me, the most salient example of the usefulness of heritability research come
 
 The latter part of Manski's paper turns to the use of genes as covariates in statistical regressions. Regression identifies statistical association and not causation, which appears to be an important point in attracting Manski to this use. Noting the wealth of data being created and the possibility of observing changes in the effect of genes as the environment changes, Manski considers that these regression exercises may assist in examining how genes and environment interact.
 
-I don't disagree with Manski, but at present, genome association studies have plenty of issues. First, there is the missing heritability problem. To date, the magnitude of the identified effect of genes on most traits accounts for a miniscule proportion of the trait's heritability. This points to the important role played by heritability research to provide direction to research on genes as covariates. It also indicates that until these genes are found, heritability estimates will be more informative for social policy.
+I don't disagree with Manski, but at present, genome association studies have plenty of issues. First, there is the missing heritability problem. To date, the magnitude of the identified effect of genes on most traits accounts for a minuscule proportion of the trait's heritability. This points to the important role played by heritability research to provide direction to research on genes as covariates. It also indicates that until these genes are found, heritability estimates will be more informative for social policy.
 
 A second issue is that with 30,000 odd genes and the ability to test so many of them for correlation with traits, many are found to have a statistically significant relationship through chance. As [blogged about recently by Razib](http://blogs.discovermagazine.com/gnxp/2011/12/most-reported-genetic-associations-with-general-intelligence-are-probably-false-positives/), this is shown when people seek to replicate earlier results - such as when it was found that [most reported genetic associations with general intelligence are probably false positives](http://www.arts.cornell.edu/econ/dbenjamin/IQ-SNPs-PsychSci-20111205-accepted.pdf) (pdf).
 

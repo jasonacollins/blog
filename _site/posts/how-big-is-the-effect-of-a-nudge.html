@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,16 @@
 
 <title>How big is the effect of a nudge? – Jason Collins blog</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -35,15 +41,14 @@ ul.task-list li input[type="checkbox"] {
 <link href="../logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-9be722aa83fbcc428616ae682c30a50a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-cd8592f072b9d28f7be82a1360dc3fa5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
@@ -103,8 +108,6 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Jason Collins blog</span>
     </a>
@@ -214,9 +217,9 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 <p>What would I have done myself? No idea. But on reflection, I wonder whether a less formal qualitative approach would have been more enlightening. Sure, calculate some of the numbers, but don’t take them too seriously. Pull apart why some are larger than others. Try to understand how study quality and choice of outcome variable might affect reported effects. This meta-analysis provides a useful starting point for that analysis.</p>
 <hr>
 <p>Outside of this question of what the meta-analysis covers, there are a couple of other points worth noting.</p>
-<p>As hinted above, the meta-analysis included some studies by Brian Wansink. It also included the the “sign at the top” honesty experiments that had previously been <a href="../posts/a-default-of-disbelief.html">subject to failed replications</a>, with the paper later retracted for fraud. (Why didn’t the replications make the meta-analysis?) There is a discussion about the inclusion of the retracted paper in the meta-analysis <a href="https://retractionwatch.com/2022/01/09/authors-to-correct-pnas-nudge-paper-that-cites-now-retracted-article-in-the-same-journal/">in Retraction Watch</a>. (And note the positive, constructive engagement by one of the meta-analysis authors.)</p>
+<p>As hinted above, the meta-analysis included some studies by Brian Wansink. It also included the “sign at the top” honesty experiments that had previously been <a href="../posts/a-default-of-disbelief.html">subject to failed replications</a>, with the paper later retracted for fraud. (Why didn’t the replications make the meta-analysis?) There is a discussion about the inclusion of the retracted paper in the meta-analysis <a href="https://retractionwatch.com/2022/01/09/authors-to-correct-pnas-nudge-paper-that-cites-now-retracted-article-in-the-same-journal/">in Retraction Watch</a>. (And note the positive, constructive engagement by one of the meta-analysis authors.)</p>
 <p>I feel for the authors here. How do you set clear guidelines in your pre-analysis plan that enable you to say: “we’re not trusting anything by this guy, whether the particular study is retracted or not”. I think this comes back to my question above about whether you have to be a bit more flexible or qualitative at this point in time.</p>
-<p>The authors are also far from Robinson Crusoe in having a meta-analysis contaminated by Brian Wansink studies. One <a href="https://doi.org/10.1086/651235">meta-analysis on choice overload</a> that I have referred to many times found an average effect of zero. But look at the plot of the effect sizes and the huge effects that increasing range of choice had in some some studies. And then look at the authors of the three outliers at the bottom….This choice overload meta-analysis suffers the same problems as the paper the subject of this post.</p>
+<p>The authors are also far from Robinson Crusoe in having a meta-analysis contaminated by Brian Wansink studies. One <a href="https://doi.org/10.1086/651235">meta-analysis on choice overload</a> that I have referred to many times found an average effect of zero. But look at the plot of the effect sizes and the huge effects that increasing range of choice had in some studies. And then look at the authors of the three outliers at the bottom….This choice overload meta-analysis suffers the same problems as the paper the subject of this post.</p>
 <p><a href="img/scheibehenne.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="img/scheibehenne.jpg" class="img-fluid"></a></p>
 <p>Another point worth noting is that the meta-analysis authors considered the possibility of publication bias.</p>
 <blockquote class="blockquote">
@@ -224,7 +227,7 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 </blockquote>
 <p>Assuming the worst, the aggregate effect is pretty small.</p>
 <hr>
-<p>To close with a random story, one of my previous employers announced that they were giving all employees a $300 bonus. But, they weren’t going to just pay it to us. We had to claim it against an expense we had incurred. It could be any expense - our grocery shopping, a celebratory dinner, new shoes, whatever - but you had to go through the painful expense system to claim it. The tight-arse partners were hoping they’d get the goodwill of giving the bonus but save save money if not everyone claims (although given who they were, they might also have been thinking about tax advantages…). A lot of people didn’t claim - from memory around 30% missed out.</p>
+<p>To close with a random story, one of my previous employers announced that they were giving all employees a $300 bonus. But, they weren’t going to just pay it to us. We had to claim it against an expense we had incurred. It could be any expense - our grocery shopping, a celebratory dinner, new shoes, whatever - but you had to go through the painful expense system to claim it. The tight-arse partners were hoping they’d get the goodwill of giving the bonus but save money if not everyone claims (although given who they were, they might also have been thinking about tax advantages…). A lot of people didn’t claim - from memory around 30% missed out.</p>
 <p>Anyhow, we ran an internal campaign of “behaviourally informed” emails to get more people to claim the bonus. The reminders worked (about a 5 percentage point bump) but none of the different messages distinguished from each other. That’s pretty typical of this type of study - the obvious part works (people tend to benefit from reminders), the more sexy part doesn’t (yet another failure for loss framing). But just think if instead of text messages we had simply changed the default to automatic payment of $300. Simple “nudge”. Huge effect.</p>
 
 

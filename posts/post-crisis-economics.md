@@ -11,7 +11,7 @@ Lord Turner gives a fantastic and balanced critique of the practice of economics
 
 A few of the features that have stuck in my mind:
 
-1) Lord Turner used [Roger Bootles](http://www.capitaleconomics.com/rogerbootle/index.php) distinction between creative and distributive activities in the economy, with creative referring to activities that create welfare and distributive simply transferring welfare (divorce lawyers being the classic case of distributive activity). The question arises of how much financial activity is on the distributive side of the ledger.
+1) Lord Turner used [Roger Bootle’s](http://www.capitaleconomics.com/rogerbootle/index.php) distinction between creative and distributive activities in the economy, with creative referring to activities that create welfare and distributive simply transferring welfare (divorce lawyers being the classic case of distributive activity). The question arises of how much financial activity is on the distributive side of the ledger.
 
 2) Turner questioned the benefit from increasingly "perfect" markets. For example, does  the improved price discovery from algorithmic trading (that may trade in fractions of a second) increase welfare much beyond that delivered by share markets now, with trades occurring each minute? He considered that there must be diminishing marginal returns to such activities.
 

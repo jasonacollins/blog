@@ -7,7 +7,7 @@ draft: false
 
 images: ["/img/logo.png"]
 ---
-I have always been a sucker for stories about an outsider tearing down what everyone believes to be true. With that, it's no surprise that I have fond memories from my first read of M. Mitchell Waldrop's book *Complexity: The Emerging Science at the Edge of Order and Chaos* (which must been around 20-years ago).
+I have always been a sucker for stories about an outsider tearing down what everyone believes to be true. With that, it's no surprise that I have fond memories from my first read of M. Mitchell Waldrop's book *Complexity: The Emerging Science at the Edge of Order and Chaos* (which must have been around 20-years ago).
 
 The book is framed around the coalescence of a group of researchers into the [Santa Fe Institute](https://www.santafe.edu). These researchers were misfits, not quite fitting into their respective fields, but coming together in an interdisciplinary effort to develop a new science of complexity.
 
@@ -19,7 +19,7 @@ The book opens with the story of Brian Arthur. He is a major proponent of the id
 >
 >And then they’d laughed. Not unkindly. It was just an insider’s joke. Arthur knew it was a joke. It was trivial. Yet that one sound had somehow shattered his whole bubble of anticipation. He’d sat there, struck speechless. Here were two of the economists he respected most, and they just—couldn’t listen. Suddenly Arthur had felt naive. Stupid. Like someone who didn’t know enough not to believe in increasing returns. Somehow, it had been the last straw.
 
-I recently picked the book up again for some light reading before bed. And with the benefit of having now studied some economics, the first chapter jarred. Increasing returns is a topic with some history. Paul Krugman earned his Nobel Memorial Prize for his work in the area. Increasing returns wasn't exactly, as the book seemed to implied, a concept that no-one in economics believed.
+I recently picked the book up again for some light reading before bed. And with the benefit of having now studied some economics, the first chapter jarred. Increasing returns is a topic with some history. Paul Krugman earned his Nobel Memorial Prize for his work in the area. Increasing returns wasn't exactly, as the book seemed to imply, a concept that no-one in economics believed.
 
 A google search to test my fresh instinct quickly struck gold, in the form of Paul Krugman himself and a 1998 article in Slate titled *[The Legend of Arthur: A tale of gullibility at The New Yorker](https://slate.com/business/1998/01/the-legend-of-arthur.html)*. Krugman's article was triggered by a (paywalled) article by John Cassidy in The New Yorker, but presented an opportunity for Krugman to get his thoughts about Waldrop's book off his chest too. Here are some snippets:
 
@@ -43,4 +43,4 @@ As a final note, it amuses me who gets painted as (or paints themselves as) the 
 
 It's similar to Steven Levitt's adoption of the "rogue economist" label in Freakonomics, if you can truly be rogue when you're a Distinguished Service Professor of Economics at the University of Chicago. Or Richard Thaler's complaints about being ignored by the profession, despite also being a Distinguished Service Professor at the University of Chicago and elevated to president of the American Economic Association. 
 
-To top if off, all three of these outsiders have multiple papers published in the top economics journals. That is a privilege never experienced by most members of the profession. If these guys are outsiders, what do you call [Ole Peters](ergodicity-economics-a-primer.qmd)?
+To top it off, all three of these outsiders have multiple papers published in the top economics journals. That is a privilege never experienced by most members of the profession. If these guys are outsiders, what do you call [Ole Peters](ergodicity-economics-a-primer.qmd)?

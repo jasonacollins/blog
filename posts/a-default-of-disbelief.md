@@ -40,7 +40,7 @@ The problem is not simply that a single study about signing a form failed to rep
 
 Rather, the problem is that there is a huge swathe of published literature in the behavioural sciences that, to use Andrew Gelman's framing, suffers from the [garden of forking paths](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf), publication bias and the like. It is built on noisy experiments. The PNAS paper is a typical example, not an exception. Much of this literature won't replicate. And despite this, people are still taking that work as true absent a failed replication.
 
-So rather than saying they "lost confidence in the effect of signing first", a better calibrated self-correction would have been to say "we should not have trusted this potentially spurious result absent rigourous replication, and we should be applying similar scepticism to more of the literature."
+So rather than saying they "lost confidence in the effect of signing first", a better calibrated self-correction would have been to say "we should not have trusted this potentially spurious result absent rigorous replication, and we should be applying similar scepticism to more of the literature."
 
 To put it another way, the default position should not be to take all published results in the behavioural science literature as "the record". Instead, we should treat many of these published results as exploratory or untested hypotheses. Start from a position near "unlikely to be true", and update to a stronger belief in the presence of replications or other supporting evidence.
 

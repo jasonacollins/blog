@@ -20,7 +20,7 @@ I'm sympathetic to the idea that businesses might benefit by experimenting more 
 
 As a result, carrying a costly trait on the possibility that it might be required in the future is perilous in evolutionary terms. Even though we see some organisms carrying redundant features, evolution tends to eliminate costly traits if they are not required, or more particularly, those individuals still possessing the costly traits.
 
-Thus, when Sagarin suggests that if a business want to be "adaptable" it needs to "make multiple copies of everything and modify the copies to hedge against uncertainty", we need to consider the costs. What happens when the business with built-in redundancy runs into the lean business that ignores all of Sagarin's advice but hits on the right answer?
+Thus, when Sagarin suggests that if a business wants to be "adaptable" it needs to "make multiple copies of everything and modify the copies to hedge against uncertainty", we need to consider the costs. What happens when the business with built-in redundancy runs into the lean business that ignores all of Sagarin's advice but hits on the right answer?
 
 Consider Silicon Valley, with thousands of start-ups experimenting with various ideas. Some succeed, most fail. This is natural selection in action. For a large tech player, there is no way to replicate the massive experimentation that these startups are conducting. If they do experiment and cover all possible bases, they are carrying much larger costs than the single company that lucks onto the right idea. By carrying those costs, will the experimenting company be able to beat the experimentation of the broader market in the long-run?
 

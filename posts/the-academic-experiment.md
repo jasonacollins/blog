@@ -26,7 +26,7 @@ A few things tipped me.
 
 First, the teaching interests me. In the same way that I understand something an order of magnitude more after I've blogged it, teaching has the same effect. And I like trying to get people across the line with new ideas.
 
-The broader challenge of creating a great Masters program is also interesting. As regular readers of this blog would know, I'm critical of a lot of academic and applied behavioural science. How do we create a pipeline of graduates who know the science, can determine what's bullshit, and who won't just wave around the latest shiny thing? I deliberately shaped the units I have taught over the last couple of years to give the highs and the lows of behavioural economics. It's now a case making sure the whole package works.
+The broader challenge of creating a great Masters program is also interesting. As regular readers of this blog would know, I'm critical of a lot of academic and applied behavioural science. How do we create a pipeline of graduates who know the science, can determine what's bullshit, and who won't just wave around the latest shiny thing? I deliberately shaped the units I have taught over the last couple of years to give the highs and the lows of behavioural economics. It's now a case of making sure the whole package works.
 
 Finally, I do have the freedom to pick up interesting external projects. If I could be useful, let me know!
 

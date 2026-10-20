@@ -11,7 +11,7 @@ A debate like this is always going to be at cross purposes. Both history and eco
 
 Similarly, history has a variety of schools of thought. Which historian is representative? Niall Ferguson, for example, has built his career on controversial and counter-intuitive ideas. If he is wrong, should that be a black mark on all historians? Or are historians his strongest critics and counterbalance? And of course, Ferguson is constantly making predictions, the very crime that Rachman accuses economists (but not historians) of committing.
 
-My two cents worth is that Rachman is right the influence of economics should be tempered. In his [Nobel Banquet speech](http://www.nobelprize.org/nobel_prizes/economics/laureates/1974/hayek-speech.html), Freidrich Hayek stated that he would not have created the "Bank of Sweden Prize". He stated:
+My two cents worth is that Rachman is right the influence of economics should be tempered. In his [Nobel Banquet speech](http://www.nobelprize.org/nobel_prizes/economics/laureates/1974/hayek-speech.html), Friedrich Hayek stated that he would not have created the "Bank of Sweden Prize". He stated:
 
 >... I must confess that if I had been   consulted whether to establish a Nobel Prize in economics, I   should have decidedly advised against it. ... the Nobel Prize confers on an   individual an authority which in economics no man ought to   possess. This does not matter in the natural   sciences. Here the influence exercised by an individual is   chiefly an influence on his fellow experts; and they will soon   cut him down to size if he exceeds his competence. But the influence of the economist that   mainly matters is an influence over laymen: politicians,   journalists, civil servants and the public generally.
 

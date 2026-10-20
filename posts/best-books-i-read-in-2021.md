@@ -12,7 +12,7 @@ The best books I <em>read</em> in 2021 - generally released in other years - wer
 
 It's a short list. There just wasn't much I was inspired by this year. Maybe I'm getting old and grumpy. Perhaps my book selection was not great. What I pick up next is too often dictated by mood rather than a plan.
 
-Below is the full list of books that I read in 2021 (starred if I have read before). The volume of my reading of books cover-to-cover continues to fall year-on-year, with 33 total (23 non-fiction, 10 fiction). The pandemic and continued lack of commute is one driver beyond the decline. You can see from the list of the books I have read to the kids (48 of them!) where some of that extra time at home is going.
+Below is the full list of books that I read in 2021 (starred if I have read before). The volume of my reading of books cover-to-cover continues to fall year-on-year, with 33 total (23 non-fiction, 10 fiction). The pandemic and continued lack of commute is one driver behind the decline. You can see from the list of the books I have read to the kids (48 of them!) where some of that extra time at home is going.
 
 I've also included a list of books commenced but abandoned. There are 9 on that list. I want to be more ruthless in stopping reading books that aren't worth the effort. There are more than enough on the reading pile to justify moving on if the gain isn't there. As you can see from that short, albeit incomplete list, abandoning books is a skill I need to build.
 
@@ -40,7 +40,7 @@ I've also included a list of books commenced but abandoned. There are 9 on that 
 - Nassim Nicholas Taleb, *Fooled by Randomness*\*
 - Max Tegmark, *Life 3.0: Being Human in the Age of Artificial Intelligence*
 - Gillian Tett, *Anthro-Vision: How Anthropology Can Explain Business and Life*
-- Fred Waitzkin, *Searching for Bobby Fisher*
+- Fred Waitzkin, *Searching for Bobby Fischer*
 
 *Fiction*
 
@@ -76,7 +76,7 @@ I've also included a list of books commenced but abandoned. There are 9 on that 
 - Roald Dahl, *Matilda*
 - Kenneth Grahame, *Wind in the Willows*\*
 - Norton Juster, *The Phantom Tollbooth*
-- Rupyard Kipling, *The Jungle Book*
+- Rudyard Kipling, *The Jungle Book*
 - Roger Lancelyn Green, *The Adventures of Robin Hood*\*
 - Andy Griffiths and Terry Denton, *The 13-Storey Treehouse*\*
 - Andy Griffiths and Terry Denton, *The 26-Storey Treehouse*\*
@@ -99,7 +99,7 @@ I've also included a list of books commenced but abandoned. There are 9 on that 
 - Emily Rodda, *Shadowgate*
 - Emily Rodda, *Isle of the Dead*
 - Emily Rodda, *The Sister of the South*
-- JK Rowling, *Harry Potter and the Philospher's Stone*\*
+- JK Rowling, *Harry Potter and the Philosopher's Stone*\*
 - JK Rowling, *Harry Potter and the Chamber of Secrets*\*
 - JK Rowling, *Harry Potter and the Prisoner of Azkaban*\*
 - JK Rowling, *Harry Potter and the Goblet of Fire*\*

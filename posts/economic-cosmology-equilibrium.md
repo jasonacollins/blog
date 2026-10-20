@@ -6,7 +6,7 @@ draft: false
 title: Economic cosmology - Equilibrium
 ---
 
-Although most of my interest in integrating evolutionary biology into economics concerns treating people as evolved (or evolving) animals, economists can also learn a lot from the dynamic analysis of biological systems. This thought is shared by John Gowdy and colleagues and is the subject of their third economic cosmology, equilibrium, in their article [Economic cosmology and the evolutionary challenge](https://doi.org/10.1016/j.jebo.2012.12.009) from the Journal of Economic Behavior & Organization special issue, _Evolution as a General Theoretical Framework for Economics and Public Policy. _(The first two cosmologies, [the rational man](economic-cosmology-the-rational-egotistical-individual.md) and [the invisible hand](economic-cosmology-the-invisible-hand.md), are the subject of two earlier posts.)
+Although most of my interest in integrating evolutionary biology into economics concerns treating people as evolved (or evolving) animals, economists can also learn a lot from the dynamic analysis of biological systems. This thought is shared by John Gowdy and colleagues and is the subject of their third economic cosmology, equilibrium, in their article [Economic cosmology and the evolutionary challenge](https://doi.org/10.1016/j.jebo.2012.12.009) from the Journal of Economic Behavior & Organization special issue, _Evolution as a General Theoretical Framework for Economics and Public Policy_. (The first two cosmologies, [the rational man](economic-cosmology-the-rational-egotistical-individual.md) and [the invisible hand](economic-cosmology-the-invisible-hand.md), are the subject of two earlier posts.)
 
 As Gowdy and colleagues put it, ecosystems are complex, often out of equilibrium and rarely tend towards an equilibrium state. It was not always seen that way and some of the equilibrium mind-state remains (particularly in common conceptions), but an equilibrium view of ecosystems has been abandoned. That is not to say that individual agents or groups within an ecosystem should never be treated as tending toward an equilibrium (say, a gene moving to fixation), but as a whole, ecosystems do not maximise anything.
 
@@ -20,7 +20,7 @@ The flip side to this observation is the massive increases in wealth of the last
 
 Gowdy and colleagues focus more attention on the policy implications of overturning the concept of equilibrium than they do for the other two cosmologies. They note that although there has been a marked increase in material prosperity driven by market competition, there has been increased risk taking such as environmental degradation and resource depletion. Myopia, biased time preferences or other behavioural anomalies may drive that risk-taking, with Gowdy and colleagues noting that markets have not yet constrained them.
 
-Further, they consider that evolutionary theory may be of use in managing threats to prosperity. This could be through an understanding of how small groups interact (a subject of a later article in the special issue) and of the constraints that must be applied to self-interest to achieve the common good. It is on this point that I am more skeptical. While we should take the lesson of biology that equilibrium is a shaky concept, the lack of equilibrium does not immediately point to the benefit of economic interventions. After all, if firms can't even maximise their own profits, we need to be humble about our ability to control higher level outcomes. Our experience in trying to manage ecosystems suggests that 'managing' an economy is a difficult task.
+Further, they consider that evolutionary theory may be of use in managing threats to prosperity. This could be through an understanding of how small groups interact (a subject of a later article in the special issue) and of the constraints that must be applied to self-interest to achieve the common good. It is on this point that I am more sceptical. While we should take the lesson of biology that equilibrium is a shaky concept, the lack of equilibrium does not immediately point to the benefit of economic interventions. After all, if firms can't even maximise their own profits, we need to be humble about our ability to control higher level outcomes. Our experience in trying to manage ecosystems suggests that 'managing' an economy is a difficult task.
 
 My series of posts on the Journal of Economic Behavior & Organization special issue, [_Evolution as a General Theoretical Framework for Economics and Public Policy_](http://www.sciencedirect.com/science/journal/01672681/90/supp/S), are as follows:
 
@@ -33,10 +33,10 @@ My series of posts on the Journal of Economic Behavior & Organization special 
   2. [Four reasons why evolutionary theory might not add value to economics](four-reasons-why-evolutionary-theory-might-not-add-value-to-economics.md) - a post on David Sloan Wilson and John Gowdy's article _Evolution as a general theoretical framework for economics and public policy_
 
 	
-  3. [Economic cosmology - The rational egotistical individual](economic-cosmology-the-rational-egotistical-individual.md) - a post on John Gowdy and colleagues' article _Economic cosmology and the evolutionary challenge _
+  3. [Economic cosmology - The rational egotistical individual](economic-cosmology-the-rational-egotistical-individual.md) - a post on John Gowdy and colleagues' article _Economic cosmology and the evolutionary challenge_
 
 	
-  4. [Economic cosmology - The invisible hand](economic-cosmology-the-invisible-hand.md) - a second post on _Economic cosmology and the evolutionary challenge _
+  4. [Economic cosmology - The invisible hand](economic-cosmology-the-invisible-hand.md) - a second post on _Economic cosmology and the evolutionary challenge_
 
 	
   5. Economic cosmology - Equilibrium (this post) - a third post on _Economic cosmology and the evolutionary challenge_

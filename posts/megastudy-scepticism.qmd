@@ -34,7 +34,7 @@ Those in the "47. Social norm (low and decreasing)" group received messages with
 
 > Trivia time! What percent of Americans exercised at least 3 times per week in 2016? Reply 1 for 35%, 2 for 38%, 3 for 41% or 4 for 44%
 
-As an aside, there don't seem be any qualms about using deception here.
+As an aside, there don't seem to be any qualms about using deception here.
 
 Some interventions involved incentives. For example, the "14. Rigidity Rewarded" intervention paid 500 Amazon points worth \$1.79 each time they attended a planned gym visit, and 250 Amazon points worth \$0.90 if they attended the gym at another time.
 
@@ -76,7 +76,7 @@ But it doesn't take much thought to realise that across 54 interventions (includ
 
 The largest effect of any intervention was an increase of 0.4 gym visits. The sample size enables differentiation from the control for 24 of the interventions, but when you have 53 interventions jammed into that range of 0.4 you aren't going to be able to distinguish many of them from each other. As a result, only 13 of the 53 interventions were statistically distinguished from any interventions beyond the control. Even the best performing intervention could be distinguished from less than half of the other interventions.
 
-You can see one cost of this low power when you examine the pre-registered analysis plans. One plan [considered the effect of social norms](https://osf.io/cthm5/?view_only=ea1b0ba75fc84d4b838614ed9feebb2a). The communicated norms including variations in the level of exercise and the trend. I gave a couple of examples of the social norm interventions in the description of the experiment above. Table 1 shows the four social norm interventions and the average effect size (in additional gym visits) of each.
+You can see one cost of this low power when you examine the pre-registered analysis plans. One plan [considered the effect of social norms](https://osf.io/cthm5/?view_only=ea1b0ba75fc84d4b838614ed9feebb2a). The communicated norms included variations in the level of exercise and the trend. I gave a couple of examples of the social norm interventions in the description of the experiment above. Table 1 shows the four social norm interventions and the average effect size (in additional gym visits) of each.
 
 *Table 1: Exercise social norms (included 6 text message reminders)*
 
@@ -101,7 +101,7 @@ One interesting concept in this megastudy is that the researchers obtained predi
 
 The authors draw two conclusions from the predictions they received.
 
-The first is that all three types of third-party observers overestimate the effect size of the interventions by around an order of magnitude. That is a fair conclusion for this particular study, although there is ambiguous evidence as to whether this is a more general trend. For example, [Stephano DellaVigna and Elizabeth Linos](https://doi.org/10.3982/ECTA18709) found that academics overestimated effect sizes in applied trials, whereas applied practitioners did not. Earlier work by [DellaVigna and Devin Pope](https://doi.org/10.1093/restud/rdx033) found roughly accurate calibration for "nudges" but underestimation for incentives. In the [third megastudy](https://doi.org/10.1073/pnas.2115126119) noted above lay people had the effect size roughly right while the behavioural scientists underestimated it.
+The first is that all three types of third-party observers overestimate the effect size of the interventions by around an order of magnitude. That is a fair conclusion for this particular study, although there is ambiguous evidence as to whether this is a more general trend. For example, [Stefano DellaVigna and Elizabeth Linos](https://doi.org/10.3982/ECTA18709) found that academics overestimated effect sizes in applied trials, whereas applied practitioners did not. Earlier work by [DellaVigna and Devin Pope](https://doi.org/10.1093/restud/rdx033) found roughly accurate calibration for "nudges" but underestimation for incentives. In the [third megastudy](https://doi.org/10.1073/pnas.2115126119) noted above lay people had the effect size roughly right while the behavioural scientists underestimated it.
 
 I can only assume that the authors of the megastudy themselves also underestimated the expected effect sizes, given the lack of power to distinguish most of the hypotheses proposed. If we turn to the pre-analysis plan I linked above relating to social norms, they stated that they needed a sample size of 3,000 people per condition to detect a change of around \~15-20%. That's within the realm of the effect size required to differentiate from the controls, but not likely to be enough to separate four separate interventions from each other, which of course was the point of the experiment. (And to top it off they didn't get the number of participants they sought.)
 
@@ -109,11 +109,11 @@ The second conclusion the authors make about the predictions is that the observe
 
 I am going to argue that, at least for this experiment, it is premature to draw this conclusion.
 
-One reason is that the prediction exercise lacked power (this is in addition to the power issue discussed above). You can see this in the massive error bars around the predictions in Figure 1. These error bars are, of course, a function of both the range and number of predictions. But each participant was asked to estimate the effect size of only 3 interventions. Each intervention has only 17, 9 and 5 predictions from the lay people, public health experts and behavioural practitioners respectively. None of the predicted effect sizes are statistically significant from any other other.
+One reason is that the prediction exercise lacked power (this is in addition to the power issue discussed above). You can see this in the massive error bars around the predictions in Figure 1. These error bars are, of course, a function of both the range and number of predictions. But each participant was asked to estimate the effect size of only 3 interventions. Each intervention has only 17, 9 and 5 predictions from the lay people, public health experts and behavioural practitioners respectively. None of the predicted effect sizes are statistically significant from any other.
 
 I don't have the statistical nous to work out what number of predictions would be appropriate, but I can see that we have a small number of noisy predictions of some underpowered noisy experimental results. I wouldn't expect anything to be found.
 
-But outside of power, a larger challenge with the predictions is that the experimental design did not enable useful comparisons by observers making predictions. The result is many that predictions are nonsense.
+But outside of power, a larger challenge with the predictions is that the experimental design did not enable useful comparisons by observers making predictions. The result is that many predictions are nonsense.
 
 To tease this out, let's look at a couple of sets of predictions. Table 2 lists the social norm interventions described above with additional columns for the predictions by practitioners, professors, lay people and the pooled group.
 
@@ -146,15 +146,15 @@ We see a similar pattern in collection of five interventions in Table 3 below in
 
 The experimental results kinda make sense. The largest incentive had the largest effect. Intervention 14 can be statistically differentiated from 51. But that's it. The others are not significantly different from each other.
 
-Then we look at the prediction column. The largest incentive was predicted to have the largest effect. All fine there. But intervention 28 with incentives of \$0.52 and \$0.18 intervention was predicted to have greater effect than the \$1.08 and \$0.54 associated with intervention 51. What's a plausible basis for that prediction ordering?
+Then we look at the prediction column. The largest incentive was predicted to have the largest effect. All fine there. But intervention 28 with incentives of \$0.52 and \$0.18 was predicted to have greater effect than the \$1.08 and \$0.54 associated with intervention 51. What's a plausible basis for that prediction ordering?
 
 I can see one argument that people were ranking according to the Amazon points available rather than the value of those points. But accepting that argument further confuses the comparability of these interventions with each other and limits their generalisability if we want to take them to other domains.
 
 I think the claim that the observers are poor predictors is likely right. Practitioners, professors and the average punter don't have a great feel for the relative effectiveness of a bunch of weak interventions. But putting the critiques of these predictions together, I'd like to see a replication with more power on both sides: more power to differentiate interventions and a larger number of predictions in which the third-party observers get to see the full set of interventions and make direct comparisons between them.
 
-In the [newest megastudy on vaccinations](https://doi.org/10.1073/pnas.2115126119), those criteria were largely met. Another prediction competition was run, with lay people and the scientists who designed the interventions among the "competitors". They were asked to predict the vaccination rates for the people in all 22 treatment groups and the control
+In the [newest megastudy on vaccinations](https://doi.org/10.1073/pnas.2115126119), those criteria were largely met. Another prediction competition was run, with lay people and the scientists who designed the interventions among the "competitors". They were asked to predict the vaccination rates for the people in all 22 treatment groups and the control.
 
-Here we have a more promising result, for the lay people at least. The predictions of the scientists who contributed an intervention were did not correlate with observed observation rates. Conversely, lay people did well. The correlation between observed and predicted vaccination rates was 0.6. And beyond that, their estimate of the average lift in vaccinations was close to that observed. (The scientists underestimated the increase by around 25%.)
+Here we have a more promising result, for the lay people at least. The predictions of the scientists who contributed an intervention did not correlate with observed vaccination rates. Conversely, lay people did well. The correlation between observed and predicted vaccination rates was 0.6. And beyond that, their estimate of the average lift in vaccinations was close to that observed. (The scientists underestimated the increase by around 25%.)
 
 Despite that success by the lay people, it was not without flaws. They did not anticipate the top-performing intervention. If you're in the mindset that you simply want to maximise vaccinations, that's an important miss. That, of course, leads us to the usual conclusion:
 
@@ -228,7 +228,7 @@ As a final note for myself, I'm interested in whether the Storey and Tibshirani 
 
 ## 8. Return on investment
 
-Another strong feature of this study is that (buried in the supplementary material) the authors examine the fiscal cost and benefits of these interventions. A common refrain for much applied behavioural science is that the effects are small but the costs are also small. Thus, the return on investment pays off.
+Another strong feature of this study is that (buried in the supplementary material) the authors examine the fiscal costs and benefits of these interventions. A common refrain for much applied behavioural science is that the effects are small but the costs are also small. Thus, the return on investment pays off.
 
 On face value, this argument holds for the megastudy. Drawing on a couple of other studies, the authors estimated the benefit of a gym visit to society due to reduced health care expenditures as being between \$1.66 and \$3.71 per visit. Given the size of these benefits and the low cost of many of the megastudy interventions, they argue that four of the top five interventions have a positive cost-benefit and would be worth scaling.
 
@@ -236,7 +236,7 @@ The gap in this analysis is that it is better described as a *fiscal* analysis r
 
 On the cost ledger, the largest missing cost is the time-cost to participants. The benefits side would consider health benefits to the individual themselves: probably some change in quality-adjusted life-years. I suspect this would be substantial: I don't think there's much better life advice than to go to the gym.
 
-Alternatively, you could attempt to capture those personal cost and benefits through some measure of customer willingness to pay.
+Alternatively, you could attempt to capture those personal costs and benefits through some measure of customer willingness to pay.
 
 An interesting additional question would be whether the gym chain gets a return that makes it worthwhile from a business perspective. Do more people retain their gym membership? To the extent they do, this builds the business case but also creates another cost to individuals we should consider in our cost-benefit analysis.
 
@@ -256,7 +256,7 @@ Maybe the megastudy study teams should take the inspiration from the common task
 
 -   Why don't they run this experiment with the gym chain every year? Solicit open entries, with a process to whittle them down to the required number of interventions. Include a range of the best interventions from previous years. (And do it with more power.)
 
--   Introduce a version out-of-sample testing through replication. Take the top interventions from an initial run of four weeks, and run them with a new group of gym members over another four weeks. This will allow testing of the robustness of the ordering and another check on the magnitude of the winner effect.
+-   Introduce a version of out-of-sample testing through replication. Take the top interventions from an initial run of four weeks, and run them with a new group of gym members over another four weeks. This will allow testing of the robustness of the ordering and another check on the magnitude of the winner effect.
 
 -   Here's one half-baked idea: treat the prediction process as a tournament. Maybe one element could involve people submitting models (likely with some combination of Natural Language Processing and an underlying model of the decision maker) to predict which interventions will outperform. Use that to get an insight into theory.
 
@@ -282,4 +282,4 @@ I've dedicated most of this post to examining limitations to the megastudy. I do
 
 -   The "winning" message for that first vaccination study appears, to me at least, a bit deceptive: "...this is a reminder that a flu vaccine has been reserved for your appt..."
 
--   What is the threshold is for a megastudy? The vaccination megastudy involved 19 nudges. Does the Behavioural Insights team [trial of 7 different messages on organ donation](https://doi.org/10.1186/s13063-018-2855-5) make the cut? It had 1,085,322 participants. And it enabled the testing of multiple hypotheses in a single context while maintaining adequate power. I've seen industry trials in the digital realm with more treatments. Is the concept of the megastudy that new? What seems new to me in the emergence of star academic researchers with access to enough resources to run these projects.
+-   What is the threshold for a megastudy? The vaccination megastudy involved 19 nudges. Does the Behavioural Insights team [trial of 7 different messages on organ donation](https://doi.org/10.1186/s13063-018-2855-5) make the cut? It had 1,085,322 participants. And it enabled the testing of multiple hypotheses in a single context while maintaining adequate power. I've seen industry trials in the digital realm with more treatments. Is the concept of the megastudy that new? What seems new to me is the emergence of star academic researchers with access to enough resources to run these projects.

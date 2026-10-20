@@ -13,7 +13,7 @@ I write posts in batches and schedule in advance, so the weekly target did not r
 
 In 2019, I am relaxing my intention to post on the blog every week (although that will largely still happen). I will prioritise writing on what I want to think about, rather than achieving a consistent flow of posts.
 
-I wrote [three articles for Behavioral Scientist](https://behavioralscientist.org/author/jason-collins/) during the year. I plan to increase my output for external forums such as Behavioural Scientist in 2019. My major rationale for blogging is that I think (and learn) about issues better when I write for public consumption, and forums outside of the blog escalate that learning experience.
+I wrote [three articles for Behavioral Scientist](https://behavioralscientist.org/author/jason-collins/) during the year. I plan to increase my output for external forums such as Behavioral Scientist in 2019. My major rationale for blogging is that I think (and learn) about issues better when I write for public consumption, and forums outside of the blog escalate that learning experience.
 
 I also had a [paper published in Evolution & Human Behavior](https://doi.org/10.1016/j.evolhumbehav.2018.09.001) (largely written in 2017). For the immediate future, I plan to stop writing academic articles unless I come up with a cracker of an idea. Having another academic publication provides little career value, and the costs of the academic publication process outweigh the limited benefit that comes from the generally limited readership.
 
