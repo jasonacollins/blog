@@ -22,6 +22,36 @@ quarto render
 quarto render posts/post-name.qmd
 ```
 
+URL normalisation and legacy redirect generation run only on a full site build
+(`quarto render`). Preview and single-post renders skip this processing. Run a
+full build before deploying `_site/`.
+
+### Previewing the post you are editing
+
+Quarto 1.10.19 can show a blank page for a post marked `draft: true`, including
+when using VS Code's Quarto Preview button. Use `preview-post.sh` from the
+terminal to enable draft visibility for the preview:
+
+```bash
+./preview-post.sh posts/post-name.md
+```
+
+The script accepts `.md` and `.qmd` posts, opens the preview in your browser,
+and reloads it when you save changes. Stop an existing preview with **Ctrl+C**
+before starting another. You can pass additional Quarto preview options, for
+example `./preview-post.sh posts/post-name.md --port 7515`.
+
+To preview the **currently open post in VS Code** without typing its path, save
+the file, keep its editor tab active, and choose **Terminal → Run Task → Preview
+current post**. The task passes the active file to the same script. The existing
+Quarto Preview button is unchanged.
+
+The equivalent command without the script is:
+
+```bash
+quarto preview posts/post-name.md -M draft-mode:visible
+```
+
 ## Project Structure
 
 ```

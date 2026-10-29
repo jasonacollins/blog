@@ -28,6 +28,7 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 - Blake J. Harris, *The history of the future: Oculus, Facebook, and the revolution that swept virtual reality*
 - Pablos Holman, *Deep future: creating technology that matters*
 - John C. Lennox, *2084 and the AI revolution: how artificial intelligence informs our future*
+- Ian McEwan, *Machines Like Me*
 - Brian Merchant, *Blood in the machine: the origins of the rebellion against big tech*
 - Chris Miller, *Chip War: The Fight for the World's Most Critical Technology*
 - Marvin Minsky, *The Society of Mind*
@@ -42,11 +43,13 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 
 *Fiction*
 
+- C. Robert Cargill, *Sea of Rust*
 - Becky Chambers, *The long way to a small, angry planet*
 - Becky Chambers, *A closed and common orbit*
 - Becky Chambers, *A Psalm for the Wind-Built*
 - Becky Chambers, *A Prayer for the Crown-Shy*
 - Paulo Coelho, *The Alchemist*
+- Ann Leckie, *Ancillary Justice*
 - Carl Sagan, *Contact*
 - Mary Shelley, *Frankenstein; or, The Modern Prometheus*\*
 - Dan Simmons, *Hyperion*
