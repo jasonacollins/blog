@@ -4,7 +4,7 @@ author: "Jason Collins"
 date: 2026-10-30 09:00:00+11:00
 draft: false
 toc: false
-image: "holden.png"
+image: "img/holden.png"
 ---
 
 As the AI doom debate has moved from a fringe topic into the mainstream, it has taken a predictable downswing in quality.
