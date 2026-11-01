@@ -28,4 +28,4 @@ Links this week:
   5. And finally, one of my favourite surf clips from last year - I'd love to see someone paddling this wave:
 
 
-[vimeo http://vimeo.com/73838157]
+{{< video https://vimeo.com/73838157 >}}

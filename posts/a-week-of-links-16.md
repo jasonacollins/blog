@@ -15,6 +15,6 @@ Links this week:
 	
   2. [A review](http://www.columbia.edu/~saw2156/HunterBlatherer.pdf) of Jared Diamond's The World Until Yesterday that is well worth reading (HT for these first two links: [Andrew Badenoch](https://twitter.com/evolvify))
 
-  3. [Dan Dennet and memes](http://www.replicatedtypo.com/more-on-dennett-on-memes/6249.html).
+  3. [Dan Dennett and memes](http://www.replicatedtypo.com/more-on-dennett-on-memes/6249.html).
 
 

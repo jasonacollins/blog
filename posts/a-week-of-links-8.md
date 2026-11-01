@@ -7,7 +7,7 @@ draft: false
 
 Links this week:
 	
-  1. [Razib Kahn encourages academics](http://blogs.discovermagazine.com/gnxp/2013/03/why-more-academics-should-blog-cuz-you-can/) to get on the blogging bandwagon.
+  1. [Razib Khan encourages academics](http://blogs.discovermagazine.com/gnxp/2013/03/why-more-academics-should-blog-cuz-you-can/) to get on the blogging bandwagon.
 
 	
   2. [David Barash on "evolutionary existentialism"](http://chronicle.com/article/EvolutionExistentialism/137715/), my favourite piece this week.

@@ -17,7 +17,7 @@ To elicit an outside view, Mauboussin suggests the simple trick of pretending yo
 
 Mauboussin is at his most interesting, and differs from most standard examinations of decision making, when he considers decision making in complex systems (which happens to be the environment of many of our decisions).
 
-One of his themes is it is nearly impossible to manage a complex system. Understanding any individual part may be of limited use in understanding the whole, and interfering with that part may have many unintended consequences. The century of bungling in Yellowstone National Park (via Alston Chase's book *Playing God in Yellowstone* provides an example. In an increasingly connected world, more of our decisions are going to be in these types of systems.
+One of his themes is it is nearly impossible to manage a complex system. Understanding any individual part may be of limited use in understanding the whole, and interfering with that part may have many unintended consequences. The century of bungling in Yellowstone National Park (via Alston Chase's book *Playing God in Yellowstone*) provides an example. In an increasingly connected world, more of our decisions are going to be in these types of systems.
 
 One barrier to understanding a complex system is that the agents in an apparently intelligent system may not be that intelligent themselves. Mauboussin quotes biologist Deborah Gordon:
 

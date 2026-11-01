@@ -18,7 +18,7 @@ What all this means is that so-called group selection, as it is invoked by many 
 
 Cultural group selection is less prone than "biological group selection" to the criticism that migration and gene transfer between groups prevents genetic differentiation from emerging. It may be possible to argue that when someone joins the group, they absorb the culture or that it is the culture of the whole population that matters. However, you then run into Pinker's broader question of whether the concept of cultural group selection adds anything to "history".
 
-Another interesting point Pinker makes is that apparently altruistic behaviour may be more a case of manipulation than evidence of a generally selfless inclinations.
+Another interesting point Pinker makes is that apparently altruistic behaviour may be more a case of manipulation than evidence of generally selfless inclinations.
 
 
 <blockquote>What we don't expect to see is the evolution of an innate tendency among individuals to predictably sacrifice their expected interests for the interests of the group—to cheerfully volunteer to serve as a galley slave, a human shield, or cannon fodder. ... What could evolve, instead, is a tendency to manipulate others to become suicide attackers, and more generally, to promulgate norms of morality and self-sacrifice that one intends to apply in full force to everyone in the group but oneself. If one is the unlucky victim of such manipulation or coercion by others, there's no need to call it altruism and search for an evolutionary explanation, any more than we need to explain the "altruism" of a prey animal who benefits a predator by blundering into its sights.</blockquote>
@@ -32,4 +32,4 @@ This manipulation extends into the manner in which we treat non-kin as kin.
 
 Pinker makes some other good points, but one element I alluded to above is missing from Pinker's argument - the critique of group selection on the basis of migration and gene flow between groups. While advocates of group selection in humans often spend much effort on showing how human groups experienced regular conflicts and wars, little is focused on the likely transfer of people between groups through capturing women from the losers in war or through exogamy. It takes little inter-group migration to prevent genetic differentiation between groups. If you were to ask what it would take for me to believe that group selection was a significant force in shaping human traits, it is on this point that you would need to change my mind.
 
-*I make some comments on the responses to Pinker [in this later post](labelling-cultural-group-selection.md).
+*I make some comments on the responses to Pinker [in this later post](labelling-cultural-group-selection.md).*

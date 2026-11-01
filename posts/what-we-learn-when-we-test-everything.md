@@ -29,7 +29,7 @@ We have also seen informal competitions emerge, such as the measuring of generat
 
 ![](img/what-we-learn-when-we-test-everything/claude-benchmarking.png){width="60%"}
 
-The approach that underpins these competitions and comparisons is known as the common task framework. Researchers compete to solve the a problem using the same dataset, with each measured against the same scale.
+The approach that underpins these competitions and comparisons is known as the common task framework. Researchers compete to solve the problem using the same dataset, with each measured against the same scale.
 
 There are many benefits to the common task framework. We have objective measures of performance. We can see what is the state of the art. We can compare apples with apples.
 
@@ -57,7 +57,7 @@ Members of a national gym chain were asked if they wished to enrol in a “habit
 
 ![](img/what-we-learn-when-we-test-everything/milkman_et_al_2021_signup.png){width="60%"}
 
-Over the following 28-days participants were subject to interventions involving varying mixes of incentives and messages. For example, those in the “Social norm (high and increasing)” treatment group received six text message reminders, with content such as:
+Over the following 28 days participants were subject to interventions involving varying mixes of incentives and messages. For example, those in the “Social norm (high and increasing)” treatment group received six text message reminders, with content such as:
 
 > Trivia time! What percent of Americans exercised at least 3 times per week in 2016? Reply 1 for 61%, 2 for 64%, 3 for 70% or 4 for 73%.
 
@@ -93,7 +93,7 @@ Again, a bit deceptive as there was no reserved vaccine, but as you can see in t
 
 ![Milkman et al. (2021) Figure 1](img/what-we-learn-when-we-test-everything/milkman_et_al_2021a_fig_1.jpg){width="75%"}
 
-Beyond giving us direct comparability, there are some other nice features about megastudies. There are economies to scale: while an individual megastudy is a large exercise, the cost can be lower on a per-intervention basis.
+Beyond giving us direct comparability, there are some other nice features about megastudies. There are economies of scale: while an individual megastudy is a large exercise, the cost can be lower on a per-intervention basis.
 
 Megastudies also have built-in publication of null findings. We get to see both the successful interventions and the duds.
 
@@ -147,7 +147,7 @@ When you visit Google online, they really want you to click on advertising links
 
 Google doesn't mess around in answering questions such as this. In one experiment, they [tested 41 shades of blue](https://www.theguardian.com/technology/2014/feb/05/why-google-engineers-designers). While this experiment was ridiculed by outsiders as the "50 shades of blue" episode, it yielded an additional \$200 million dollars a year in revenue.
 
-Where do megastudies sit between this Google experiment - a valuable optimisation exercise with limited scientific value - and a study designed to teach us something about how the world works.
+Where do megastudies sit between this Google experiment - a valuable optimisation exercise with limited scientific value - and a study designed to teach us something about how the world works?
 
 To date, I'd argue that megastudies are closer to the Google end of the spectrum. They're valuable for the task being optimised, but provide limited feedback into our theoretical understanding of human behaviour.
 
@@ -157,7 +157,7 @@ I admit I'm asking a lot. I want to see behavioural science build theoretical un
 
 However, this lack of theory is not without costs. For instance, as I've already noted, when asked to predict the ordering of effect sizes for the gym and vaccination megastudies, the practitioners had no idea - predictions for the gym megastudy are represented by the orange bars. We don't have a theoretical framework that can outperform common sense or guide us as to what interventions are most likely to work. You're stuck throwing as many interventions as you can find against a wall to see which will stick. If we had better theory, we might be able to winnow down options for a higher powered study. Megastudies are in part a symptom of this failure.
 
-So, where to from here. What's the future role of megastudies?
+So, where to from here? What's the future role of megastudies?
 
 ## Building on the common task approach
 
@@ -177,7 +177,7 @@ If we took these extra steps, however, a limitation to the common task framework
 
 There are also decreasing marginal gains. The winner of the Netflix prize was never implemented as other cheaper combinations of models delivered most of the same benefits. Performance against many machine learning benchmarks plateaued or maxed out, requiring the development of new benchmarks.
 
-But there is something to be said for a process where we learn and build on what we have learnt, rather than simply trial (hopefully scale) and publish. And by taking the inspiration for the megastudies - the common task framework more seriously - megastudies could contribute to this.
+But there is something to be said for a process where we learn and build on what we have learnt, rather than simply trial (hopefully scale) and publish. And by taking the inspiration for the megastudies - the common task framework - more seriously, megastudies could contribute to this.
 
 These performance curves on your screen are quite amazing. In the space of a decade, many tasks went from impossible for machines to machines being vastly superior to humans, despite predictions that these advances were decades away. A similar curve in understanding the drivers of human behaviour would be an amazing thing.
 

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,16 @@
 
 <title>Gerd Gigerenzer’s Gut Feelings: Short Cuts to Better Decision Making – Jason Collins blog</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -35,15 +41,14 @@ ul.task-list li input[type="checkbox"] {
 <link href="../logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-9be722aa83fbcc428616ae682c30a50a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-cd8592f072b9d28f7be82a1360dc3fa5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -98,8 +103,6 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Jason Collins blog</span>
     </a>
@@ -185,7 +188,7 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 <p>Gigerenzer defines a gut feeling - which you might also call an intuition or hunch - as a feeling that appears quickly in consciousness, with us unaware of the underlying reasons, but strong enough for us to act on. Gut feelings work through simple rules of thumb that take advantage of the evolved capacities of the brain. The skill of the unconscious is knowing what rule to apply at what time.</p>
 <p>Let’s break this down.</p>
 <p><strong>The power of simple rules</strong></p>
-<p>Gut feelings can be powerful tools despite (and because of) their reliance rules of thumb. Often in decision-making, “less is more”, in that there is a beneficial degree of ignorance, or benefits to excluding information from consideration. The recognition heuristic is an example of this: if you recognise one option but not the other, infer that the recognised option has the higher value. The recognition heuristic only works if recognise one but not the other option.</p>
+<p>Gut feelings can be powerful tools despite (and because of) their reliance on rules of thumb. Often in decision-making, “less is more”, in that there is a beneficial degree of ignorance, or benefits to excluding information from consideration. The recognition heuristic is an example of this: if you recognise one option but not the other, infer that the recognised option has the higher value. The recognition heuristic only works if you recognise one but not the other option.</p>
 <p>In contrast, complex strategies can explain too much in hindsight. In an uncertain world where only part of the information is useful for the future, a simple rule that focuses on only the best or a limited subset of information has a good chance of hitting that useful information.&nbsp;Gigerenzer provides plenty of examples of the superiority or utility of simple rules of thumb, a point that many advocates of complex statistical methods and machine learning should hear.</p>
 <p>But sometimes Gigerenzer’s examples drift toward becoming straw man competitions. For instance, he describes a competition between two models - multinomial regression and a heuristic called “Take the best” - in predicting school drop-out rates. Take the best operates by looking only at the cue which has the strongest relationship with drop-out rates (such as the attendance rate), and if one is higher than the other, you make a decision at that point. If the cues have the same value, move to the next cue and repeat.</p>
 <p>The two models were trained on half the data, and tested against the other half of the data.&nbsp;Take the best achieved 65% accuracy in the training data, and 60% on the test data. In contrast, multinomial regression achieved 72% on training data, but this plunged to 54% on test data. (Gigerenzer only shows a chart in the book - I got the numbers from the related chapter of <a href="../posts/simple-heuristics-that-make-us-smart.html">Simple Heuristics That Make Us Smart</a>.) Multinomial regression overfit the training data.</p>
@@ -219,14 +222,14 @@ What happened? The short answer is, you’ve been anchored. Anchoring is the psy
 <p>An interesting story in the chapter about medical environments concerned doctors who were required to judge whether someone was having a heart attack. The doctors were doing a generally poor job, defensively sending 90% of people with chest pain to the coronary care unit.</p>
 <p>Some researchers developed a process whereby doctors would use a complicated chart with 50-odd probabilities, a long formula and a pocket calculator to determine whether a patient should be admitted to the coronary care unit. The doctors didn’t like it and didn’t understand it, but its use improved their decision-making and reduced overcrowding in the coronary care unit.</p>
 <p>The researchers then took the chart and calculator away from the doctors, with the expectation that the decision-making quality would decline back to what it was previously. But the decision quality did not drop. Exposure to the calculator had improved their intuition permanently. What the doctors needed was the cues that they could not learn from experience, but when provided with them, they applied them in a fast and frugal way that matched the accuracy of the more complicated procedure.</p>
-<p>As an aside, the above is how the story is told in Gut Feelings, which might have been coloured by some discussion between Gigerenzer and the researchers. My reading of the <a href="http://psycnet.apa.org/record/1997-30170-001">related article</a> (<a href="http://web.missouri.edu/~segerti/capstone/CCUdecisions.pdf">pdf minus charts</a>) has a different chain of events. The researchers first developed the tool using patient data, and presented their results to the doctors. Seven months later, the tool was trialed. They found that admissions to the coronary care unit had declined following the presentation, but not on introduction of the tool, suggesting the doctors started using the cues after the presentation and could achieve equal superiority through their own decision processes. The paper notes that “Take the Best” and tallying - simply adding up the number of cues - would be good strategies. Gigerenzer takes the analysis further <a href="http://library.mpib-berlin.mpg.de/ft/gg/GG_Fast_2005.pdf">here</a>.</p>
-<p>As a second aside, this story is similar to one by Daniel Kahneman tells in <a href="../posts/re-reading-kahnemans-thinking-fast-and-slow.html">Thinking Fast and Slow</a> where military recruiters were asked to use a mechanical process to select candidates. After protesting that they were not robots, Kahneman suggested that after collecting the required data, the recruiters close their eyes, imagine the recruit as a soldier and assign a score of one to five. It turned out the “close your eyes” score was as accurate as the sum of the six factors that were collected, both being much better than the useless interviewing technique they had replaced. Intuition worked, but only after disciplined collection of data (cues).</p>
+<p>As an aside, the above is how the story is told in Gut Feelings, which might have been coloured by some discussion between Gigerenzer and the researchers. My reading of the <a href="http://psycnet.apa.org/record/1997-30170-001">related article</a> (<a href="http://web.missouri.edu/~segerti/capstone/CCUdecisions.pdf">pdf minus charts</a>) has a different chain of events. The researchers first developed the tool using patient data, and presented their results to the doctors. Seven months later, the tool was trialled. They found that admissions to the coronary care unit had declined following the presentation, but not on introduction of the tool, suggesting the doctors started using the cues after the presentation and could achieve equal superiority through their own decision processes. The paper notes that “Take the Best” and tallying - simply adding up the number of cues - would be good strategies. Gigerenzer takes the analysis further <a href="http://library.mpib-berlin.mpg.de/ft/gg/GG_Fast_2005.pdf">here</a>.</p>
+<p>As a second aside, this story is similar to one Daniel Kahneman tells in <a href="../posts/re-reading-kahnemans-thinking-fast-and-slow.html">Thinking Fast and Slow</a> where military recruiters were asked to use a mechanical process to select candidates. After protesting that they were not robots, Kahneman suggested that after collecting the required data, the recruiters close their eyes, imagine the recruit as a soldier and assign a score of one to five. It turned out the “close your eyes” score was as accurate as the sum of the six factors that were collected, both being much better than the useless interviewing technique they had replaced. Intuition worked, but only after disciplined collection of data (cues).</p>
 <p>And as a third aside and contrast, here’s a story from <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1633627/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1633627/">another study</a> (quoted text from <a href="https://doi.org/10.1016/0749-5978(86)90046-4">here</a>):</p>
 <blockquote class="blockquote">
 During an 18 month period the authors used a computer-based diagnosis system which surpassed physicians in diagnostic accuracy. During the course of this research after each physician made a diagnosis, he or she was informed of the computer’s diagnosis. The diagnostic accuracy of the physicians gradually rose toward that of the computer during the 18 month period. The authors attributed this improvement in part to the “discipline” forced upon the physicians, the constraint of carefully collecting patient information, the “constant emphasis on reliability of clinical data collected, and the rapid ‘feedback’ from the computer,” which may have promoted learning. When the computer system was terminated, the physicians very quickly reverted to their previous lower level of diagnostic accuracy. Apparently discipline and reliability fell victim to creativity and inconsistency.
 </blockquote>
 <p><strong>The rest of the book</strong></p>
-<p>Gigerenzer provides plenty of other thought-provoking material about the role of heuristics and gut feeling in various domains. Sometimes it feels a bit shallow Advertising is put down to the recognition heuristic. What about signalling, discussed shortly after in another context?&nbsp;The final couple of chapters relating to moral behaviour and social instincts seemed somewhat out-of-date when looked at next to the burgeoning literature on cultural transmission and learning. But there are enough interesting ideas in those chapters to make them worthwhile. And you can’t expect someone to pin every point down in-depth in a popular book.</p>
+<p>Gigerenzer provides plenty of other thought-provoking material about the role of heuristics and gut feeling in various domains. Sometimes it feels a bit shallow. Advertising is put down to the recognition heuristic. What about signalling, discussed shortly after in another context?&nbsp;The final couple of chapters relating to moral behaviour and social instincts seemed somewhat out-of-date when looked at next to the burgeoning literature on cultural transmission and learning. But there are enough interesting ideas in those chapters to make them worthwhile. And you can’t expect someone to pin every point down in-depth in a popular book.</p>
 <p>So, if you want a dose of Gigerenzer, Gut Feelings is interesting and worth reading. But if you have the patience, I recommend starting with <a href="../posts/simple-heuristics-that-make-us-smart.html">Simple Heuristics That Make Us Smart</a>, <em>Adaptive Thinking</em> and <a href="../posts/gerd-gigerenzers-rationality-for-mortals-how-people-cope-with-uncertainty.html">Rationality for Mortals</a>. Then if you want a slightly less “academic” Gigerenzer, move on to Gut Feelings.</p>
 
 

@@ -16,7 +16,7 @@ A couple of the more interesting snippets are below. First, on the division of l
 
 
 
-I don't agree with Heinrich's use of the word self-interested in the last sentence, as being trusting, specialising and trading has large individual benefits. However, the importance of trust is rarely emphasised enough.
+I don't agree with Henrich's use of the word self-interested in the last sentence, as being trusting, specialising and trading has large individual benefits. However, the importance of trust is rarely emphasised enough.
 
 Second, on monogamy:
 

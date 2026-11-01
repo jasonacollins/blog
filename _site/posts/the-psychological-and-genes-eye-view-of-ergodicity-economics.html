@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,16 @@
 
 <title>The psychological and genes’ eye view of ergodicity economics – Jason Collins blog</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -90,15 +96,14 @@ div.csl-indent {
 <link href="../logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-9be722aa83fbcc428616ae682c30a50a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-cd8592f072b9d28f7be82a1360dc3fa5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
@@ -205,8 +210,6 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Jason Collins blog</span>
     </a>
@@ -495,7 +498,7 @@ Figure&nbsp;2: Plot of first 20 people against average wealth (log scale)
 <p>These 20 people are representative of the broader population. Across the 10,000 agents in this simulation, 86 per cent lost money. The mean wealth was $22303, but the median wealth was $0.52.</p>
 <p>What is the intuition behind this?</p>
 <p>The black line reflects the expected gain of 5% per flip.</p>
-<p>But for the red lines, over the long term, an individual will tend to get around half heads and half tails. As the number of flips goes to infinite, the proportion of heads or tails “<a href="https://en.wikipedia.org/wiki/Almost_surely">almost surely</a>” converges to 0.5. This means that each person will tend to get a 50% increase half the time (or 1.5 times the initial wealth), and a 40% decrease half the time (60% of the initial wealth). The time average growth in wealth for an individual is <span class="math inline">(1.5\times 0.6)^{0.5} \sim 0.95</span>, or approximately a 5% decline in wealth each period. Every individual’s wealth will tend to decay at that rate. The black line is held up by a very lucky few.</p>
+<p>But for the red lines, over the long term, an individual will tend to get around half heads and half tails. As the number of flips goes to infinity, the proportion of heads or tails “<a href="https://en.wikipedia.org/wiki/Almost_surely">almost surely</a>” converges to 0.5. This means that each person will tend to get a 50% increase half the time (or 1.5 times the initial wealth), and a 40% decrease half the time (60% of the initial wealth). The time average growth in wealth for an individual is <span class="math inline">(1.5\times 0.6)^{0.5} \sim 0.95</span>, or approximately a 5% decline in wealth each period. Every individual’s wealth will tend to decay at that rate. The black line is held up by a very lucky few.</p>
 <p>A system where the time average converges to the ensemble average (our population mean) is known as an ergodic system. The sequence of gambles I have just shown you is non-ergodic as the time average and the ensemble average diverge. (I’ll ignore the finer debates about whether this problem even involves ergodicity to the side.)</p>
 <p>This leads to the following claim: as we cannot individually experience the ensemble average, the ensemble average is not what humans consider in their decision making. Instead, people maximise the time average growth rate of wealth. For this bet, as the time average growth rate is negative, an ergodicity economics agent would reject the bet.</p>
 <p>Contrast this with the expected utility approach, where the utility of each outcome is weighted by its probability and summed to give the expected utility. Expected utility theory would be consistent with both accepting and rejecting the bet depending on the particular utility function.</p>
@@ -578,7 +581,7 @@ Figure&nbsp;3: Average wealth of population and path of first 20 people
 </div>
 <p>Now for a wrinkle, which we can see in the plotted figure. Of those first 20 people plotted on the chart, 11(!) had their wealth go into the negative over those 100 periods. We see the same phenomenon across the broader population, with 5433 dropping below zero in those first 100 periods.</p>
 <p>To the extent zero wealth is ruinous when it occurs, that event is severe. If the player only incurs the consequences of their final position, the bet is unlikely to result in ruin but still presents a non-zero threat of catastrophe.</p>
-<p>What would an expected utility maximiser do here? For a person with log utility, any probability of ruin during the flips would lead them to reject the gamble. The log of zero is negative infinite, which outweighs all other possible outcomes, whatever their magnitude or probability.</p>
+<p>What would an expected utility maximiser do here? For a person with log utility, any probability of ruin during the flips would lead them to reject the gamble. The log of zero is negative infinity, which outweighs all other possible outcomes, whatever their magnitude or probability.</p>
 <p>The growth-rate maximiser would accept the bet if they didn’t fear ruin. The time-average growth of $5 per flip would pull them in. If ruin was feared and consequential, then they might also reject.</p>
 </section>
 <section id="the-ergodicity-economics-hypothesis" class="level3">
@@ -590,15 +593,15 @@ Figure&nbsp;3: Average wealth of population and path of first 20 people
 <section id="what-are-the-implications-of-this-finding" class="level3">
 <h3 class="anchored" data-anchor-id="what-are-the-implications-of-this-finding">What are the implications of this finding?</h3>
 <p>The advocates of ergodicity economics have applied this claim to a range of economics problems.</p>
-<p><span class="citation" data-cites="peters2023">Peters (<a href="#ref-peters2023" role="doc-biblioref">2023</a>)</span> argues that we can think of insurance as a tool to make wealth grow faster rather than as protection for the risk averse. This plot shows the outcomes for agents facing a 5% probability of a loss of 95% of their wealth each period. Uninsured agents experience ruinous path over time, losing far more than would be implied by the expected value. Those who insure at a cost experience a slower decline.</p>
-<p>As an aside, I do find these numbers quite comical: 2500 periods with a 5% probability of loss, leading to an expected value of around <span class="math inline">10^{-70}</span> times the initial wealth even under the insured scenario. The expected-value optimisers, even if they stated with every atom in the universe, would be left with a fraction of an atom by the end.</p>
+<p><span class="citation" data-cites="peters2023">Peters (<a href="#ref-peters2023" role="doc-biblioref">2023</a>)</span> argues that we can think of insurance as a tool to make wealth grow faster rather than as protection for the risk averse. This plot shows the outcomes for agents facing a 5% probability of a loss of 95% of their wealth each period. Uninsured agents experience a ruinous path over time, losing far more than would be implied by the expected value. Those who insure at a cost experience a slower decline.</p>
+<p>As an aside, I do find these numbers quite comical: 2500 periods with a 5% probability of loss, leading to an expected value of around <span class="math inline">10^{-70}</span> times the initial wealth even under the insured scenario. The expected-value optimisers, even if they started with every atom in the universe, would be left with a fraction of an atom by the end.</p>
 <p><a href="img/the-psychological-and-genes-eye-view-of-ergodicity-economics/peters-2023-figure-3.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="img/the-psychological-and-genes-eye-view-of-ergodicity-economics/peters-2023-figure-3.png" class="img-fluid" style="width:60.0%"></a></p>
 <p><span class="citation" data-cites="peters2022">Peters and Adamou (<a href="#ref-peters2022" role="doc-biblioref">2022</a>)</span> similarly propose a desire to maximise the growth rate as the origin of cooperative behaviour. Here, the green trajectories are the selfish agents, the blue line the cooperators. In some ways, this is just the insurance problem reframed.</p>
 <p><a href="img/the-psychological-and-genes-eye-view-of-ergodicity-economics/peters-and-adamou-2022-figure-2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img src="img/the-psychological-and-genes-eye-view-of-ergodicity-economics/peters-and-adamou-2022-figure-2.png" class="img-fluid" style="width:60.0%"></a></p>
 <p>One of the more interesting examples concerns time preference. <span class="citation" data-cites="adamou2021">Adamou et al. (<a href="#ref-adamou2021" role="doc-biblioref">2021</a>)</span> use growth rate maximisation as an explanation for exponential discounting, hyperbolic discounting and preference reversals, depending on the particular wealth dynamic.</p>
 <p>I won’t cover all the scenarios, but this image captures a situation where an agent in an additive world has a choice between a smaller sooner and a larger later pay-off. This agent seeks to maximise the growth rate of their wealth. From the perspective of <span class="math inline">t_0</span> the larger later pay-off provides a higher growth rate, which is equal to the slope of the line extended to the top of that pay-off. By the third frame, as the agent moves closer to the smaller, sooner pay-off, the higher growth rate now comes from that early pay-off. They have reversed their preference.</p>
 <p><a href="img/the-psychological-and-genes-eye-view-of-ergodicity-economics/adamou-et-al-2021-figure-3.png" class="lightbox" data-gallery="quarto-lightbox-gallery-6"><img src="img/the-psychological-and-genes-eye-view-of-ergodicity-economics/adamou-et-al-2021-figure-3.png" class="img-fluid"></a></p>
-<p>It is when seeing ideas such as this that the suggestion that ergodicity economics is a “psychology free” seem slightly ridiculous. The agent must be myopic to be unable to see their upcoming preference reversal, or to realise the foregone larger opportunity on the other side of that smaller sooner payment.</p>
+<p>It is when seeing ideas such as this that the suggestion that ergodicity economics is “psychology free” seems slightly ridiculous. The agent must be myopic to be unable to see their upcoming preference reversal, or to realise the foregone larger opportunity on the other side of that smaller sooner payment.</p>
 </section>
 </section>
 <section id="the-experiment" class="level2">
@@ -625,7 +628,7 @@ f_{\eta}(x)=\begin{cases}
 <p>This chart shows the result. Thin lines represent individual participants. The thick lines represent the aggregate. For the additive scenario, participants were close to risk neutral: the aggregate estimate of <span class="math inline">\eta</span> was 0.1. For the multiplicative condition, although there was a wider distribution of values, the central estimate of <span class="math inline">\eta</span> was one.</p>
 <p><a href="img/the-psychological-and-genes-eye-view-of-ergodicity-economics/skjold-et-al-2024-figure-7c.png" class="lightbox" data-gallery="quarto-lightbox-gallery-9"><img src="img/the-psychological-and-genes-eye-view-of-ergodicity-economics/skjold-et-al-2024-figure-7c.png" class="img-fluid"></a></p>
 <p>Despite the elements of this experiment that I would do differently - I have only hinted at a couple - this is a strong result.</p>
-<p>If the ergodocity economics hypotheis is correct, it is worth thinking about what this means psychologically.</p>
+<p>If the ergodicity economics hypothesis is correct, it is worth thinking about what this means psychologically.</p>
 <p>When modelling the utility function, the researchers took the value of <span class="math inline">x</span> to be the participant’s experimental wealth at the time the participant makes their decision. It is the initial endowment, plus or minus the results of the previous bets. <span class="math inline">x</span> does not include outside wealth.</p>
 <p>But if this use of <span class="math inline">x</span> is an accurate characterisation of the decision making process of the agents, it suggests a form of narrow bracketing or a degree of myopia. Agents are maximising the growth rate <em>within</em> the experiment, not more generally. We need to introduce some psychology to explain this. (This phenomenon is common across lab experiments involving risky decisions.)</p>
 <p>Similarly, this experiment is part of a broader environment with either multiplicative or additive characteristics. Experimental participants can take their payment from the experiment and invest it. Maximising the growth rate in the additive condition by maximising expected value may not maximise the total growth rate if the world outside the experiment is multiplicative.</p>
@@ -722,7 +725,7 @@ Figure&nbsp;4: Population of accepting types
 <p>Why don’t they experience the decline we saw in earlier simulations of this bet? Because their copies experience the full ensemble of outcomes.</p>
 <p>So here we have a toy model that shows that time-average growth rate maximisation may not be the optimal strategy in a multiplicative environment. The constant population of time-average growth rate maximisers is swamped by the spreading population of the expected value maximisers.</p>
 <p>This behaviour could also emerge where it did not previously exist. The simulation I just showed you had 10,000 agents with expected value maximising behaviour to start. What if we had a population of time-average growth rate optimisers, and a single expected value maximiser emerged?</p>
-<p>I simulated 10,000 instances of a single individual developing the mutation. This plot shows the population of the first ten mutants. For five of them, the mutation appears and disappears. For the other five, however, they grow into a substantial population.It only takes a few agents with this mutation to effectively diversify the results.</p>
+<p>I simulated 10,000 instances of a single individual developing the mutation. This plot shows the population of the first ten mutants. For five of them, the mutation appears and disappears. For the other five, however, they grow into a substantial population. It only takes a few agents with this mutation to effectively diversify the results.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code for evolutionary simulation</summary>
@@ -818,7 +821,7 @@ Figure&nbsp;6: Population of accepting types with mutation (first 30 periods for
 <p>This is a slightly rosier picture than occurs across the full 10,000 simulations, where the mutation did not spread 70% of the time.</p>
 <p>These illustrations suggest that time-average growth optimisation may not be the optimal strategy, but it hinges on one critical assumption: that risk is idiosyncratic. Diversification enables the gene to experience the ensemble average. What if such diversification is not possible?</p>
 <p>In that case, we are effectively back to the world that I showed you at the beginning. You could consider each line to represent an individual and their children, with their children all bound to the same bet. In almost all cases, this leads to a decline in frequency. An extraordinarily lucky few might boom through many rolls of the dice, but that is a rare chance.</p>
-<p>Further, recall decline toward the end of the 100 periods. This occurred as a small number of genetic lines comprise most of the population - in fact, one single line of the original 10,000 comprises 53% of the population at the end of 100 periods - and they cannot diversify their risk. A few unlucky coin flips and they are gone.</p>
+<p>Further, recall the decline toward the end of the 100 periods. This occurred as a small number of genetic lines comprise most of the population - in fact, one single line of the original 10,000 comprises 53% of the population at the end of 100 periods - and they cannot diversify their risk. A few unlucky coin flips and they are gone.</p>
 <p>The result is that, over a long enough time horizon, <em>everyone</em> is wiped out. There is no longer a lucky few. Here’s the same simulation plotted through 1000 iterations, over evolutionary time, in both linear and log scales.</p>
 <div class="cell">
 <details class="code-fold">
@@ -880,7 +883,7 @@ Figure&nbsp;8: Population of accepting types over 1000 periods (log scale)
 </div>
 </div>
 <p>What, then, is the growth maximising breeding strategy?</p>
-<p>Let’s set <span class="math inline">q</span> as the proportion of tribbles that breed in the valley. If we maximise the expected number of offspring, tribbles would breed in the valley 100 per cent of the time. That is, <span class="math inline">q=1</span>, leading to an an expected <span class="math inline">0.75\times 3=2.25</span> offspring.</p>
+<p>Let’s set <span class="math inline">q</span> as the proportion of tribbles that breed in the valley. If we maximise the expected number of offspring, tribbles would breed in the valley 100 per cent of the time. That is, <span class="math inline">q=1</span>, leading to an expected <span class="math inline">0.75\times 3=2.25</span> offspring.</p>
 <p>However, in the long run, if all tribbles make this choice, the tribbles will be wiped out. Over the long term, the tribbles will experience droughts 75 per cent of the time and floods 25 per cent of the time. Putting this into the language of ergodicity economics, the time average growth rate is zero.</p>
 <p>To find the <span class="math inline">q</span> that maximises the growth rate, we take the log of G and calculate the derivative. The solution is to breed in the valley 75 per cent of the time and on the plateau 25 per cent of the time.</p>
 <span class="math display">\begin{align*}
@@ -902,7 +905,7 @@ U(n)&amp;=0.75\times \log(3q)+0.25\times log(3-3q))\\[6pt]
 q&amp;=0.75
 \end{align*}</span>
 <p>Here we have a world where maximising the time-average growth rate is the optimal solution. In this case, it is achieved via probability matching.</p>
-<p>There is one feature of this scenario that might seem off. Probability matching maximises the growth rate for the species. But which individuals are heading off to the plateau where 75% of the time they are going to be fried? If this an altruistic act for the benefit of the species? Why not head down to the cool valley where they, as an individual, is more likely to survive?</p>
+<p>There is one feature of this scenario that might seem off. Probability matching maximises the growth rate for the species. But which individuals are heading off to the plateau where 75% of the time they are going to be fried? Is this an altruistic act for the benefit of the species? Why not head down to the cool valley where they, as an individual, are more likely to survive?</p>
 <p>The answer was provided by <span class="citation" data-cites="grafen1999">Grafen (<a href="#ref-grafen1999" role="doc-biblioref">1999</a>)</span>. Suppose we have a large population of size <span class="math inline">N</span>. If an agent heads to the valley, the expected fraction of the population comprising their offspring (<span class="math inline">\pi</span>) will be:</p>
 <p><span class="math display">
 \pi(\text{valley})\approx\frac{0.75}{qN}=\frac{1}{N}
@@ -918,7 +921,7 @@ q&amp;=0.75
 <p>I have created two hypothetical worlds, one making the case for maximising expected value despite being in a multiplicative world, and another where maximising the time-average growth rate is the optimal strategy. In both cases, the optimal strategy relies on the gene’s eye view. The variation comes from the probability structure of the environment.</p>
 <p>I am hardly the first to propose this. I’m drawing on a rich history of research into the evolution of geometric growth rate maximisation in the biological literature. This in turn has been used by economic researchers such as <span class="citation" data-cites="robson2011">Robson and Samuelson (<a href="#ref-robson2011" role="doc-biblioref">2011</a>)</span> in the analysis of the evolution of preferences.</p>
 <p>But, I like to think that this ergodicity economics exercise provides a nice opportunity to tie multiple threads together to provide a different perspective.</p>
-<p>What’s next? I’ve been building a set of simulations examining mixed environments. What if the probabilistic structure of the environment is a mix of multiplicative and additive bets? You could think of the additive phase of the experiment I described earlier as comprising an few additive gambles in a multiplicative world. What if the environment switches between additive and multiplicative?</p>
+<p>What’s next? I’ve been building a set of simulations examining mixed environments. What if the probabilistic structure of the environment is a mix of multiplicative and additive bets? You could think of the additive phase of the experiment I described earlier as comprising a few additive gambles in a multiplicative world. What if the environment switches between additive and multiplicative?</p>
 <p>There isn’t a simple closed form solution to this problem. If you have a mix of additive and multiplicative bets, or even a non-constant multiplicative growth rate, an “ergodic observable” cannot easily be created. At present, it is best examined via simulation.</p>
 
 
@@ -940,10 +943,10 @@ Cooper, W. S., and Kaplan, R. H. (1982). Adaptive <span>“</span>coin-flipping<
 Doctor, J. N., Wakker, P. P., and Wang, T. V. (2020). Economists<span>’</span> views on the ergodicity problem. <em>Nature Physics</em>, <em>16</em>(12), 1168–1168. <a href="https://doi.org/10.1038/s41567-020-01106-x">https://doi.org/10.1038/s41567-020-01106-x</a>
 </div>
 <div id="ref-ford2023" class="csl-entry" role="listitem">
-Ford, M. C., and Kay, J. A. (2023). The Limitations of Growth- Optimal Approaches to Decision Making Under Uncertainty. <em>Econ Journal Watch</em>, <em>20</em>(2), 314–334. <a href="https://econjwatch.org/articles/the-limitations-of-growth-optimal-approaches-to-decision-making">https://econjwatch.org/articles/the-limitations-of-growth-optimal-approaches-to-decision-making</a>
+Ford, M. C., and Kay, J. A. (2023). The limitations of growth- optimal approaches to decision making under uncertainty. <em>Econ Journal Watch</em>, <em>20</em>(2), 314–334. <a href="https://econjwatch.org/articles/the-limitations-of-growth-optimal-approaches-to-decision-making">https://econjwatch.org/articles/the-limitations-of-growth-optimal-approaches-to-decision-making</a>
 </div>
 <div id="ref-grafen1999" class="csl-entry" role="listitem">
-Grafen, A. (1999). Formal Darwinism, the individual<span></span>as<span></span>maximizing<span></span>agent analogy and bet<span></span>hedging. <em>Proceedings of the Royal Society of London. Series B: Biological Sciences</em>, <em>266</em>(1421), 799–803. <a href="https://doi.org/10.1098/rspb.1999.0708">https://doi.org/10.1098/rspb.1999.0708</a>
+Grafen, A. (1999). Formal darwinism, the individual<span></span>as<span></span>maximizing<span></span>agent analogy and bet<span></span>hedging. <em>Proceedings of the Royal Society of London. Series B: Biological Sciences</em>, <em>266</em>(1421), 799–803. <a href="https://doi.org/10.1098/rspb.1999.0708">https://doi.org/10.1098/rspb.1999.0708</a>
 </div>
 <div id="ref-meder2021" class="csl-entry" role="listitem">
 Meder, D., Rabe, F., Morville, T., Madsen, K. H., Koudahl, M. T., … Hulme, O. J. (2021). Ergodicity-breaking reveals time optimal decision making in humans. <em>PLoS Computational Biology</em>, <em>17</em>(9), e1009217. <a href="https://doi.org/10.1371/journal.pcbi.1009217">https://doi.org/10.1371/journal.pcbi.1009217</a>

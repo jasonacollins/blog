@@ -7,13 +7,13 @@ draft: false
 
 Following [my last post](there-is-no-quantity-quality-trade-off.md) suggesting that there was no quality-quantity trade-off in modern societies (at least to an extent that mattered), I wanted to point to a nice model that makes this argument. The interesting thing about the model is that the purpose of the authors in developing it was not primarily to make that point.
 
-The model is by Oded Galor and Omer Moav model in their article _Natural Selection and the Origin of Economic Growth_. [I've posted on the paper before](natural-selection-and-economic-growth.md) and [my first working paper](https://research-repository.uwa.edu.au/en/publications/economic-growth-and-evolution-parental-preference-for-quality-and-2) simulated this model (a post about that [paper is here](natural-selection-and-the-collapse-of-economic-growth.md)).
+The model is by Oded Galor and Omer Moav in their article _Natural Selection and the Origin of Economic Growth_. [I've posted on the paper before](natural-selection-and-economic-growth.md) and [my first working paper](https://research-repository.uwa.edu.au/en/publications/economic-growth-and-evolution-parental-preference-for-quality-and-2) simulated this model (a post about that [paper is here](natural-selection-and-the-collapse-of-economic-growth.md)).
 
 The basic idea of the model is as follows. In the population there are two genotypes - those who prefer higher quality children, and those who prefer a greater quantity of children. Those with a preference for higher quality invest more in educating their children.
 
 In the Malthusian state before the Industrial Revolution, those who invest in their children's quality have a fitness advantage. Their children are better able to take advantage of the scarce resources. As a result, the quality-preferring types increase in prevalence, increasing the average level of education in the population. Technological progress depends on the level of education in the population, so this also increases.
 
-This process creates a feedback loop. Faster technological progress increases the return to human capital, so the quality-preferring types further increase their children's education. Eventually the returns to human capital become so large that even the quantity-preferring types invest in some education. As this point technological progress greatly accelerates and the economy enters into a new modern growth state.
+This process creates a feedback loop. Faster technological progress increases the return to human capital, so the quality-preferring types further increase their children's education. Eventually the returns to human capital become so large that even the quantity-preferring types invest in some education. At this point technological progress greatly accelerates and the economy enters into a new modern growth state.
 
 However, this changes the dynamics of investment in education. With technological progress so high, the quality-preferring types over-invest in educating their children and their prevalence starts to decline. Those with a lower investment in child quality now have the evolutionary advantage.
 

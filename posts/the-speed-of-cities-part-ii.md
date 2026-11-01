@@ -15,7 +15,7 @@ At the top of the pace of life score rankings were Japan (4th) and the Western E
 
 The apparently faster pace of life in the Western European countries compared to the United States and Canada is surprising and seems to go against New York stereotypes. I would suggest that one reason for the apparently faster pace of the Western European countries is that two of the three measures, postal speed and the accuracy of public clocks, may be more weakly linked with speed of life than walking speed and are heavily influenced by the nature of the public service. When we look at only walking speed, the rankings are changed. The United States jumps to 6th (from 16th overall) and Kenya is 9th (compared to 22nd overall). Conversely, Austrians have the 23rd fastest walking pace, versus their overall place of 8th. The Irish are the fastest walkers and have the second highest pace of life score.
 
-Given the lack of earlier analysis into factors besides population size, Levine and Norenzayan sought to test a range of hypothesis about what might affect the pace of life. These were:
+Given the lack of earlier analysis into factors besides population size, Levine and Norenzayan sought to test a range of hypotheses about what might affect the pace of life. These were:
 
 
 
@@ -26,7 +26,7 @@ Given the lack of earlier analysis into factors besides population size, Levine 
   2. Hotter places are slower (using the average annual maximum).
 
 	
-  3. Individualistic cultures are slower.
+  3. Individualistic cultures are faster.
 
 	
   4. Bigger cities are faster. As 23 of the 28 cities for which population size was available had more than 1 million residents, the sample did not allow them to fully test this hypothesis.
@@ -40,8 +40,8 @@ The big question that comes out of these findings is the question of causation. 
 
 My instinct is that it is a mix of both, but that the selection effect is a significant player. However, there would be expected to be clear incentive effects of higher valued time (although which wins out - the substitution or income effect as the city gets richer?).
 
-Unlike earlier studies, the authors found no significant link between walking speed and population size. This could be representative of the lack of variation in the sample. The authors also suggested that this could be evidence of a threshold effect in that once a city exceeds a certain size, additional population growth does not affect the pace of life. This makes some sense, in that there is a limit to the speed with which someone can realistically walk. Further, once there is a certain threshold of environmental stimulus (if we adopt the hypothesis of Milbrand and Bornstein and Bornstein discussed in [my last post](the-speed-of-cities.md)) or alternative forms of entertainment, it is unlikely to spur faster walking.
+Unlike earlier studies, the authors found no significant link between walking speed and population size. This could be representative of the lack of variation in the sample. The authors also suggested that this could be evidence of a threshold effect in that once a city exceeds a certain size, additional population growth does not affect the pace of life. This makes some sense, in that there is a limit to the speed with which someone can realistically walk. Further, once there is a certain threshold of environmental stimulus (if we adopt the hypothesis of Milgram and Bornstein and Bornstein discussed in [my last post](the-speed-of-cities.md)) or alternative forms of entertainment, it is unlikely to spur faster walking.
 
 One interesting suggestion by the authors was the potential for reinforcement. If a large city has more economic opportunity, it may attract migrants, further increasing its size. They noted the potential for future study into which factors are mutually reinforcing. This ties back to the issue of selection effects. A city that is slightly richer may become significantly so if it can attract a certain type of resident.
 
-As a last note,the authors also sought to look at some consequences of the pace-of-life and hypothesised that faster cities have higher rates of death from heart disease, higher smoking rates and higher subjective well-being. These were all found to be supported in the predicted directions (although the relationship was less strong than that between the other community characteristics and the pace of life). I won't go into these findings here, but the heart disease and smoking elements make sense. The subjective well-being finding also seems reasonable if you assume that higher income and other city benefits deliver well-being. It also suggests that if there is any "over-stimulation" that residents are trying to avoid through a fast-walking speed, the cost of this is outweighed by the benefits of city life.
+As a last note, the authors also sought to look at some consequences of the pace-of-life and hypothesised that faster cities have higher rates of death from heart disease, higher smoking rates and higher subjective well-being. These were all found to be supported in the predicted directions (although the relationship was less strong than that between the other community characteristics and the pace of life). I won't go into these findings here, but the heart disease and smoking elements make sense. The subjective well-being finding also seems reasonable if you assume that higher income and other city benefits deliver well-being. It also suggests that if there is any "over-stimulation" that residents are trying to avoid through a fast-walking speed, the cost of this is outweighed by the benefits of city life.

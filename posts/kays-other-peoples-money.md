@@ -9,12 +9,12 @@ John Kay's *Other People's Money* is generally an excellent book. Kay argues th
 
 I highlighted a lot of passages through the book. Here is a small selection.
 
-First, the chapter on risk in excellent - particularly its treatment of rationality. The point in the following paragraph is in some senses obvious, but often ignored:
+First, the chapter on risk is excellent - particularly its treatment of rationality. The point in the following paragraph is in some senses obvious, but often ignored:
 
 <blockquote>If you don’t behave ‘rationally’, you can be ‘Dutch-booked’ – an offensive phrase (to the Dutch – the origins of the expression seem lost in the mists of time) which means that others can devise strategies that will make money at your expense. Many economists use this argument to insist that people do behave ‘rationally’ – behaviour that does not conform to the model will be abandoned because those who engage in it lose money. I used this reasoning myself with students. But I now see it differently. People do buy lottery tickets, week after week, and they do so for reasons that seem entirely valid to them. People don’t behave – for both good and bad reasons – in line with the economic model of rationality. In consequence others do devise strategies that make money at their expense. That consequence is critical to an understanding of how financial markets operate today.</blockquote>
 
 
-One of the most interesting threads in the books is that many of the regulatory mantras are about the financial intermediaries, not the end users. The drives for transparency and liquidity in particular come in for criticism by Kay. First, the demand for transparency is a sign of the problem:
+One of the most interesting threads in the book is that many of the regulatory mantras are about the financial intermediaries, not the end users. The drives for transparency and liquidity in particular come in for criticism by Kay. First, the demand for transparency is a sign of the problem:
 
 
 <blockquote>Transparency is the mantra in the modern world of finance. But the demand for transparency in intermediation is a sign that intermediation is working badly, not a means of making it work  well. A happy motorist is one who need never look under the car bonnet. A good lawyer manages our problem; a bad lawyer responds to every issue by asking us what we want to do. When ill, we look for a recommended course of action, not a detailed description of our ailments and a list of references to relevant medical texts.</blockquote>

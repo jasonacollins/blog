@@ -5,7 +5,7 @@ date: 2012-03-12 09:25:22+00:00
 draft: false
 ---
 
-[Diane Coyle](http://www.enlightenmenteconomics.com/blog/?p=1588) has noted the release of three new books on the evolution of cooperation: *Wired for Culture* by Mark Pagel, *Beyond Human Nature* by Jesse Prinz and *Together* by Richard Sennett. Each was reviewed by Robin McKie [in the Guardian](http://www.guardian.co.uk/books/2012/mar/11/wired-culture-pagel-prinz-sennett-review)
+[Diane Coyle](http://www.enlightenmenteconomics.com/blog/?p=1588) has noted the release of three new books on the evolution of cooperation: *Wired for Culture* by Mark Pagel, *Beyond Human Nature* by Jesse Prinz and *Together* by Richard Sennett. Each was reviewed by Robin McKie [in the Guardian](http://www.guardian.co.uk/books/2012/mar/11/wired-culture-pagel-prinz-sennett-review).
 
 A quick glance at some reviews, such as [this by Julian Baggini](http://www.guardian.co.uk/books/2012/feb/23/wired-for-culture-pagel-review), suggests that evolution is at the heart of Pagel’s discussion of the development of culture, with a fundamental question being how does human culture affect transmission of genes. In [a review in the Telegraph](http://www.telegraph.co.uk/culture/books/bookreviews/9116071/Wired-for-Culture-by-Mark-Pagel-and-Together-by-Richard-Sennett-review.html), Tom Chivers pitches Pagel’s book as a response to Dawkins and a corollary to Steven Pinker:
 

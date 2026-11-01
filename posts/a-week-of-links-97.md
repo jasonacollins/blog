@@ -16,7 +16,7 @@ Links this week:
   3. [The genetic component of sex offending](http://www.independent.co.uk/news/uk/crime/men-up-to-five-times-more-likely-to-commit-sex-crimes-than-the-average-male-if-they-have-brother-or-father-convicted-of-a-sex-offence-10163025.html).
 
 	
-  4. ["[I]is growth mindset the one concept in psychology which throws up gigantic effect sizes and always works? Or did Carol Dweck really, honest-to-goodness, make a pact with the Devil in which she offered her eternal soul in exchange for spectacular study results?"](http://slatestarcodex.com/2015/04/08/no-clarity-around-growth-mindset-yet/)
+  4. ["[I]s growth mindset the one concept in psychology which throws up gigantic effect sizes and always works? Or did Carol Dweck really, honest-to-goodness, make a pact with the Devil in which she offered her eternal soul in exchange for spectacular study results?"](http://slatestarcodex.com/2015/04/08/no-clarity-around-growth-mindset-yet/)
 
   5. [The weird belief that people follow dietary guidelines](http://velvetgloveironfist.blogspot.com.au/2015/04/the-weird-belief-that-people-follow.html). A question - to what extent do food manufacturers respond to the guidelines, especially to earn "heart smart" certifications and the like?
 

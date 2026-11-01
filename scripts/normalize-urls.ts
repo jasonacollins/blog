@@ -1,6 +1,9 @@
 // Match Cloudflare Pages' public URLs after Quarto generates canonical tags
 // and the sitemap. Run via project.post-render, with the site URL as argument.
 // Uses Quarto's bundled Deno runtime; no packages or network access required.
+// Preview and single-page renders don't need site-wide publishing changes.
+if (Deno.env.get("QUARTO_PROJECT_RENDER_ALL") !== "1") Deno.exit(0);
+
 const site = new URL(Deno.args[0]);
 const output = Deno.env.get("QUARTO_PROJECT_OUTPUT_DIR");
 if (!output) throw new Error("Run this script as a Quarto post-render hook.");

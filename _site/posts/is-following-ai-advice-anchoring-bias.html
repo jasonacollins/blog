@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.18">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -100,7 +100,7 @@ div.csl-indent {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-cd8592f072b9d28f7be82a1360dc3fa5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -292,11 +292,11 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 <p>Workers were then placed in the following conditions.</p>
 <ul>
 <li><strong>Human only</strong>: Workers provide their prediction without an AI prediction. They are given 25 seconds for each prediction</li>
-<li><strong>Constant time</strong>: Workers provide their prediction with the help of the AI prediction, with 18 second per prediction.<br>
+<li><strong>Constant time</strong>: Workers provide their prediction with the help of the AI prediction, with 18 seconds per prediction.<br>
 </li>
 <li><strong>Random time</strong>: AI assistance with the time allocation randomly set to either 10 seconds or 25 seconds each trial.<br>
 </li>
-<li><strong>Confidence-based time</strong>: AI assistance with 10 or 25 seconds depending of AI confidence (low confidence = more time).<br>
+<li><strong>Confidence-based time</strong>: AI assistance with 10 or 25 seconds depending on AI confidence (low confidence = more time).<br>
 </li>
 <li><strong>Confidence-based time with explanation</strong>: As for confidence-based time but the AI confidence is explicitly provided (“low” or “high”).</li>
 </ul>
@@ -315,7 +315,7 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 </blockquote>
 <p>Again, for this not to be true, we would need the person to completely ignore the AI. And unsurprisingly, eyeballing the figure, my hypothesis is true. The AI conditions all markedly outperform the human-only group on estimates where the AI recommendation is correct.</p>
 <p>There’s an interesting pattern across all the conditions. Whenever you decrease the probability of following an incorrect AI recommendation, you also decrease the probability of following a correct recommendation. The result is that performance across all conditions is largely the same. Because the AI in this experiment is degraded to a quality similar to that of humans alone, reliance on the AI is largely a wash.</p>
-<p>Finally, the authors provide another interesting interpretation when they state that they achieve complementary knowledge. Due to the three excluded variables, the human has more information than the AI. There are a lot of real-world application where the human will have information the AI doesn’t - an AI-financial adviser for example - so finding ways to enhance the use of unshared information is vital to achieving complementary performance. In this case, we get complementary knowledge in that the humans do as well as the AI alone despite the fact they don’t always follow the AI. Unfortunately, we don’t get complementary performance - that is, outperformance by the human-AI team of both the human and AI alone. But examining how to get people to use unshared information seems a prospective path.</p>
+<p>Finally, the authors provide another interesting interpretation when they state that they achieve complementary knowledge. Due to the three excluded variables, the human has more information than the AI. There are a lot of real-world applications where the human will have information the AI doesn’t - an AI-financial adviser for example - so finding ways to enhance the use of unshared information is vital to achieving complementary performance. In this case, we get complementary knowledge in that the humans do as well as the AI alone despite the fact they don’t always follow the AI. Unfortunately, we don’t get complementary performance - that is, outperformance by the human-AI team of both the human and AI alone. But examining how to get people to use unshared information seems a prospective path.</p>
 </section>
 <section id="the-problem-is-more-often-insufficient-anchoring" class="level2">
 <h2 class="anchored" data-anchor-id="the-problem-is-more-often-insufficient-anchoring">The problem is more often insufficient anchoring</h2>
@@ -327,7 +327,7 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 <p><a href="img/is-following-ai-advice-anchoring/dietvorst-et-al-2018-fig-2b.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="@dietvorst2018 Figure 2b"><img src="img/is-following-ai-advice-anchoring/dietvorst-et-al-2018-fig-2b.png" class="img-fluid figure-img" width="400" alt="Dietvorst et al. (2018) Figure 2b"></a></p>
 </figure>
 </div>
-<p>But how does the performance of those who selected the model compare to the model itself. Here is a chart I have generated from the experimental data provided in the <a href="https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2016.2643/suppl_file/mnsc.2016.2643-sm-data.zip">supplementary materials</a>. (Again noting that business schools <a href="../posts/why-i-dont-trust-most-human-ai-interaction-experimental-research.html">more often share data</a>.) In the “Adjust by 10” group, the participant’s adjustments were a wash, with their performance on par with the unadjusted model. But for those in the “Change 10” group, their changes increased the error. The AI alone was a stronger performer.</p>
+<p>But how does the performance of those who selected the model compare to the model itself? Here is a chart I have generated from the experimental data provided in the <a href="https://pubsonline.informs.org/doi/suppl/10.1287/mnsc.2016.2643/suppl_file/mnsc.2016.2643-sm-data.zip">supplementary materials</a>. (Again noting that business schools <a href="../posts/why-i-dont-trust-most-human-ai-interaction-experimental-research.html">more often share data</a>.) In the “Adjust by 10” group, the participant’s adjustments were a wash, with their performance on par with the unadjusted model. But for those in the “Change 10” group, their changes increased the error. The AI alone was a stronger performer.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>

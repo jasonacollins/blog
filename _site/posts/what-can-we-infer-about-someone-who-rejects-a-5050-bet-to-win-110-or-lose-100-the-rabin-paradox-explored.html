@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.18">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -80,7 +80,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-cd8592f072b9d28f7be82a1360dc3fa5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -270,7 +270,7 @@ window.Quarto = {
 <p>An expected utility maximiser who rejects this bet is exhibiting a level of risk aversion that would lead them to reject bets that no one in their right mind would reject. It can’t be the case that this is simply risk aversion.</p>
 </blockquote>
 <p>For the remainder of this post I am going to pull apart Rabin’s argument from his justifiably famous paper <a href="https://doi.org/10.1111/1468-0262.00158">Risk Aversion and Expected-Utility Theory: A Calibration Theorem</a> (<a href="http://dklevine.com/archive/refs47667.pdf">pdf</a>). A more readable version of this argument was also published in 2001 in <a href="https://www.aeaweb.org/articles?id=10.1257/jep.15.1.219">an article by Rabin and Richard Thaler</a>.</p>
-<p>To understand Rabin’s point, I have worked through the math in his paper. You can see my mathematical workings in an Appendix at the bottom of this post. There were quite a few minor errors in the paper - and some major errors in the formulas - but I believe I’ve captured the crux of the argument. (I’d be grateful for some second opinions on this).</p>
+<p>To understand Rabin’s point, I have worked through the maths in his paper. You can see my mathematical workings in an Appendix at the bottom of this post. There were quite a few minor errors in the paper - and some major errors in the formulas - but I believe I’ve captured the crux of the argument. (I’d be grateful for some second opinions on this).</p>
 <p>I started working through these two articles with the impression that Rabin’s argument was a fatal blow to the idea that expected utility theory accurately describes the rejection of bets such as that above. I would have been comfortable making the above response. However, after playing with the numbers and developing a better understanding of the paper, I would say that the above response is not strictly true. Rabin’s paper makes an important point, but it is far from a fatal blow by itself. (That fatal blow does come, just not solely from here.)</p>
 <section id="describing-rabins-argument" class="level2">
 <h2 class="anchored" data-anchor-id="describing-rabins-argument">Describing Rabin’s argument</h2>
@@ -350,7 +350,7 @@ r(w)=U(w)-U(w-l)
 </span></p>
 <p>This formula effectively breaks down <span class="math inline">x</span> into <span class="math inline">g</span> size components, successively discounting each additional <span class="math inline">g</span> at <span class="math inline">l/g</span> of the previous <span class="math inline">g</span>.</p>
 <p>You need <span class="math inline">k^{**}(x)+1</span> lots of <span class="math inline">g</span> to cover <span class="math inline">x</span>. For instance, if <span class="math inline">x</span> was 32 and we had a 50:50 bet for win $11, lose $10, <span class="math inline">32/11=2</span>. You need 2+1 lots of 11 to fully cover 32. It actually covers a touch more than 32, hence the calculation being for an upper bound.</p>
-<p>In the paper, Rabin defines <span class="math inline">k^{**}(x)=int((x/g)+1)</span> This seems to better capture the required number of <span class="math inline">g</span> to fully cover <span class="math inline">x</span>, but the iterations in the above formula start at <span class="math inline">i=0</span>. The calculations I run below with my version of the formula replicate Rabin’s, supporting the suggestion that the addition of 1 in the paper is an error.</p>
+<p>In the paper, Rabin defines <span class="math inline">k^{**}(x)=int((x/g)+1)</span>. This seems to better capture the required number of <span class="math inline">g</span> to fully cover <span class="math inline">x</span>, but the iterations in the above formula start at <span class="math inline">i=0</span>. The calculations I run below with my version of the formula replicate Rabin’s, supporting the suggestion that the addition of 1 in the paper is an error.</p>
 <p><span class="math inline">r(w)</span> is shorthand for the amount of utility sacrificed from losing the gamble (i.e.&nbsp;losing <span class="math inline">l</span>). We know that the utility of the gain <span class="math inline">g</span> is less than this, as the bet is rejected. If we let <span class="math inline">r(w)=1</span>, the equation can be thought of as giving you the maximum utility you could get from the gain of <span class="math inline">x</span> relative to the utility of the loss of <span class="math inline">l</span>.</p>
 <p>Putting this together, the upper bound of the utility of the possible gain <span class="math inline">x</span> is therefore less than, first, the upper bound of the relative utility from the first $11, <span class="math inline">(10/11)^0r(w)=r(w)</span>, the upper bound of utility from the next $11, <span class="math inline">(10/11)^1r(w)</span>, and the upper bound of the utility from the remaining $10 - taking a conservative approach this is calculated as though it were a full $11: <span class="math inline">(10/11)^2r(w)</span>.</p>
 </section>

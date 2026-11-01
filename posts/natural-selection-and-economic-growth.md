@@ -9,7 +9,7 @@ draft: false
 
 Galor and Moav's paper is based on a model that has two types of people in the population. Each of these types has a genetically inherited preference for quality or quantity of children. The quality-preferring genotype wants their children to have higher human capital, so they invest more in their education, while the quantity-preferring genotype is more interested in raw numbers.
 
-During the long Malthusian era in which both genotypes struggle to earn enough to subsist (i.e. during the thousands of years leading up the Industrial Revolution), the quality-preferring genotypes have a fitness advantage. As the quality-preferring genotypes are of higher quality, they earn higher wages. These higher wages are more than enough to cover education expenses, so they are also able to have more children than the quantity-preferring genotypes.
+During the long Malthusian era in which both genotypes struggle to earn enough to subsist (i.e. during the thousands of years leading up to the Industrial Revolution), the quality-preferring genotypes have a fitness advantage. As the quality-preferring genotypes are of higher quality, they earn higher wages. These higher wages are more than enough to cover education expenses, so they are also able to have more children than the quantity-preferring genotypes.
 
 This fitness advantage leads the quality-preferring genotypes to increase in prevalence. As this occurs, technological progress increases, as the average level of education in the population drives technological progress. This in turn increases the incentive to invest in education, creating a feedback loop between technology and education.
 
@@ -21,11 +21,11 @@ During this process, the population growth rate changes. Up to the time of the I
 
 From an evolutionary perspective, the Industrial Revolution also changes the selection pressure in the model. After the Industrial Revolution, the quality-preferring genotypes invest so much into education that they have lower fertility than the quantity-preferring genotypes. They then reduce in prevalence, their fitness advantage erased.
 
-Galor and Moav paper work through the dynamics of the model using phase diagrams. It is not particularly easy or intuitive to see the processes working together in their paper, so my two PhD supervisors and I have just put out [a discussion paper](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1851251) that describes simulations of the model - and shows the dynamics in a form that is easier to visually comprehend. In the chart below, you can see the dramatic jump in technological progress around generation 45 of the simulation, with per capita income growth also jumping at that time. Meanwhile, population growth drops to zero.
+Galor and Moav work through the dynamics of the model using phase diagrams. It is not particularly easy or intuitive to see the processes working together in their paper, so my two PhD supervisors and I have just put out [a discussion paper](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1851251) that describes simulations of the model - and shows the dynamics in a form that is easier to visually comprehend. In the chart below, you can see the dramatic jump in technological progress around generation 45 of the simulation, with per capita income growth also jumping at that time. Meanwhile, population growth drops to zero.
 
 ![](img/figure-3-annual-growth-rate.jpg)
 
-This second chart shows the change population composition. The quality-preferring genotype (genotype a) steadily increases in prevalence through to the Industrial Revolution, peaking at just under 5 per cent of the population. Afterwards, it is selected against.
+This second chart shows the change in population composition. The quality-preferring genotype (genotype a) steadily increases in prevalence through to the Industrial Revolution, peaking at just under 5 per cent of the population. Afterwards, it is selected against.
 
 ![](img/figure-7-proportion-of-population-that-is-genotype-a.jpg)
 
@@ -35,7 +35,7 @@ In some ways, the natural selection occurring in Galor and Moav's model is a sid
 
 That highlights the point where I am not convinced that the model is true (to the extent that a model can be). As far as human evolution relates to economic growth, I expect that inherent quality is more important (and by quality, I mean economically useful qualities) than the quality-quantity trade-off. The Industrial Revolution was possible because higher quality people were selected for in the lead-up (and the lead up encompasses thousands of years).
 
-If quality is inherent, a high-quality person should have as many children as possible and this would have little effect on quality. For a man of low resources, his larger problem is convincing a woman to mate with him and not deciding on the right quantity-quantity mix.
+If quality is inherent, a high-quality person should have as many children as possible and this would have little effect on quality. For a man of low resources, his larger problem is convincing a woman to mate with him and not deciding on the right quality-quantity mix.
 
 The other thing that I should note is that, like most economic models, Galor and Moav's model includes consumption with no clear evolutionary rationale (an issue I have discussed in [an earlier post](consumption-and-fitness.md)). Why do people in the model consume more than subsistence? If some people chose to focus all excess consumption into raising children they would come to dominate the population. This might be justified as being something to which the population has not yet adapted, but that explanation does not satisfy me.
 

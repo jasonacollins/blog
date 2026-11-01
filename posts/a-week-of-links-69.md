@@ -7,7 +7,7 @@ draft: false
 
 Links this week:
 	
-  1. [Is your body mostly microbes?](http://www.bostonglobe.com/ideas/2014/09/13/your-body-mostly-microbes-actually-have-idea/qlcoKot4wfUXecjeVaFKFN/story.html?event=event25) A nice take-down of  another trail of citations dead-ends. One thing I have learnt from my PhD research is that when it comes to citations, academics are lazy.
+  1. [Is your body mostly microbes?](http://www.bostonglobe.com/ideas/2014/09/13/your-body-mostly-microbes-actually-have-idea/qlcoKot4wfUXecjeVaFKFN/story.html?event=event25) A nice take-down of  another trail of citation dead-ends. One thing I have learnt from my PhD research is that when it comes to citations, academics are lazy.
 
 	
   2. [A good piece on Peter Thiel](http://www.telegraph.co.uk/technology/11098971/Peter-Thiel-the-billionaire-tech-entrepreneur-on-a-mission-to-cheat-death.html). Curing death is on the agenda.

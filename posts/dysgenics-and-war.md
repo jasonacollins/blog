@@ -16,13 +16,13 @@ Bryan Caplan [has picked up](http://econlog.econlib.org/archives/2012/01/the_dem
 >
 >The result must be a tendency toward race degeneration, and that we may look forward to as a result of this great war. ...
 
-If Fisher had of known of the events of World War II and the systematic murder of Jews, he might have been more even horrified about the dysgenic effects of war. His feeling that war was decimating Europe while leaving the United States as the last remnant of civilization might have increased if he had of seen the flow of Jewish refugees from Europe to the United States (which I consider to be one of the most important boosts that the United States has ever received).
+If Fisher had known of the events of World War II and the systematic murder of Jews, he might have been even more horrified about the dysgenic effects of war. His feeling that war was decimating Europe while leaving the United States as the last remnant of civilisation might have increased if he had seen the flow of Jewish refugees from Europe to the United States (which I consider to be one of the most important boosts that the United States has ever received).
 
 Would Fisher have considered modern wars dysgenic? I have seen estimates (not sure how accurate) that the average IQ of the United States military is slightly above 100. However, I expect that the troops most likely to be killed (i.e. not the officers or airforce) would likely be below that mark. Most wars are now fought in developing or unstable countries, which given Fisher’s views on race, he would have seen as more benign than a war decimating Europe.
 
 So if modern wars were eugenic, would Fisher end his pacifism and wish for world-peace?
 
-At the end of Caplan’s post, after asking some good questions that the interviewer should have asked Fisher (I would guess that Fisher would have been comfortable answering a couple of them), Caplan summaries as follows:
+At the end of Caplan’s post, after asking some good questions that the interviewer should have asked Fisher (I would guess that Fisher would have been comfortable answering a couple of them), Caplan summarises as follows:
 
 >We've learned so much from human genetic research. But when I read Fisher, I understand why the subject terrifies so many people. Hereditarianism combined with inane, half-baked moral philosophy does indeed logically imply Nazi-style homicidal mania. But don't blame the facts of human genetics. Blame the inane, half-baked moral philosophy.
 

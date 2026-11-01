@@ -9,4 +9,4 @@ In the closing section to Robert Frank’s [Passions Within Reason: The Strategi
 
 >The difficulty confronting critics is that they have failed to come forward with an alternative theory. None of the evidence they cite against the self-interest model is really new. The experiments with prisoner’s dilemmas date from the 1950s, those with honesty and victims-in-distress from the 1960s. Even Kagan’s recent work on the role of emotional competencies merely provides modern scientific footing for beliefs that were all but universal during the nineteenth century. But as the philosopher Thomas Kuhn has stressed, a reigning theory is almost never displaced by mere contradictions in the data. If it is to be challenged at all, it must be by an alternative theory that better fits the facts.
 
-Twenty four years on, it is still a fair assessment.
+Twenty-four years on, it is still a fair assessment.

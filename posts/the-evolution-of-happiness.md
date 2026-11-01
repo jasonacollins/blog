@@ -20,7 +20,7 @@ Rayo and Becker relate a couple of cases that are similar. If you move from the 
 
 To formalise this idea, Rayo and Becker developed several "happiness functions". In one function, the agents first compare their income against their peers to determine their current social position. They then contrast their current social position against their relative social position in the last period. An advance in social position leads to happiness but it is only short-lived.
 
-Under this function  a general increase in income across society does not increase happiness (consistent with the [Easterlin paradox](http://en.wikipedia.org/wiki/Easterlin_paradox)), and happiness will tend to revert to a mean. However, given recent arguments that the Easterlin paradox is an artefact of having happiness measured on a bounded scale, Rayo and Becker's argument may need to more finely tuned.
+Under this function  a general increase in income across society does not increase happiness (consistent with the [Easterlin paradox](http://en.wikipedia.org/wiki/Easterlin_paradox)), and happiness will tend to revert to a mean. However, given recent arguments that the Easterlin paradox is an artefact of having happiness measured on a bounded scale, Rayo and Becker's argument may need to be more finely tuned.
 
 This happiness function is also consistent with the positive correlation between income and happiness sometimes observed in cross-section data. People are subject to random shocks and those who have higher income are more likely to have received a recent positive shock.
 

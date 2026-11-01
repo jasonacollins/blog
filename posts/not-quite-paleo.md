@@ -6,9 +6,9 @@ draft: false
 title: Not quite paleo
 ---
 
-Peter Turchin, advocate of [Cliodynamics](cliodynamics-and-complexity.md), has [posted on his recent success](http://socialevolutionforum.com/2012/08/23/an-update-on-my-so-called-paleo-diet/) in adopting the "paleo diet". The diet is based on the food presumably eaten by our evolutionary ancestors in the Paleolithic era, which is before the dawn of agriculture. Lots of meat, fruit, vegetables and nuts, but no grains.
+Peter Turchin, advocate of [Cliodynamics](cliodynamics-and-complexity.md), has [posted on his recent success](http://socialevolutionforum.com/2012/08/23/an-update-on-my-so-called-paleo-diet/) in adopting the "paleo diet". The diet is based on the food presumably eaten by our evolutionary ancestors in the Palaeolithic era, which is before the dawn of agriculture. Lots of meat, fruit, vegetables and nuts, but no grains.
 
-Although I have much sympathy for the paleo diet for its health benefits (its largely how I eat), I've always thought the paleo label was not quite right. Turchin raises this point:
+Although I have much sympathy for the paleo diet for its health benefits (it's largely how I eat), I've always thought the paleo label was not quite right. Turchin raises this point:
 
 
 
@@ -26,4 +26,4 @@ A bigger issue, however, is the evolutionary interpretation of the paleo diet. E
 
 And this is before we consider recent human evolution - compare the ability to digest grains and alcohol between groups with varying histories of agriculture, and we get very different results. Again, steering clear of rice or grains may be the better health option, but evolution has changed the equation from what it once was.
 
-I prefer the example of tomatoes - sourced from South America, not consumed by out ancestors on the African plains, but they are a core element of many paleo diets. I would suggest the tomato eaters are better off for it. When our hominid ancestors started to eat meat, did a group of them refuse to join in as they preferred to eat the "Pliocene diet"?
+I prefer the example of tomatoes - sourced from South America, not consumed by our ancestors on the African plains, but they are a core element of many paleo diets. I would suggest the tomato eaters are better off for it. When our hominid ancestors started to eat meat, did a group of them refuse to join in as they preferred to eat the "Pliocene diet"?

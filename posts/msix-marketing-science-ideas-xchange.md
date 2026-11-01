@@ -13,7 +13,7 @@ For those in or near Sydney at the end of July, there's an interesting conferenc
 
 It will be interesting to go to a behavioural insights conference full of marketers, rather than the usual economists. Marketers have had to be willing to embrace a relatively realistic understanding of human behaviour and, obviously, have been exploiting decision-making biases for years. But I get the sense that they could be more systematic in their approach and adopt a much richer understanding of human nature.
 
-Headlining the conference is Rory Sutherland, the best friend of behavioural science in the ad world (although Rory is [happy to keep using the term 'behavioural economics](https://www.directnewideas.com/magazine/?id=1352)'). Watch the video below for a taste of what is on offer. I endorse Rory's fast train strategy, and recommend googling around for some of this other presentations.
+Headlining the conference is Rory Sutherland, the best friend of behavioural science in the ad world (although Rory is [happy to keep using the term 'behavioural economics](https://www.directnewideas.com/magazine/?id=1352)'). Watch the video below for a taste of what is on offer. I endorse Rory's fast train strategy, and recommend googling around for some of his other presentations.
 
 http://youtu.be/iueVZJVEmEs
 

@@ -8,7 +8,7 @@ title: The three stages of evolutionary economics
 
 Many of the suggested additions to my [reading list](economics_and_evolutionary_biology_reading_list.md) in evolution and economics came from the fields of evolutionary economics and complexity theory.
 
-While my area of interest is sometimes described as "evolutionary economics", evolutionary economics is a label generally applied to the study of the interactions of firms, institutions and agents in the economy using an evolutionary methodology. Businesses search the landscape for technology and other sources of competitive advantage, and those business modules (technologies, plans) with higher fitness are replicated and spread. Much research in evolutionary economics also has strong links to complexity theory. However, evolutionary economics it is not directly concerned with evolutionary biology.
+While my area of interest is sometimes described as "evolutionary economics", evolutionary economics is a label generally applied to the study of the interactions of firms, institutions and agents in the economy using an evolutionary methodology. Businesses search the landscape for technology and other sources of competitive advantage, and those business modules (technologies, plans) with higher fitness are replicated and spread. Much research in evolutionary economics also has strong links to complexity theory. However, evolutionary economics is not directly concerned with evolutionary biology.
 
 I tend to argue for the intersection of evolution and economics at a deeper level than that generally examined in evolutionary economics. I suggest there are three stages of evolutionary economics.
 

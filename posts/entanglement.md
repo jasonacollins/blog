@@ -12,7 +12,7 @@ The basic argument by Joy and Hillis is that we are reaching a point where our s
 
 One example is the Windows Operating System, with no-one understanding the entire code. That contrasts to their earlier days when they could hold an entire operating system code in their heads. Another example they gave was that no one knows what would happen if GPS got turned off.
 
-The consequence of this is that when something goes wrong, we no longer have the ability to step back and determine what went wrong. Each system so dependent on the other that you might not be able to restart one system without the other, so cannot restore two mutually dependent systems.
+The consequence of this is that when something goes wrong, we no longer have the ability to step back and determine what went wrong. Each system is so dependent on the other that you might not be able to restart one system without the other, so cannot restore two mutually dependent systems.
 
 Unlike Y2K, which they (not sure which of the two said this) were optimistic about, the entanglement has moved far beyond the level of complication that existed at that time.
 

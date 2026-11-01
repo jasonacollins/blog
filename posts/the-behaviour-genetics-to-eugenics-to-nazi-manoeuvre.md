@@ -5,7 +5,7 @@ date: 2014-07-16 13:04:25+00:00
 draft: false
 ---
 
-Recently, I've tended to roll my eyes rather than respond to poor commentary on behaviour genetics. But a[ review by Kate Douglas at New Scientist](http://www.newscientist.com/article/mg22329770.800-reaping-the-whirlwind-of-nazi-eugenics.html), in which she pulls the behaviour genetics to eugenics to Nazi manoeuvre, has pointed out a potentially interesting book.
+Recently, I've tended to roll my eyes rather than respond to poor commentary on behaviour genetics. But a [review by Kate Douglas at New Scientist](http://www.newscientist.com/article/mg22329770.800-reaping-the-whirlwind-of-nazi-eugenics.html), in which she pulls the behaviour genetics to eugenics to Nazi manoeuvre, has pointed out a potentially interesting book.
 
 First, from the conclusion to Douglas's review (actually, not so much a review but a launchpad):
 

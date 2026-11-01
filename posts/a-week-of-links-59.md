@@ -19,7 +19,7 @@ Links this week:
   2. [Rory Sutherland on social norms](http://www.spectator.co.uk/life/the-wiki-man/9264201/why-well-never-go-back-to-smoking-indoors).
 
 	
-  3. [Economics incentives versus nudge](http://www.bristol.ac.uk/cmpo/publications/papers/2014/wp328.pdf) (pdf). Don't forget that basic economic mechanisms can work.
+  3. [Economic incentives versus nudge](http://www.bristol.ac.uk/cmpo/publications/papers/2014/wp328.pdf) (pdf). Don't forget that basic economic mechanisms can work.
 
 	
   4. [We're related to our friends](http://www.npr.org/blogs/health/2014/07/14/331354227/do-we-choose-our-friends-because-they-share-our-genes).

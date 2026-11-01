@@ -57,4 +57,4 @@ I suspect that most lenders are already using more sophisticated models than thi
 
 As a bonus, improper linear models, as they are less prone to overfitting, often perform well compared to proper models (as per [Simple Heuristics That Make Us Smart](simple-heuristics-that-make-us-smart.md)). Fear of the expense of developing a complex algorithm is not an excuse to leave the human decisions alone.
 
-Ultimately the development of the reasoned rule cannot avoid the question of what the right answer to the problem is. It will take time to determine definitively whether it outperforms. But if the human decision is noisy, there is an excellent chance that it will hit closer to the mark, on average, that the scattered human decisions.
+Ultimately the development of the reasoned rule cannot avoid the question of what the right answer to the problem is. It will take time to determine definitively whether it outperforms. But if the human decision is noisy, there is an excellent chance that it will hit closer to the mark, on average, than the scattered human decisions.

@@ -20,6 +20,6 @@ By contrast, the prominent theory of herding in economics is herding as informat
 But the biological herding idea seems so much more powerful. Because it suggests that a dominant biological mode is one in which each ‘agent’ seeks the local optimum of their own survival, and that this gives the group some holistic coherence, but that no-one is thinking of the group, and the group’s survival and welfare – the global optimum – is therefore the (arbitrary) result of these individual optimisations. The biological theory of herding spells danger for the herd in many situations.</blockquote>
 
 
-I had come across [Hamilton's paper](https://doi.org/10.1016/0022-5193(71)90189-5) before, but this post prompted me to read it properly. It is worth it. Add it to the list of biological examples where the "invisible hand" can lead to an emergent phenomena that is costly to the group.
+I had come across [Hamilton's paper](https://doi.org/10.1016/0022-5193(71)90189-5) before, but this post prompted me to read it properly. It is worth it. Add it to the list of biological examples where the "invisible hand" can lead to an emergent phenomenon that is costly to the group.
 
 Audio and slides for Andrew Oswald's speech, which triggered Gruen's post, can be found [here](http://rse.anu.edu.au/news_events/gruen_lectures.php).

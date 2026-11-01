@@ -22,6 +22,6 @@ This preference exists despite the apparently declining importance of additional
 
 A commonly used example of this is survivorship on the Titanic (unfortunately of most recent note due to the [self-plagiarism issues involving Bruno Frey and colleagues](http://olafstorbeck.blogstrasse2.de/?p=949)). Of the first, second and third class passengers on the Titanic, 62 per cent, 41 per cent and 25 per cent survived respectively (I pulled these numbers from Gandolfi, Gandolfi and Barash's [Economics as an Evolutionary Science](gandolfi-gandolfi-and-barashs-economics-as-an-evolutionary-science.md)). Similar patterns of survival occur in war, with the wealthy better able to flee or buy their safety. Resources currently allocated to luxuries can be diverted to necessities when required.
 
-The Titanic example and other modern equivalents are too recent to have shaped our evolved psyche, but this pattern likely has been around since human's started to accumulate wealth. Thus, even in times of plenty, the potential for a shock to the system may still lie at the back of people's minds.
+The Titanic example and other modern equivalents are too recent to have shaped our evolved psyche, but this pattern likely has been around since humans started to accumulate wealth. Thus, even in times of plenty, the potential for a shock to the system may still lie at the back of people's minds.
 
 As an aside, [my work with Juerg Weber and Boris Baer](sexual-selection-conspicuous-consumption-and-economic-growth.md) also gets a mention in Ridley's piece.

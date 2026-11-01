@@ -11,13 +11,13 @@ One series of tweets suggested that [loss aversion](https://en.wikipedia.org/wik
 
 Another set of tweets concerned a conceptual replication of the marshmallow test. Many of the comments suggested that the replication was a failure, and that the original study was rubbish. My view is that the original work has actually held up OK, although the interpretation of the result and some of the story-telling that followed the study is challenged.
 
-First, to the [original paper by Shoda, Mischel, and Peake](http://doi.org/10.1037/0012-1649.26.6.978), published in 1990 ([pdf](https://bingschool.stanford.edu/sites/default/files/publications/115-dev_psych_1990.pdf)). In that study, four-year old children were placed at a table with a bell and a pair of "reward objects". The pair of regard objects might be one marshmallow and two marshmallows, or one pretzel and two pretzels, and so on.
+First, to the [original paper by Shoda, Mischel, and Peake](http://doi.org/10.1037/0012-1649.26.6.978), published in 1990 ([pdf](https://bingschool.stanford.edu/sites/default/files/publications/115-dev_psych_1990.pdf)). In that study, four-year-old children were placed at a table with a bell and a pair of "reward objects". The pair of reward objects might be one marshmallow and two marshmallows, or one pretzel and two pretzels, and so on.
 
 The children were told that the experimenter was going to leave the room, and that if they waited until the experimenter came back, they could have their preferred reward (the two marshmallows). Otherwise, they could call the experimenter back earlier by ringing the bell, but in that case they could only have their less preferred reward (one marshmallow). (Could a truly impatient child just not ring the bell and eat all three marshmallows?) The time until the children rang the bell, up to a maximum of 15 to 20 minutes, was recorded.
 
 The headline result was that the time to ring the bell was predictive of future achievement in the SAT. Those who delayed their gratification had higher achievement. The time waited correlated 0.57 with SAT math scores and 0.42 with SAT verbal scores.
 
-The [new paper](http://doi.org/10.1177/0956797618761661) discusses a "conceptual replication". It doesn't copy the experimental design and replicate it precisely, but relies on a similar experimental design and a measure of academic achievement based on a composite of age-15 reading and math scores.
+The [new paper](http://doi.org/10.1177/0956797618761661) discusses a "conceptual replication". It doesn't copy the experimental design and replicate it precisely, but relies on a similar experimental design and a measure of academic achievement based on a composite of age-15 reading and maths scores.
 
 The main point to emerge from this replication is that there is an association between the delay in gratification and academic achievement, but the correlation (0.28) is only half to two-thirds of that found in the original study.
 

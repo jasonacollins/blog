@@ -37,7 +37,7 @@ Links this week:
   8. [Might GMO labelling backfire](http://www.usatoday.com/story/opinion/2015/03/18/nutrition-labels-gmos-psychology-of-disclosure-column/23991915/)? HT: [Ryan Murphy](https://twitter.com/increasingmu). My guess is that if people avoided foods containing GMOs, their health would improve in the short term by decreasing their consumption of processed foods. In the longer-term, as GM fruit and vegetables start to become prevalent, I am not so sure.
 
 	
-  9. [Relatednesss and eusociality](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002098). HT: [Stuart West](https://twitter.com/StuWest8)
+  9. [Relatedness and eusociality](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002098). HT: [Stuart West](https://twitter.com/StuWest8)
 
 
 

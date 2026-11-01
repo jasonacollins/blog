@@ -30,4 +30,4 @@ I expect that these issues are of less concern to Szentes (or, based on his post
 
 If the model is not useful in explaining the peacock's tail, what situation might the model describe? Instead of talking of disadvantaged males with tails, could we talk of low quality males and use the model to explain the persistence of low quality males in a population? This is an interesting model looking for a use.
 
-*The videos are many of the presentations [are now up](videos-for-the-biological-basis-of-preferences-and-behavior-conference.md).
+*The videos of many of the presentations [are now up](videos-for-the-biological-basis-of-preferences-and-behavior-conference.md).*

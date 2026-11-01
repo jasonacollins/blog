@@ -27,9 +27,9 @@ A contrast to the Miller story comes later in the book, when Mauboussin notes th
 
 The second set of essays draws on psychology. This partly draws on the heuristics and biases program of Daniel Kahneman and friends, but Mauboussin ranges over wider territory. He draws in literature on animal behaviour, such as the herding behaviour of ants and the stress response of animals, and on the literature in naturalistic decision-making. He also has a keen appreciation of the fact that many of these decisions occur in systems, meaning that individual decision making flaws don't necessarily lead to poor aggregate outcomes.
 
-The third set of essays innovation and competition, has a game theory and evolutionary thread. The last set is on complexity, which contains both a warning about seeing cause and effect in complex systems, and a suggestion that some of the work in the complexity field gives a lens to understand the patterns we see.
+The third set of essays, on innovation and competition, has a game theory and evolutionary thread. The last set is on complexity, which contains both a warning about seeing cause and effect in complex systems, and a suggestion that some of the work in the complexity field gives a lens to understand the patterns we see.
 
-Some of these essays deserve posts of their own, so I won't go into any in-depth except to make a general observation. I am a fan of interdisciplinary approaches to problems, but parts of the book, particularly these latter sections, hint at why they aren't adopted. Many times you get an interesting angle of looking at an issue, but it is not clear what you should do differently.
+Some of these essays deserve posts of their own, so I won't go into any in depth except to make a general observation. I am a fan of interdisciplinary approaches to problems, but parts of the book, particularly these latter sections, hint at why they aren't adopted. Many times you get an interesting angle of looking at an issue, but it is not clear what you should do differently.
 
 Partly this is a result of the origins of the book. Each essay is around two thousand words (guessing), so each gives a taste of a topic but little depth. One essay tends not to build on another.
 

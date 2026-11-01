@@ -11,15 +11,15 @@ The best books I _read_ in 2018 - generally released in other years - are below.
 
 * Annie Duke, Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts (2018) - While I have many small quibbles with the content, and it could easily have been a long-form article, I  liked the overarching approach and framing.
 
-* Gary Klein, Sources of Power: How People Make Decisions (1998) - Rightfully considered classic in decision-making. Review coming soon
+* Gary Klein, Sources of Power: How People Make Decisions (1998) - Rightfully considered a classic in decision-making. Review coming soon
 
 * Michael Lewis's [The Undoing Project](michael-lewiss-the-undoing-project-a-friendship-that-changed-the-world.md) (2016) - Despite focusing on Kahneman and Tversky's relationship, it is also one of the better introductions to their work.
 
-* Robert Sapolsky's Behave: The Biology of Humans at Our Best and Worst (2017) - A wonderful examination of what "causes" of our actions. Sapolsky zooms out from the almost immediate activity in our brain, to the actions of our hormones over seconds to hours, through our developmental influences, out to our evolutionary past. Review also coming soon.
+* Robert Sapolsky's Behave: The Biology of Humans at Our Best and Worst (2017) - A wonderful examination of what "causes" our actions. Sapolsky zooms out from the almost immediate activity in our brain, to the actions of our hormones over seconds to hours, through our developmental influences, out to our evolutionary past. Review also coming soon.
 
 * Robert Sapolsky's [Why Zebras Don't Get Ulcers](robert-sapolskys-why-zebras-dont-get-ulcers.md) (3rd ed, 2004) - Great writing and interesting science.
 
-* Fred Schwed, Where Are the Customer's Yachts? (1955) - Timeless commentary on the value delivered by the financial services sector
+* Fred Schwed, Where Are the Customers' Yachts? (1955) - Timeless commentary on the value delivered by the financial services sector
 
 * Robert Sugden, [The Community of Advantage: A Behavioural Economist's Defence of the Market](robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market.md) (2018) - The most compelling critique of the practical application of behavioural economics that I have read.
 
@@ -41,13 +41,13 @@ My non-fiction reading through 2018 was less deliberate than I would have liked.
 
 * Max Bazerman and Don Moore, Judgment in Managerial Decision Making (8th ed)
 
-* Schlomo Bernartzi (with Jonah Lehrer), [The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior](benartzi-and-lehrers-the-smarter-screen-surprising-ways-to-influence-and-improve-online-behaviour.md)
+* Shlomo Benartzi (with Jonah Lehrer), [The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior](benartzi-and-lehrers-the-smarter-screen-surprising-ways-to-influence-and-improve-online-behaviour.md)
 
 * Warren Berger, A More Beautiful Question
 
 * Nick Bostrom, Superintelligence: Paths, Dangers, Strategies
 
-* Susan Cain, Quiet:[The Power of Introverts in a World That Can’t Stop Talking](susan-cains-quiet-the-power-of-introverts-in-a-world-that-cant-stop-talking.md).
+* Susan Cain, Quiet: [The Power of Introverts in a World That Can’t Stop Talking](susan-cains-quiet-the-power-of-introverts-in-a-world-that-cant-stop-talking.md).
 
 * Stephen Covey, Seven Habits of Highly Effective People
 
@@ -91,7 +91,7 @@ My non-fiction reading through 2018 was less deliberate than I would have liked.
 
 * Michael Mauboussin, [More Than You Know: Finding Financial Wisdom in Unconventional Places](michael-mauboussins-more-than-you-know-finding-financial-wisdom-in-unconventional-places.md)
 
-* Andrew McAfee and Erik, Brynjolfsson, Machine, Platform, Crowd: Harnessing Our Digital Future
+* Andrew McAfee and Erik Brynjolfsson, Machine, Platform, Crowd: Harnessing Our Digital Future
 
 * Cal Newport, Deep Work: Rules for Focused Success in a Distracted World*
 
@@ -107,7 +107,7 @@ My non-fiction reading through 2018 was less deliberate than I would have liked.
 
 * Robert Sapolsky, [Why Zebras Don't Get Ulcers](robert-sapolskys-why-zebras-dont-get-ulcers.md)
 
-* Fred Schwed, Where Are the Customer's Yachts?
+* Fred Schwed, Where Are the Customers' Yachts?
 
 * Owain Service and Rory Gallagher, Think Small: The Surprisingly Simple Ways to Reach Big Goals
 
@@ -117,7 +117,7 @@ My non-fiction reading through 2018 was less deliberate than I would have liked.
 
 * Henry David Thoreau, Walden
 
-* Edward Thorpe, Beat the Dealer: A Winning Strategy for the Game of Twenty-One
+* Edward Thorp, Beat the Dealer: A Winning Strategy for the Game of Twenty-One
 
 * Ashlee Vance, Elon Musk: How the Billionaire CEO of SpaceX and Tesla is Shaping our Future
 
@@ -127,7 +127,7 @@ My non-fiction reading through 2018 was less deliberate than I would have liked.
 
 * Geoffrey West, Scale: The Universal Laws of Life, Growth, and Death in Organisms, Cities and Companies
 
-* Eleizer Yudkowsy, Inadequate Equilibria: Where and How Civilizations Get Stuck
+* Eliezer Yudkowsky, Inadequate Equilibria: Where and How Civilizations Get Stuck
 
 **Fiction**
 
@@ -137,11 +137,11 @@ My non-fiction reading through 2018 was less deliberate than I would have liked.
 
 * Edgar Rice Burroughs, Tarzan of the Apes
 
-* Ray Bradbury, Farenheit 451*
+* Ray Bradbury, Fahrenheit 451*
 
 * Joseph Conrad, Lord Jim
 
-* James Fenimoore Cooper, The Last of the Mohicans
+* James Fenimore Cooper, The Last of the Mohicans
 
 * Charles Dickens, Bleak House
 
@@ -161,7 +161,7 @@ My non-fiction reading through 2018 was less deliberate than I would have liked.
 
 * Daphne Du Maurier, Rebecca
 
-* George Elliott, Middlemarch
+* George Eliot, Middlemarch
 
 * Gustave Flaubert, Madame Bovary
 
@@ -179,7 +179,7 @@ My non-fiction reading through 2018 was less deliberate than I would have liked.
 
 * Bram Stoker, Dracula*
 
-* JRR Tolkein, The Hobbit*
+* JRR Tolkien, The Hobbit*
 
 * Mark Twain, The Adventures of Huckleberry Finn
 

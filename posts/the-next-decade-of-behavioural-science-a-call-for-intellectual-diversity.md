@@ -5,7 +5,7 @@ date: 2019-11-14 09:00:00+00:00
 draft: false
 ---
 
-[Behavioral Scientist](https://behavioralscientist.org) put out the call to share hopes, fears, predictions and warnings about the next decade of behavioral science. Here's my contribution:
+[Behavioral Scientist](https://behavioralscientist.org) put out the call to share hopes, fears, predictions and warnings about the next decade of behavioural science. Here's my contribution:
 
 > As behavioral scientists, we're not exactly a diverse bunch. We're university educated. We live in major cities. We work in academia, tech, consulting, banking and finance. And dare I say it, we're rather liberal. Read the twitter streams or other public outputs of the major behavioral science institutions, publications and personalities, and the topics of interest don't stray too far from what a Democratic politician (substitute your own nation's centre-left party) would discuss in a stump speech.
 >

@@ -41,10 +41,10 @@ This diagram highlights the stark contrast between the original study and later 
 
 Finally, the Many Labs II project [@klein2018] also included Experiment 4 from Alter and friends' paper in its replications. That experiment involved syllogistic reasoning problems. Alter and friends found their 41 participants did better with disfluent fonts. The Many Labs II replication found nothing. This wasn't unexpected: a prediction exercise in advance of the replication gave it a 42% or 32% probability (using survey or market estimations) of replicating [@forsell2019].
 
-Back when @meyer2015 was first published, Terry Burnham [suggested](http://www.terryburnham.com/2015/04/a-trick-for-higher-sat-scores.html) we should measure the rate of learning via citations. In April 2015, Terry Burnham suggested we measure learning via citations. The original Alter paper had 344 citations then, while Thompson's replication had 38.
+Back when @meyer2015 was first published, Terry Burnham [suggested](http://www.terryburnham.com/2015/04/a-trick-for-higher-sat-scores.html) we should measure the rate of learning via citations. The original Alter paper had 344 citations then, while Thompson's replication had 38.
 
 To November 2025, the trend hasn't been great. Alter's paper now has 1,442 citations (up 1,000+), while the replications have grown to 349 and 139. The original study is still being cited far more frequently than the evidence it doesn't replicate.
 
-When people ask me why behavioural economics and behavioural science are still fringe disciplines in applied settings, I have many suggestions. One is this absence of quality filter. The shiny stories get told again and again no matter how much evidence accumulates that they are rubbish. That lack of filter eventually gets found out.
+When people ask me why behavioural economics and behavioural science are still fringe disciplines in applied settings, I have many suggestions. One is this absence of a quality filter. The shiny stories get told again and again no matter how much evidence accumulates that they are rubbish. That lack of filter eventually gets found out.
 
 I've been [beating this drum](bad-behavioural-science-failures-bias-and-fairy-tales.md) for almost 10 years now. Sadly, it still needs beating.

@@ -21,7 +21,7 @@ The opening paragraph of Sunstein's article was somewhat bizarre:
 
 >At this stage, no one can specify the magnitude of the threat from the coronavirus. But one thing is clear: A lot of people are more scared than they have any reason to be. They have an exaggerated sense of their own personal risk.
 
-I know this shooting fish in the barrel, but how can you claim that people have an exaggerated sense of their own personal risk when no one can specify the magnitude of the threat?
+I know this is shooting fish in the barrel, but how can you claim that people have an exaggerated sense of their own personal risk when no one can specify the magnitude of the threat?
 
 (As an aside, turns out I have joined the masses of people blocked by Cass Sunstein on Twitter. Given my tweets are almost solely broadcasts of my blog posts, and my criticism of Sunstein within those posts is rather mild - and unlikely read by Sunstein - my working hypothesis is that he has blocked everyone Nassim Taleb follows. Recalling the first sentence of his book [#Republic](https://press.princeton.edu/books/hardcover/9780691175515/republic): "In a well-functioning democracy, people do not live in echo chamber or information cocoons". I'll leave that for now...)
 

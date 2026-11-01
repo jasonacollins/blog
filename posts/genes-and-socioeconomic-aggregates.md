@@ -12,7 +12,7 @@ The first session, with videos linked below, was on Genes and Socioeconomic Aggr
 
 **Gregory Cochran:** [Genetics and Society](https://hceconomics.uchicago.edu/video/genetics-and-behavior-genetics-and-society) ([slides](https://hceconomics.uchicago.edu/sites/default/files/file_uploads/Cochran_Genetics%20and%20Society.ppt))
 
-Cochran laid out some ideas that should be in the minds of economists, although he does not focus much attention on selling the ideas. Unfortunately, the questions at the end got derailed by epigenetics (my views approximate Cochran's). One interesting argument by Cochran is that human environments tend be variable, as, in a Malthusian world, good times (when people breed like mad) tend to be followed by bad (too many people) which tend to be followed by good (people died in the bad). As a result, epigenetic transmission based on the current environment may be a poor strategy.
+Cochran laid out some ideas that should be in the minds of economists, although he does not focus much attention on selling the ideas. Unfortunately, the questions at the end got derailed by epigenetics (my views approximate Cochran's). One interesting argument by Cochran is that human environments tend to be variable, as, in a Malthusian world, good times (when people breed like mad) tend to be followed by bad (too many people) which tend to be followed by good (people died in the bad). As a result, epigenetic transmission based on the current environment may be a poor strategy.
 
 {{< youtube w3310KWlDXg >}}
 

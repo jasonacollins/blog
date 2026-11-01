@@ -1,5 +1,5 @@
 ---
-title: Was it better for our paleolithic ancestors?
+title: Was it better for our palaeolithic ancestors?
 author: "Jason Collins"
 date: 2011-05-31 07:32:57+00:00
 draft: false

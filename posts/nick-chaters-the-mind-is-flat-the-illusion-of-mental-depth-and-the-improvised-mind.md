@@ -11,7 +11,7 @@ Chater's basic argument is that there are no 'hidden depths' to our minds. The i
 
 >no one, at any point in human history, has ever been guided by inner beliefs or desires, any more than any human being has been possessed by evil spirits or watched over by a guardian angel.
 
-The book represents Chater’s reluctant acceptance that much experimental psychological data can no longer be accommodated by simply extending and modifying existing theories of reasoning and decision making. These theories are built on an intuitive conception of the mind, in which our thoughts and behaviour are rooted in reasoning and built on our deeply held beliefs and desires. As Chater argues, this intuitive conception is simply an illusion. This leads him to take his somewhat radical departure from many theories of perception, reasoning and decision making,
+The book represents Chater’s reluctant acceptance that much experimental psychological data can no longer be accommodated by simply extending and modifying existing theories of reasoning and decision making. These theories are built on an intuitive conception of the mind, in which our thoughts and behaviour are rooted in reasoning and built on our deeply held beliefs and desires. As Chater argues, this intuitive conception is simply an illusion. This leads him to take his somewhat radical departure from many theories of perception, reasoning and decision making.
 
 I have one major disagreement with the book, which turns out to be a fundamental disagreement with Chater’s central claim, but I’ll come to that later.
 
@@ -19,19 +19,19 @@ I have one major disagreement with the book, which turns out to be a fundamental
 
 Chater starts by examining visual perception. This is in part because visual perception is a (relatively) well understood area of psychology and neuroscience, and in part because Chater sees the whole of thought as being an extension of perception.
 
-Consider our sense of colour vision. The sensitivity of colour vision falls rapidly outside of the fovea, the area of the retina responsible for our sharp central vision. The rod cells that capture most of our visual field only able to capture light and dark. This means that outside of a few degrees of where you are looking, you are effectively colour blind. Despite this, we feel that our entire visual world is coloured. That is an illusion.
+Consider our sense of colour vision. The sensitivity of colour vision falls rapidly outside of the fovea, the area of the retina responsible for our sharp central vision. The rod cells that capture most of our visual field are only able to capture light and dark. This means that outside of a few degrees of where you are looking, you are effectively colour blind. Despite this, we feel that our entire visual world is coloured. That is an illusion.
 
 Similarly, our visual periphery is fuzzy. Our visual acuity plunges in line with decreasing cone density with the increase in angle. Yet, again, we have a sense that we can capture the entire scene before us.
 
 That limited vision is highlighted in experiments using gaze-contingent eye-tracking. In one experiment, participants are asked to read lines of text. Rather than showing the full text, the computer only displayed a window of text where the experimental participants were looking, with all letters outside of that window replaced by blocks of ‘x’s.
 
-When someone is reading this text, they feel they are looking at a page or screen full of text. How small can the window of text be before this illusion is shattered? It turns out, the window can be shrunk to around 10 to 15 characters (centred slight right of the fixation point) without the reader sensing anything is amiss. This is despite the page being almost completely covered in ‘x’s. The sense that they are looking at a full page of text is an illusion, as most of the text isn’t there.
+When someone is reading this text, they feel they are looking at a page or screen full of text. How small can the window of text be before this illusion is shattered? It turns out, the window can be shrunk to around 10 to 15 characters (centred slightly right of the fixation point) without the reader sensing anything is amiss. This is despite the page being almost completely covered in ‘x’s. The sense that they are looking at a full page of text is an illusion, as most of the text isn’t there.
 
-Chater walks through a range of other interesting experiments showing similar points. For instance, we can only encode one colour or shape or object at a time. The idea we are looking at a rich coloured world, taking in all of the colours and shapes at one, is also an illusion.
+Chater walks through a range of other interesting experiments showing similar points. For instance, we can only encode one colour or shape or object at a time. The idea we are looking at a rich coloured world, taking in all of the colours and shapes at once, is also an illusion.
 
 Our brain is not simultaneously grasping a whole, but is rather piecing together a stream of information. Yet we are fooled into believing we are having a rich sensory experience. We don’t actually see a broad, rich multi-coloured world. The sense that we do is a hoax.
 
-So show can the mind execute this hoax? Chater suggests the answer is simply because as soon as we wonder about any aspect of the world, we can simply flick our eyes over and instantly provide an answer. The fluency of this process suggests to us that we already had the answers stored, but the experimental and physiological evidence suggests this cannot be the case.
+So how can the mind execute this hoax? Chater suggests the answer is simply because as soon as we wonder about any aspect of the world, we can simply flick our eyes over and instantly provide an answer. The fluency of this process suggests to us that we already had the answers stored, but the experimental and physiological evidence suggests this cannot be the case.
 
 Put another way, the sense of a rich sensory world is actually just the potential to explore a rich sensory world. This potential is misinterpreted as actually experiencing that world.
 
@@ -39,9 +39,9 @@ An interesting question posed by Chater later in the book is why don’t we have
 
 ## The inner world
 
-So does story change when we move from visual perception to our inner thoughts?
+So does the story change when we move from visual perception to our inner thoughts?
 
-Charter asks us to think of a tiger as clearly and distinctly as we can. Consider the pattern of stripes on the tiger. Count them. What way do they flow over the body? Along the length or vertically? What about on the legs?
+Chater asks us to think of a tiger as clearly and distinctly as we can. Consider the pattern of stripes on the tiger. Count them. What way do they flow over the body? Along the length or vertically? What about on the legs?
 
 Visually, we can only grasp fragments at a time, but each visual feature is available on demand, giving the impression that our vision encompasses the whole scene. A similar dynamic is at work for the imaginary tiger. Here the mind improvises the answer as soon as you ask for it. Until you ask the question, those details are entirely absent.
 
@@ -65,13 +65,13 @@ This fluent explanation by split brain patients presents the possibility that af
 
 Chater proceeds to build his case that we don’t have such inner beliefs and preferences with some of the less convincing research in the book, much of which looks and feels like a lot of what has been questioned during the replication crisis. It is interesting all the same.
 
-In one experiment, voters in Sweden were asked whether they intended to vote for the left or right-leaning coalition. They were then given a questionnaire on various campaign topics. When the responses were handed to the experimenter, the experimenter changed some of the responses by a slight of hand. When they were handed back for checking, just under a quarter of voters spotted and corrected the error. But the majority were happy to explain political opinions that moments ago they did not hold.
+In one experiment, voters in Sweden were asked whether they intended to vote for the left or right-leaning coalition. They were then given a questionnaire on various campaign topics. When the responses were handed to the experimenter, the experimenter changed some of the responses by a sleight of hand. When they were handed back for checking, just under a quarter of voters spotted and corrected the error. But the majority were happy to explain political opinions that moments ago they did not hold.
 
 Chater also reports an experiment where the experimenters got a similar effect when asking people which of two faces they prefer. When the face was switched before asking for the explanation, the fluent explanation still emerged.
 
-An interesting twist to this experiment is when people who have been justified a choice of face they didn’t make are asked to choose again. These people tend to choose the face that they didn’t choose previously but were asked to justify. The explanation helped shape future decisions.
+An interesting twist to this experiment is when people who have justified a choice of face they didn’t make are asked to choose again. These people tend to choose the face that they didn’t choose previously but were asked to justify. The explanation helped shape future decisions.
 
-A similar effect occurred in another experiment in which participants took a web-based survey on political attitudes, with half the participants presented with an American flag in corner of screen. The flag caused a shift in political attitudes. But more interestingly, this effect persisted eight months later.
+A similar effect occurred in another experiment in which participants took a web-based survey on political attitudes, with half the participants presented with an American flag in the corner of the screen. The flag caused a shift in political attitudes. But more interestingly, this effect persisted eight months later.
 
 Chater’s interpretation of this experiment is not that Republicans should cover everything with flags. Rather, if people are exposed to a flag at a moment when they are contemplating their political views, this will have a long-lasting effect from the ‘memory traces’ that are laid down at the time.
 
@@ -81,13 +81,13 @@ This isn’t the only experiment reported by Chater with a failed replication in
 
 One other piece of evidence called on by Chater is the broad (and strong) evidence of the inconsistency of our risk preferences and how susceptible they are to the framing of the risk and the domain in which they are realised. Present the same gamble in a loss rather than a gain frame, and risk-seeking choices spike.
 
-But putting these pieces together, I am not convinced Chater has made his case. The split brain experiments demonstrate our willingness to improvise explanations in the absence of any evidence. But this does not extend to an unequivocal case that we we don’t call on any “hidden depths” that are there. They are variable, but are they so variable that they have no deeper basis at all? Chater thinks so.
+But putting these pieces together, I am not convinced Chater has made his case. The split brain experiments demonstrate our willingness to improvise explanations in the absence of any evidence. But this does not extend to an unequivocal case that we don’t call on any “hidden depths” that are there. They are variable, but are they so variable that they have no deeper basis at all? Chater thinks so.
 
 >[N]o amount of measuring and re-measuring is going to help. The problem with measuring risk preferences is not that measurement is difficult and inaccurate; it is that there are no risk preferences to measure – there is simply no answer to how, ‘deep down’, we wish to balance risk and reward. And, while we’re at it, the same goes for the way people trade off the present against the future; how altruistic we are and to whom; how far we display prejudice on gender or race, and so on.
 
 But this brings me to my major disagreement with Chater. For all Chater's sweeping statements about our lack of hidden depths, he didn't spend much effort trying to find them. Rather, he took a lot of evidence on how manipulable we can be (which we certainly are to a degree) and our willingness to improvise explanations when we have no idea (more robust), and then turned this into a finding that there is no hidden depth.
 
-One place Chater could have looked is behavioural genetics. The first law of behavioural genetics is that all behavioural traits are heritable. That is, a proportion of the variation in these characteristics between people are due to genetic variation. These traits include risk preferences, the way we trade off the past and the future, and political preferences. These are among the characteristics that Chater suggests have no hidden depth. If there is no hidden depth, why are identical twins (even raised part) so similar for these traits. Chater is likely right that when asked to explain why we took a certain risky preference we are likely to improvise an explanation with little connection to reality. We rarely point to our genes. But that does not mean the hidden depth is not there.
+One place Chater could have looked is behavioural genetics. The first law of behavioural genetics is that all behavioural traits are heritable. That is, a proportion of the variation in these characteristics between people are due to genetic variation. These traits include risk preferences, the way we trade off the past and the future, and political preferences. These are among the characteristics that Chater suggests have no hidden depth. If there is no hidden depth, why are identical twins (even raised apart) so similar for these traits. Chater is likely right that when asked to explain why we took a certain risky preference we are likely to improvise an explanation with little connection to reality. We rarely point to our genes. But that does not mean the hidden depth is not there.
 
 ## We can only have one thought at a time
 
@@ -97,17 +97,17 @@ This inability to take on multiple tasks comes from the way that our brain compu
 
 Chater turns this idea into an attack on the "myth of the unconscious". This myth is the idea that our brain is working away in the background. If we step away from a problem, we might suddenly have the answer pop into our head as our unconscious has kept working at the problem while we tend to other things.
 
-Chater argues that for all the stories about scientists suddenly having major breakthroughs in the shower, neuroscience has found no evidence of these hidden processes. Chater summaries the studies in this area as concluding that, first, the effects of breaks either negligible or non-existent, and second, that the explanations for the minor effects of a break involve no unconscious thought at all.
+Chater argues that for all the stories about scientists suddenly having major breakthroughs in the shower, neuroscience has found no evidence of these hidden processes. Chater summarises the studies in this area as concluding that, first, the effects of breaks are either negligible or non-existent, and second, that the explanations for the minor effects of a break involve no unconscious thought at all.
 
 As one example of the lack of effect, Chater describes an experiment in which subjects are asked to name both as many food items and as many countries as possible. Someone doing this task might switch back and forth between the two topics, changing to foods when they run out of countries and vice versa. How would the performance of a person able to switch back and forth compare to someone who has to first deal with one category, and only when finished move to the other? Would the former outperform as they could think about the second category in the background before coming back to it? The results suggest that when thinking about countries, there is no evidence that we are also thinking about food. When we switch from one category to the other, the search ceases abruptly.
 
 So how did this myth of unconscious thought arise? Chater's argument is that when we set a problem aside and return to it later, we are unencumbered by the past failures and patterns of thought in which we were trapped before. The new perspective may not be better than the old, but occasionally it will hit upon the angle that we need to solve the problem. So yes, the insight may emerge in a flash, but not because the unconscious had been grinding away at the problem.
 
-This lack of unconscious thought is also demonstrated in the the literature concerning inattentional blindness. If people are busy attending to a task, they can miss information that they are not attending to. The classic example of this (at least, before the gorilla experiment) is an experiment by Ulric Neisser, in which participants are asked to watch three people throwing a ball to each other and press a button each time there was a throw. When an unexpected event occurs - in this case a woman with an umbrella walking through the players - less than one quarter of the participants noticed.
+This lack of unconscious thought is also demonstrated in the literature concerning inattentional blindness. If people are busy attending to a task, they can miss information that they are not attending to. The classic example of this (at least, before the gorilla experiment) is an experiment by Ulric Neisser, in which participants are asked to watch three people throwing a ball to each other and press a button each time there was a throw. When an unexpected event occurs - in this case a woman with an umbrella walking through the players - less than one quarter of the participants noticed.
 
 Chater takes the inattentional blindness studies as again showing that we can only lock onto and impose meaning on one fragment of sensory information at a time. If our brains are busy on one task, they can be utterly oblivious to other events.
 
-One distinction Chater makes that I found useful is how to think about our unconscious thought processes. Chater’s argument is not that there is no processing in the brain outside our conscious knowledge. Rather, we have one type of thought, with unconscious processing resulting a a conscious result. Chater writes:
+One distinction Chater makes that I found useful is how to think about our unconscious thought processes. Chater’s argument is not that there is no processing in the brain outside our conscious knowledge. Rather, we have one type of thought, with unconscious processing resulting in a conscious result. Chater writes:
 
 >The division between the conscious and the unconscious does not distinguish between different types of thought. Instead, it is a division within individual thoughts themselves: between the conscious result of our thinking and the unconscious processes that create it.
 >
@@ -123,7 +123,7 @@ Chater’s first piece of evidence in support of this point comes from chess. Wh
 
 Chater argues that this is how perception works more generally. We do not interpret sensory information afresh, but interpret based on memory traces from past experience. He gives the example of “found faces”, where people see faces in inanimate objects. Our interpretation of the inputs finds resonance with memory traces of past inputs. Similarly, recognising a friend, word or tune depend on a link with your memories. Successful perception requires us to deploy the right memory traces when we need them.
 
-Chater’s argument of the role of memory in perception seems sound. But absent the clear case that there there are no other sources of beliefs or motivations, I am not convinced these memory traces are all that there is.
+Chater’s argument of the role of memory in perception seems sound. But absent the clear case that there are no other sources of beliefs or motivations, I am not convinced these memory traces are all that there is.
 
 ## What this means for intelligence and AI
 
@@ -133,6 +133,6 @@ That positive gloss is human creativity. Chater writes:
 
 >But the secret of human intelligence is the ability to find patterns in the least structured, most unexpected, hugely variable of streams of information – to lock onto a handbag and see a snarling face; to lock onto a set of black-and-white patches and discern a distinctive, emotion-laden, human being; to find mappings and metaphors through the complexity and chaos of the physical and psychological worlds. All this is far beyond the reach of modern artificial intelligence.
 
-I am not sure I agree. Vision recognition systems regularly make errors through seeing patterns that aren’t there. Are these just the machine version of seeing a face in a handbag? Both are mismatches, but one is labelled as an imaginative leap, the other as an error. Should we endow this overactive human pattern matching with the title of intelligence and call a similar matching errors when done by a computer a mistake? Chess is also instructive here, with a sign of a machine move now often being great creativity.
+I am not sure I agree. Vision recognition systems regularly make errors through seeing patterns that aren’t there. Are these just the machine version of seeing a face in a handbag? Both are mismatches, but one is labelled as an imaginative leap, the other as an error. Should we endow this overactive human pattern matching with the title of intelligence and call a similar matching error when done by a computer a mistake? Chess is also instructive here, with a sign of a machine move now often being great creativity.
 
 This final chapter is somewhat shallow relative to the rest of the book. Chater provides little in the way of evidence to support his case, although you can piece together some threads supporting Chater yourself from the examples discussed earlier in the book. It ends the book with a nice hook, but for me was a flat ending for an otherwise great book.

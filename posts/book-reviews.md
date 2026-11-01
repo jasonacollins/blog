@@ -9,7 +9,7 @@ Below is a collection of book reviews that I have posted - click the links to go
 
 1.  Adam Alter's [Irresistible: Why We Can't Stop Checking, Scrolling, Clicking and Watching](alters-irresistible-why-we-cant-stop-checking-scrolling-clicking-and-watching.md): a well-written and entertaining book about a subject I don’t know much about (addiction), with one glaring slip.
 
-2.  Dan Ariely’s  [The Honest Truth About Dishonesty: How We Lie to Everyone – Especially Ourselves](arielys-the-honest-truth-about-dishonesty.md): Interesting substance as draws on Ariely's own work, but sometimes meanders. Will the results stand the test of time? [That question has since been answered - not well at all. For example, see [here](does-a-moral-reminder-decrease-cheating.md) and [here](a-default-of-disbelief.md).]
+2.  Dan Ariely’s  [The Honest Truth About Dishonesty: How We Lie to Everyone – Especially Ourselves](arielys-the-honest-truth-about-dishonesty.md): Interesting substance as it draws on Ariely's own work, but sometimes meanders. Will the results stand the test of time? [That question has since been answered - not well at all. For example, see [here](does-a-moral-reminder-decrease-cheating.md) and [here](a-default-of-disbelief.md).]
 
 3.  Dan Ariely’s [Payoff: The Hidden Logic That Shapes Our Motivations](dan-arielys-payoff-the-hidden-logic-that-shapes-our-motivations.md): Enjoyable, but not particularly deep read, with most of the results covered in [The Upside of Irrationality](arielys-upside-irrationality.md).
 
@@ -17,7 +17,7 @@ Below is a collection of book reviews that I have posted - click the links to go
 
 5.  Dan Ariely's [The Upside of Irrationality](arielys-upside-irrationality.md): Some interesting ideas (particularly early in the book) but seems light compared to Predictably Irrational.
 
-6.  Roy Baumeister and John Tierney’s [Willpower: Rediscovery Our Greatest Strength](baumeister-and-tierneys-willpower-rediscovering-the-greatest-human-strength.md): The book tended into the pop science/self-help genre and there was rarely enough depth to add anything to the current debates.
+6.  Roy Baumeister and John Tierney’s [Willpower: Rediscovering Our Greatest Strength](baumeister-and-tierneys-willpower-rediscovering-the-greatest-human-strength.md): The book tended into the pop science/self-help genre and there was rarely enough depth to add anything to the current debates.
 
 7.  Eric Beinhocker's [Origin of Wealth: Evolution, Complexity, and the Radical Remaking of Economics](beinhockers-the-origin-of-wealth.md): The best readable discussion of the field of "evolutionary economics" and the application of complexity theory to economics.
 
@@ -47,7 +47,7 @@ Below is a collection of book reviews that I have posted - click the links to go
 
 20. Pedro Domingos's [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World](domingoss-the-master-algorithm-how-the-quest-for-the-ultimate-learning-machine-will-remake-our-world.md): Parts verge on techno-Panglossianism. The chapters on the various "tribes" of machine learning and learning without supervision, are excellent. And I simply don't have the knowledge to judge the value of Domingos's reports on his progress to the master algorithm.
 
-21. Benoit Dubreuil’s [Human Evolution and the Origins of Hierarchies](dubreuils-human-evolution-and-the-origins-of-hierarchies.md): The emergence of modern hierarchies was driven by the cognitive changes associated with the behavioural modernisation of human
+21. Benoit Dubreuil’s [Human Evolution and the Origins of Hierarchies](dubreuils-human-evolution-and-the-origins-of-hierarchies.md): The emergence of modern hierarchies was driven by the cognitive changes associated with the behavioural modernisation of humans
 
 22. Angela Duckworth’s [Grit: The Power of Passion and Perseverance](angela-duckworths-grit-the-power-of-passion-and-perseverance.md): Conscientiousness rebadged? Interesting but ignores biology and the stories suggest survivorship bias.
 
@@ -57,7 +57,7 @@ Below is a collection of book reviews that I have posted - click the links to go
 
 25. James Flynn's [Are We Getting Smarter?](flynns-are-we-getting-smarter.md): A comprehensive update on the latest in IQ testing from around the globe, plus a few interesting arguments.
 
-26. Robert Franks's [Passions Within Reason: The Strategic Role of the Emotions](franks-passions-within-reason.md): A fantastic game theoretic approach to the role of the emotions.
+26. Robert Frank's [Passions Within Reason: The Strategic Role of the Emotions](franks-passions-within-reason.md): A fantastic game theoretic approach to the role of the emotions.
 
 27. Robert Frank's [Luxury Fever: Weighing the Cost of Excess](franks-luxury-fever.md): People over-consume goods where there is competition for relative rank.
 
@@ -73,15 +73,15 @@ Below is a collection of book reviews that I have posted - click the links to go
 
 33. Sheldon Garon’s [Beyond Our Means: Why America Spends While the World Saves](garons-beyond-our-means.md): Plenty of interesting historical fodder on savings but feels incomplete.
 
-34. Gerd Gigerenzer's [Gut Feelings: Short Cuts to Better Decision Making](gerd-gigerenzers-gut-feelings-short-cuts-to-better-decision-making.md): Perhaps the best balance between nuance and accessibility of Gigerenzer's popular books. While it still leaves an impression about the accuracy of our instincts that I'm not completely in agreement with, it provides a good overview of how our gut feelings can lead togood decisions.
+34. Gerd Gigerenzer's [Gut Feelings: Short Cuts to Better Decision Making](gerd-gigerenzers-gut-feelings-short-cuts-to-better-decision-making.md): Perhaps the best balance between nuance and accessibility of Gigerenzer's popular books. While it still leaves an impression about the accuracy of our instincts that I'm not completely in agreement with, it provides a good overview of how our gut feelings can lead to good decisions.
 
 35. Gerd Gigerenzer's [Rationality for Mortals: How People Cope with Uncertainty](gerd-gigerenzers-rationality-for-mortals-how-people-cope-with-uncertainty.md): Great. Good coverage of ecological rationality, heuristics that make us smart, and understanding risk.
 
 36. Gerd Gigerenzer's [Risk Savvy](nudging-citizens-to-be-risk-savvy.md): Gigerenzer's least satisfactory but still interesting book.
 
-37. Gerd Gigerenzer, Peter Todd and the ABC Research Group's [Simple Heuristics That Make Us Smart](simple-heuristics-that-make-us-smart.md): Excellent. A nice contrast to the increasing use of complex machine learning algorithms for decision making, although it is that same increasing use that makes some parts of the book are seem a touch dated.
+37. Gerd Gigerenzer, Peter Todd and the ABC Research Group's [Simple Heuristics That Make Us Smart](simple-heuristics-that-make-us-smart.md): Excellent. A nice contrast to the increasing use of complex machine learning algorithms for decision making, although it is that same increasing use that makes some parts of the book seem a touch dated.
 
-38. Malcolm Gladwell’s [Outliers: The Story of Success](gladwells-outliers.md): Like all of Gladwell's book - flawed but interesting.
+38. Malcolm Gladwell’s [Outliers: The Story of Success](gladwells-outliers.md): Like all of Gladwell's books - flawed but interesting.
 
 39. Jonathan Gottschall's [The Storytelling Animal: How Stories Make Us Human](gottschalls-the-storytelling-animal.md): Gottschall argues that storytelling is often deeply moral, normally deals with problems of great (evolutionary) relevance to us and is a major cohering force in society. I tend to agree.
 
@@ -93,7 +93,7 @@ Below is a collection of book reviews that I have posted - click the links to go
 
 43. Joe Henrich’s [The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter](henrichs-the-secret-of-our-success-how-culture-is-driving-human-evolution-domesticating-our-species-and-making-us-smarter.md): A lot of interesting ideas, but left me with a lot of questions.
 
-44. Victor Hwang and Greg Horowitt’s [The Rainforest: The Secret to Building the Next Silicon Valley](hwang-and-horowitts-the-rainforest.md): Entrepreneurship though a biological lens.
+44. Victor Hwang and Greg Horowitt’s [The Rainforest: The Secret to Building the Next Silicon Valley](hwang-and-horowitts-the-rainforest.md): Entrepreneurship through a biological lens.
 
 45. Greg Ip's [Foolproof: Why Safety Can Be Dangerous and How Danger Makes Us Safe](ips-foolproof-why-safety-can-be-dangerous-and-how-danger-makes-us-safe.md): Engineers seek to use the sum of our human knowledge to make us safer. Ecologists recognise that many of our solutions will have unintended consequences that can be worse than the problems we are trying to solve. Much of Ip’s book is a catalogue of the failures of engineering.
 
@@ -157,7 +157,7 @@ Below is a collection of book reviews that I have posted - click the links to go
     
 75. Gilles Saint-Paul's [The Tyranny of Utility: Behavioral Social Science and the Rise of Paternalism](saint-pauls-the-tyranny-of-utility-behavioral-social-science-and-the-rise-of-paternalism.md): Sometimes hard to share Saint-Paul's anger, but some important underlying points.
 
-76. Robert Sapolsky's [Why Zebra's Don't Get Ulcers](robert-sapolskys-why-zebras-dont-get-ulcers.md): A wonderful book on the psychology and physiology of stress.
+76. Robert Sapolsky's [Why Zebras Don't Get Ulcers](robert-sapolskys-why-zebras-dont-get-ulcers.md): A wonderful book on the psychology and physiology of stress.
 
 77. Barry Schwartz's [The Paradox of Choice: Why More Is Less](barry-schwartzs-the-paradox-of-choice-why-more-is-less.md): An excellent diagnosis with a less than convincing proposal for treatment.
 
@@ -179,7 +179,7 @@ Below is a collection of book reviews that I have posted - click the links to go
 
 86. Robert Trivers's [The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life](triverss-the-folly-of-fools.md): Some gems surrounded by political rants.
 
-87. Thorstein Veblen‘s [The Theory of the Leisure Class](thorstein-veblens-the-theory-of-the-leisure-class.md): The classic on status and conspicuous consumption.
+87. Thorstein Veblen’s [The Theory of the Leisure Class](thorstein-veblens-the-theory-of-the-leisure-class.md): The classic on status and conspicuous consumption.
 
 88. Chris Voss’s (with Tahl Raz) [Never Split the Difference: Negotiating as if your life depended on it](chris-vosss-never-split-the-difference-negotiating-as-if-your-life-depended-on-it.md): Interesting ideas on how to approach negotiation, but I don’t know how much weight to give them. How much expertise could be developed in hostage negotiations? Can that expertise be distilled into principles, or is much of it tacit knowledge?
 

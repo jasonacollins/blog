@@ -2,12 +2,12 @@
 author: "Jason Collins"
 date: 2018-08-24 09:00:53+00:00
 draft: false
-title: Concern about the "tyranny of  choice"? Or condescension towards others’ preferences?
+title: Concern about the "tyranny of choice"? Or condescension towards others’ preferences?
 ---
 
 I have been reading Robert Sugden's book [The Community of Advantage: A Behavioural Economist's Defence of the Market](robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market.md) in preparation for an upcoming webinar with Robert about the book, facilitated by Henry Leveson-Gower.
 
-The webinar will be help at 1pm London time and 10pm Sydney time on Monday 3 September. Details about the webinar are [here](https://10yearsafterthecrash.com/events/challenging-nudge-economics-reframing-markets-as-communities-of-advantage/) and you can register [here](https://zoom.us/webinar/register/WN_VtRtAHQeSF2xVZu03tg_WA). A video will be posted after.
+The webinar will be held at 1pm London time and 10pm Sydney time on Monday 3 September. Details about the webinar are [here](https://10yearsafterthecrash.com/events/challenging-nudge-economics-reframing-markets-as-communities-of-advantage/) and you can register [here](https://zoom.us/webinar/register/WN_VtRtAHQeSF2xVZu03tg_WA). A video will be posted after.
 
 I'll also post an in-depth review later, but the book is a mix of philosophy, technical economics, and critique of applied behavioural economics. The critiques are great reading, the philosophy is interesting but tougher, and the technical economic sections are for aficionados only.
 

@@ -12,7 +12,7 @@ A slight tightening of government budgets could be dealt with by raising pension
 
 I found it harder to generate the same blasé reaction to Eric Kaufmann's *Shall the Religious Inherit the Earth?: Demography and Politics in the Twenty-First Century*. I don't have a lot of confidence in most long-term projections of fertility, population, religious retention and social opinions, but even if the world described by Kaufmann has only a 10 per cent chance of occurring, it is worth thinking about.
 
-Kaufmann's basic argument is that the higher fertility of fundamentalist religious groups, together with their high rates of retention, is going to shift in the make up of the populations in the West over the next century, profoundly affecting our politics and freedoms.
+Kaufmann's basic argument is that the higher fertility of fundamentalist religious groups, together with their high rates of retention, is going to shift the make up of the populations in the West over the next century, profoundly affecting our politics and freedoms.
 
 The important word in that above sentence is fundamentalist. This is not a case of religious groups breeding faster than the irreligious. Fertility levels for many groups are rapidly converging in the West. Muslim family sizes are shrinking. Catholic families are no larger than those of Protestants.
 
@@ -20,7 +20,7 @@ Where the action lies is within each faith. There the fundamentalists have mar
 
 To give a sense of the power of this higher fertility, the Old Order Amish in the United States have increased from 5,000 people in 1900 to almost a quarter of a million members. In the United Kingdom, Orthodox Jews make up 17 per cent of the Jewish population but three-quarters of Jewish births.
 
-At one point Kaufmann likens the process to the development by insects of resistance to DDT (although he spends little time on the heritability of religiosity). The growth of secularism has produced new resistant strains of religion, with the middle ground between fundamentalism and irreligion hemorrhaging people, revealing a fundamentalist core.
+At one point Kaufmann likens the process to the development by insects of resistance to DDT (although he spends little time on the heritability of religiosity). The growth of secularism has produced new resistant strains of religion, with the middle ground between fundamentalism and irreligion haemorrhaging people, revealing a fundamentalist core.
 
 Kaufmann labels these high fertility religious groups as _endogenous growth sects._ They grow their own rather than convert - mainstream fundamentalists recognise this is where their advantage lies - and they have high rates of retention for their home-grown. As an example, three-quarters of the relative growth in conservative Protestant denominations in the United States in the 20th century was due to fertility differences, not conversion.
 

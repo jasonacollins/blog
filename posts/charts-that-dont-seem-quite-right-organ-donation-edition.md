@@ -18,7 +18,7 @@ Organ donation rates are an often used example of the power of defaults. Take t
 
 But does this chart seem right given that story? 99.98 per cent fail to opt-out in Austria? 99.97 per cent in Hungary? It seems too many. And for Dan Ariely's story, it is too many, because the process is not as described.
 
-The hint is in the term "presumed consent" in chart description. There is actually no time where Austrians or Hungarians are presented with a form where they can simply change from the default. Instead, they are presumed to consent to organ donation. To change that presumption, they have to take steps such as contacting government authorities to submit forms stating they don't want their organs removed. Most people probably don't even think about it. I would feel uncomfortable calling it a "default" - and Johnson and Goldstein are clear that there are ethical questions with such "opt-out" arrangements.
+The hint is in the term "presumed consent" in the chart description. There is actually no time where Austrians or Hungarians are presented with a form where they can simply change from the default. Instead, they are presumed to consent to organ donation. To change that presumption, they have to take steps such as contacting government authorities to submit forms stating they don't want their organs removed. Most people probably don't even think about it. I would feel uncomfortable calling it a "default" - and Johnson and Goldstein are clear that there are ethical questions with such "opt-out" arrangements.
 
 So what does this mean in practice? Take the following from [an Austrian government site](http://www.goeg.at/en/Opting-out-Registry):
 

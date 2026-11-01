@@ -13,7 +13,7 @@ What I've been listening to recently:
   2. I turned to Sam Harris's podcast [Waking Up](https://samharris.org/podcast/) after reading the book of the same title (which I need to read again if I am going to write anything about it). There are plenty of episodes worth listening to, including interviews with [David Krakauer](https://samharris.org/podcasts/complexity-stupidity/) of the Santa Fe Institute, [Stuart Russell](https://samharris.org/podcasts/the-dawn-of-artificial-intelligence1/) on the threats of AI, [Tristan Harris](https://samharris.org/podcasts/what-is-technology-doing-to-us/) on what technology is doing to us, and [Max Tegmark](https://samharris.org/podcasts/the-future-of-intelligence/) on the future of intelligence. I've generally avoided the episodes on politics, free speech and the culture wars.
 
 	
-  3. Russ Roberts's [Econtalk](http://www.econtalk.org) is always worth listening to. I particularly enjoyed the [episode with Tim O'Reilly](http://www.econtalk.org/archives/2017/10/tim_oreilly_on_1.html). Here's one great section (in turn pulling from O'Reilly's book:
+  3. Russ Roberts's [Econtalk](http://www.econtalk.org) is always worth listening to. I particularly enjoyed the [episode with Tim O'Reilly](http://www.econtalk.org/archives/2017/10/tim_oreilly_on_1.html). Here's one great section (in turn pulling from O'Reilly's book):
 
 
 

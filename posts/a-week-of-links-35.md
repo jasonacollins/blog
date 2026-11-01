@@ -13,7 +13,7 @@ Links this week:
   1. [Enrico Spolaore and Romain Wacziarg write on genetic barriers to growth](http://www.voxeu.org/article/long-term-barriers-growth). I have previously posted on their work [here](the-deep-roots-of-economic-development.md), [here](the-intergenerational-transmission-of-economic-development.md) and [here](genetic-distance-and-economic-development.md).
 
 	
-  2. [Doug Kenrick on Free Market Psychology](http://www.psychologytoday.com/blog/sex-murder-and-the-meaning-life/201309/cruzonomics-the-problem-free-market-psychology). There needs to be a rule that only those who have read Adam Smith are allowed to describe Adam Smith's take on the invisible hand
+  2. [Doug Kenrick on Free Market Psychology](http://www.psychologytoday.com/blog/sex-murder-and-the-meaning-life/201309/cruzonomics-the-problem-free-market-psychology). There needs to be a rule that only those who have read Adam Smith are allowed to describe Adam Smith's take on the invisible hand.
 
 	
   3. Also at Psychology Today, [Matthew Rossano on human and Neanderthal rituals](http://www.psychologytoday.com/blog/mortal-rituals/201309/two-caves-two-rituals-two-species). The difference - cost. (HT: [OneNakedApe](https://twitter.com/OneNakedApe))

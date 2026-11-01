@@ -23,7 +23,7 @@ Finally, while there is already evidence on the likely answer for some of them, 
   2. How does the paleo-diet compare to the Mediterranean or the Okinawan diet in terms of longevity? Or other health measures? Evolution doesn't shape humans to live as long as possible. It shapes us to have viable offspring. I should also throw in the growing evidence that the costs of carrying some extra fat are not as high as some people claim.
 
 	
-  3. Following from this, what are the trade-offs? If a diet full of red meat improves health and reproductive success at some age points, does it increase cancer risk in old age? Is there a trade-off between physical and mental output? I am skeptical of claims of a world without trade-offs.
+  3. Following from this, what are the trade-offs? If a diet full of red meat improves health and reproductive success at some age points, does it increase cancer risk in old age? Is there a trade-off between physical and mental output? I am sceptical of claims of a world without trade-offs.
 
 	
   4. On the flip side to the above two points, what of [Michael Rose's argument](http://55theses.org/) that traits at different ages may not be directly linked, and selective forces act more strongly when we are young? Is a paleo diet more beneficial during old age, as the selective forces associated with agriculture have had less opportunity to shape traits that express when we are old? If we switch over to a paleo-diet at age 40, what costs of our pre-40 behaviour persist?

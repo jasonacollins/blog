@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.18">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -45,7 +45,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-cd8592f072b9d28f7be82a1360dc3fa5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -85,6 +85,49 @@ gtag('js', new Date());
 gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 </script>
 
+  <script>window.backupDefine = window.define; window.define = undefined;</script><script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
+  <script>document.addEventListener("DOMContentLoaded", function () {
+ var mathElements = document.getElementsByClassName("math");
+ var macros = [];
+ for (var i = 0; i < mathElements.length; i++) {
+  var texText = mathElements[i].firstChild;
+  if (mathElements[i].tagName == "SPAN") {
+   katex.render(texText.data, mathElements[i], {
+    displayMode: mathElements[i].classList.contains('display'),
+    throwOnError: false,
+    macros: macros,
+    fleqn: false
+   });
+}}});
+  </script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css">
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 <meta property="og:title" content="Kremer’s O-ring theory of economic development – Jason Collins blog">
@@ -180,10 +223,10 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 </header>
 
 
-<p>The latest issue of the Journal of Economic&nbsp;Behavior&nbsp;and Organization has a <a href="http://www.sciencedirect.com/science/article/pii/S0167268112002193">new paper by Garett Jones</a>&nbsp;(ungated <a href="http://mason.gmu.edu/~gjonesb/O%20Ring%20Foolproof.pdf">version here</a>) on the &nbsp;O-ring theory of economic development. Its been floating around as a working paper for a few years, so its nice to see it get a home. But before I post about that paper, I thought I’d revisit <a href="http://qje.oxfordjournals.org/content/108/3/551.abstract">Michael Kremer’s classic 1993 paper</a> on which Jones builds.</p>
+<p>The latest issue of the Journal of Economic&nbsp;Behavior&nbsp;and Organization has a <a href="http://www.sciencedirect.com/science/article/pii/S0167268112002193">new paper by Garett Jones</a>&nbsp;(ungated <a href="http://mason.gmu.edu/~gjonesb/O%20Ring%20Foolproof.pdf">version here</a>) on the &nbsp;O-ring theory of economic development. It’s been floating around as a working paper for a few years, so it’s nice to see it get a home. But before I post about that paper, I thought I’d revisit <a href="http://qje.oxfordjournals.org/content/108/3/551.abstract">Michael Kremer’s classic 1993 paper</a> on which Jones builds.</p>
 <p>The name of the theory comes from the cause of the Challenger space shuttle explosion. In that case, a highly complex machine with thousands of components failed because one minor part, an O-ring, failed in the cold conditions. This is despite the remaining components being in order.</p>
 <p>Kremer saw a similarity between what occurred in the Challenger case and what may happen in production in the economy. A company with a great product and service may fail due to bad marketing. An otherwise functional good may sell at a much reduced price due to a single defect. Kremer asked, if processes of this nature are the norm, what does this imply for economic development?</p>
-<p>Kremer pictured firms that engage in production involving a series of tasks. Workers have different skill levels, which is represented by a probability that they properly perform the task. Even if workers have relatively high completion rates, small differences are costly. A firm employing a production process with 10 tasks and workers who complete their step with 95 per cent probability produces only 60 percent (0.9510) of the output of a firm with perfectly competent workers. It is also disastrous to have a weak link in the chain, as 9 fully competent workers paired with someone who messes up half the time will see their total output halved compared to a firm with the perfect ten.</p>
+<p>Kremer pictured firms that engage in production involving a series of tasks. Workers have different skill levels, which is represented by a probability that they properly perform the task. Even if workers have relatively high completion rates, small differences are costly. A firm employing a production process with 10 tasks and workers who complete their step with 95 per cent probability produces only 60 percent (<span class="math inline">0.95^{10}</span>) of the output of a firm with perfectly competent workers. It is also disastrous to have a weak link in the chain, as 9 fully competent workers paired with someone who messes up half the time will see their total output halved compared to a firm with the perfect ten.</p>
 <p>This setup has some interesting implications. First, people will sort by skill as firms will find it worthwhile to employ people of the same competency. Those firms with the best workers will then attract the most capital. This will lead to large wage differentials, with the high-skilled workers paired together being much more productive than the low-skilled. Large differences in wages might also be observed across borders if there are differences in skill between countries.</p>
 <p>If we assume that the tasks in a process are sequential, there are high costs to messing up at later stages of the production process as the work of everyone before is wasted. Kremer uses the example of Rembrandt, who finished off the face and hands of&nbsp;portraits&nbsp;after his assistants had done the easier work.&nbsp;The result of this assumption is that high skilled workers will be employed later in the production chain. If there is a lack of high-skilled workers, firms will focus on producing goods with short and easy production processes. Kremer suggests this may explain the higher share of primary production in poor countries, while rich countries will specialise in complex products.</p>
 <p>Finally, Kremer asks what happens if firms cannot perfectly assess a worker’s skill. In that case, there will be imperfect matching between firms and workers, and firms will be less efficient. But if workers use education to both signal and increase skill, there are benefits from the improved matching and the significant output increase as mistakes drop. Kremer states that this provides a strong argument for subsidising education, as small increases in education and skill increase the returns to education and skill, causing a virtuous circle.</p>

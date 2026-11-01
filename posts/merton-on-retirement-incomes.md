@@ -17,11 +17,11 @@ When I get a statement from my defined contribution fund, it tells me about my c
 >
 >But under conventional investment metrics, your annuity would almost certainly look too risky. As interest rates move up and down, the market value of annuities, and other long-maturity fixed-income securities such as U.S. Treasury bonds, fluctuates enormously. In 2012, for instance, there was a 30% range between the highest and lowest market value of the annuity for the 45-year-old over the 12 months. However, the income that the annuity will provide in retirement does not change at all. Clearly, there is a big disconnect about what is and is not risky when it comes to the way we express the value of pension savings.
 
-So what does that mean for fund managers ?
+So what does that mean for fund managers?
 
 >The particulars are, of course, somewhat technical, but in general, they should continue to follow portfolio theory: The investment manager invests in a mixture of risky assets (mainly equity) and risk-free assets, with the balance of risky and risk-free shifting over time so as to optimize the likelihood of achieving the investment goal. The difference is that risk should be defined from an income perspective, and the risk-free assets should be deferred inflation-indexed annuities.
 
-Then there is the consumer side of the equation. As a start, financial advisers should be asking what are the consumer's retirement_ income_ goals and what action would need to be taken to meet them.
+Then there is the consumer side of the equation. As a start, financial advisers should be asking what are the consumer's retirement _income_ goals and what action would need to be taken to meet them.
 
 But rather than suggesting the adviser try to educate the consumer about the technicalities of this decision, Merton suggests more consumer engagement may not be a good thing.
 
@@ -35,4 +35,4 @@ This is, after all, why we have financial professionals - there is a need for (a
 
 >It is fair enough to expect people to provide for their retirement. But expecting them to acquire the expertise necessary to invest that provision wisely is not. We wouldn’t want them to. We don’t want a busy surgeon to spend time learning about dynamic immunization trading instead of figuring out how to save lives, any more than we would want skilled finance professionals to spend time learning how to do their own surgery.
 
-It is interesting that Merton uses automotive and medical examples. People are often wary of trusting mechanics. In medicine, it is hard to asses surgeon quality before an operation, and we receive almost no reliable feedback on whether they did a good job (unless they accidentally leave an instrument in you). If anything, the trend in medicine is for people to become more educated (hello Google) about what services they are about to receive rather than completely letting go and trusting the medical professional.
+It is interesting that Merton uses automotive and medical examples. People are often wary of trusting mechanics. In medicine, it is hard to assess surgeon quality before an operation, and we receive almost no reliable feedback on whether they did a good job (unless they accidentally leave an instrument in you). If anything, the trend in medicine is for people to become more educated (hello Google) about what services they are about to receive rather than completely letting go and trusting the medical professional.

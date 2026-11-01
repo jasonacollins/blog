@@ -29,7 +29,7 @@ In the closing chapters, Fukuyama states his four biological factors that underl
   * Human beings have a natural propensity for violence.
 
 
-I noted some of Fukuyama's more interesting statements on the first two factors in a [earlier post](fukuyamas-biological-approach.md), but his observations on the last two are also interesting. On the third, Fukuyama states:
+I noted some of Fukuyama's more interesting statements on the first two factors in an [earlier post](fukuyamas-biological-approach.md), but his observations on the last two are also interesting. On the third, Fukuyama states:
 
 
 <blockquote>Rules can be rationally derived by individuals calculating how to maximize their own self-interest, which requires that they enter into social contracts with other individuals. Human beings are born with a suite of cognitive faculties that allow them to solve prisoner's-dilemma-type problems of social cooperation. ... The ability to make and obey rules is an economizing behavior in the sense that it greatly reduces the transaction costs of social interaction and permits effective collective action. ...

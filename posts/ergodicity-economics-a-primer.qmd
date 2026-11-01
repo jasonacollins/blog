@@ -202,7 +202,7 @@ The average across the four is \$110.25, reflecting the compound 5% growth. That
 
 ### 3.2 Almost surely
 
-Over the very long term, an individual will tend to get around half heads and half tails. As the number of flips goes to infinite, the proportion of heads or tails "[almost surely](https://en.wikipedia.org/wiki/Almost_surely)" converges to 0.5.
+Over the very long term, an individual will tend to get around half heads and half tails. As the number of flips goes to infinity, the proportion of heads or tails "[almost surely](https://en.wikipedia.org/wiki/Almost_surely)" converges to 0.5.
 
 This means that each person will tend to get a 50% increase half the time (or 1.5 times the initial wealth), and a 40% decrease half the time (60% of the initial wealth). A bit of maths and the time average growth in wealth for an individual is $(1.5\times 0.6)^{0.5} \sim 0.95$, or approximately a 5% decline in wealth each period. Every individual's wealth will tend to decay at that rate.
 
@@ -267,13 +267,13 @@ where
 
 For the bet above, we have *p*=0.5 and *b*=0.5/0.4=1.25. As offered, we are effectively required to bet *f*=0.4, or 40% of our wealth, for that chance to win a 50% increase.
 
-However, if we apply the above formula given *p* and *b*, a person should bet 10%, of their wealth each round to maximise the geometric growth rate.
+However, if we apply the above formula given *p* and *b*, a person should bet 10% of their wealth each round to maximise the geometric growth rate.
 
 $$\frac{(0.5*(1.25+1)-1)}{1.25}=0.1$$
 
 The Kelly criterion is effectively maximising the expected log utility of the bet through setting the size of the bet. The Kelly criterion will result in someone wanting to take a share of any bet with positive expected value.
 
-The Kelly bet "almost surely"" leads to higher wealth than any other strategy in the long run.
+The Kelly bet "almost surely" leads to higher wealth than any other strategy in the long run.
 
 If we simulate the above scenarios, but risking only 10% of wealth each round rather than 40% (i.e. heads wealth will increase by 12.5%, tails it will decrease by 10%), what happens? The expected value of the Kelly bet is $0.5\times 0.125+0.5\times -0.1=0.0125$ or 1.25% per round. This next figure shows the ensemble average, showing a steady increase.
 
@@ -301,7 +301,7 @@ averagePlotKelly <- averagePlot(kelly, 1000)
 averagePlotKelly
 ```
 
-If we look at the individuals in this population, we can also see that their paths more closely resemble that of the population average. Most still under-perform the mean (the system is still non-ergodic - the time average growth rate is ($1.125\times 0.9)^{0.5}=1.006$ or 0.6%), and there is a large wealth disparity with the wealthiest person having 36% of the total wealth after 1000 periods (after 100, they have 0.5% of the wealth). Still, most people are better off, with 70% and 95% of the population experiencing a gain after 100 and 1000 periods respectively. The median wealth is almost \$50,000 after 1000 periods.
+If we look at the individuals in this population, we can also see that their paths more closely resemble that of the population average. Most still under-perform the mean (the system is still non-ergodic - the time average growth rate is $(1.125\times 0.9)^{0.5}=1.006$ or 0.6%), and there is a large wealth disparity with the wealthiest person having 36% of the total wealth after 1000 periods (after 100, they have 0.5% of the wealth). Still, most people are better off, with 70% and 95% of the population experiencing a gain after 100 and 1000 periods respectively. The median wealth is almost \$50,000 after 1000 periods.
 
 ```{r}
 #| fig-cap: Plot of first 20 people applying Kelly criterion against average wealth (log scale, 1000 periods)
@@ -347,7 +347,7 @@ One is where the children of a particular type were all bound to the same coin f
 
 If, however, each child faces their own coin flip (experiencing, say, idiosyncratic risks), that crash never comes. Instead, the risk of those flips is diversified and the growth of the population more closely resembles the ensemble average, even over the very long term.
 
-Below is a chart of population for a simulation of 100 generations of the accepting population, starting with a population of 10,000. For this simulation, I have assumed that at the end of each period, the accepting types will have a number of children equal to the proportional increase in their wealth. For example, if they flip heads, they will have 1.5 children, For tails, they will have 0.6 children. They then die. (The simulation works out largely the same if I make the number of children probabilistic in accord with those numbers.) Each child takes their own flip.
+Below is a chart of population for a simulation of 100 generations of the accepting population, starting with a population of 10,000. For this simulation, I have assumed that at the end of each period, the accepting types will have a number of children equal to the proportional increase in their wealth. For example, if they flip heads, they will have 1.5 children. For tails, they will have 0.6 children. They then die. (The simulation works out largely the same if I make the number of children probabilistic in accord with those numbers.) Each child takes their own flip.
 
 ```{r}
 #| fig-cap: Population of accepting types

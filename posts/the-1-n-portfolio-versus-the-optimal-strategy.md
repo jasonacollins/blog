@@ -40,7 +40,7 @@ So what do [Kritzman and friends](https://doi.org/10.2469/faj.v66.n2.6) say?
 
 The rolling short-term samples referred to relate to DeMiguel and friends' use of a rolling 60- or 120-month history to determine the input parameters for the optimisation exercise.
 
-Kritzman and friends argue that the use of this rolling average leads to problems. For example, in February 2009, the 60-month trailing return of the S&P 500 Index was –5.66 percent. The return of a major bond index was around 3 percent. If you took this previous 5-years as your future expectation, the observed stock and bond holdings implies that most people prefer more risk to less risk for the same return. Why would you otherwise hold the riskier stocks if you expected a negative return when a safer positive return was available? As input assumptions for an optimisation exercise, they are implausible. Kritzman and friends state that in such a situation no investor would simply take the recent historial return as their future expectation.
+Kritzman and friends argue that the use of this rolling average leads to problems. For example, in February 2009, the 60-month trailing return of the S&P 500 Index was –5.66 percent. The return of a major bond index was around 3 percent. If you took these previous 5 years as your future expectation, the observed stock and bond holdings implies that most people prefer more risk to less risk for the same return. Why would you otherwise hold the riskier stocks if you expected a negative return when a safer positive return was available? As input assumptions for an optimisation exercise, they are implausible. Kritzman and friends state that in such a situation no investor would simply take the recent historical return as their future expectation.
 
 Kritzman and friends argued that the consequence of these implausible assumptions could be demonstrated by inputting some arbitrarily decided but reasonable sounding expected returns instead of using the recent short-term history. In that case, the superiority of the optimisation approaches re-emerges.
 
@@ -48,7 +48,7 @@ I have some sympathy for this argument. As Kritzman and friends point out, Marko
 
 Alas, the story goes further. A quick Google Scholar search of the papers citing Kritzman and friends shows that this has turned into a huge academic debate.
 
-Here's a quick taste of some of the other papers that I found. I haven't read them in detail and this is out of my area of expertise, so assume I haven't get everything right here:
+Here's a quick taste of some of the other papers that I found. I haven't read them in detail and this is out of my area of expertise, so assume I haven't got everything right here:
 
 - [Behr and friends (2013)](https://doi.org/10.1016/j.jbankfin.2012.11.020) ([pdf](https://isiarticles.com/bundles/Article/pre/pdf/5812.pdf)) developed a "constrained minimum-variance strategy" that outperformed a 1/N policy across 6 datasets.
 
@@ -58,19 +58,19 @@ Here's a quick taste of some of the other papers that I found. I haven't read th
 
 - [Hsu and friends (2018)](https://doi.org/10.1016/j.jbankfin.2018.09.021) suggest that nearly all papers claiming a superiority for optimisation approaches suffer from "data snooping". Data snooping captures publication bias, p-hacking, the garden of forking paths and other phenomena that yield unrepresentative published results. Get rid of "data snooping" and most of the outperformance of optimised methods disappears. This paper is a good reminder that when people claim good "out-of-sample" results, they tell us about the exercise only after they had seen the results themselves. "Out-of-sample" would be far more impressive if that was a future sample.
 
-- [David Allen and friends (2019)](https://doi.org/10.1080/0015198X.2019.1600958) find that if investors have "modest" forecasting ability, mean-variance optimisation is superior. I'm somewhat sceptical of the concept that people have forecasting ability in the sense defined. The paper makes a fairly token attempt to make the case that they do. That said, Allen and friends also provide another take-down of the DeMiguel and friends paper, arguing their result is the result of their modelling approach. Loosen some constraints and optimisation outperforms even without forecasting ability. (This paper itself spawned a debate, with [Michaud and friends](https://doi.org/10.1080/0015198X.2019.1701323) claiming they omitted certain forms of error, and [Allen and friends responding](https://doi.org/10.1080/0015198X.2019.1703984) that they did not and that they use richer, higher-frequency data that many other comparisons.)
+- [David Allen and friends (2019)](https://doi.org/10.1080/0015198X.2019.1600958) find that if investors have "modest" forecasting ability, mean-variance optimisation is superior. I'm somewhat sceptical of the concept that people have forecasting ability in the sense defined. The paper makes a fairly token attempt to make the case that they do. That said, Allen and friends also provide another take-down of the DeMiguel and friends paper, arguing their result is the result of their modelling approach. Loosen some constraints and optimisation outperforms even without forecasting ability. (This paper itself spawned a debate, with [Michaud and friends](https://doi.org/10.1080/0015198X.2019.1701323) claiming they omitted certain forms of error, and [Allen and friends responding](https://doi.org/10.1080/0015198X.2019.1703984) that they did not and that they use richer, higher-frequency data than many other comparisons.)
 
 As said above, messy. And that is without also exploring the approach to measuring outperformance. I'm not convinced the measures used answer the question at heart. But that's an issue for another day.
 
 Absent a deeper dive into these papers, and as someone who has often told the Markowitz story in a similar manner to Gigerenzer - with a reference to DeMiguel and friends paper and all - I am updating the story I tell somewhat:
 
-- DeMiguel and friends demonstrated that 1/N performed on par with more complex optimisation approaches under a fairly limited set of assumptions and the result may be a peculiarity of their model. I should stop stating that their model establishes the need for 500-years of data.
+- DeMiguel and friends demonstrated that 1/N performed on par with more complex optimisation approaches under a fairly limited set of assumptions and the result may be a peculiarity of their model. I should stop stating that their model establishes the need for 500 years of data.
 
 - However, no-one has clearly shown that more complex optimisation methods are better. In particular, "data snooping" brings many of the results claiming outperformance into question.
 
 - I don't believe it is possible to definitively settle this debate with historic data. Some future oriented bets would be  more informative and could substantially shift my beliefs, but even then it may not be conclusive. You can get a high Sharpe ratio by picking up pennies in front of a steamroller if the period of measurement doesn't include you getting hit by the steamroller. I am sure I have read (somewhere) Nassim Taleb claiming that high Sharpe ratios are a sign that someone will blow up.
 
-Deep down, I still believe that a 1/N heuristic can be sound  even when compared to more sophisticated approaches. This is not a question of getting enough data - as appears implied by Gigerenzer in the quoted passage - but one of of robustness in the face of uncertainty and an unstable future with the potential for structural changes. This belief is buttressed by the broader evidence on the [power of simple heuristics](https://behavioralscientist.org/simple-heuristics-that-make-algorithms-smart/).
+Deep down, I still believe that a 1/N heuristic can be sound  even when compared to more sophisticated approaches. This is not a question of getting enough data - as appears implied by Gigerenzer in the quoted passage - but one of robustness in the face of uncertainty and an unstable future with the potential for structural changes. This belief is buttressed by the broader evidence on the [power of simple heuristics](https://behavioralscientist.org/simple-heuristics-that-make-algorithms-smart/).
 
 But as a starting point I should be weakening - at least slightly - my belief about the 1/N heuristic given the specific paper I have regularly quoted in support of that claim isn't as general or robust as I thought it was.
 
@@ -78,11 +78,11 @@ One factor that constrains that weakening is an observation from this latest per
 
 Finally, with all this said, there remains one issue that looms large over this exercise. If deciding a 1/N strategy, what should N be?
 
-If there are two bonds and three stocks, does N equal two (stocks and bonds) or five. What of an N of two with crypto- and non-crypto-assets? Should we group domestic and international stocks? What of different sectors?
+If there are two bonds and three stocks, does N equal two (stocks and bonds) or five? What of an N of two with crypto- and non-crypto-assets? Should we group domestic and international stocks? What of different sectors?
 
 Most of the papers mentioned above have relatively sophisticated people picking what comprises N. What of the average investor? How does their portfolio hold up with a 1/N rule?
 
-In Risk Savvy, Gigerenzer is sensitive to this question of choosing N. He discussed a time when an organisation's head of investment asked whether his customers might just invest themselves if all they need is a 1/N rule. Gigerenzer's writes:
+In Risk Savvy, Gigerenzer is sensitive to this question of choosing N. He discussed a time when an organisation's head of investment asked whether his customers might just invest themselves if all they need is a 1/N rule. Gigerenzer writes:
 
 >I reassured him that there are plenty of open questions, such as how large N should be, what kind of stocks, when to rebalance, and most important, to figure out when and where 1/N is a successful strategy.
 

@@ -23,7 +23,7 @@ Article on Turing trap: https://digitaleconomy.stanford.edu/news/the-turing-trap
 
 We know that model leaderboards are dynamic. From week to week the latest best model according to XYZ shifts.
 
-What of a model that we put in thew hands of exprts and get to the top of the leaderboard. Then we put the AI in the hands of monkeys.
+What of a model that we put in the hands of experts and get to the top of the leaderboard. Then we put the AI in the hands of monkeys.
 
 
 

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.18">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -45,7 +45,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-cd8592f072b9d28f7be82a1360dc3fa5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -190,8 +190,8 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 </blockquote>
 <p>What are the costs of falling asleep at the wheel? We can get a better sense from the as yet <a href="https://www.dropbox.com/scl/fi/c5jdi146erky69csa8gha/Falling_Asleep_at_the_Wheel.pdf?rlkey=ss4vh6bsgzf52xiba8ffx0onc&amp;e=1&amp;st=s0ppis9g&amp;dl=0">unpublished working paper</a>. (I expect it will be published somewhere reasonably prestigious before too long.)</p>
 <p>The “bad AI” had an accuracy of 75%. The “good AI” had an accuracy of 85%. What was the accuracy of the recruiters? My reading of Table 4 of the paper is that, without any AI support, the recruiters had 72.3% accuracy. With the bad AI that was 75.4%, and with good AI was 74.4%. So on the raw outcome, about the same across all three treatments. (I’ve based these calculations on the assumption that the results come from a linear regression for columns (1) and (2). The author could have used a logistic regression given the binary dependent variable, but the magnitude of the coefficients suggests that isn’t the case.)</p>
-<p>But think about what we could achieve if we just eliminated the recruiters. The recruiters with the bad AI add nothing. Their deviations from the AI recommendations are a wash. The recruiters with the good AI intervene enough to degrade the performance from 85% to 74%. If anything, the recruiters with the bad AI aren’t asleep enough! If they didn’t do a thing, they’d get 85% accuracy. Instead of thinking about getting recruiters to pay attention, we should remove them from simple prediction tasks like this.</p>
-<p>The underperformance of human-AI combinations is a common theme across the literature on statistical versus human prediction. Combine a human with a good algorithm and you will improve the human’s performance. However, their performance will still be below the level of the algorithm alone. (I’ve written in <a href="https://behavioralscientist.org/dont-touch-computer/">Behavioural Scientist</a> on this previously.)</p>
+<p>But think about what we could achieve if we just eliminated the recruiters. The recruiters with the bad AI add nothing. Their deviations from the AI recommendations are a wash. The recruiters with the good AI intervene enough to degrade the performance from 85% to 74%. If anything, the recruiters with the good AI aren’t asleep enough! If they didn’t do a thing, they’d get 85% accuracy. Instead of thinking about getting recruiters to pay attention, we should remove them from simple prediction tasks like this.</p>
+<p>The underperformance of human-AI combinations is a common theme across the literature on statistical versus human prediction. Combine a human with a good algorithm and you will improve the human’s performance. However, their performance will still be below the level of the algorithm alone. (I’ve written in <a href="https://behavioralscientist.org/dont-touch-computer/">Behavioral Scientist</a> on this previously.)</p>
 <p>Before moving on, I should point out that the measure of decision quality highlighted in the preregistration was not the decision to interview the candidate, but rather a measure of confidence. (I can’t check this as the pre-registration is embargoed.) For each decision, recruiters were asked to rate their confidence on a 1 to 5 scale. Using this confidence measure, the recruiters with the bad AI performed significantly better than those with the good AI (scraping under the 0.05 threshold once some additional controls are added). I can’t confirm from the paper whether the good AI model would outperform on this measure - or even whether it generates measures of confidence - but I’d be very surprised if a model wouldn’t outperform.</p>
 <section id="understanding-ai-quality" class="level2">
 <h2 class="anchored" data-anchor-id="understanding-ai-quality">Understanding AI quality</h2>

@@ -19,7 +19,7 @@ As is my habit, each year I give a list of the best books I have read during the
   4. Oded Galor's [Unified Growth Theory](galors-unified-growth-theory.md): Another book for which I'm not completely onboard with the central arguments, but I love the ambition and ideas.
 
 	
-  5. I read a lot of classics this year. I thought Victor Hugo's Les Miserables was great. I loved the use of language in Vladimir Nabakov's Lolita. But ultimately, I enjoyed Jules Verne's *Twenty Thousand Leagues Under the Sea* the most (an early seasteader?).
+  5. I read a lot of classics this year. I thought Victor Hugo's Les Miserables was great. I loved the use of language in Vladimir Nabokov's Lolita. But ultimately, I enjoyed Jules Verne's *Twenty Thousand Leagues Under the Sea* the most (an early seasteader?).
 
 
 Books I read that didn't make the list but are worth a mention include Nate Silver's [The Signal and the Noise: Why So Many Predictions Fail but Some Don’t](silvers-the-signal-and-the-noise.md) (I thought a couple of chapters were great, but just wasn't that excited by a lot of it) and Victor Hwang and Greg Horowitt’s [The Rainforest: The Secret to Building the Next Silicon Valley](hwang-and-horowitts-the-rainforest.md).

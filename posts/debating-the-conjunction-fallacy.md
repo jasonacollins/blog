@@ -71,7 +71,7 @@ From [Eliezer Yudkowsky on Less Wrong](https://www.lesswrong.com/posts/cXzTpSiCr
 >
 >60 of 62 physicians, asked this question, checked the second answer.
 >
-Fourth and finally, as Tversky and Kahneman write, "An additional group of 24 physicians, mostly residents at Stanford Hospital, participated in a group discussion in which they were confronted with their conjunction fallacies in the same questionnaire. The respondents did not defend their answers, although some references were made to 'the nature of clinical experience.'  Most participants appeared surprised and dismayed to have made an elementary error of reasoning."
+>Fourth and finally, as Tversky and Kahneman write, "An additional group of 24 physicians, mostly residents at Stanford Hospital, participated in a group discussion in which they were confronted with their conjunction fallacies in the same questionnaire. The respondents did not defend their answers, although some references were made to 'the nature of clinical experience.'  Most participants appeared surprised and dismayed to have made an elementary error of reasoning."
 >
 >...
 >

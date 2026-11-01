@@ -7,7 +7,7 @@ draft: false
 
 For some time, the "Paleo" lifestyle has been due for a decent critique from the perspective of growing evidence about the rapid rate of human evolution. Humans have evolved markedly since the dawn of agriculture, with adaptations ranging from disease resistance to the improved ability to digest starch. So when I heard of Marlene Zuk's *Paleofantasy: What Evolution Really Tells Us about Sex, Diet, and How We Live*, I was looking forward to that critique being provided.
 
-And Zuk certainly provides a critique. She relentlessly pulls apart the ideas that we are well adapted to the Paleolithic environment, or that rapid environmental change means that there is mismatch between the environment and our genes. As Zuk points out, evolution does not result in stasis and there is no point at which we are ever completely adapted to our environment. We will always be a collection of bootstrapped responses to changing conditions.
+And Zuk certainly provides a critique. She relentlessly pulls apart the ideas that we are well adapted to the Palaeolithic environment, or that rapid environmental change means that there is mismatch between the environment and our genes. As Zuk points out, evolution does not result in stasis and there is no point at which we are ever completely adapted to our environment. We will always be a collection of bootstrapped responses to changing conditions.
 
 However, Zuk's critique was not the one I was hoping for. As was the case for the promotion pieces and reviews that I read before reaching the main course, Zuk parades a series of straw men rather than searching for the more sophisticated arguments of Paleo advocates. Many chapters begin with misspelled comments that Zuk found under blog posts. While Zuk shoots the fish in the barrel, the more interesting targets are not addressed.
 
@@ -21,4 +21,4 @@ On the first of these, Zuk pushes too far by highlighting cases of rapid evoluti
 
 Having said all the above, I still enjoyed the book. There is a lot of punchy writing, many important research results and underneath her advocacy style, some interesting questions about diet, exercise and other "Paleo" lifestyle features. However, my instinct is that many people won't see these points due to Zuk's approach, which will lead to a less interesting debate than we could have had. I suppose this post is further evidence of that.
 
-*To avoid getting completely derailed by style instead of substance, next week I'll write a post on what I consider to be the most interesting questions about recent evolution and the Paleo lifestyle (read it [here](paleo-hypotheses.md)).
+*To avoid getting completely derailed by style instead of substance, next week I'll write a post on what I consider to be the most interesting questions about recent evolution and the Paleo lifestyle (read it [here](paleo-hypotheses.md)).*

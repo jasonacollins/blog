@@ -15,11 +15,11 @@ To examine this problem in more depth, team Mauboussin asked 1700 people to atta
 
 Unsurprisingly, the answers are all over the place. The [HBR article](https://hbr.org/2018/07/if-you-say-something-is-likely-how-likely-do-people-think-it-is) has a nice chart of the distribution of responses, and you see more detailed results [here](http://www.probabilitysurvey.com/). (You can also take the survey there too).
 
-What is the range of answers for an event that is "likely"? The 90% probability range for "likely" - that is the range that 90% of the answers fell within (and 5% of the answers were above, and 5% below) was 55% to 90%. "Real possibility" had a probability range of between 20% and 80% - the phrase in near meaningless. Even "always" is ambiguous, with a probability range of 90% to 100%.
+What is the range of answers for an event that is "likely"? The 90% probability range for "likely" - that is the range that 90% of the answers fell within (and 5% of the answers were above, and 5% below) was 55% to 90%. "Real possibility" had a probability range of between 20% and 80% - the phrase is near meaningless. Even "always" is ambiguous, with a probability range of 90% to 100%.
 
 An interesting finding of the survey was that men and women differ in their interpretations. Women are more likely to take a phrase as indicating a higher probability.
 
-So what does team Mauboussin suggest we should do? Use numbers. Pin down those subjective probabilities using objective benchmarks. Practice.
+So what does team Mauboussin suggest we should do? Use numbers. Pin down those subjective probabilities using objective benchmarks. Practise.
 
 And to close with another [piece of Sherman Kent wisdom](https://www.cia.gov/library/center-for-the-study-of-intelligence/kent-csi/kent-vol1no5/html/v01n5p.htm):
 

@@ -20,4 +20,4 @@ Because abilities to do something at the age of 10, 30, 50, etc. are separate (e
 The striking conclusion from this argument is that older people, even those coming from populations that have practiced agriculture for millennia, may suffer adverse health effects from the agricultural diet, despite having no problems when they were younger.</blockquote>
 
 
-The conclusion that Rose draws is that young people descended from populations with a substantial history of agriculture can probably cope with an agricultural diet. However, as they age, may need to revert to a [Paleo diet](not-quite-paleo.md). Those without that agricultural history should get on a Paleo diet from the start. It is an interesting twist on the usual Paleo diet story.
+The conclusion that Rose draws is that young people descended from populations with a substantial history of agriculture can probably cope with an agricultural diet. However, as they age, they may need to revert to a [Paleo diet](not-quite-paleo.md). Those without that agricultural history should get on a Paleo diet from the start. It is an interesting twist on the usual Paleo diet story.

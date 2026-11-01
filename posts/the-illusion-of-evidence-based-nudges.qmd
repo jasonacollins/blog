@@ -15,6 +15,6 @@ A nudge with a negative result is almost as likely to be implemented as a positi
 
 > There is no difference in adoption for results with negative point estimates (25% adoption), results with positive but not statistically significant estimates (25%), and estimates that are positive and statistically significant (30%). The likelihood of adoption increases with effect size (measured in percentage points), from 17% in the bottom third to 38% in the top third, though this difference is not statistically significant at conventional levels.
 
-My cynical take is that running trials with nudge units is cool. Despite more than a decade of nudge unit stories, behavioural insights is still a "shiny new thing" and are a way to say "we're doing science" The hard work of implementing or scaling an intervention simply isn't as sexy.
+My cynical take is that running trials with nudge units is cool. Despite more than a decade of nudge unit stories, behavioural insights is still a "shiny new thing" and is a way to say "we're doing science". The hard work of implementing or scaling an intervention simply isn't as sexy.
 
 ![](img/dellavigna-et-al-2024-fig-3.png)

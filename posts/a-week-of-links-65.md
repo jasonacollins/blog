@@ -16,7 +16,7 @@ Links this week:
   1. [Daniel McFadden on how people make choices](http://blog.lindau-nobel.org/daniel-mcfadden-understanding-better-how-people-really-make-choices/?utm_source=rss&utm_medium=rss&utm_campaign=daniel-mcfadden-understanding-better-how-people-really-make-choices).
 
 	
-  2. Not that new but only spotted this week - [Gerd Gigerenzer has a great rants on statistics](http://edge.org/response-detail/25462). (HT: [Noah Smith](https://twitter.com/Noahpinion))
+  2. Not that new but only spotted this week - [Gerd Gigerenzer has a great rant on statistics](http://edge.org/response-detail/25462). (HT: [Noah Smith](https://twitter.com/Noahpinion))
 
 	
   3. [Forty per cent of modern Chinese are patrilineal descendants of only three super-grandfathers from 6,000 years ago](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0105691). (HT: [Carl Zimmer](https://twitter.com/carlzimmer))

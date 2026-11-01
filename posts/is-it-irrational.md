@@ -7,7 +7,7 @@ title: Is it irrational?
 
 Over at Behavioral Scientist magazine my second article, [Rationalizing the 'Irrational'](http://behavioralscientist.org/rationalizing-the-irrational/), is up.
 
-In the article I suggest that an evolutionary biology lens can give us some insight into what drives peoples' actions. By understanding someone's actual objectives, we are better able to determine whether their actions are likely to achieve their goals. Are they are behaving "rationally"?
+In the article I suggest that an evolutionary biology lens can give us some insight into what drives people's actions. By understanding someone's actual objectives, we are better able to determine whether their actions are likely to achieve their goals. Are they behaving "rationally"?
 
 Although the major thread of the article is evolutionary, in some ways that is not the main point. For me the central argument is simply that when we observe someone else's actions, we need to exercise a degree of humility in assessing whether they are "rational". We possibly don't even know what they are trying to achieve, let alone whether their actions are the best way to achieve it.
 

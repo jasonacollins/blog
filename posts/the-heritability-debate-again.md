@@ -18,7 +18,7 @@ In his conclusion he states:
 
 (HT: [Bryan Caplan](http://econlog.econlib.org/archives/2011/03/heritabilities.html))
 
-Through his post, Kaufman constructs a series of paper tigers, tears   them down and implies that because the extreme case does not hold, we   should be wary of heritability estimates. I did not find much to disagree with in his examples, but the I differed on the conclusions we should draw.
+Through his post, Kaufman constructs a series of paper tigers, tears   them down and implies that because the extreme case does not hold, we   should be wary of heritability estimates. I did not find much to disagree with in his examples, but I differed on the conclusions we should draw.
 
 So, where I do not agree - first, the heritability estimate does matter. While I don't think it is hugely important whether the heritability of IQ in a specific sample is 0.5 or 0.6, it is important whether the measured heritability is 0 or 0.6. As Caplan notes in his post:
 
@@ -28,6 +28,6 @@ I think that Caplan is right (although I might have stated some conditions about
 
 Further, these results matter. They suggest that poverty is affecting the IQ of some children, and policies could be tailored to cut this disadvantage. For children not subject to deficient environments, the high heritability of IQ should influence policies such as those for education. Children are different and the education system should take this into account.
 
-Implicit in Kaufman's post was the "its all too complex" argument.  Social and biological sciences are complex (which is why I find them interesting). However, if we fully accepted Kaufman's argument that "our understanding of the factors that contribute to the development of   human traits ... is currently so   deficient that we typically do not know if the environmental factors   important in the development of a particular trait are stable across   testing situations", it would put into question most of the data analysis in economics, sociology and biology. Econometrics operates on the idea of all other things being equal.
+Implicit in Kaufman's post was the "it's all too complex" argument.  Social and biological sciences are complex (which is why I find them interesting). However, if we fully accepted Kaufman's argument that "our understanding of the factors that contribute to the development of   human traits ... is currently so   deficient that we typically do not know if the environmental factors   important in the development of a particular trait are stable across   testing situations", it would put into question most of the data analysis in economics, sociology and biology. Econometrics operates on the idea of all other things being equal.
 
 Fortunately, Kaufman has not taken the [Gladwell-esque](gladwells-outliers.md) approach of suggesting that we forget about genetic factors. Kaufman suggests further research into how nature and nurture are intertwined. If it is all too complex, we should start unwinding the complexity. However, I believe that, in the meantime, this complexity does not mean that we should throw out all the results that have previously been obtained.

@@ -7,11 +7,11 @@ draft: false
 
 I have a lot of sympathy for Adam Alter’s case in *Irresistible: Why We Can’t Stop Checking, Scrolling, Clicking and Watching*. Despite the abundant benefits of being online, the hours I have burnt over the last 20 years through aimless internet wandering and social media engagement could easily have delivered a book or another PhD.
 
-It’s unsurprising that we are surrounded by addictive tech. Game, website and app designers are all designing their products to gain and hold our attention. In particular, the tools at the disposal of modern developers are fantastic at introducing what Alter describes as the six ingredients of behavioural addition:
+It’s unsurprising that we are surrounded by addictive tech. Game, website and app designers are all designing their products to gain and hold our attention. In particular, the tools at the disposal of modern developers are fantastic at introducing what Alter describes as the six ingredients of behavioural addiction:
 
 >[C]ompelling goals that are just beyond reach; irresistible and unpredictable positive feedback; a sense of incremental progress and improvement; tasks that become slowly more difficult over time; unresolved tensions that demand resolution; and strong social connections.
 
-Behavioural addictions have a lot of similarity with substance addictions (some people question whether we should distinguish between them at all). They activate the same brain regions. They are fueled by some of the same human needs, such as the need for social engagement and support, mental stimulation and a sense of effectiveness. [Parts of the book seem to be a good primer on addiction, although see my endnote.]
+Behavioural addictions have a lot of similarity with substance addictions (some people question whether we should distinguish between them at all). They activate the same brain regions. They are fuelled by some of the same human needs, such as the need for social engagement and support, mental stimulation and a sense of effectiveness. [Parts of the book seem to be a good primer on addiction, although see my endnote.]
 
 Based on one survey of the literature, as many as 41 per cent of the population may have suffered a behavioural addiction in the past month. While having so many people classified as addicts dilutes the concept of “addiction”, it does not seem unrealistic given the way many people use tech.
 

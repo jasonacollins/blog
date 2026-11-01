@@ -18,7 +18,7 @@ Moving to the empirical work, the authors conducted five studies in which they p
 
 The most interesting of these studies involved also priming the subjects with competitive or group assimilation goals. Where there is a more cooperative social context, conspicuous consumption did not increase when equality was increased. However, where people care about social gain in a competitive context, equality boosted conspicuous consumption. The effects of equality on conspicuous consumption could be mediated through the social context.
 
-So is this work significant outside of the experimental setting? Even though there is society-wide inequality, inequality is likely to be lower within the groups that people associate and there would be gains to conspicuous consumption within those groups. A low-income person may not be able to compete with the investment banker, but they are unlikely to be pitching to the same audience. However, would exposure to other groups through television or other social mediums affect the perceived gains to conspicuous consumption?
+So is this work significant outside of the experimental setting? Even though there is society-wide inequality, inequality is likely to be lower within the groups that people associate with and there would be gains to conspicuous consumption within those groups. A low-income person may not be able to compete with the investment banker, but they are unlikely to be pitching to the same audience. However, would exposure to other groups through television or other social mediums affect the perceived gains to conspicuous consumption?
 
 The policy implications of this work could be important. As stated by the authors:
 

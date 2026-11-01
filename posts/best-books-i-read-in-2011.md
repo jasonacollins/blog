@@ -24,4 +24,4 @@ As for last year, this year's top book list comprises the best books I _have rea
 
 [The Lucifer Effect: Understanding How Good People Turn Evil](zimbardos-the-lucifer-effect.md) by Philip Zimbardo - Although these books are in no particular order, I am going to suggest that this is probably the best. It had me thinking like few others (my [review](zimbardos-the-lucifer-effect.md) and [a later musing](iq-externalities.md)).
 
-There are a few books not on this list that were released this year and I have have high hopes for - Pinker's *The Better Angels of Our Nature: Why Violence Has Declined*, Kahneman's [Thinking, Fast and Slow](kahnemans-thinking-fast-and-slow.md) and Triver's [The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life](triverss-the-folly-of-fools.md).
+There are a few books not on this list that were released this year and I have high hopes for - Pinker's *The Better Angels of Our Nature: Why Violence Has Declined*, Kahneman's [Thinking, Fast and Slow](kahnemans-thinking-fast-and-slow.md) and Trivers's [The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life](triverss-the-folly-of-fools.md).

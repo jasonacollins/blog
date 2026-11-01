@@ -42,7 +42,7 @@ author: "Jason Collins"
 date: $CURRENT_DATE
 draft: true
 toc: false
-images: [""]
+image: ""
 ---
 
 EOF

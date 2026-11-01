@@ -19,11 +19,11 @@ As was the case then, if you want a sense of the frontier, others such as [Ethan
 
 I use multiple tools, switching between them depending on the task and comparing the responses. I want to gain a sense of the frontier.
 
-As an academic, I gain free access to [Github Copilot](https://github.com/features/copilot). (Students can also get free access.) CoPilot provides code suggestions in coding environments. But while badged this way, CoPilot also provides text suggestions more broadly. To access CoPilot, I write markdown documents in [Visual Studio Code](https://code.visualstudio.com) or [RStudio](https://posit.co/download/rstudio-desktop/). (For those who want more specific guidance on how to set this up, I've added that at the bottom of this post.) If you use CoPilot in Visual Studio Code you also gain access to [Copilot Chat](https://docs.github.com/en/copilot/using-github-copilot/asking-github-copilot-questions-in-your-ide).
+As an academic, I gain free access to [GitHub Copilot](https://github.com/features/copilot). (Students can also get free access.) Copilot provides code suggestions in coding environments. But while badged this way, Copilot also provides text suggestions more broadly. To access Copilot, I write markdown documents in [Visual Studio Code](https://code.visualstudio.com) or [RStudio](https://posit.co/download/rstudio-desktop/). (For those who want more specific guidance on how to set this up, I've added that at the bottom of this post.) If you use Copilot in Visual Studio Code you also gain access to [Copilot Chat](https://docs.github.com/en/copilot/using-github-copilot/asking-github-copilot-questions-in-your-ide).
 
 I also work with [ChatGPT Plus](https://chat.openai.com/) and [Claude Pro](https://www.anthropic.com/claude) open in a browser. I subscribe to the Pro/Plus version of both: it is worth it for the superior tools. As you'll see from the below, I use them all the time, although more recently I lean toward Claude.
 
-I run some other large language models locally on my computer using [Ollama](https://ollama.com/). I do this more to get a feel for them than for current utility. Most of my recent experimentation has been with [Llama 3](https://ollama.com/library/llama3). I use these models via the command line or the [CoPilot plugin](https://github.com/logancyang/obsidian-copilot) in [Obsidian](https://obsidian.md/).
+I run some other large language models locally on my computer using [Ollama](https://ollama.com/). I do this more to get a feel for them than for current utility. Most of my recent experimentation has been with [Llama 3](https://ollama.com/library/llama3). I use these models via the command line or the [Copilot plugin](https://github.com/logancyang/obsidian-copilot) in [Obsidian](https://obsidian.md/).
 
 I also subscribe to [ElevenLabs](https://elevenlabs.io/) for its voice-generation capabilities. More on that below.
 
@@ -44,9 +44,9 @@ Finally, if I have a technical question, I'll ask before googling. It's faster a
 - Efficiency gain: 10x
 - Quality gain: 50%
 
-Despite spending a lot of time in R, I am a crap coder. As a result, my typical approach is to write a comment and let CoPilot do the first cut of the code. I will then tweak the code until it is in shape. That tweaking isn't manual tweaking either. If there is an error or problem that I can't resolve, I'll use CoPilot Chat to get a solution. Chat will usually provide code solving the problem. 
+Despite spending a lot of time in R, I am a crap coder. As a result, my typical approach is to write a comment and let Copilot do the first cut of the code. I will then tweak the code until it is in shape. That tweaking isn't manual tweaking either. If there is an error or problem that I can't resolve, I'll use Copilot Chat to get a solution. Chat will usually provide code solving the problem.
 
-CoPilot is also great in helping me understand someone else's code. I'll highlight sections and ask CoPilot Chat to explain what it does. Often, I'll paste poorly documented code into Claude or ChatGPT and ask it to write comments. Further, If the code looks overly complicated, a request to simplify often yields good results. (I've been asking ChatGPT to review some of my old code recently. I'm a bit embarrassed at how much more efficiently I could have written it.)
+Copilot is also great in helping me understand someone else's code. I'll highlight sections and ask Copilot Chat to explain what it does. Often, I'll paste poorly documented code into Claude or ChatGPT and ask it to write comments. Further, if the code looks overly complicated, a request to simplify often yields good results. (I've been asking ChatGPT to review some of my old code recently. I'm a bit embarrassed at how much more efficiently I could have written it.)
 
 One large benefit has come from cross-language translation. Last year I wanted to reproduce the results in Berkeley Dietvorst's [Algorithm aversion: People erroneously avoid algorithms after seeing them err](https://doi.org/10.1037/xge0000033). Data and the code for analysis were [available on ResearchBox](https://researchbox.org/379&PEER_REVIEW_passcode=MOQTEQ). The problem was that the code was in Stata, and I have no desire to learn Stata.
 
@@ -73,15 +73,15 @@ This is a small one in that I don't need to do that often, but it's a massive ti
 - Efficiency gain: 20%
 - Quality gain: 10%
 
-When I first started using GitHub CoPilot, I would have it on whenever I was writing. I would receive suggestions as I typed. Today, I generally turn it off when writing a first draft. The distraction in filtering suggestions was too costly, and I was worried about getting dragged in random directions.
+When I first started using GitHub Copilot, I would have it on whenever I was writing. I would receive suggestions as I typed. Today, I generally turn it off when writing a first draft. The distraction in filtering suggestions was too costly, and I was worried about getting dragged in random directions.
 
 However, I use Claude and ChatGPT a lot to improve my writing. When I'm having trouble getting a sentence or paragraph right, I'll often hand it over and ask for 10 possible rewrites. Similarly, I will ask for simpler, shorter or more conversational text. I'll rarely take a rewrite as provided, but it often gives me a word or turn of phrase that does the job.
 
 ### Lecture notes
 
-For more mechanical lecture notes, there are some clear gains. The notes for my undergraduate behavioural economics subject (which you can access [here](https://be.jcx.au)) were produced with CoPilot assistance.
+For more mechanical lecture notes, there are some clear gains. The notes for my undergraduate behavioural economics subject (which you can access [here](https://be.jcx.au)) were produced with Copilot assistance.
 
-Here are a few instances where CoPilot has been useful.
+Here are a few instances where Copilot has been useful.
 
 Often the notes include a statement of a concept followed by a step-by-step example or illustration. The gain comes when you're writing those steps.
 
@@ -91,7 +91,7 @@ For example, in a section about decision making under risk, I might write:
 >
 > Will Bill accept the bet?
 
-If I write the first couple of words of the answer "First, we calculate...", CoPilot is away.
+If I write the first couple of words of the answer "First, we calculate...", Copilot is away.
 
 > First, we calculate the expected utility of each option. The expected utility of the bet is:
 
@@ -130,11 +130,11 @@ EU(\text{bet}) &= 0.5 \times u(100) + 0.5 \times u(-50) \\
 \end{aligned}
 ```
 
-I might beef this up with a better explanation, or paste the question into ChatGPT directly, where I tend to get more detailed answers. CoPilot has done OK with the math here - the logs are correct!
+I might beef this up with a better explanation, or paste the question into ChatGPT directly, where I tend to get more detailed answers. Copilot has done OK with the maths here - the logs are correct!
 
-CoPilot is also great when I'm doing repetitive tasks such as describing the elements of an equation or diagram. Start describing the first element and it might give you the rest. And if you write a point followed by "Conversely, ...", CoPilot is often on the money.
+Copilot is also great when I'm doing repetitive tasks such as describing the elements of an equation or diagram. Start describing the first element and it might give you the rest. And if you write a point followed by "Conversely, ...", Copilot is often on the money.
 
-I also use CoPilot with [ggplot](https://ggplot2.tidyverse.org) to produce graphs for the notes. When I wanted to generate a chart showing a [probability weighting function](https://be.jcx.au/prospect-theory/probability-weighting) from prospect theory, I created an R code block and typed a comment:
+I also use Copilot with [ggplot](https://ggplot2.tidyverse.org) to produce graphs for the notes. When I wanted to generate a chart showing a [probability weighting function](https://be.jcx.au/prospect-theory/probability-weighting) from prospect theory, I created an R code block and typed a comment:
 
 > #Plot of probability weighting function using ggplot2
 
@@ -165,9 +165,9 @@ ggplot(prob_df, aes(x = prob, y = weight)) +
 
 Exactly what I wanted. When I implemented this in the notes, I only tweaked the style and added a 45-degree line.
 
-CoPilot's offering uses Prelec's [-@prelec1998] probability weighting function. Whether it picked that up from earlier text in my notes or just gave the most common function for probability weighting, I don't know, but it's what I would have used if doing it manually. However, in writing this post I wasn't able to replicate what I did when writing the lecture notes. I got better results in the lecture notes themselves. A few paragraphs about probability weighting before I ask for the code generated better results than asking for the chart straight up.
+Copilot's offering uses Prelec's [-@prelec1998] probability weighting function. Whether it picked that up from earlier text in my notes or just gave the most common function for probability weighting, I don't know, but it's what I would have used if doing it manually. However, in writing this post I wasn't able to replicate what I did when writing the lecture notes. I got better results in the lecture notes themselves. A few paragraphs about probability weighting before I ask for the code generated better results than asking for the chart straight up.
 
-CoPilot didn't offer this full chunk of code at once. Each comment was offered, then the piece of code after it, one after the other. But the only work I did was writing the first comment and pressing tab several times as each succeeding comment or chunk of code was suggested. (CoPilot has certainly increased the level of comments in my code too.)
+Copilot didn't offer this full chunk of code at once. Each comment was offered, then the piece of code after it, one after the other. But the only work I did was writing the first comment and pressing tab several times as each succeeding comment or chunk of code was suggested. (Copilot has certainly increased the level of comments in my code too.)
 
 ### Writing organisational fluff
 
@@ -204,7 +204,7 @@ So, why not get an artificial voice to do the speaking? When I wrote my last pos
 
 I experimented with [Murf.ai](https://murf.ai), [Speechify](https://speechify.com), [play.ht](https://play.ht/) and [ElevenLabs](https://beta.elevenlabs.io). Initially I used Murf.ai to make some videos, as it allowed me to pair slides and text easily. I could also integrate with Google Slides. However, the voices sound a bit robotic, so I currently use ElevenLabs, even though all I get is an audio file. ElevenLabs has fantastic voices. Even a hint of AI voicing gets a negative reaction from students, so voice quality needs to be my primary criterion. If the Murf.ai voices improve and Eleven doesn't develop video integration, I may shift back.
 
-The production process is easy. I paste the text into an ElevenLabs project chapter and render the voice. Typically, the pacing won't be quite right, so I'll add some commas and dashes to create some pauses. I then export the voice file and combine it with images in Final Cut Pro. I can normally create a five to 10 minute video from text and slides in less than a hour.
+The production process is easy. I paste the text into an ElevenLabs project chapter and render the voice. Typically, the pacing won't be quite right, so I'll add some commas and dashes to create some pauses. I then export the voice file and combine it with images in Final Cut Pro. I can normally create a five to 10 minute video from text and slides in less than an hour.
 
 The fantastic part is that if I want to update a section or change a sentence, I update the script in ElevenLabs, re-render the relevant sentences, load a new voice file into the Final Cut Pro project and tweak the slide timings (if the voice edits require it). It's fast, simple and gives me a consistently high-quality video.
 
@@ -218,18 +218,18 @@ Here are two samples of the above paragraph, an off-the-shelf Australian voice a
 
 I've also started looking at options to create an AI avatar based on videos or photos of me for some parts of the videos. I'm leaving that one for the moment but can see myself revisiting it in the next year.
 
-## Accessing GitHub CoPilot
+## Accessing GitHub Copilot
 
-The below gives the basic steps to access GitHub CoPilot.
+The below gives the basic steps to access GitHub Copilot.
 
-If you are an academic, you can sign up for (free) academic access to CoPilot at [this link](https://education.github.com/discount_requests/application). If you're not an academic or student, sign up for a free trial as described [here](https://docs.github.com/en/billing/managing-billing-for-github-copilot/managing-your-github-copilot-subscription-for-your-personal-account). You'll need a Github account to do this. The \$10 a month is worth it.
+If you are an academic, you can sign up for (free) academic access to Copilot at [this link](https://education.github.com/discount_requests/application). If you're not an academic or student, sign up for a free trial as described [here](https://docs.github.com/en/billing/managing-billing-for-github-copilot/managing-your-github-copilot-subscription-for-your-personal-account). You'll need a GitHub account to do this. The \$10 a month is worth it.
 
 Visual Studio Code is available [here](https://code.visualstudio.com). (I use the Mac version.) Download and install.
 
-Install the Github CoPilot extension into Visual Studio Code. Instructions on installing the extension are [here](https://docs.github.com/en/copilot/quickstart#installing-the-github-copilot-extension-for-visual-studio-code). On installation you'll be prompted to login to GitHub to gain access to authorise CoPilot.
+Install the GitHub Copilot extension into Visual Studio Code. Instructions on installing the extension are [here](https://docs.github.com/en/copilot/quickstart#installing-the-github-copilot-extension-for-visual-studio-code). On installation you'll be prompted to log in to GitHub to gain access to authorise Copilot.
 
-Once you have done that, using CoPilot is easy. You simply type. As you type, you will be given suggestions.
+Once you have done that, using Copilot is easy. You simply type. As you type, you will be given suggestions.
 
-The setup in RStudio is even easier. Download RStudio from [here](https://posit.co/download/rstudio-desktop/). Under Tools/Global Options is a CoPilot menu item. Enable CoPilot there. You will be asked to enter your GitHub login details to get it running.
+The setup in RStudio is even easier. Download RStudio from [here](https://posit.co/download/rstudio-desktop/). Under Tools/Global Options is a Copilot menu item. Enable Copilot there. You will be asked to enter your GitHub login details to get it running.
 
-I write in markdown (and at the moment, a flavour of markdown called [Quarto](https://quarto.org)). It allows me to include $\LaTeX$ math and R computations within any document (as I have in this post). If you're an academic stuck in the $\LaTeX$ ecosystem, you can also write in Visual Studio Code wholly in $\LaTeX$. You can also just get CoPilot in Word. I'm looking forward to my university moving beyond the experimental stage and giving us access. (I took a one-month free trial of Microsoft CoPilot on the home computer, but didn't find the time to give it a proper go.)
+I write in markdown (and at the moment, a flavour of markdown called [Quarto](https://quarto.org)). It allows me to include $\LaTeX$ maths and R computations within any document (as I have in this post). If you're an academic stuck in the $\LaTeX$ ecosystem, you can also write in Visual Studio Code wholly in $\LaTeX$. You can also just get Copilot in Word. I'm looking forward to my university moving beyond the experimental stage and giving us access. (I took a one-month free trial of Microsoft Copilot on the home computer, but didn't find the time to give it a proper go.)

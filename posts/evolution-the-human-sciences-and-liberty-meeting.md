@@ -6,7 +6,7 @@ draft: false
 title: Evolution, the Human Sciences and Liberty meeting
 ---
 
-I had the following [Mont Pelerin Society Special Meeting](http://www.usfq.edu.ec/eventos/mps_galapagos/Paginas/default.aspx) pointed out to me. It has a great bunch of speakers - Robert Boyd, Robin Dunbar, Leda Cosmides, Matt Ridley, Richard Wrangham, Pascal Boyer and Gary Becker among them. Not a bad location either, if you ignore the expense. Unfortunately, its for MPS members and their guests only.
+I had the following [Mont Pelerin Society Special Meeting](http://www.usfq.edu.ec/eventos/mps_galapagos/Paginas/default.aspx) pointed out to me. It has a great bunch of speakers - Robert Boyd, Robin Dunbar, Leda Cosmides, Matt Ridley, Richard Wrangham, Pascal Boyer and Gary Becker among them. Not a bad location either, if you ignore the expense. Unfortunately, it’s for MPS members and their guests only.
 
 
 

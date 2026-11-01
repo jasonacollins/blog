@@ -36,15 +36,15 @@ My series of posts on the Journal of Economic Behavior & Organization special 
   2. [Four reasons why evolutionary theory might not add value to economics](four-reasons-why-evolutionary-theory-might-not-add-value-to-economics.md) - a post on David Sloan Wilson and John Gowdy's article _Evolution as a general theoretical framework for economics and public policy_
 
 	
-  3. [Economic cosmology - The rational egotistical individual](economic-cosmology-the-rational-egotistical-individual.md) - a post on John Gowdy and colleagues' article _Economic cosmology and the evolutionary challenge _
+  3. [Economic cosmology - The rational egotistical individual](economic-cosmology-the-rational-egotistical-individual.md) - a post on John Gowdy and colleagues' article _Economic cosmology and the evolutionary challenge_
 
 	
-  4. [Economic cosmology - The invisible hand](economic-cosmology-the-invisible-hand.md) - a second post on _Economic cosmology and the evolutionary challenge _
+  4. [Economic cosmology - The invisible hand](economic-cosmology-the-invisible-hand.md) - a second post on _Economic cosmology and the evolutionary challenge_
 
 	
   5. [Economic cosmology - Equilibrium](economic-cosmology-equilibrium.md) - a third post on _Economic cosmology and the evolutionary challenge_
 
 	
-  6. [Design principles for the efficacy of groups](design-principles-efficacy-groups.md) - a post of David Sloan Wilson, Elinor Ostrom and Michael E. Cox's article _Generalizing the core design principles for the efficacy of groups_
+  6. [Design principles for the efficacy of groups](design-principles-efficacy-groups.md) - a post on David Sloan Wilson, Elinor Ostrom and Michael E. Cox's article _Generalizing the core design principles for the efficacy of groups_
 
 

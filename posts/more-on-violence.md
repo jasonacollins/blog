@@ -13,7 +13,7 @@ The first (and I am not sure why this did not come into my head yesterday) is th
 
 The reproductive advantage to being unokais (having killed) was significant, with an average of 4.91 children compared to 1.59 for those in Chagnon's sample who had not killed. To the extent that traits making someone more likely to kill are heritable, they would shortly dominate this population (assuming they do not already).
 
-There is a gap between Chagnon's study and the preference for masculinity that I wrote about yesterday. The unokais were reproductively successful with women who knew that they had killed. There is no evidence that the unokais appear more masculine and that this was behind their reproductive success. However, preference for masculinity in a violent society may be an indicator or proxy of what was Chagnon noted - that in violent societies there is benefit to being aggressive.
+There is a gap between Chagnon's study and the preference for masculinity that I wrote about yesterday. The unokais were reproductively successful with women who knew that they had killed. There is no evidence that the unokais appear more masculine and that this was behind their reproductive success. However, preference for masculinity in a violent society may be an indicator or proxy of what Chagnon noted - that in violent societies there is benefit to being aggressive.
 
 The second article was by Edward O Wilson, titled [Competitive and aggressive behavior](http://doi.org/10.1177/053901847000900607). After some very interesting discussion on the rate of behavioural change in humans, the closing paragraph was as follows:
 

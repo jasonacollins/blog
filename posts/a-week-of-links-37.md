@@ -19,6 +19,6 @@ Links this week:
   3. [Behavioural economists did not discover irrationality](http://www.peterubel.com/2013/10/16/what-drives-me-crazy-about-the-popularity-of-behavioral-economics/). And while we're at it, let's start calling it behavioural science.
 
 	
-  4. [How much species diversity was there at the time of _Home erectus_](http://www.theguardian.com/science/2013/oct/17/skull-homo-erectus-human-evolution)? I love it that such a simple yet obvious consideration can completely change the way of looking at something. (HT: [Daniel Lende](https://twitter.com/daniel_lende))
+  4. [How much species diversity was there at the time of _Homo erectus_](http://www.theguardian.com/science/2013/oct/17/skull-homo-erectus-human-evolution)? I love it that such a simple yet obvious consideration can completely change the way of looking at something. (HT: [Daniel Lende](https://twitter.com/daniel_lende))
 
 

@@ -9,7 +9,7 @@ After my recent [post on how I focus](how-i-focus-and-live.qmd), I received a co
 
 Some of these blogs have been in my reader for years, others I am trialling. I am usually trialling a few at any time, and tend to have a "one in, one out" pattern of subscription. It normally takes me about 10 minutes once every day or two to scan the new entries and decide which are worth reading. This set of blogs generates more posts for my read later pile than I can get through.
 
-[Askblog](http://www.arnoldkling.com/blog/) (Arnold Kling has been one of my main influences in thinking about causation in social science and economics )
+[Askblog](http://www.arnoldkling.com/blog/) (Arnold Kling has been one of my main influences in thinking about causation in social science and economics)
 
 [Behavioral Public Policy Blog](https://bppblog.com/blog/)
 
@@ -21,13 +21,13 @@ Some of these blogs have been in my reader for years, others I am trialling. I a
 
 [Bryan Caplan at Econlog](http://econlog.econlib.org/authorbcaplan.html) (too much politics in the other Econlog bloggers for my taste)
 
-[Cal Newport](http://calnewport.com/blog/) (Author of *Deep Work*, for which I will I will post a review at some point. My review of So Good They Can't Ignore You is [here](newports-so-good-they-cant-ignore-you-why-skills-trump-passion-in-the-quest-for-work-you-love.md).)
+[Cal Newport](http://calnewport.com/blog/) (Author of *Deep Work*, for which I will post a review at some point. My review of So Good They Can't Ignore You is [here](newports-so-good-they-cant-ignore-you-why-skills-trump-passion-in-the-quest-for-work-you-love.md).)
 
 [Centre for Advanced Hindsight](https://advanced-hindsight.com/blog/)
 
 [Decision Science News](http://www.decisionsciencenews.com)
 
-[Dominic Cumming's blog](https://dominiccummings.com)
+[Dominic Cummings's blog](https://dominiccummings.com)
 
 [The Enlightened Economist](http://www.enlightenmenteconomics.com/blog/) (For the book recommendations)
 

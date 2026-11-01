@@ -34,4 +34,4 @@ Ostrom identified a number of conditions for these emergent solutions, which Wil
 
 I am not sure how Wilson saw Ostrom's work as promoting a middle-ground of discourse, nor of it being a mix of liberal and conservative principles. Where the conditions identified by Ostrom for these emergent local solutions are not met, we are back to the usual dichotomy between state-ownership and top down control versus private ownership. If they are met, the libertarians have their way.
 
-*My four posts on David Sloan Wilson's Economics and Evolution as Different Paradigms can be found [here](the-evolution-institute.md), [here](wilson-on-economics-and-evolution.md), [here](evolution-and-the-invisible-hand.md) and [here](what-can-evolutionary-biology-offer-economics.md).
+*My four posts on David Sloan Wilson's Economics and Evolution as Different Paradigms can be found [here](the-evolution-institute.md), [here](wilson-on-economics-and-evolution.md), [here](evolution-and-the-invisible-hand.md) and [here](what-can-evolutionary-biology-offer-economics.md).*

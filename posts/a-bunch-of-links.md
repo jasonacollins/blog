@@ -5,7 +5,7 @@ date: 2022-03-17 09:00:00+00:00
 draft: false
 images: [""]
 ---
-A past regular feature of this blog was "A week of links'. Primarily, it was a useful way to aggregate interesting articles - I often search my blog posts for material (they are a collection of text files on my computer).
+A past regular feature of this blog was "A week of links". Primarily, it was a useful way to aggregate interesting articles - I often search my blog posts for material (they are a collection of text files on my computer).
 
 But, the regularity of the feature drove my behaviour: I started looking for links for the post. So, I killed it.
 
@@ -21,6 +21,6 @@ Now for the partial resurrection, with links posts to be delivered at random int
 
    >Data analytics needs psychology. Organizations cannot realize the full potential of algorithms until they address the last mile problem and consider how people respond to algorithmic advice. Algorithms have the potential to greatly improve human judgment and decision making, as they generally outperform the accuracy of experts when the two are directly compared. But people can only leverage the accuracy of algorithms if they are willing to listen. Should they ignore algorithmic advice, the resources invested into data analytics, both within academia and industry, will go to waste. While the field of data analytics (the systematic computation of data, most commonly using algorithms) continues to evolve at a rapid rate, most overlook the important connection between producing and utilizing insights.
 
-5. In developing my teaching materials, I always spend a lot of time seeing what else is out there. Here's one the [sets of resources](https://mgto.org/teaching-courses/) I found most useful. Gilad Feldman, if I'm ever in your neck of the woods, I owe you a beer. [And I have every intention of sharing in the same way.]
+5. In developing my teaching materials, I always spend a lot of time seeing what else is out there. Here's one of the [sets of resources](https://mgto.org/teaching-courses/) I found most useful. Gilad Feldman, if I'm ever in your neck of the woods, I owe you a beer. [And I have every intention of sharing in the same way.]
 
 6. I've been thinking about meta-analysis recently on the back of the recently published meta-analysis on choice architecture. This [old Slate Star Codex post](https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/) is never far from my mind.

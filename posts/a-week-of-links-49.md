@@ -16,7 +16,7 @@ Links this week:
   1. [Greg Clark on long-term social mobility](http://www.washingtonpost.com/blogs/wonkblog/wp/2014/01/29/everyone-likes-the-idea-of-equal-opportunity-this-economist-thinks-its-a-fantasy/).
 
 	
-  2. [Cameron Murray on his reading list](http://ckmurray.blogspot.com.au/2014/01/tribes-gods-indeterminancy-property.html) - Tribes, Gods, Indeterminancy, Property, Capitalism
+  2. [Cameron Murray on his reading list](http://ckmurray.blogspot.com.au/2014/01/tribes-gods-indeterminancy-property.html) - Tribes, Gods, Indeterminacy, Property, Capitalism
 
 	
   3. [Assortative mating drives income inequality](http://marginalrevolution.com/marginalrevolution/2014/01/assortative-mating-and-income-inequality.html).

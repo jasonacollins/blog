@@ -5,7 +5,7 @@ date: 2018-03-14 08:00:49+00:00
 draft: false
 ---
 
-My Behavioral Scientist article, [Don't Touch The Computer](http://behavioralscientist.org/dont-touch-computer/) was in part a reaction to Andrew McAfee and Eric Brynjolfsson's book *The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies*. In particular, I felt their story of freestyle chess as an illustration of how humans and machines can work together was somewhat optimistic.
+My Behavioral Scientist article, [Don't Touch The Computer](http://behavioralscientist.org/dont-touch-computer/) was in part a reaction to Andrew McAfee and Erik Brynjolfsson's book *The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies*. In particular, I felt their story of freestyle chess as an illustration of how humans and machines can work together was somewhat optimistic.
 
 I have just read McAfee and Brynjolfsson's *Machine, Platform, Crowd: Harnessing Our Digital Future*. Chapter 2, titled The Hardest Thing to Accept About Ourselves, runs a line somewhat closer to mine. Here are some snippets:
 

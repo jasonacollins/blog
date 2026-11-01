@@ -22,6 +22,6 @@ Links this week:
   4. [Robert Kurzban](http://www.epjournal.net/blog/2013/10/of-course-religious-communities-cooperate-but-maybe/) and [Rob Brooks](http://www.robbrooks.net/rob-brooks/2440#.UliJPlA0WuI) on religion and cooperation.
 
 	
-  5. The Gladwell debates continue.[ Chabris writes a second piece](http://blog.chabris.com/2013/10/why-malcolm-gladwell-matters-and-why.html). [Gladwell responds](http://www.slate.com/articles/health_and_science/science/2013/10/malcolm_gladwell_s_david_and_goliath_he_explains_why_christopher_chabris.html). [Andrew Gelman weighs in](http://andrewgelman.com/2013/10/11/gladwell-vs-chabris-david-vs-goliath/).
+  5. The Gladwell debates continue. [Chabris writes a second piece](http://blog.chabris.com/2013/10/why-malcolm-gladwell-matters-and-why.html). [Gladwell responds](http://www.slate.com/articles/health_and_science/science/2013/10/malcolm_gladwell_s_david_and_goliath_he_explains_why_christopher_chabris.html). [Andrew Gelman weighs in](http://andrewgelman.com/2013/10/11/gladwell-vs-chabris-david-vs-goliath/).
 
 

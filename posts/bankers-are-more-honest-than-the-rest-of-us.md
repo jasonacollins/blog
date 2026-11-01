@@ -71,9 +71,9 @@ What is perhaps more interesting than this replication, however, is the response
 
 Cohn and friends raise several objections to the replication. The main one is that their original study is famous and received wide media coverage. A third of the replication participants reported being aware of the original study. This could affect which banks agreed to participate in the study (most declined) and the behaviour of the participants.
 
-I give this critique some weight, but don't feel great about it. The original authors conduct a low sample size study of a noisy phenomena, overhype their result and then complain about a replication because everyone has heard about their overhyped result. It's as though the publicity creates a shield to replication.
+I give this critique some weight, but don't feel great about it. The original authors conduct a low sample size study of a noisy phenomenon, overhype their result and then complain about a replication because everyone has heard about their overhyped result. It's as though the publicity creates a shield to replication.
 
-If we can't take the replication on face value, this isn't grounds for retaining a belief in the original experiment. Personally, I'll revert to my [default belief](a-default-of-disbelief.md) that the original result is spurious. I'll give weight to it when someone finds a away to get around the publicity problem and demonstrate the result in a pre-registered replication.
+If we can't take the replication on face value, this isn't grounds for retaining a belief in the original experiment. Personally, I'll revert to my [default belief](a-default-of-disbelief.md) that the original result is spurious. I'll give weight to it when someone finds a way to get around the publicity problem and demonstrate the result in a pre-registered replication.
 
 Another criticism of the replication by Cohn and friends is whether the replication result is generalisable. They write:
 
@@ -85,7 +85,7 @@ I must have missed the section in the original paper suggesting that it might no
 
 That said, I'm not convinced Cohn and friends' original study tells us anything about the institution they studied, nor its country.
 
-The other replication that I'll briefly mention was a conceptual replication by [Huber and friends](https://doi.org/10.1016/j.jebo.2020.10.020). This paper was interesting in that it found the opposite result: financial professionals behaved more honestly in a financial context. If you were to differentiate it from Cohn and friends, you would say that Cohn and friends was about identify, whereas Huber and friends was about the decision making context. If I were to extrapolate either study to real-world implications, I'd lean to the former, but I can't say I would confidently generalise either of the experiments.
+The other replication that I'll briefly mention was a conceptual replication by [Huber and friends](https://doi.org/10.1016/j.jebo.2020.10.020). This paper was interesting in that it found the opposite result: financial professionals behaved more honestly in a financial context. If you were to differentiate it from Cohn and friends, you would say that Cohn and friends was about identity, whereas Huber and friends was about the decision making context. If I were to extrapolate either study to real-world implications, I'd lean to the former, but I can't say I would confidently generalise either of the experiments.
 
 **Other critiques**
 
@@ -93,7 +93,7 @@ There is a longer line-up of critiques of the original banker dishonesty paper.
 
 Vranka and Houdek, in their paper [Many faces of bankers' identity: how (not) to study dishonesty](https://doi.org/10.3389/fpsyg.2015.00302), suggest that there are many other ways to interpret the results. I agree with that overarching premise that the interpretation that was picked up was one of many (as in my own illustration). But I am less convinced by some of their suggested alternatives, such as the presence of stereotype or money primes. Those primes seem as robust as this banking prime is likely to be. They also pick on the point that bankers are more honest in the control condition.
 
-[Jean-Michel Hupé critiques](https:doi.org/https://doi.org/10.31235/osf.io/nt6xk) the statistical approach, with which I also have some sympathy, but I haven't spent enough time thinking about it to agree with his suggested alternative approach.
+[Jean-Michel Hupé critiques](https://doi.org/10.31235/osf.io/nt6xk) the statistical approach, with which I also have some sympathy, but I haven't spent enough time thinking about it to agree with his suggested alternative approach.
 
 Finally, [Thomas Stöckl argues](https://doi.org/10.1016/j.jbef.2015.10.003) there is an alternative explanation to business culture. Rather, the behaviour might simply reflect the professional requirements of the banking industry. This feels like splitting hairs but is an interesting point. As the payoff is competitive (\$20 per flip if you beat your colleague), there is a strong risk-reward tradeoff. If the bankers are particularly skilled at this - it is a basic competence of the industry - the prime could lead them to exercise this skill (which occurs at the expense of the honesty norm).
 

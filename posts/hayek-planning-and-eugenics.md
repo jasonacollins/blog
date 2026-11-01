@@ -16,4 +16,4 @@ After writing my [recent post](eugenics-and-regression-to-the-mean.md) on Richar
 
 The debate about eugenics, apart from being one-sided, is normally framed as to whether there should be centralised planning about who should be able to breed (or not). However, without eugenic decisions from the top, there is still planning about who breeds and who doesn't. This is in the form of sexual selection, with males and females choosing their partners with the aim of having smarter, more attractive children. The result of this process is that some people do not get to reproduce, despite their wish to, due to the decisions of others.
 
-Accordingly, this is not a dispute about whether planning is to be done to not, It is a dispute about whether planning is to be done centrally, by one authority for the whole population, or is to be divided among many individuals.
+Accordingly, this is not a dispute about whether planning is to be done or not. It is a dispute about whether planning is to be done centrally, by one authority for the whole population, or is to be divided among many individuals.

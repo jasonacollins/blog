@@ -13,7 +13,7 @@ As I've sat on trains and planes over the last week, I sorted through my article
 Last year Amaranth Advisors blew up, lost more than LTCM, and the financial markets hardly batted an eyelash. "The financial markets in 2007,'' some member of the global economic elite might have said but didn't, "are astonishingly robust. They seem to be working out how to absorb and distribute risk more intelligently than any member of the global economic elite could on his own.''</blockquote>
 
 
-Apart from how wrong this statement was shown to be, what scares me about it is how willingly I would have signed my name to a similar article. I am lucky I was not a financial blogger at the time. However, how many of my blog posts will I look at in five years and wonder what I was thinking? I am relatively confident that I won't have anything  as striking as the example above, as I tend to make less dramatic predictions and they are likely to be borne out over longer periods. However, that is no certainty.
+Apart from how wrong this statement was shown to be, what scares me about it is how willingly I would have signed my name to a similar article. I am lucky I was not a financial blogger at the time. However, how many of my blog posts will I look at in five years and wonder what I was thinking? I am relatively confident that I won't have anything as striking as the example above, as I tend to make less dramatic predictions and they are likely to be borne out over longer periods. However, that is no certainty.
 
 The other interesting element of the article is Lewis's closing remarks:
 

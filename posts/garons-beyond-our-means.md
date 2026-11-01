@@ -9,7 +9,7 @@ The core message of Sheldon Garon's *Beyond Our Means: Why America Spends While 
 
 The incentives described by Garon are not those typically discussed by economists. Garon argues that economics has failed to explain cross-national differences in savings and that the life-cycle hypothesis of savings does poorly. Why are savings rates lower in the United States where there are few safety nets, and yet there are high savings rates in European countries with substantially more publicly funded social security?
 
-Garon makes a convincing case that the availability of savings accounts is important, as he traces hundreds of years of savings behaviour. Despite stereotypes of high-saving East Asians and spendthrift Americans, Garon demonstrates how the form savings in each country and within countries varies with the institutional structure at the time and the availability of simple options to save.
+Garon makes a convincing case that the availability of savings accounts is important, as he traces hundreds of years of savings behaviour. Despite stereotypes of high-saving East Asians and spendthrift Americans, Garon demonstrates how the form of savings in each country and within countries varies with the institutional structure at the time and the availability of simple options to save.
 
 The book has plenty of interesting historical fodder. The Japanese, United Kingdom and United States were particularly effective in extracting savings from their citizens when it was required, such as during war. The history of credit and the restrictions on access faced in many European countries was eye-opening for someone from a country (Australia) with very easy access.
 

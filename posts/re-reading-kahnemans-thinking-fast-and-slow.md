@@ -23,7 +23,7 @@ As I was also, Kahneman is a fan of the hot hand studies. Someone who believes 
 >
 >The public reaction to this research is part of the story. The finding was picked up by the press because of its surprising conclusion, and the general response was disbelief. When the celebrated coach of the Boston Celtics, Red Auerbach, heard of Gilovich and his study, he responded, "Who is this guy? So he makes a study. I couldn't care less." The tendency to see patterns in randomness is overwhelming - certainly more impressive than a guy making a study.
 
-And now it seems there is a hot hand. The finding that there was no hot hand the consequence of a statistical error (also covered in my [recent talk](bad-behavioural-science-failures-bias-and-fairy-tales.md)). The disbelief was appropriate, and Auerbach did himself a favour by ignoring the study.
+And now it seems there is a hot hand. The finding that there was no hot hand was the consequence of a statistical error (also covered in my [recent talk](bad-behavioural-science-failures-bias-and-fairy-tales.md)). The disbelief was appropriate, and Auerbach did himself a favour by ignoring the study.
 
 As I've [picked on Dan Ariely](charts-that-dont-seem-quite-right-organ-donation-edition.md) for the way he talks about organ donation rates, here's Kahneman on that same point:
 
@@ -39,6 +39,6 @@ Further, Kahneman talks about the gap between 100% and 4% as donation rates, whe
 
 All the above points are minor in themselves. But together the shaky science, overconfidence and lazy storytelling add up to something substantial.
 
-What I also find less satisfying now is the attempt to construct a framework around the disparate findings in behavioural science. I once saw prospect theory as a great framework for thinking about many of the findings, but it is as unrealistic a decision making model as that for the perfectly rational man - the maths involved is even more complicated. It's might be a useful descriptive or predictive model (if you could work out what the reference point actually is) but no one makes decisions in that way. (One day I will write a post on this.)
+What I also find less satisfying now is the attempt to construct a framework around the disparate findings in behavioural science. I once saw prospect theory as a great framework for thinking about many of the findings, but it is as unrealistic a decision making model as that for the perfectly rational man - the maths involved is even more complicated. It might be a useful descriptive or predictive model (if you could work out what the reference point actually is) but no one makes decisions in that way. (One day I will write a post on this.)
 
 It will be interesting to see how Thinking, Fast and Slow stands up after another five years.

@@ -28,7 +28,7 @@ Links this week:
   5. [ What makes the current era feel so deprived?](http://www.cato-unbound.org/2015/03/04/megan-mcardle/its-complicated-hopeful)
 
 	
-  6. [A surprisingly good article on the whether science supports a paleo diet](http://aeon.co/magazine/health/is-obesity-caused-by-a-carbs-rich-diet/).
+  6. [A surprisingly good article on whether science supports a paleo diet](http://aeon.co/magazine/health/is-obesity-caused-by-a-carbs-rich-diet/).
 
 	
   7. [The global flight from the family](http://www.aei.org/publication/global-flight-family/). [And miserable 19th century marriages](http://www.slate.com/blogs/the_vault/2015/03/03/history_of_marriage_a_list_of_100_19th_century_marriages.html).

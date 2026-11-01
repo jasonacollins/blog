@@ -10,7 +10,7 @@ Links this week:
 
 
 	
-  1. There have been some strong reactions to the [Edge piece on Napoleon Chagnon](http://www.edge.org/conversation/napoleon-chagnon-blood-is-their-argument) (I pointed it out last week, and if you haven't yet, give it a look). Some are entertaining, although most are not particularly enlightening. Jason Anstrosio [goes the epigenetics maneuver](http://www.livinganthropologically.com/2013/06/08/human-nature-anthropology-epigenetics/) and Stephen Corry [pins death rates among ancient hunters on hunting accidents](http://truth-out.org/opinion/item/16880-the-case-of-the-brutal-savage-poirot-or-clouseau-or-why-steven-pinker-like-jared-diamond-is-wrong).
+  1. There have been some strong reactions to the [Edge piece on Napoleon Chagnon](http://www.edge.org/conversation/napoleon-chagnon-blood-is-their-argument) (I pointed it out last week, and if you haven't yet, give it a look). Some are entertaining, although most are not particularly enlightening. Jason Antrosio [goes the epigenetics manoeuvre](http://www.livinganthropologically.com/2013/06/08/human-nature-anthropology-epigenetics/) and Stephen Corry [pins death rates among ancient hunters on hunting accidents](http://truth-out.org/opinion/item/16880-the-case-of-the-brutal-savage-poirot-or-clouseau-or-why-steven-pinker-like-jared-diamond-is-wrong).
 
 	
   2. [If you're risk averse, don't do science - become an actuary](http://blogs.discovermagazine.com/gnxp/2013/06/what-outreach-in-science-is).

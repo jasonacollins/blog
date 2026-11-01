@@ -16,7 +16,7 @@ Links this week:
   1. An awesome looking conference - [Complexity and Evolution: A New Synthesis for Economics](http://www.esforum.de/forums/esf19_Complexity%20and%20Evolution.html)
 
 	
-  2. [Hybridisation](http://www.nytimes.com/2014/08/17/magazine/should-you-fear-the-pizzly-bear.html) - what does it mean for conversation and the future of species?
+  2. [Hybridisation](http://www.nytimes.com/2014/08/17/magazine/should-you-fear-the-pizzly-bear.html) - what does it mean for conservation and the future of species?
 
 	
   3. [Picking up in a Lamborghini](http://www.npr.org/blogs/parallels/2014/08/08/338326968/what-happens-when-a-beijing-man-invites-women-into-his-lamborghini)

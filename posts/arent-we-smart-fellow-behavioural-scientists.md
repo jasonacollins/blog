@@ -6,7 +6,7 @@ lastmod: 2020-06-17 09:00:08+00:00
 draft: false
 ---
 
-Below is the text of my presentation at [Nudgsestock on 12 June 2020](https://www.nudgestock.co.uk/).
+Below is the text of my presentation at [Nudgestock on 12 June 2020](https://www.nudgestock.co.uk/).
 
 ## Intro
 
@@ -116,7 +116,7 @@ Let's turn back to one of the quotes I showed earlier.
 
 The researchers expanded the original hot hand research from a story about people misperceiving randomness, to one of them continuing to do so even when presented with evidence that they were making an error.
 
-But, as we can now see, their belief in the hot hand was not an error. The punters in the stands were right. Their accumulated experience had given them the answer. The researchers were wrong. Rather than the researchers asking whether they themselves were making an error when people refused to believe their research, they double downed and identified a second failure of human reasoning. The blunt dismissal of people's beliefs led behavioural scientists to hold an untrue belief for over thirty years
+But, as we can now see, their belief in the hot hand was not an error. The punters in the stands were right. Their accumulated experience had given them the answer. The researchers were wrong. Rather than the researchers asking whether they themselves were making an error when people refused to believe their research, they doubled down and identified a second failure of human reasoning. The blunt dismissal of people's beliefs led behavioural scientists to hold an untrue belief for over thirty years.
 
 This is a persistent characteristic of much applied behavioural science. It was an error I made many times when I first came to the discipline. We spend too little time questioning our understanding of the decisions or observations other people make. If we believe they are in error, we should first question whether the error is ours.
 
@@ -222,4 +222,4 @@ That is not to say that you cannot find examples where behavioural scientists ha
 
 ## Close
 
-And now I will close, with a plea. As applied behavioural scientists, we need to inject some humility into our assessment of other people's decisions. We need stop underestimating the intelligence of other people. We need to tone down the glee we have in communicating sexy, counterintuitive experimental findings that demonstrate errors by others. We need to stop making glib assumptions about what other people want and how they can best achieve their objectives. And importantly, we need to stop being lazy storytellers who don't subject ourselves to the same critique that we would apply to someone else.
+And now I will close, with a plea. As applied behavioural scientists, we need to inject some humility into our assessment of other people's decisions. We need to stop underestimating the intelligence of other people. We need to tone down the glee we have in communicating sexy, counterintuitive experimental findings that demonstrate errors by others. We need to stop making glib assumptions about what other people want and how they can best achieve their objectives. And importantly, we need to stop being lazy storytellers who don't subject ourselves to the same critique that we would apply to someone else.

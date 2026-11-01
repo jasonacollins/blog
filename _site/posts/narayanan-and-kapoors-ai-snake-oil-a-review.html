@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,16 @@
 
 <title>Narayanan and Kapoor’s AI Snake Oil: a review – Jason Collins blog</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -55,15 +61,14 @@ div.csl-indent {
 <link href="../logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-9be722aa83fbcc428616ae682c30a50a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-cd8592f072b9d28f7be82a1360dc3fa5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -124,8 +129,6 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Jason Collins blog</span>
     </a>
@@ -208,12 +211,12 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 <section id="what-is-ai" class="level2">
 <h2 class="anchored" data-anchor-id="what-is-ai">What is AI?</h2>
 <p>Narayanan and Kapoor start the book by critiquing the umbrella term “artificial intelligence”. This is a useful beginning. In many business contexts, products sold as AI can involve anything from simple decision rules or linear regression to random forests or support vector machines to large language models. In other circles, artificial intelligence and generative AI are synonyms, despite the huge range of approaches to AI that don’t fall under the generative AI banner.<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></p>
-<p>To cut through this nomenclature issue, Narayanan and Kapoor draw a line between “predictive AI” and “generative AI”. Predictive AI is the use of AI to predict outcomes, particularly human behaviour, to support decision making (think predicting whether someone will buy a product or breach their bail conditions). Generative AI is the generation of content we have become increasingly familiar with via large language models such as ChatGPT or image generation tools like Midjourney or Dall-E.<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></p>
+<p>To cut through this nomenclature issue, Narayanan and Kapoor draw a line between “predictive AI” and “generative AI”. Predictive AI is the use of AI to predict outcomes, particularly human behaviour, to support decision making (think predicting whether someone will buy a product or breach their bail conditions). Generative AI is the generation of content we have become increasingly familiar with via large language models such as ChatGPT or image generation tools like Midjourney or DALL-E.<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></p>
 <p>While I would be tempted to slice predictive AI even finer - there’s a big gap between an automated decision rule and a random forest algorithm - for the purposes of a book, their distinction is useful. What is interesting, however, are their views on these two approaches. Their critique of predictive AI is essentially that it isn’t any good. In contrast, they are much more positive about generative AI.</p>
 </section>
 <section id="predictive-ai" class="level2">
 <h2 class="anchored" data-anchor-id="predictive-ai">Predictive AI</h2>
-<p>A good illustration of their predictive AI critique concerns a competition led by Matt Salganik (Narayanan’s regular research partner). Salganik and friends <span class="citation" data-cites="salganik2020">(<a href="#ref-salganik2020" role="doc-biblioref">2020</a>)</span> provided 160 teams with data from the <a href="https://en.wikipedia.org/wiki/Future_of_Families_and_Child_Wellbeing_Study">Fragile Families and Child Wellbeing Study</a> and asked them to predict six life outcomes, such as the child’s grade point average, household material hardship and primary caregiver participation in job training. The result is typically quoted - as it is by Narayanan and Kapoor - as a failure of prediction. The paper abstract states that “the best predictions were not very accurate and were only slightly better than those from a simple benchmark model”. Narayanan and Kapoor state “the best models were only slightly better than a coin flip”. In more technical terms, the R<sup>2</sup> of the best predictions was around 0.2 for material hardship and GPA, and around 0.05 for the other four. That means that between 5% and 20% in the variation in those outcomes is “explained” by the models.</p>
+<p>A good illustration of their predictive AI critique concerns a competition led by Matt Salganik (Narayanan’s regular research partner). Salganik and friends <span class="citation" data-cites="salganik2020">(<a href="#ref-salganik2020" role="doc-biblioref">2020</a>)</span> provided 160 teams with data from the <a href="https://en.wikipedia.org/wiki/Future_of_Families_and_Child_Wellbeing_Study">Fragile Families and Child Wellbeing Study</a> and asked them to predict six life outcomes, such as the child’s grade point average, household material hardship and primary caregiver participation in job training. The result is typically quoted - as it is by Narayanan and Kapoor - as a failure of prediction. The paper abstract states that “the best predictions were not very accurate and were only slightly better than those from a simple benchmark model”. Narayanan and Kapoor state “the best models were only slightly better than a coin flip”. In more technical terms, the R<sup>2</sup> of the best predictions was around 0.2 for material hardship and GPA, and around 0.05 for the other four. That means that between 5% and 20% of the variation in those outcomes is “explained” by the models.</p>
 <p>There’s a glass half-empty view of prediction - and that is certainly the one Narayanan and Kapoor take. Their third chapter is titled “Why Can’t AI Predict the Future?”. But there’s also a half-full perspective.</p>
 <p>Although an R<sup>2</sup> of 0.2 doesn’t sound very good, under certain assumptions it means there is a correlation of around 0.45 between the predicted and actual outcomes. Suppose student marks average 65 out of 100, with a standard deviation of 15. Under certain assumptions, the 10% of students ranked highest by the model would average around 77. That’s much better than picking students at random.</p>
 <p>Using a model with this level of accuracy in risk identification could also substantially boost your accuracy. If you wanted to pick the 10% of students who most need help, picking randomly would have you only identify 10% of them. Using the model would boost this to close to 30%. Still a lot of uncertainty, but better than pretending you haven’t learned anything.</p>

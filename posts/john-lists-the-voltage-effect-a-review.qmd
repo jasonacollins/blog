@@ -44,7 +44,7 @@ I'm not sure what is being described in that paragraph is confirmation bias. But
 
 And where's the experimental evidence that these biases are driving the problem? At this point, List's stories feel loose.
 
-List's second barrier to scaling relates to" knowing your audience". This is essentially a story of heterogeneity in your sample and the population in which the intervention will be rolled out. How broadly will your intervention work when you move from your trial sample to full-scale implementation? This includes a perspective across time: your current and future audience might differ. Sound advice.
+List's second barrier to scaling relates to "knowing your audience". This is essentially a story of heterogeneity in your sample and the population in which the intervention will be rolled out. How broadly will your intervention work when you move from your trial sample to full-scale implementation? This includes a perspective across time: your current and future audience might differ. Sound advice.
 
 The third barrier is whether all the elements of the intervention can scale. Is the pilot representative of the circumstances at scale? For example, if your educational intervention pilot involves all of the good teachers, it likely won't work when it scales and the weaker teachers become involved. If you are monitoring compliance in the pilot - that is, the experimenters are watching - failure to monitor during the rollout may result in a substantial voltage drop. I have seen this myself, where the deck was stacked in the pilot.
 
@@ -84,7 +84,7 @@ The chapter on the fourth and final secret, the need to scale culture, opens wit
 
 Cabuçu is a small fishing community in which the men fish in groups of three to eight. This teamwork is needed to manage the boats on the choppy Atlantic waters, set the nets and pull in the large fish. A single fisherman would fail.
 
-Santo Estêvão sits inland of Cabuçu on the Paraguaçu rover. The villagers from Santo Estêvão catch small fish alone on the calm waters.
+Santo Estêvão sits inland of Cabuçu on the Paraguaçu river. The villagers from Santo Estêvão catch small fish alone on the calm waters.
 
 List and colleagues ran games in the two villages to test whether their style of fishing, shaped by the environment each found themselves in, was reflected in their level of trust and cooperation. They found that the villagers from Cabuçu proposed more equal offers in the [Ultimatum game](https://en.wikipedia.org/wiki/Ultimatum_game), contributed more in [public goods games](https://en.wikipedia.org/wiki/Public_goods_game) and invested more in the [trust game](https://en.wikipedia.org/wiki/Dictator_game#Variants) (and sent back more). They also donated more to charity. The habit of cooperation in their work flowed over into other domains.
 
@@ -104,7 +104,7 @@ and
 
 This might all be right, but I find it amusing hearing a story about how the founder of a company, personally worth over \$4b, stuffed up in creating their (as of the day of writing this paragraph) \$87b market cap company by having the wrong culture. I am sure Kalanick could have done better, but I'm also sure he could have done worse. (Lyft, the company to which List moved after Uber, has a market cap of \$3.8b.) Would a more toned-down Kalanick have been able to build Uber? Could someone with the personality to drive the smaller company simply transition as required? And is it even optimal to do so?
 
-There's a lot of "halo effect" storytelling going on here - problems emerge, must have been the culture, a disaster waiting to happen. And yet by the measurable outcome, arguably the number one measure for a company, Uber is a massive success for Kalanick. It reminds me of those criticizing the range of choice on Amazon as paralysing consumers with excessive choice. And what would happen if you tried to get the fisherman of Santo Estêvão to work in teams? Maybe they'd cooperate more in economic games, but would they do better at feeding their families?
+There's a lot of "halo effect" storytelling going on here - problems emerge, must have been the culture, a disaster waiting to happen. And yet by the measurable outcome, arguably the number one measure for a company, Uber is a massive success for Kalanick. It reminds me of those criticising the range of choice on Amazon as paralysing consumers with excessive choice. And what would happen if you tried to get the fishermen of Santo Estêvão to work in teams? Maybe they'd cooperate more in economic games, but would they do better at feeding their families?
 
 ## Concluding note
 

@@ -6,7 +6,7 @@ draft: false
 title: Take the evolutionary economics pill
 ---
 
-[Frances Wooley writes](http://worthwhile.typepad.com/worthwhile_canadian_initi/2011/09/the-behavioural-economists-dilemma-induction-versus-deduction.html):
+[Frances Woolley writes](http://worthwhile.typepad.com/worthwhile_canadian_initi/2011/09/the-behavioural-economists-dilemma-induction-versus-deduction.html):
 
 
 

@@ -7,7 +7,7 @@ title: Getting the right human-machine mix
 
 Much of the storytelling about the future and humans and machines runs with a theme that machines will not replace us, but that we will work with machines to create a combination greater than either alone. If you have heard the freestyle chess example, which now seems to be everywhere, you will understand the idea. (See my [article in Behavioral Scientist](http://behavioralscientist.org/dont-touch-computer/) if you haven’t.)
 
-An interesting angle to this relationship is just how unsuited some of our existing human-machine combinations are for the unique skills of a human brings. As Don Norman writes in his excellent *The Design of Everyday Things*:
+An interesting angle to this relationship is just how unsuited some of our existing human-machine combinations are for the unique skills a human brings. As Don Norman writes in his excellent *The Design of Everyday Things*:
 
 
 

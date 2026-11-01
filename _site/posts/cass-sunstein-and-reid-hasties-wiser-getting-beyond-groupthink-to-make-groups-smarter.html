@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,16 @@
 
 <title>Cass Sunstein and Reid Hastie’s Wiser: Getting Beyond Groupthink to Make Groups Smarter – Jason Collins blog</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -35,15 +41,14 @@ ul.task-list li input[type="checkbox"] {
 <link href="../logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-9be722aa83fbcc428616ae682c30a50a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-cd8592f072b9d28f7be82a1360dc3fa5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -98,8 +103,6 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Jason Collins blog</span>
     </a>
@@ -177,7 +180,7 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 </header>
 
 
-<p>Cass Sunstein and Reid Hastie’s <em>Wiser: Getting Beyond Groupthink to Make Groups Smarter</em> is not an exciting read. However, it is a good catalogue of group decision-making research (leading to this post to also be somewhat of a catalogue) and worth reading for an overview.</p>
+<p>Cass Sunstein and Reid Hastie’s <em>Wiser: Getting Beyond Groupthink to Make Groups Smarter</em> is not an exciting read. However, it is a good catalogue of group decision-making research (leading this post to also be somewhat of a catalogue) and worth reading for an overview.</p>
 <p>The book’s theme is that group decisions are often better than individual decisions, but that groups have weaknesses that can impair outcomes. Much of the analysis of failures in group decision-making follows a similar theme to the research into individual judgement and decision-making, in that the research has generated a long list of “biases” that groups are subject to. Most of the book, however, focuses on getting better decisions, and a lot of these (thankfully) don’t rest on identification of particular biases.</p>
 <section id="two-types-of-groups" class="level2">
 <h2 class="anchored" data-anchor-id="two-types-of-groups">Two types of groups</h2>
@@ -185,9 +188,9 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 <p>In a statistical group, members give their inputs individually. Those inputs are then aggregated. Think voting (which works well as long as the majority is right).</p>
 <p>There is no shortage of material about the wisdom of statistical groups. The story of Francis Galton, where he had people <a href="https://en.m.wikipedia.org/wiki/Francis_Galton#Variance_and_standard_deviation">estimate the weight of an ox</a>, is a classic example. The average of the individual predictions was right on the mark.</p>
 <p>In deliberating groups, individuals provide input during deliberations. Those inputs can affect and be affected by the inputs of other group members. People aim to influence others. People might change their minds.</p>
-<p>Even if most members of a group have the wrong answer or belief, you can picture a scenario where reason and discussion allow the right answer emerge. That is sometimes the case, but the evidence is that deliberating groups&nbsp;do not necessarily converge on the truth.</p>
+<p>Even if most members of a group have the wrong answer or belief, you can picture a scenario where reason and discussion allow the right answer to emerge. That is sometimes the case, but the evidence is that deliberating groups&nbsp;do not necessarily converge on the truth.</p>
 <p>In one experiment, people answered questions individually before answering those same questions in groups. If the majority of the group knew the correct answer to a problem, the group’s decision was correct 79% of the time. (It’s impressive that the incorrect minority were able to derail the group 21% of the time.) If the majority of the group answered a question incorrectly when answering individually, the group converged on the right answer only 44% of the time. The result of this dynamic was that the average group decision was better, but only marginally so, than the average individual (66% versus 62%).</p>
-<p>As a result, it may be easier to simple elicit people’s individual views and average them (or combine in some other novel way) than go through the effort of the group discussion. A statistical group may be a more efficient solution.</p>
+<p>As a result, it may be easier to simply elicit people’s individual views and average them (or combine in some other novel way) than go through the effort of the group discussion. A statistical group may be a more efficient solution.</p>
 </section>
 <section id="why-deliberating-groups-go-wrong-or-right" class="level2">
 <h2 class="anchored" data-anchor-id="why-deliberating-groups-go-wrong-or-right">Why deliberating groups go wrong (or right)</h2>
@@ -216,7 +219,7 @@ gtag('config', 'G-XR5VGQXN14', { 'anonymize_ip': true});
 </section>
 <section id="improving-deliberation" class="level2">
 <h2 class="anchored" data-anchor-id="improving-deliberation">Improving deliberation</h2>
-<p>The most interesting part of the book is when Sunstein and Hastie turn to their tactics to improve group decision. There are two groups of tactics: those designed to improve deliberation, and alternative decision-making methods. A common threads to these is diversity, although this is “not necessarily along demographic lines, but in terms of ideas and perspectives.”</p>
+<p>The most interesting part of the book is when Sunstein and Hastie turn to their tactics to improve group decision. There are two groups of tactics: those designed to improve deliberation, and alternative decision-making methods. A common thread to these is diversity, although this is “not necessarily along demographic lines, but in terms of ideas and perspectives.”</p>
 <p>They list eight ways to avoid problems in deliberating groups: (1) inquisitive and self-silencing leaders; (2) “priming” critical thinking (although we have seen <a href="https://replicationindex.wordpress.com/2017/02/02/reconstruction-of-a-train-wreck-how-priming-research-went-of-the-rails/">how the priming literature is holding up</a>); (3) rewarding group success (incentives are important, particularly to counter self-censorship and reputational cascades); (4) role assignment; (5) perspective changing; (6) devil’s advocates; (7) red teams; and (8) the Delphi method. A few are worth mentioning.</p>
 <p>Role assignment involves giving people discrete roles, such as labelling someone as an “expert”. The purpose is to bring out unshared information by making it clear that the individual expert has a role to play.</p>
 <p>Devil’s advocacy involves appointing some group members to deliberately advocate against the group’s inclinations. Sunstein and Hastie suggest that the research behind devil’s advocates is mixed. There is some evidence that devil’s advocacy can be helpful and can enhance group performance. But it requires genuine dissent. If the dissent is insincere (which is often the case if the role is assigned), people discount the dissent accordingly. The advocate also has little to gain by zealously challenging the dominant view. This means it may be better for groups to encourage real dissent.</p>

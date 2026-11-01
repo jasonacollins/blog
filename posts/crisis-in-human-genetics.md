@@ -17,7 +17,7 @@ At the time I first read the article, I found it hard to characterise this infor
 
 This sounds good to me. To understand the way genes spread as people migrated and mixed across the world will be to gain an important insight into human history.
 
-Miller then points out that some people may be troubled when researchers start to identify genes that create physical and mental differences between populations and identify when those genes arose. Millers states:
+Miller then points out that some people may be troubled when researchers start to identify genes that create physical and mental differences between populations and identify when those genes arose. Miller states:
 
 
 <blockquote>If the shift from GWAS [genome wide association studies] to sequencing studies finds evidence of such politically awkward and morally perplexing facts, we can expect the usual range of ideological reactions, including nationalistic retro-racism from conservatives and outraged denial from blank-slate liberals.</blockquote>

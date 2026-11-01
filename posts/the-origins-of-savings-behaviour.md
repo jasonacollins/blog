@@ -14,7 +14,7 @@ title: The Origins of Savings Behaviour
 
 There are no surprises in these results. The proportion of the variance in savings explained by genetic variation is typical of that for many other social traits. And once opportunity is equalised, genetics becomes more important.
 
-The evidence that parental influence fades out for older subjects and disappears by age 45, compared to the relatively constant genetic effects, is interesting. The break down of effects by age is not a regular feature of studies such as these (it comes at the cost of sample size). The authors write:
+The evidence that parental influence fades out for older subjects and disappears by age 45, compared to the relatively constant genetic effects, is interesting. The breakdown of effects by age is not a regular feature of studies such as these (it comes at the cost of sample size). The authors write:
 
 
 <blockquote>Our interpretation of this evidence is that social transmission from parents to their children affects children’s savings behavior early on in life, but unlike genetic effects, parenting does not have a lifelong impact on an individual’s savings behavior. These results are broadly consistent with research in behavioral genetics which has found a significant effect of the common family environment in early ages on, e.g., personality, but also shown that such effects approach zero in adulthood</blockquote>
@@ -28,9 +28,9 @@ In the conclusion, the authors link the observed behaviour to time preference an
 <blockquote>One explanation for why savings behavior is genetic appears to be that an individual’s time preferences are partly genetic. Our evidence of a significant positive genetic correlation between an individual’s savings and income growth supports such an explanation. Some individuals are born to be more patient, and this affects these individuals’ savings behavior, as well as other outcomes, e.g., the choice of income process. Moreover, the negative and significant genetic correlation between savings rate and both smoking and body weight suggests that behavioral factors such as lack of self-control may also affects savings behavior. For example, to the extent that a high BMI and obesity may be interpreted as an expression of lack of self-control, we conclude that lack of savings correlates with lack of self-control, and this correlation is mainly found to be genetic.</blockquote>
 
 
-For those looking for more on the subject, there is a lecture by Cronvqist on this paper on Vimeo:
+For those looking for more on the subject, there is a lecture by Cronqvist on this paper on Vimeo:
 
-[vimeo http://vimeo.com/16490797]
+{{< video https://vimeo.com/16490797 >}}
 
 
 

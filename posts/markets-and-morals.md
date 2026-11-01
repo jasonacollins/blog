@@ -7,7 +7,7 @@ title: Markets and morals
 
 I enjoyed the responses to [Michael Sandel's critique of markets](http://www.bostonreview.net/BR37.3/ndf_michael_j_sandel_markets_morals.php) in the [How Markets Crowd Out Morals forum](http://www.bostonreview.net/forum-sandel-markets-morals?) on the Boston Review website. Sandel's essay follows in the wake of his new book, *What Money Can't Buy: The Moral Limits of Markets*.
 
-Most of the response are worth reading, but I particularly enjoyed the one by [Herb Gintis](http://www.bostonreview.net/gintis-giving-economists-their-due). Some of the more interesting parts of Gintis's piece were as follows:
+Most of the responses are worth reading, but I particularly enjoyed the one by [Herb Gintis](http://www.bostonreview.net/gintis-giving-economists-their-due). Some of the more interesting parts of Gintis's piece were as follows:
 
 
 <blockquote>The idea that some valuable things should not be bought and sold on markets has been known for centuries, certainly since the anti-slavery movement in England. All mature economists understand this well. Just because some otherwise-obscure economist can gain ﬁfteen minutes of fame by advocating the suppression of non-monetary gift-giving doesn’t mean we should interpret his claims as an exercise of brilliant economic argument. ...

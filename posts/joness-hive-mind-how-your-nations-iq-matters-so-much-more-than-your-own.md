@@ -7,7 +7,7 @@ title: 'Jones''s Hive Mind: How Your Nation’s IQ Matters So Much More Than You
 
 Garett Jones has built much of his excellent *Hive Mind: How Your Nation's IQ Matters So Much More Than Your Own* on foundations that, while relatively well established, are likely surprising (or even uncomfortable) for some people. Here's a quick list off the top of my head:
 
-* High scores in one area of IQ tests tends to show up in others - be that visual, maths, vocabulary etc. The "g factor" can capture almost half of the variation in performance across the different tests.
+* High scores in one area of IQ tests tend to show up in others - be that visual, maths, vocabulary etc. The "g factor" can capture almost half of the variation in performance across the different tests.
 
 * IQ is as good as the best types of interviews at predicting employee performance (and most interviews aren't the "best type") .
 
@@ -25,13 +25,13 @@ Garett Jones has built much of his excellent *Hive Mind: How Your Nation's IQ M
 
 And so on.
 
-On that last point, there was one element that I had not fully appreciated. Jones reports an experiment in which players were paired in a cooperative game. High-IQ pairs were five times more cooperative than high-IQ individuals. The link between IQ and cooperation came from smart pairs of players, not smart individual players
+On that last point, there was one element that I had not fully appreciated. Jones reports an experiment in which players were paired in a cooperative game. High-IQ pairs were five times more cooperative than high-IQ individuals. The link between IQ and cooperation came from smart pairs of players, not smart individual players.
 
 Once you put all those pieces together, you reach the punchline of the book, which is an attempt to understand why the link between income and IQ, while positive both across and within countries, is of a larger magnitude across countries.
 
 Jones's argument builds on that of Michael Kremer's classic paper, [The O-Ring Theory of Economic Development](kremers-o-ring-theory-of-economic-development.md). Kremer’s insight was that if production in an economy consists of many discrete tasks and failure in any one of those tasks can ruin the final output (such as an O-ring failure on a space shuttle), small differences in skills can drive large differences in output between firms. This can lead to high levels of inequality as the high-skilled work together in the same firm, leading them to be disproportionately more productive.
 
-Jones extended Kremer's argument this by contemplating what the world would look like if it comprised a combination of what he calls an O-ring sector and a foolproof sector. Here's what [I wrote about Jones's argument previously based on an article he wrote](o-ring-and-foolproof-sectors.md):
+Jones extended Kremer's argument by contemplating what the world would look like if it comprised a combination of what he calls an O-ring sector and a foolproof sector. Here's what [I wrote about Jones's argument previously based on an article he wrote](o-ring-and-foolproof-sectors.md):
 
 <blockquote>The foolproof sector is not as fragile as the more complex O-ring sector and includes jobs such as cleaning, gardening and other low-skill occupations. The key feature of the foolproof sector is that being of low skill (which Jones suggests relates more to IQ than quantity of education) does not necessarily destroy the final product. It only reduces the efficiency with which it is produced. A couple of low-skill workers can substitute for a high-skill worker in the foolproof sector, but they cannot effectively fill the place of a high-skill O-ring sector worker, no matter how many low-skill workers are supplied.
 

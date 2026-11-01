@@ -18,7 +18,7 @@ While Ehrlich should not have entered that bet, I have more sympathy for some of
 <blockquote>Every measure of material and environmental welfare in the United States and in the world has improved rather than deteriorated. All long-run trends point in exactly the opposite direction from the projections of the doomsayers.</blockquote>
 
 
-"Every measure in the world"? Following Simon's statement, Ehrlich and Stephen Schneider sought to make a second bet on 15 environmental indicators, such as carbon dioxide levels, temperature, arable land and sulfur dioxide emissions. Simon's response was as follows (from Miele, Frank. "Living without limits: an interview with Julian Simon." [Skeptic, vol. 5, no. 1, 1997](http://www.skeptic.com/magazine/archives/5.1/), p.57):
+"Every measure in the world"? Following Simon's statement, Ehrlich and Stephen Schneider sought to make a second bet on 15 environmental indicators, such as carbon dioxide levels, temperature, arable land and sulphur dioxide emissions. Simon's response was as follows (from Miele, Frank. "Living without limits: an interview with Julian Simon." [Skeptic, vol. 5, no. 1, 1997](http://www.skeptic.com/magazine/archives/5.1/), p.57):
 
 
 <blockquote>Let me characterize their offer as follows. I predict, and this is for real, that the average performances in the next Olympics will be better than those in the last Olympics. On average, the performances have gotten better, Olympics to Olympics, for a variety of reasons. What Ehrlich and others says is that they don't want to bet on athletic performances, they want to bet on the conditions of the track, or the weather, or the officials, or any other such indirect measure.</blockquote>

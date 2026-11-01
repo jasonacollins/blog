@@ -18,7 +18,7 @@ The authors are agnostic on the reason for the relationship:
 <blockquote>[W]e do not identify a single mechanism through which the European share of the population during colonization shaped long-run economic development. We show that European share is strongly associated with human capital and democratic political institutions today, but we do not trace the impact of Europeans on human capital and political institutions over time, nor do we exclude other potential mechanisms through which the European share of the population during colonization might influence economic development.</blockquote>
 
 
-How does the proposal in this paper fit with Easterly's usual skepticism about what the West can do for the rest of the world?
+How does the proposal in this paper fit with Easterly's usual scepticism about what the West can do for the rest of the world?
 
 I will write a longer post on the paper when I have given it some more attention.
 

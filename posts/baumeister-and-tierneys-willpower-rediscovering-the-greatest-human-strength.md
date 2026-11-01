@@ -11,7 +11,7 @@ My hope was that I'd find some interesting additions to my understanding of the 
 
 One area that I have been interested in is the failure of the mathematics around glucose consumption to add up. Baumeister's argument is that glucose is the scarce resource in the ego depletion equation. Exercising self control depletes our glucose, making us more likely to succumb to later temptations. Replenishing glucose restores our ego.
 
-As plenty of people have pointed out - [Robert Kurzban is the critic](http://epjournal.net/blog/2011/08/glucose-is-not-willpower-fuel/) I am most familiar with - the maths on glucose simply does not add up. The brain does not burn more calories when making a quick decision. Even if it did (say, doubling while making a decision), the short time in which the decision is made means the additional energy expenditure would be miniscule.
+As plenty of people have pointed out - [Robert Kurzban is the critic](http://epjournal.net/blog/2011/08/glucose-is-not-willpower-fuel/) I am most familiar with - the maths on glucose simply does not add up. The brain does not burn more calories when making a quick decision. Even if it did (say, doubling while making a decision), the short time in which the decision is made means the additional energy expenditure would be minuscule.
 
 Baumeister and Tierney indirectly dealt with the criticism, writing:
 

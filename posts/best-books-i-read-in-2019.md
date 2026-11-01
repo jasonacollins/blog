@@ -30,9 +30,9 @@ Below is the full list of books that I read in 2019 (with links where reviewed a
 - Mihaly Csikszentmihalyi, _Flow_
 - Nir Eyal, _Hooked_
 - Nir Eyal, _Indistractable_
-- Tim Ferris, _Four Hour Work Week_
-- Tim Ferris, _Tribe of Mentors_
-- Victor Frankl, _Man's Search for Meaning_
+- Tim Ferriss, _Four Hour Work Week_
+- Tim Ferriss, _Tribe of Mentors_
+- Viktor Frankl, _Man's Search for Meaning_
 - Jason Fried and David Heinemeier Hansson, _It Doesn't have to be Crazy at Work_
 - Jason Fried and David Heinemeier Hansson, _Rework_
 - Jason Fried and David Heinemeier Hansson, _Remote_
@@ -46,19 +46,19 @@ Below is the full list of books that I read in 2019 (with links where reviewed a
 - Gerry Lopez, _Surf is Where You Find It_
 - Jonathan Morduch and Rachel Schneider, _The Financial Diaries: How American Families Cope in a World of Uncertainty_
 - Cal Newport, _Digital Minimalism_
-- Karl Popper, _The Logic of SCientific Discovery_
+- Karl Popper, _The Logic of Scientific Discovery_
 - James Reason, _Human Error_
 - Ben Reiter, _Astroball_
 - Matthew Salganik, _Bit by bit: Social Research in the Digital Age_
 - Barry Schwartz, [_The Paradox of Choice_](barry-schwartzs-the-paradox-of-choice-why-more-is-less.md)
 - Paul Seabright, _The Company of Strangers_*
 - Byron Sharp, _How Brands Grow_
-- Pater Singer, _A Darwinian Left_
+- Peter Singer, _A Darwinian Left_
 - Lenore Skenazy, _Free-Range Kids: How to Raise Safe, Self-Reliant Children (Without Going Nuts with Worry)_
 - Eugene Soltes, _Why They Do It: Inside the Mind of the White-Collar Criminal_
 - Dilip Soman, _The Last Mile: Creating Social and Economic Value from Behavioral Insights_
 - Matthew Syed, _Black Box Thinking: Marginal Gains and the Secrets of High Performance_
-- Ed Thorpe, _Beat the Dealer_
+- Ed Thorp, _Beat the Dealer_
 - M Mitchell Waldrop, _The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal_
 - Mike Walsh, _The Algorithmic Leader_
 - Caroline Webb, _How to Have a Nice Day: A Revolutionary Handbook for Work -and Life_
@@ -68,11 +68,11 @@ Below is the full list of books that I read in 2019 (with links where reviewed a
 *Fiction*
 
 - Fyodor Dostoevsky, _The Brothers Karamazov_
-- F Scott Fitzgerald, _The Beautiful and The Dammed_
+- F Scott Fitzgerald, _The Beautiful and The Damned_
 - F Scott Fitzgerald, _This Side of Paradise_
 - Graham Greene, _My Man in Havana_\*
-- Robert Heilein, _Starship Troopers_
-- Michael Houellebecq, _Submission_
+- Robert Heinlein, _Starship Troopers_
+- Michel Houellebecq, _Submission_
 - Jack London, _Call of the Wild_
 - John Le Carre, _Call for the Dead_
 - John Le Carre, _A Murder of Quality_

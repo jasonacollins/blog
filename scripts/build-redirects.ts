@@ -1,5 +1,8 @@
 // Permanent legacy URL map, independent of post frontmatter.
 // Quarto runs this after rendering; Cloudflare applies the resulting HTTP 301s.
+// Only full builds can be expected to contain every redirect destination.
+if (Deno.env.get("QUARTO_PROJECT_RENDER_ALL") !== "1") Deno.exit(0);
+
 const output = Deno.env.get("QUARTO_PROJECT_OUTPUT_DIR");
 if (!output) throw new Error("Run this script as a Quarto post-render hook.");
 
