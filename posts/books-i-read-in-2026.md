@@ -35,6 +35,7 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 - Hans Moravec, *Mind Children: The Future of Robot and Human Intelligence*
 - Michael Muthukrishna, *The New Science of Who We Are, How We Got Here, and Where We’re Going*
 - Arvind Narayanan and Sayash Kapoor, *[AI Snake Oil: What Artificial Intelligence Can Do, What It Can't, and How to Tell the Difference](/posts/narayanan-and-kapoors-ai-snake-oil-a-review.md)*
+- Mario J. Rizzo and Glen Whitman, *Escaping Paternalism: Rationality, Behavioral Economics, and Public Policy*
 - Andrew Ross Sorkin, *1929: Inside the Greatest Crash in Wall Street History*
 - Gary Rivlin, *AI Valley: Microsoft, Google, and the Trillion-Dollar Race to Cash In on Artificial Intelligence*
 - Brad Stulberg, *The Way of Excellence*
@@ -44,6 +45,7 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 *Fiction*
 
 - C. Robert Cargill, *Sea of Rust*
+- C. Robert Cargill, *Day Zero*
 - Becky Chambers, *The long way to a small, angry planet*
 - Becky Chambers, *A closed and common orbit*
 - Becky Chambers, *A Psalm for the Wind-Built*

@@ -22,7 +22,7 @@ David Levine, [Is Behavioural Economics Doomed?](levines-is-behavioural-economic
 
 Lionel Page, *Optimally irrational: The Good Reasons We Behave the Way We Do*: We should invest more in understanding *why* people behave the way they do.
 
-Mario J. Rizzo and Glen Whitman, *Escaping Paternalism: Rationality, Behavioral Economics, and Public Policy*: An excellent critique of the traditional behavioural economists' arguments for paternalism.
+Mario J. Rizzo and Glen Whitman, *Escaping Paternalism: Rationality, Behavioral Economics, and Public Policy*: A good critique of the traditional behavioural economists' arguments for paternalism, although don't expect to see a balanced argument.
 
 Phil Rosenzweig, [Left Brain, Right Stuff: How Leaders Make Winning Decisions](rosenzweigs-left-brain-right-stuff-how-leaders-make-winning-decisions.md): An entertaining examination of how behavioural economics findings hold up for real world decision-making.
 
