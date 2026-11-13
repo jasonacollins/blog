@@ -2,6 +2,7 @@
 title: "Book reviews"
 author: "Jason Collins"
 date: 2026-06-01 09:00:00+10:00
+image: "img/book-reviews.png"
 draft: false
 ---
 
