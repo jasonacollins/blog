@@ -4,7 +4,7 @@ author: "Jason Collins"
 date: 2026-05-27 11:00:00+10:00
 draft: false
 toc: false
-images: "img/disempowerment-reading.png"
+image: "img/disempowerment-reading.png"
 bibliography: references.bib
 link-citations: true
 ---

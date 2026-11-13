@@ -4,7 +4,7 @@ author: "Jason Collins"
 date: 2026-06-23 09:00:00+10:00
 draft: false
 toc: false
-images: "img/white-manipulation.png"
+image: "img/white-manipulation.png"
 bibliography: references.bib
 ---
 
