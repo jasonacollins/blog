@@ -10,9 +10,9 @@ From [Eliezer Yudkowsky on Less Wrong](https://www.lesswrong.com/posts/cXzTpSiCr
 >When a single experiment seems to show that subjects are guilty of some horrifying sinful bias - such as thinking that the proposition "Bill is an accountant who plays jazz" [has a higher probability](https://www.lesswrong.com/lw/ji/conjunction_fallacy/) than "Bill is an accountant" - people may try to dismiss (not [defy](https://www.lesswrong.com/lw/ig/i_defy_the_data/)) the experimental data. Most commonly, by questioning whether the subjects interpreted the experimental instructions in some unexpected fashion - perhaps they misunderstood what you meant by "more probable".
 >
 >Experiments are [not beyond questioning](https://www.lesswrong.com/lw/ig/i_defy_the_data/); on the other hand, there should always exist some mountain of evidence which suffices to convince you.
->
->...
->
+
+He then turns to the "Linda experiment".
+
 >Here is (probably) the single most questioned experiment in the literature of heuristics and biases, which I reproduce here exactly as it appears in Tversky and Kahneman (1982):
 >
 >>Linda is 31 years old, single, outspoken, and very bright. She majored in philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
@@ -72,11 +72,25 @@ From [Eliezer Yudkowsky on Less Wrong](https://www.lesswrong.com/posts/cXzTpSiCr
 >60 of 62 physicians, asked this question, checked the second answer.
 >
 >Fourth and finally, as Tversky and Kahneman write, "An additional group of 24 physicians, mostly residents at Stanford Hospital, participated in a group discussion in which they were confronted with their conjunction fallacies in the same questionnaire. The respondents did not defend their answers, although some references were made to 'the nature of clinical experience.'  Most participants appeared surprised and dismayed to have made an elementary error of reasoning."
+
+Possibly the most common response is that people misinterpret what is meant by probability or "more probable":
+
+>This can be excluded by offering students bets with payoffs. In addition to the colored dice discussed yesterday, subjects have been asked which possibility they would prefer to bet $10 on in the classic Linda experiment. This did reduce the incidence of the conjunction fallacy, but only to 56% (N=60), which is still more than half the students.
+
+In that [post from the day before](https://www.lesswrong.com/posts/QAK43nNCTQQycAcYe/conjunction-fallacy), Yudkowsky describes the dice experiment as follows:
+
+>Could the conjunction fallacy rest on students interpreting the experimental instructions in an unexpected way - misunderstanding, perhaps, what is meant by "probable"?  Here's another experiment, Tversky and Kahneman (1983), played by 125 undergraduates at UBC and Stanford for real money:
 >
->...
+>>Consider a regular six-sided die with four green faces and two red faces.  The die will be rolled 20 times and the sequences of greens (G) and reds (R) will be recorded.  You are asked to select one sequence, from a set of three, and you will win $25 if the sequence you chose appears on successive rolls of the die.  Please check the sequence of greens and reds on which you prefer to bet.
+>>
+>>1.  RGRRR
+>>2.  GRGRRR
+>>3.  GRRRRR
 >
->Does the conjunction fallacy arise because subjects misinterpret what is meant by "probability"? This can be excluded by offering students bets with payoffs. In addition to the colored dice discussed yesterday, subjects have been asked which possibility they would prefer to bet $10 on in the classic Linda experiment. This did reduce the incidence of the conjunction fallacy, but only to 56% (N=60), which is still more than half the students.
->
+>65% of the subjects chose sequence 2, which is most representative of the die, since the die is mostly green and sequence 2 contains the greatest proportion of green rolls.  However, sequence 1 dominates sequence 2, because sequence 1 is strictly included in 2.  2 is 1 preceded by a G; that is, 2 is the conjunction of an initial G with 1.  This clears up possible misunderstandings of "probability", since the goal was simply to get the $25.
+
+Returning to the other post:
+
 >But the ultimate proof of the conjunction fallacy is also the most elegant. In the conventional interpretation of the Linda experiment, subjects _substitute judgment of representativeness for judgment of probability:_ Their feelings of similarity between each of the propositions and Linda's description, determines how plausible it _feels_ that each of the propositions is true of Linda. ...
 >
 >You just take another group of experimental subjects, and ask them how much each of the propositions "resembles" Linda. This was done - see Kahneman and Frederick (2002) - and the _correlation_ between representativeness and probability was nearly perfect.  0.99, in fact.

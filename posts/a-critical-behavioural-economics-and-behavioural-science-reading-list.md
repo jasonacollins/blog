@@ -6,7 +6,7 @@ draft: false
 toc: true
 ---
 
-This reading list is a balance to the one-dimensional view in many popular books, TED talks, conferences, academic press releases and consultancy sales pitches. For those who feel they have a good understanding of the literature after reading [Thinking Fast and Slow](re-reading-kahnemans-thinking-fast-and-slow.md), [Predictably Irrational](arielys-predictably-irrational.md) and [Nudge](thaler-and-sunsteins-nudge.md), this is for you. \[In the time since I drafted the first version of this list in 2017, it's fair to say that the balance has swung a bit.\]
+This reading list is a balance to the one-dimensional view in many popular books, TED talks, conferences, academic press releases and consultancy sales pitches. For those who feel they have a good understanding of the literature after reading [Thinking Fast and Slow](re-reading-kahnemans-thinking-fast-and-slow.md), [Predictably Irrational](dan-arielys-predictably-irrational.md) and [Nudge](thaler-and-sunsteins-nudge.md), this is for you. \[In the time since I drafted the first version of this list in 2017, it's fair to say that the balance has swung a bit.\]
 
 The purpose of this reading list is not to imply that all behavioural economics or behavioural science is bunk (it's not). That said, I did not design the list to be balanced; you can combine this list with plenty of reading lists from elsewhere for that.
 

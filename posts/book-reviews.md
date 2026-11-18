@@ -10,13 +10,13 @@ Below is a collection of book reviews that I have posted - click the links to go
 
 1.  Adam Alter's [Irresistible: Why We Can't Stop Checking, Scrolling, Clicking and Watching](alters-irresistible-why-we-cant-stop-checking-scrolling-clicking-and-watching.md): a well-written and entertaining book about a subject I don’t know much about (addiction), with one glaring slip.
 
-2.  Dan Ariely’s  [The Honest Truth About Dishonesty: How We Lie to Everyone – Especially Ourselves](arielys-the-honest-truth-about-dishonesty.md): Interesting substance as it draws on Ariely's own work, but sometimes meanders. Will the results stand the test of time? [That question has since been answered - not well at all. For example, see [here](does-a-moral-reminder-decrease-cheating.md) and [here](a-default-of-disbelief.md).]
+2.  Dan Ariely’s  [The Honest Truth About Dishonesty: How We Lie to Everyone – Especially Ourselves](arielys-the-honest-truth-about-dishonesty.md): Interesting substance as it draws on Ariely's own work, but sometimes meanders. Will the results stand the test of time? (That question has since been answered - not well at all. For example, see [here](does-a-moral-reminder-decrease-cheating.md) and [here](a-default-of-disbelief.md).)
 
 3.  Dan Ariely’s [Payoff: The Hidden Logic That Shapes Our Motivations](dan-arielys-payoff-the-hidden-logic-that-shapes-our-motivations.md): Enjoyable, but not particularly deep read, with most of the results covered in [The Upside of Irrationality](arielys-upside-irrationality.md).
 
-4.  Dan Ariely's [Predictably Irrational](arielys-predictably-irrational.md): Not a bad book for a sample of behavioural economics if you are new to the area.
+4.  Dan Ariely's [Predictably Irrational](dan-arielys-predictably-irrational.md): What might have been a fun read undermined by the fraudulent foundations. Can we believe any of it?
 
-5.  Dan Ariely's [The Upside of Irrationality](arielys-upside-irrationality.md): Some interesting ideas (particularly early in the book) but seems light compared to Predictably Irrational.
+5.  Dan Ariely's [The Upside of Irrationality](arielys-upside-irrationality.md): Some interesting ideas (particularly early in the book) but seems light.
 
 6.  Roy Baumeister and John Tierney’s [Willpower: Rediscovering Our Greatest Strength](baumeister-and-tierneys-willpower-rediscovering-the-greatest-human-strength.md): The book tended into the pop science/self-help genre and there was rarely enough depth to add anything to the current debates.
 

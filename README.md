@@ -132,23 +132,22 @@ Key settings in `_quarto.yml`:
 
 ## Publishing
 
-### Legacy URLs
+### Redirects
 
-`redirects.json` is the permanent map of old paths to current, extensionless
-paths. It covers matching root-level URLs for published posts and trailing-slash
-URLs for top-level pages. Keep these mappings when editing or renaming posts, and update
-their destinations when a post moves. Do not add `aliases` to post frontmatter.
+The post-render script `scripts/build-redirects.ts` generates HTTP 301 rules from
+Quarto's current rendered file list. Each published `posts/name.html` gets
+`/name` and `/name/` redirects to `/posts/name`. Top-level pages get trailing-slash
+redirects such as `/research/` to `/research`. Real top-level pages take precedence
+over posts with matching names. Unpublished drafts are excluded.
 
-The post-render script `scripts/build-redirects.ts` expands each map entry into
-HTTP 301 rules with and without a trailing slash, then includes the manual rules
-from `_redirects`. A source ending in `/` redirects only that exact path (used
-for real top-level pages such as `/research/`). The build checks destinations,
-redirect chains, conflicts and Cloudflare's rule limits. New posts do not need
-legacy entries unless an older URL exists.
+Renaming a post automatically changes its redirects on the next full render;
+there is no filename map to maintain, and old filenames are not retained.
+Update internal links when renaming a post. Do not add `aliases` to post frontmatter.
 
-Review these legacy redirects around September 2027, with the intention of
-removing them once the URL migration has settled. Before removal, check Search
-Console and any available traffic data for continued use of the old URLs.
+Manual rules, including feed and dated URL redirects, live in `_redirects` and
+are included in the generated output. The build checks redirect chains,
+conflicts and Cloudflare's rule limits. Preview and single-page renders skip
+redirect generation; use `quarto render` to regenerate the full set.
 
 The rendered site is in `_site/`. Deploy this directory to your web host.
 

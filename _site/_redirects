@@ -1,4 +1,4 @@
-# Generated from redirects.json; edit the source map, not this file.
+# Generated from current rendered pages; manual rules are in the source _redirects file.
 /a-bunch-of-links /posts/a-bunch-of-links 301
 /a-bunch-of-links-2 /posts/a-bunch-of-links-2 301
 /a-bunch-of-links-2/ /posts/a-bunch-of-links-2 301
@@ -290,8 +290,6 @@
 /are-children-normal-goods/ /posts/are-children-normal-goods 301
 /arent-we-smart-fellow-behavioural-scientists /posts/arent-we-smart-fellow-behavioural-scientists 301
 /arent-we-smart-fellow-behavioural-scientists/ /posts/arent-we-smart-fellow-behavioural-scientists 301
-/arielys-predictably-irrational /posts/arielys-predictably-irrational 301
-/arielys-predictably-irrational/ /posts/arielys-predictably-irrational 301
 /arielys-the-honest-truth-about-dishonesty /posts/arielys-the-honest-truth-about-dishonesty 301
 /arielys-the-honest-truth-about-dishonesty/ /posts/arielys-the-honest-truth-about-dishonesty 301
 /arielys-upside-irrationality /posts/arielys-upside-irrationality 301
@@ -444,6 +442,8 @@
 /courseras-executive-data-science-specialisation-a-review/ /posts/courseras-executive-data-science-specialisation-a-review 301
 /coyle-on-happiness /posts/coyle-on-happiness 301
 /coyle-on-happiness/ /posts/coyle-on-happiness 301
+/crap-critiques-of-ai-doomerism-afr-edition /posts/crap-critiques-of-ai-doomerism-afr-edition 301
+/crap-critiques-of-ai-doomerism-afr-edition/ /posts/crap-critiques-of-ai-doomerism-afr-edition 301
 /crime-abortion-and-genes /posts/crime-abortion-and-genes 301
 /crime-abortion-and-genes/ /posts/crime-abortion-and-genes 301
 /crime-and-biology /posts/crime-and-biology 301
@@ -456,6 +456,8 @@
 /critique-of-conspicuous-consumption-and-economic-growth/ /posts/critique-of-conspicuous-consumption-and-economic-growth 301
 /dan-arielys-payoff-the-hidden-logic-that-shapes-our-motivations /posts/dan-arielys-payoff-the-hidden-logic-that-shapes-our-motivations 301
 /dan-arielys-payoff-the-hidden-logic-that-shapes-our-motivations/ /posts/dan-arielys-payoff-the-hidden-logic-that-shapes-our-motivations 301
+/dan-arielys-predictably-irrational /posts/dan-arielys-predictably-irrational 301
+/dan-arielys-predictably-irrational/ /posts/dan-arielys-predictably-irrational 301
 /dangerous-ideas /posts/dangerous-ideas 301
 /dangerous-ideas/ /posts/dangerous-ideas 301
 /darwin-and-marx /posts/darwin-and-marx 301
@@ -1005,6 +1007,8 @@
 /my-podcast-appearances/ /posts/my-podcast-appearances 301
 /my-year /posts/my-year 301
 /my-year/ /posts/my-year 301
+/narayanan-and-kapoors-ai-snake-oil-a-review /posts/narayanan-and-kapoors-ai-snake-oil-a-review 301
+/narayanan-and-kapoors-ai-snake-oil-a-review/ /posts/narayanan-and-kapoors-ai-snake-oil-a-review 301
 /natural-selection-and-economic-growth /posts/natural-selection-and-economic-growth 301
 /natural-selection-and-economic-growth/ /posts/natural-selection-and-economic-growth 301
 /natural-selection-and-savings /posts/natural-selection-and-savings 301
