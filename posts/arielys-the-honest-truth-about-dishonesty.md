@@ -1,13 +1,14 @@
 ---
 title: "Ariely's The Honest Truth About Dishonesty"
 author: "Jason Collins"
-date: 2026-09-02 09:00:00+10:00
+date: 2016-04-22 09:00:00+10:00
+date-modified: 2026-11-18
 draft: false
 ---
 
 Dan Ariely's *The Honest Truth About Dishonesty: How We Lie to Everyone - Especially Ourselves* has become perhaps one of the more ironic pieces of performance art in that much of Ariely's work is fraudulent.
 
-For each of his books, I used to say that a strength was that he is largely writing about his own experiments. He wasn't simply scraping through the same barrel as every other pop behavioural science author. The Honest Truth had a smaller back catalogue of experiments to draw from than [Predictably Irrational](dan-arielys-predictably-irrational.md). But the thread that ties *The Honest Truth* together - how and why we cheat - and Ariely's investigations into it appeared to give his storytelling some substance.
+For each of his books, I used to say that a strength was that he is largely writing about his own experiments. He wasn't simply scraping through the same barrel as every other pop behavioural science author. The Honest Truth had a smaller back catalogue of experiments to draw from than [Predictably Irrational](arielys-predictably-irrational.md). But the thread that ties *The Honest Truth* together - how and why we cheat - and Ariely's investigations into it appeared to give his storytelling some substance.
 
 We now know that much of this work was built on fraud - so we can now view that strength as a weakness. There was no field data supporting the idea that [signing at the top made people more honest](a-default-of-disbelief.md). (Even more amusing, the [lab data was faked too](https://datacolada.org/109), albeit by someone else). Was there a [shredder](https://statmodeling.stat.columbia.edu/2024/09/15/shreddergate-a-fascinating-investigation-into-possible-dishonesty-in-a-psychology-experiment/)? The colour that Ariely provides through the book isn't so much an addition but a [contradiction of the academic publications](does-a-moral-reminder-decrease-cheating.md).
 

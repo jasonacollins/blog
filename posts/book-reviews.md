@@ -1,7 +1,8 @@
 ---
 title: "Book reviews"
 author: "Jason Collins"
-date: 2026-06-01 09:00:00+10:00
+date: 2014-10-27 09:00:00+10:00
+date-modified: 2026-11-19
 image: "img/book-reviews.png"
 draft: false
 ---
@@ -14,7 +15,7 @@ Below is a collection of book reviews that I have posted - click the links to go
 
 3.  Dan Ariely’s [Payoff: The Hidden Logic That Shapes Our Motivations](dan-arielys-payoff-the-hidden-logic-that-shapes-our-motivations.md): Enjoyable, but not particularly deep read, with most of the results covered in [The Upside of Irrationality](arielys-upside-irrationality.md).
 
-4.  Dan Ariely's [Predictably Irrational](dan-arielys-predictably-irrational.md): What might have been a fun read undermined by the fraudulent foundations. Can we believe any of it?
+4.  Dan Ariely's [Predictably Irrational](arielys-predictably-irrational.md): What might have been a fun read undermined by the fraudulent foundations. Can we believe any of it?
 
 5.  Dan Ariely's [The Upside of Irrationality](arielys-upside-irrationality.md): Some interesting ideas (particularly early in the book) but seems light.
 
@@ -138,54 +139,56 @@ Below is a collection of book reviews that I have posted - click the links to go
 
 65. Sendhil Mullainathan and Eldar Shafir’s [Scarcity: Why Having Too Little Means So Much](scarcity-of-time-money-friends-and-bandwidth.md): A novel way of looking at scarcity that extends beyond the typical analysis in economics, but I’m not convinced I have been presented with a coherent new perspective on how the world works.
 
-66. Richard Nelson and Sidney Winter's [An Evolutionary Theory of Economic Change](nelson-and-winters-an-evolutionary-theory-of-economic-change.md): The seminal book that established evolutionary economics as a serious field.
+66. Arvind Narayanan and Sayash Kapoor's [AI Snake Oil: What Artificial Intelligence Can Do, What It Can't, and How to Tell the Difference](narayanan-and-kapoors-ai-snake-oil-a-review.md): A mixed book. Great critique of business practices. Weak examination of existential risk.
 
-67. Cal Newport’s [So Good They Can’t Ignore You: Why Skills Trump Passion in the Quest for Work You Love](newports-so-good-they-cant-ignore-you-why-skills-trump-passion-in-the-quest-for-work-you-love.md): Basic (albeit good) economic advice dressed up in self-help style.
+67. Richard Nelson and Sidney Winter's [An Evolutionary Theory of Economic Change](nelson-and-winters-an-evolutionary-theory-of-economic-change.md): The seminal book that established evolutionary economics as a serious field.
 
-68. Cathy O'Neil's [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](oneils-weapons-of-math-destruction-how-big-data-increases-inequality-and-threatens-democracy.md): O'Neil makes a strong and persuasive case that many algorithms could be developed or used better. But it is often unclear what exactly the problem is or what potential solutions could (should) be.
+68. Cal Newport’s [So Good They Can’t Ignore You: Why Skills Trump Passion in the Quest for Work You Love](newports-so-good-they-cant-ignore-you-why-skills-trump-passion-in-the-quest-for-work-you-love.md): Basic (albeit good) economic advice dressed up in self-help style.
 
-69. Paul Ormerod's [Why Most Things Fail](ormerods-why-most-things-fail.md): Failure is all around us. But after building a great picture of the complexity of the world, the applications seem half-baked.
+69. Cathy O'Neil's [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](oneils-weapons-of-math-destruction-how-big-data-increases-inequality-and-threatens-democracy.md): O'Neil makes a strong and persuasive case that many algorithms could be developed or used better. But it is often unclear what exactly the problem is or what potential solutions could (should) be.
 
-70. Charles Perrow’s [Normal Accidents: Living with High-Risk Technologies](perrows-normal-accidents-living-with-high-risk-technologies.md): We should stop trying to fix systems prone to normal accidents in ways that only make them riskier. We should focus instead on reducing the potential for catastrophe when there is failure.
+70. Paul Ormerod's [Why Most Things Fail](ormerods-why-most-things-fail.md): Failure is all around us. But after building a great picture of the complexity of the world, the applications seem half-baked.
 
-71. Paul Rubin's [Darwinian Politics: The Evolutionary Origin of Freedom](rubins-darwinian-politics.md): Humans naturally seek political freedom and Modern Western societies do the best job of meeting these needs.
+71. Charles Perrow’s [Normal Accidents: Living with High-Risk Technologies](perrows-normal-accidents-living-with-high-risk-technologies.md): We should stop trying to fix systems prone to normal accidents in ways that only make them riskier. We should focus instead on reducing the potential for catastrophe when there is failure.
 
-72. Phil Rosenzweig’s [Left Brain, Right Stuff: How Leaders Make Winning Decisions](rosenzweigs-left-brain-right-stuff-how-leaders-make-winning-decisions.md): An entertaining examination of how behavioural economics findings hold up for real world decision making.
+72. Paul Rubin's [Darwinian Politics: The Evolutionary Origin of Freedom](rubins-darwinian-politics.md): Humans naturally seek political freedom and Modern Western societies do the best job of meeting these needs.
 
-73. Phil Rosenzweig’s [The Halo Effect … and the Eight Other Business Delusions That Deceive Managers](rosenzweigs-the-halo-effect-and-the-eight-other-business-delusions-that-deceive-managers.md): Largely an exercise of shooting fish in a barrel, but is an entertaining read regardless.
+73. Phil Rosenzweig’s [Left Brain, Right Stuff: How Leaders Make Winning Decisions](rosenzweigs-left-brain-right-stuff-how-leaders-make-winning-decisions.md): An entertaining examination of how behavioural economics findings hold up for real world decision making.
 
-74. Gad Saad's [The Evolutionary Bases of Consumption](saads-the-evolutionary-bases-of-consumption.md): This book has more material taking on the Standard Social Science Model approach to consumption than is fun to wade through, but Saad's book is still the go to source for material on the evolutionary psychology approach to consumption.
+74. Phil Rosenzweig’s [The Halo Effect … and the Eight Other Business Delusions That Deceive Managers](rosenzweigs-the-halo-effect-and-the-eight-other-business-delusions-that-deceive-managers.md): Largely an exercise of shooting fish in a barrel, but is an entertaining read regardless.
+
+75. Gad Saad's [The Evolutionary Bases of Consumption](saads-the-evolutionary-bases-of-consumption.md): This book has more material taking on the Standard Social Science Model approach to consumption than is fun to wade through, but Saad's book is still the go to source for material on the evolutionary psychology approach to consumption.
     
-75. Gilles Saint-Paul's [The Tyranny of Utility: Behavioral Social Science and the Rise of Paternalism](saint-pauls-the-tyranny-of-utility-behavioral-social-science-and-the-rise-of-paternalism.md): Sometimes hard to share Saint-Paul's anger, but some important underlying points.
+76. Gilles Saint-Paul's [The Tyranny of Utility: Behavioral Social Science and the Rise of Paternalism](saint-pauls-the-tyranny-of-utility-behavioral-social-science-and-the-rise-of-paternalism.md): Sometimes hard to share Saint-Paul's anger, but some important underlying points.
 
-76. Robert Sapolsky's [Why Zebras Don't Get Ulcers](robert-sapolskys-why-zebras-dont-get-ulcers.md): A wonderful book on the psychology and physiology of stress.
+77. Robert Sapolsky's [Why Zebras Don't Get Ulcers](robert-sapolskys-why-zebras-dont-get-ulcers.md): A wonderful book on the psychology and physiology of stress.
 
-77. Barry Schwartz's [The Paradox of Choice: Why More Is Less](barry-schwartzs-the-paradox-of-choice-why-more-is-less.md): An excellent diagnosis with a less than convincing proposal for treatment.
+78. Barry Schwartz's [The Paradox of Choice: Why More Is Less](barry-schwartzs-the-paradox-of-choice-why-more-is-less.md): An excellent diagnosis with a less than convincing proposal for treatment.
 
-78. Paul Seabright's [The War of the Sexes: How Conflict and Cooperation Have Shaped Men and Women from Prehistory to the Present](seabrights-the-war-of-the-sexes.md): A decent primer on sexual selection and some interesting applications, but does not always engage with the cutting edge of the debate.
+79. Paul Seabright's [The War of the Sexes: How Conflict and Cooperation Have Shaped Men and Women from Prehistory to the Present](seabrights-the-war-of-the-sexes.md): A decent primer on sexual selection and some interesting applications, but does not always engage with the cutting edge of the debate.
 
-79. Nate Silver’s [The Signal and the Noise: Why So Many Predictions Fail— but Some Don’t](silvers-the-signal-and-the-noise.md): Not a “how to” book, although there are plenty of principles (and suggestions to be humble) worth following.
+80. Nate Silver’s [The Signal and the Noise: Why So Many Predictions Fail— but Some Don’t](silvers-the-signal-and-the-noise.md): Not a “how to” book, although there are plenty of principles (and suggestions to be humble) worth following.
 
-80. Robert Sugden's [The Community of Advantage: A Behavioural Economist’s Defence of the Market](robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market.md): A well-balanced critique on how the behavioural research has been interpreted and used as part of the “nudge” movement to develop recommendations for the “planner”, “benevolent autocrat” or “choice architect”.
+81. Robert Sugden's [The Community of Advantage: A Behavioural Economist’s Defence of the Market](robert-sugdens-the-community-of-advantage-a-behavioural-economists-defence-of-the-market.md): A well-balanced critique on how the behavioural research has been interpreted and used as part of the “nudge” movement to develop recommendations for the “planner”, “benevolent autocrat” or “choice architect”.
 
-81. Cass Sunstein and Reid Hastie's [Wiser: Getting Beyond Groupthink to Make Groups Smarter](cass-sunstein-and-reid-hasties-wiser-getting-beyond-groupthink-to-make-groups-smarter.md): Not an exciting read, but a good catalogue of group decision-making research.
+82. Cass Sunstein and Reid Hastie's [Wiser: Getting Beyond Groupthink to Make Groups Smarter](cass-sunstein-and-reid-hasties-wiser-getting-beyond-groupthink-to-make-groups-smarter.md): Not an exciting read, but a good catalogue of group decision-making research.
 
-82. Philip Tetlock’s [Expert Political Judgment: How Good Is It? How Can We Know?](tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know.md): One of the grander undertakings in social science.
+83. Philip Tetlock’s [Expert Political Judgment: How Good Is It? How Can We Know?](tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know.md): One of the grander undertakings in social science.
 
-83. Philip Tetlock and Dan Gardner’s [Superforecasting: The Art and Science of Prediction](tetlock-and-gardners-superforecasting-the-art-and-science-of-prediction.md): Doesn’t quite measure up to Tetlock’s superb [Expert Political Judgment](tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know.md) (read EPJ first), but it contains more than enough interesting material to make it worth the read.
+84. Philip Tetlock and Dan Gardner’s [Superforecasting: The Art and Science of Prediction](tetlock-and-gardners-superforecasting-the-art-and-science-of-prediction.md): Doesn’t quite measure up to Tetlock’s superb [Expert Political Judgment](tetlocks-expert-political-judgment-how-good-is-it-how-can-we-know.md) (read EPJ first), but it contains more than enough interesting material to make it worth the read.
 
-84. Richard Thaler and Cass Sunstein’s [Nudge](thaler-and-sunsteins-nudge.md): If you’re familiar with much of the behavioural science literature, the book covers a lot of stuff you already know. But there are a lot of bureaucrats and politicians who, among others, should read the whole book.
+85. Richard Thaler and Cass Sunstein’s [Nudge](thaler-and-sunsteins-nudge.md): If you’re familiar with much of the behavioural science literature, the book covers a lot of stuff you already know. But there are a lot of bureaucrats and politicians who, among others, should read the whole book.
 
-85. Peter Thiel’s [Zero to One: Notes on Startups, or How to Build the Future](thiels-zero-to-one.md): Many interesting and contrary arguments, but this is not a book where they are buttressed with evidence to convince you they are true.
+86. Peter Thiel’s [Zero to One: Notes on Startups, or How to Build the Future](thiels-zero-to-one.md): Many interesting and contrary arguments, but this is not a book where they are buttressed with evidence to convince you they are true.
 
-86. Robert Trivers's [The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life](triverss-the-folly-of-fools.md): Some gems surrounded by political rants.
+87. Robert Trivers's [The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life](triverss-the-folly-of-fools.md): Some gems surrounded by political rants.
 
-87. Thorstein Veblen’s [The Theory of the Leisure Class](thorstein-veblens-the-theory-of-the-leisure-class.md): The classic on status and conspicuous consumption.
+88. Thorstein Veblen’s [The Theory of the Leisure Class](thorstein-veblens-the-theory-of-the-leisure-class.md): The classic on status and conspicuous consumption.
 
-88. Chris Voss’s (with Tahl Raz) [Never Split the Difference: Negotiating as if your life depended on it](chris-vosss-never-split-the-difference-negotiating-as-if-your-life-depended-on-it.md): Interesting ideas on how to approach negotiation, but I don’t know how much weight to give them. How much expertise could be developed in hostage negotiations? Can that expertise be distilled into principles, or is much of it tacit knowledge?
+89. Chris Voss’s (with Tahl Raz) [Never Split the Difference: Negotiating as if your life depended on it](chris-vosss-never-split-the-difference-negotiating-as-if-your-life-depended-on-it.md): Interesting ideas on how to approach negotiation, but I don’t know how much weight to give them. How much expertise could be developed in hostage negotiations? Can that expertise be distilled into principles, or is much of it tacit knowledge?
 
-89. Mark White's [The Manipulation of Choice: Ethics and Libertarian Paternalism](/posts/mark-whites-the-manipulation-of-choice.md): An entertaining but not always technically strong critique of nudging.
+90. Mark White's [The Manipulation of Choice: Ethics and Libertarian Paternalism](/posts/mark-whites-the-manipulation-of-choice.md): An entertaining but not always technically strong critique of nudging.
 
-90. E.O. Wilson's [The Social Conquest of Earth](e-o-wilsons-the-social-conquest-of-earth.md): A confusing take on kin and group selection.
+91. E.O. Wilson's [The Social Conquest of Earth](e-o-wilsons-the-social-conquest-of-earth.md): A confusing take on kin and group selection.
 
-91. Philip Zimbardo’s [The Lucifer Effect: Understanding How Good People Turn Evil](zimbardos-the-lucifer-effect.md): The situation is more important than a person’s disposition.
+92. Philip Zimbardo’s [The Lucifer Effect: Understanding How Good People Turn Evil](zimbardos-the-lucifer-effect.md): The situation is more important than a person’s disposition.

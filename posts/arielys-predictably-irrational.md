@@ -1,7 +1,8 @@
 ---
-title: Dan Ariely's Predictably Irrational
+title: Ariely's Predictably Irrational
 author: "Jason Collins"
-date: 2026-09-02 09:00:00+10:00
+date: 2013-09-02 09:00:00+10:00
+date-modified: 2026-11-18
 draft: false
 
 ---
