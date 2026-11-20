@@ -1,7 +1,7 @@
 ---
 title: "Rizzo and Whitman's Escaping Paternalism: Rationality, Behavioral Economics, and Public Policy — a review"
 author: "Jason Collins"
-date: 2026-11-09 13:43:15+10:00
+date: 2026-11-20 10:00:00+10:00
 draft: false
 toc: false
 image: "img/escaping-paternalism.png"
