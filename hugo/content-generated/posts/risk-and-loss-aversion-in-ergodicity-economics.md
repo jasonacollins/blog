@@ -5,7 +5,7 @@ date: 2020-02-18 09:00:00+00:00
 draft: false
 sync_source: "posts/risk-and-loss-aversion-in-ergodicity-economics.qmd"
 sync_route: "quarto"
-sync_hash: "9da58360fbbd"
+sync_hash: "9ecfbfc39943"
 ---
 
 {{< html >}}

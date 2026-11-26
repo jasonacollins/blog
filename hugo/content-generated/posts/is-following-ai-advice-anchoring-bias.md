@@ -5,7 +5,7 @@ date: 2025-10-24 11:00:00+11:00
 draft: false
 sync_source: "posts/is-following-ai-advice-anchoring-bias.qmd"
 sync_route: "quarto"
-sync_hash: "634d50df921c"
+sync_hash: "4d2819371754"
 ---
 
 {{< html >}}

@@ -5,7 +5,7 @@ date: 2019-11-06 09:00:00+00:00
 draft: false
 sync_source: "posts/what-can-we-infer-about-someone-who-rejects-a-5050-bet-to-win-110-or-lose-100-the-rabin-paradox-explored.qmd"
 sync_route: "quarto"
-sync_hash: "f2bfa2f99bd9"
+sync_hash: "e82799f1b2b3"
 ---
 
 {{< html >}}

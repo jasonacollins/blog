@@ -5,7 +5,7 @@ date: 2020-01-22 09:00:00+00:00
 draft: false
 sync_source: "posts/ergodicity-economics-a-primer.qmd"
 sync_route: "quarto"
-sync_hash: "01eaa4ecf1bf"
+sync_hash: "d62463734f9e"
 ---
 
 {{< html >}}

@@ -5,7 +5,7 @@ date: 2024-07-08 20:00:00+10:00
 draft: false
 sync_source: "posts/the-psychological-and-genes-eye-view-of-ergodicity-economics.qmd"
 sync_route: "quarto"
-sync_hash: "6f9d20983b88"
+sync_hash: "7518273dc3c0"
 ---
 
 {{< html >}}

@@ -5,7 +5,7 @@ date: 2023-04-28 09:00:00+10:00
 draft: false
 sync_source: "posts/using-large-language-models-as-academic.qmd"
 sync_route: "quarto"
-sync_hash: "5eebcaf3e86d"
+sync_hash: "20c6e751b3cf"
 ---
 
 {{< html >}}

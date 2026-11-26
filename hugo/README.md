@@ -23,10 +23,12 @@ python3 hugo/scripts/compare-sites.py --list   # compare hugo/public/ with _site
    whose source changed are redone.
    - Ordinary posts go through Quarto's bundled Pandoc (about 0.2 s each).
    - Posts using Quarto features (citations, image attributes, fenced divs,
-     R chunks) take their body from Quarto's HTML. Without R this is a
-     single-post `quarto render` (about 6 s). With R, the body comes from the
-     page already in `_site/`, so run `quarto render` first when such a post
-     changes.
+     R chunks) are rendered with a single-post `quarto render` and the body
+     taken from its HTML (about 6 s; longer when R code runs).
+   - R code is re-run only when that post's source changes, so published
+     figures and numbers stay as they are until you edit the post. Re-running
+     needs R with `rmarkdown`, `tidyverse` and `scales`. It also refreshes that
+     post's files in `_freeze/`.
 2. Hugo builds the site (about half a second). `hugo.toml` reads images, PDFs,
    `_redirects` and the top-level pages (`research.qmd` and so on) in place
    from the repo root.
@@ -61,5 +63,3 @@ environment variable `HUGO_VERSION` set to the version in use locally
   template.
 - Images inside the 28 Quarto-rendered posts are served at original size
   unless they sit in `posts/img/` with no extra attributes.
-- The 8 R posts take their bodies from `_site/`, so that folder has to stay
-  until they get a home of their own.

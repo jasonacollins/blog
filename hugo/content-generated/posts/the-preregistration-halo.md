@@ -5,7 +5,7 @@ date: 2024-01-26 17:00:00+10:00
 draft: false
 sync_source: "posts/the-preregistration-halo.qmd"
 sync_route: "quarto"
-sync_hash: "35e8b9d951d8"
+sync_hash: "7178f825c32d"
 ---
 
 {{< html >}}

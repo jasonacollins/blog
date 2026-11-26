@@ -7,7 +7,7 @@ image: "img/gen-AI.webp"
 toc: true
 sync_source: "posts/using-generative-AI-as-academic-july-2024-edition.qmd"
 sync_route: "quarto"
-sync_hash: "6d1ff12af8d7"
+sync_hash: "0924d182ef2b"
 ---
 
 {{< html >}}

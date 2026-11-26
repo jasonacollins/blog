@@ -10,14 +10,15 @@ Two routes:
   pandoc   Ordinary posts. The body is rendered with Quarto's bundled Pandoc
            (about 0.2 seconds a post).
   quarto   Posts using Quarto features: citations, image attributes, fenced
-           divs, raw blocks, R chunks. The body is lifted from Quarto's HTML.
-           Posts without R are rendered on the spot (about 6 seconds each).
-           Posts with R reuse the page in _site/, so the frozen R output is
-           used and R itself is not needed; run `quarto render` first if such
-           a post has changed.
+           divs, raw blocks, R chunks. The post is rendered with Quarto on the
+           spot and the body lifted from its HTML (about 6 seconds, longer if
+           R code runs). R needs the rmarkdown package and whatever the post
+           loads.
 
 Each generated file records a hash of its inputs, so only changed posts are
-redone.
+redone. For posts with R the hash covers the post source alone: their code is
+re-run only when the post itself is edited, never because this script changed,
+so published figures and numbers do not shift by accident.
 
   python3 hugo/scripts/sync-posts.py            # bring everything up to date
   python3 hugo/scripts/sync-posts.py --watch    # keep doing so as posts are saved
@@ -147,19 +148,16 @@ def render_pandoc(body):
     return re.sub(r"QSHORTCODE(\d+)Q", lambda m: codes[int(m.group(1))], out)
 
 
-def render_quarto(path, body, html_dir):
-    """Lift the article body out of Quarto's rendered page."""
+def render_quarto(path):
+    """Render the post with Quarto and lift the article body out of the page."""
     with tempfile.TemporaryDirectory() as tmp:
-        if R_CHUNK.search(body):
-            site = html_dir      # frozen R output: reuse the existing full render
-        else:
-            site = Path(tmp)
-            run = subprocess.run(["quarto", "render", str(path.relative_to(ROOT)), "--to", "html",
-                                  "--output-dir", tmp], cwd=ROOT, capture_output=True, text=True)
-            if run.returncode:
-                raise RuntimeError(run.stderr[-800:])
-        page = (site / "posts" / (path.stem + ".html")).read_text()
-        files = site / "posts" / (path.stem + "_files")
+        run = subprocess.run(["quarto", "render", str(path.relative_to(ROOT)), "--to", "html",
+                              "--output-dir", tmp], cwd=ROOT, capture_output=True, text=True)
+        page_file = Path(tmp) / "posts" / (path.stem + ".html")
+        if run.returncode or not page_file.exists():
+            raise RuntimeError(run.stderr[-800:])
+        page = page_file.read_text()
+        files = Path(tmp) / "posts" / (path.stem + "_files")
         if files.is_dir():
             shutil.copytree(files, STATIC / files.name, dirs_exist_ok=True)
     m = re.search(r"<main[^>]*id=\"quarto-document-content\"[^>]*>(.*?)</main>", page, re.S)
@@ -171,7 +169,14 @@ def render_quarto(path, body, html_dir):
     return fix_html(content)
 
 
-def sync(html_dir, force=False, quiet=False):
+def digest_for(text, route, body):
+    """Hash of what a generated body depends on."""
+    if route == "quarto" and R_CHUNK.search(body):
+        return hashlib.sha1((text + "r-post").encode()).hexdigest()[:12]
+    return hashlib.sha1((text + route + VERSION).encode()).hexdigest()[:12]
+
+
+def sync(force=False, quiet=False):
     """One pass over posts/. Returns (route counts, failures)."""
     OUT.mkdir(parents=True, exist_ok=True)
     STATIC.mkdir(parents=True, exist_ok=True)
@@ -183,11 +188,7 @@ def sync(html_dir, force=False, quiet=False):
         counts[route] = counts.get(route, 0) + 1
         target = OUT / (path.stem + ".md")
         wanted.add(target)
-        digest_input = text + route + VERSION
-        frozen = html_dir / "posts" / (path.stem + ".html")
-        if route == "quarto" and R_CHUNK.search(body) and frozen.exists():
-            digest_input += frozen.read_text()
-        digest = hashlib.sha1(digest_input.encode()).hexdigest()[:12]
+        digest = digest_for(text, route, body)
         if not force and target.exists() and f'sync_hash: "{digest}"' in target.read_text()[:2000]:
             continue
         jobs.append((path, raw_fm, body, route, target, digest))
@@ -195,7 +196,7 @@ def sync(html_dir, force=False, quiet=False):
     def run(job):
         path, raw_fm, body, route, target, digest = job
         try:
-            out = render_pandoc(body) if route == "pandoc" else render_quarto(path, body, html_dir)
+            out = render_pandoc(body) if route == "pandoc" else render_quarto(path)
         except Exception as err:  # keep going; report at the end
             failed.append((path.name, str(err)))
             return
@@ -223,19 +224,17 @@ def sync(html_dir, force=False, quiet=False):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--html-dir", default=str(ROOT / "_site"), help="Quarto HTML output used for R posts")
-    ap.add_argument("--force", action="store_true", help="redo every post")
+    ap.add_argument("--force", action="store_true", help="redo every post, re-running R code too")
     ap.add_argument("--watch", action="store_true", help="keep running; redo posts as they are saved")
     args = ap.parse_args()
-    html_dir = Path(args.html_dir)
-    _, failed = sync(html_dir, args.force)
+    _, failed = sync(args.force)
     if not args.watch:
         sys.exit(1 if failed else 0)
     seen = None
     while True:
         stamp = max((p.stat().st_mtime for p in POSTS.glob("*.*md")), default=0), len(list(POSTS.glob("*.*md")))
         if seen is not None and stamp != seen:
-            sync(html_dir, quiet=True)
+            sync(quiet=True)
         seen = stamp
         time.sleep(0.5)
 
