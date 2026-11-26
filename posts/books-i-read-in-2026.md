@@ -35,6 +35,7 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 - Hans Moravec, *Mind Children: The Future of Robot and Human Intelligence*
 - Michael Muthukrishna, *The New Science of Who We Are, How We Got Here, and Where We’re Going*
 - Arvind Narayanan and Sayash Kapoor, *[AI Snake Oil: What Artificial Intelligence Can Do, What It Can't, and How to Tell the Difference](/posts/narayanan-and-kapoors-ai-snake-oil-a-review.md)*
+- Dwarkesh Patel with Gavin Leech, *The Scaling Era: An Oral History of AI, 2019–2025*
 - Mario J. Rizzo and Glen Whitman, *Escaping Paternalism: Rationality, Behavioral Economics, and Public Policy*
 - Andrew Ross Sorkin, *1929: Inside the Greatest Crash in Wall Street History*
 - Gary Rivlin, *AI Valley: Microsoft, Google, and the Trillion-Dollar Race to Cash In on Artificial Intelligence*
@@ -44,6 +45,7 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 
 *Fiction*
 
+- Samuel Butler, *Erewhon, or Over the Range*
 - C. Robert Cargill, *Sea of Rust*
 - C. Robert Cargill, *Day Zero*
 - Becky Chambers, *The long way to a small, angry planet*
@@ -73,5 +75,6 @@ Below is the list of books I read in 2026 (with a star if I have read them befor
 - Martha Wells, *Fugitive Telemetry*
 - Martha Wells, *System Collapse*
 - Martha Wells, *Platform Decay*
+- Roger Williams, *The Metamorphosis of Prime Intellect*
 
 Previous annual book lists: [2010](top-10-books-in-2010.md), [2011](best-books-i-read-in-2011.md), [2012](the-best-books-i-read-in-2012.md), [2013](best-books-i-read-in-2013.md), [2014](best-books-i-read-in-2014.md), [2015](best-books-i-read-in-2015.md), [2016](best-books-i-read-in-2016.md), [2017](best-books-i-read-in-2017.md), [2018](books-i-read-in-2018.md), [2019](best-books-i-read-in-2019.md), [2020](best-books-i-read-in-2020.md), [2021](best-books-i-read-in-2021.md), [2022](books-i-read-in-2022.md), [2023](books-i-read-in-2023.md), [2024](books-i-read-in-2024.md), [2025](books-i-read-in-2025.md)
