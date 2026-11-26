@@ -1,149 +1,190 @@
 # AGENTS.md
 
-Technical guidance for AI agents working with this Quarto blog repository.
+Technical guidance for AI agents working with this blog repository.
+
+## Architecture in one paragraph
+
+Posts are authored in `posts/` (`.md`, or `.qmd` when they run R). A Python
+script renders each post body to HTML with Pandoc or Quarto and writes it to
+`hugo/content-generated/posts/`. Hugo builds the site from those bodies plus
+its own templates. Cloudflare Pages runs the Hugo build on every push to
+`main`; it has no Quarto, so the generated bodies are committed.
+
+The published site is built by Hugo. `_quarto.yml`, `index.qmd`, `_site/`,
+`preview-post.sh` and `scripts/*.ts` belong to the earlier all-Quarto build and
+do not affect what is published. Do not edit them to change the live site.
 
 ## Commands Reference
 
-### Development Workflow
-
 ```bash
-# Preview site with live reload (primary development command)
-quarto preview
+# Live preview with drafts (re-renders a post on save)
+./hugo/preview.sh
+./hugo/preview.sh posts/post-name.md
 
-# Render entire site
-quarto render
+# Full build into hugo/public/: sync post bodies, run Hugo, index search
+./hugo/build.sh
 
-# Render single post
-quarto render posts/post-name.qmd
+# Render changed post bodies only
+python3 hugo/scripts/sync-posts.py
+python3 hugo/scripts/sync-posts.py --force    # redo all; re-runs R code too
 
-# Check Quarto version
-quarto --version
+# Hugo alone (uses the bodies already generated)
+hugo --source hugo --minify
 ```
 
-## Architecture
+## The publish rule
 
-### Quarto Configuration (_quarto.yml)
+After changing anything in `posts/`, run `./hugo/build.sh` (or at least
+`sync-posts.py`) and commit `hugo/content-generated/` and
+`hugo/static-generated/` together with the post. A post committed without its
+generated body does not appear on the site, and an edit does not show.
 
-Critical settings that affect how the site works:
+Pushing to `main` deploys to production. Do not push without the user's say-so.
 
-- `execute.freeze: true` - Computational results are cached in `_freeze/` directory
-- `execute.error: true` - Errors in R code are displayed but don't halt rendering
-- `format.html.code-fold: true` - R code chunks are foldable by default
-- `csl: apa-no-ampersand.csl` - Custom citation style (APA without ampersands)
-- `format.html.grid.body-width: 600px` - Main content width
+## Post rendering (hugo/scripts/sync-posts.py)
 
-### Freeze Mechanism
+Each post becomes `hugo/content-generated/posts/NAME.md`: selected front matter
+plus the HTML body wrapped in an `html` shortcode. Two routes:
 
-This is critical to understand:
+- **pandoc**: ordinary posts. `quarto pandoc -f markdown -t html --katex`.
+  About 0.2 s each.
+- **quarto**: posts with `bibliography:` front matter, R or raw code chunks,
+  fenced divs (`:::`), image or heading attributes (`{width=...}`,
+  `{#fig-...}`), or cross-references. Runs `quarto render` on that one post
+  and lifts the `<main>` body from the result. About 6 s, longer with R.
 
-1. When `freeze: true`, R code execution results are cached in `_freeze/posts/post-name/`
-2. Cached results are committed to git (not gitignored)
-3. Code only re-executes when the source `.qmd` changes
-4. To force re-execution: delete the corresponding `_freeze/` subdirectory
-5. The `_freeze/` structure mirrors the post structure
+Things to know:
 
-### Post Structure
+- Each generated file stores `sync_hash`. A post is redone when its source,
+  its route, or the script's `VERSION` changes.
+- **R posts are the exception**: their hash covers the source only. R re-runs
+  only when the post is edited (or with `--force`), so published figures and
+  numbers do not change by accident. Do not bump them casually; re-running
+  under newer R and package versions can alter output. Re-running also
+  rewrites that post's files in `_freeze/`.
+- Changing how bodies are post-processed (`fix_html`) needs a `VERSION` bump
+  to take effect, which re-renders every non-R post, including the slow
+  Quarto ones.
+- Front matter passed through to Hugo: `title`, `author`, `date`, `draft`,
+  `toc`, `image`, `comments`, `date-modified`, `lastmod`. Everything else is
+  dropped.
+- Post-processing: KaTeX spans become `{{< math >}}` shortcodes (MathML at
+  build time), local `img/` images become `{{< img >}}` shortcodes (resized
+  WebP), links to `other-post.md` become `/posts/other-post.html`, and Quarto
+  `{{< video URL >}}` is rewritten to the form Hugo accepts.
+- Deleting or renaming a post removes its stale generated file on the next
+  sync.
 
-Posts are in the `posts/` directory. Use `.md` files by default, only use `.qmd` if the post requires R computations.
+## Hugo site (hugo/)
 
-Typical structure:
+- `hugo.toml`: settings and module mounts. Images (`posts/img`), PDFs,
+  `_redirects`, `logo.png` and the top-level pages (`about.qmd`,
+  `research.qmd`, `subscribe.qmd`, `teaching.qmd`, `media.qmd`, `writing.qmd`)
+  are mounted in place from the repo root; nothing is copied.
+- `layouts/baseof.html`: head, navbar, footer. `layouts/page.html`: posts and
+  top-level pages. `layouts/home.html`: paginated listing (50 per page).
+  `layouts/search.html`: Pagefind search page.
+- `layouts/home.rss.xml`, `layouts/home.redirects`, `layouts/sitemap.xml`:
+  feed, Cloudflare `_redirects` and sitemap.
+- `layouts/_shortcodes/`: `html`, `math`, `img`, `video`, `youtube`, `tweet`.
+- `assets/css/main.css`: all styles, inlined into every page. Values were
+  taken from the computed styles of the earlier Quarto (Cosmo) theme; when
+  matching its look, measure rather than estimate.
+- Top-level pages are parsed by Hugo's own markdown parser (goldmark), not
+  Pandoc, so Pandoc-only syntax does not work in them.
+
+### URLs
+
+`uglyURLs = true` writes `posts/name.html`, which Cloudflare Pages serves as
+`/posts/name`. Templates strip `.html` (and `index.html`) from links and
+canonical URLs in production and keep it under `hugo server`, where clean URLs
+are not served. Use the `url.html` partial for page links. Feed item links and
+GUIDs deliberately keep the `.html` form so existing subscribers see no
+duplicates. Do not add `aliases` to post front matter; redirects are generated
+in `layouts/home.redirects`.
+
+### Post front matter
 
 ```yaml
 ---
 title: "Post Title"
 author: "Jason Collins"
 date: 2025-01-24 09:00:00+10:00
-draft: false           # Set true to exclude from build
+draft: false           # true: shown in preview, excluded from the build
+image: img/name.png    # optional thumbnail and social image
+toc: true              # optional side contents list
 bibliography: references.bib
-toc: true
 ---
 ```
 
-**Date format**: Important to use `YYYY-MM-DD HH:MM:SS+10:00` format with timezone.
+**Date format**: use `YYYY-MM-DD HH:MM:SS+10:00` with the timezone.
+Future-dated posts are published (`buildFuture = true`), as they were under
+Quarto.
 
-### R Code Execution
-
-Posts can contain R code chunks with standard knitr syntax:
-
-````markdown
-```{r chunk-name, message=FALSE, warning=FALSE}
-library(tidyverse)
-# Code here
-```
-````
-
-Common chunk options used in this blog:
-- `message=FALSE` - Suppress package loading messages
-- `warning=FALSE` - Suppress warnings
-- Named chunks help with caching
-
-### File Paths and References
-
-- **Images**: Typically `img/post-slug/image-name.png` or stored in post directory
-- **PDFs**: Stored in `pdfs/` directory
-- **Citations**: Bibliography files referenced in frontmatter, use `@key` syntax
-- **Internal links**: Use relative paths from site root
+Use `.md` by default; `.qmd` only when the post runs R.
 
 ## Common Operations
 
 ### Creating a New Post
 
-1. Create `posts/your-post-name.md` with frontmatter (use `.qmd` only if R computations needed)
-2. Write content (with optional R chunks if using `.qmd`)
-3. Run `quarto preview` to see live updates
-4. When ready, `quarto render` to finalize
+1. `./new-post.sh post-name` (add `--qmd` for R).
+2. Write; preview with `./hugo/preview.sh posts/post-name.md`.
+3. Set `draft: false`, run `./hugo/build.sh`.
+4. Commit `posts/`, `hugo/content-generated/` and `hugo/static-generated/`.
 
 ### Renaming a Post
 
-When renaming a post file:
+1. Rename the file in `posts/`.
+2. For an R post, rename `_freeze/posts/old-name/` to match.
+3. Update internal links to the post.
+4. Run `./hugo/build.sh`; the old generated body is removed and redirects are
+   regenerated.
 
-1. Rename the `.qmd` file in `posts/`
-2. Check for corresponding `_freeze/posts/old-name/` directory
-3. Rename freeze directory to match new post name
-4. Update any internal links to the post
-5. Re-render the site
+### Changing styles or templates
 
-### Modifying Post with Cached Results
-
-If a post has frozen results in `_freeze/`:
-
-- Editing the `.qmd` will trigger re-execution on next render
-- To prevent re-execution, don't edit the file (edit related non-cached files instead)
-- To force full re-execution, delete `_freeze/posts/post-name/`
+Edit under `hugo/layouts/` or `hugo/assets/css/main.css`, check with
+`./hugo/preview.sh`, then run `./hugo/build.sh`. No post bodies change.
 
 ## Output Directories
 
-- `_site/`: Complete rendered site (regenerated on each build, don't edit directly)
-- `_freeze/`: Cached computational outputs (committed to git)
-- `.quarto/`: Quarto build cache (gitignored)
+- `hugo/content-generated/`, `hugo/static-generated/`: rendered post bodies
+  and R figures. Committed. Do not edit by hand; they are overwritten.
+- `hugo/public/`: built site. Gitignored.
+- `hugo/resources/`: Hugo's image cache. Gitignored.
+- `_freeze/`: Quarto's cached R results. Committed.
+- `_site/`: output of the earlier Quarto build. Still committed, no longer
+  published. `hugo/scripts/compare-sites.py` compares `hugo/public/` with it.
 
-## Git Workflow
+## Deployment
 
-The repository tracks:
-- Source `.qmd` files
-- `_freeze/` cached results
-- Configuration files
-- Static assets (images, PDFs)
-
-The repository ignores:
-- `_site/` (build output)
-- `.quarto/` (build cache)
-- R session files (`.RData`, `.Rhistory`, etc.)
+Cloudflare Pages project settings: build command `./hugo/build.sh`, output
+directory `hugo/public`, `HUGO_VERSION` environment variable. On Cloudflare
+`build.sh` skips the sync step (no Quarto) and runs Hugo and Pagefind
+(`npx pagefind@1.6.0`).
 
 ## Troubleshooting
 
-### Post not updating after code changes
+### Post not appearing or not updating on the live site
 
-- Delete `_freeze/posts/post-name/` to force re-execution
-- Check that R environment has required packages installed
+Its generated body was not committed. Run `./hugo/build.sh` and commit
+`hugo/content-generated/`.
+
+### Sync reports FAILED for a post
+
+Quarto-route posts print Quarto's error. For R posts check that `rmarkdown`
+and the post's packages are installed in R.
 
 ### Images not displaying
 
-- Verify image path is relative to the post or use absolute path from site root
-- Check image file exists and extension matches
+Image paths are relative to `posts/` (for example `img/name.png`). Check the
+file exists and the extension matches.
 
 ### Citations not rendering
 
-- Ensure `bibliography: references.bib` in frontmatter
-- Verify `.bib` file exists and has correct entries
-- Check citation keys match between text and bibliography
+Ensure `bibliography: references.bib` is in the front matter, the `.bib` file
+has the entries, and citation keys match.
+
+### Search returns nothing
+
+Search needs the Pagefind index from `./hugo/build.sh`; it is absent under
+`hugo server`.

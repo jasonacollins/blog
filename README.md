@@ -1,76 +1,86 @@
 # Jason Collins Blog
 
-A Quarto-based blog covering behavioural economics, data science, and artificial intelligence.
+A blog covering behavioural economics, data science, and artificial intelligence,
+published at <https://blog.jcx.au>.
+
+Posts are written in markdown in `posts/`. Pandoc (the copy bundled with Quarto)
+turns each post into HTML, and Hugo builds the site around it. Cloudflare Pages
+publishes whatever is pushed to `main`.
 
 ## Quick Start
 
 ### Prerequisites
 
-- [Quarto](https://quarto.org/docs/get-started/) (version 1.8+)
-- R (for posts with computational content)
+- [Hugo](https://gohugo.io/installation/) (`brew install hugo`)
+- [Quarto](https://quarto.org/docs/get-started/) (version 1.8+), for its bundled
+  Pandoc and for posts with citations or R code
+- Node, for the search index (`brew install node`)
+- R with `rmarkdown`, `tidyverse` and `scales`, only for posts that run R code
 
-### Development
+### Write, preview, publish
 
 ```bash
-# Preview the site locally (with live reload)
-quarto preview
+# 1. Create a post (opens in VS Code)
+./new-post.sh my-new-article
 
-# Render the entire site
-quarto render
+# 2. Preview it, drafts included; the browser reloads when you save
+./hugo/preview.sh posts/my-new-article.md
 
-# Render a single post
-quarto render posts/post-name.qmd
+# 3. When it is ready, set draft: false, then build
+./hugo/build.sh
+
+# 4. Commit the post and its rendered body, and push
+git add posts hugo/content-generated hugo/static-generated
+git commit -m "new post"
+git push
 ```
 
-URL normalisation and legacy redirect generation run only on a full site build
-(`quarto render`). Preview and single-post renders skip this processing. Run a
-full build before deploying `_site/`.
+Step 3 matters. Cloudflare cannot render posts itself; it publishes the rendered
+bodies committed in `hugo/content-generated/`. A post pushed without running
+`./hugo/build.sh` first will not appear, and an edit pushed without it will not
+show.
 
 ### Previewing the post you are editing
 
-Quarto 1.10.19 can show a blank page for a post marked `draft: true`, including
-when using VS Code's Quarto Preview button. Use `preview-post.sh` from the
-terminal to enable draft visibility for the preview:
-
-```bash
-./preview-post.sh posts/post-name.md
-```
-
-The script accepts `.md` and `.qmd` posts, opens the preview in your browser,
-and reloads it when you save changes. Stop an existing preview with **Ctrl+C**
-before starting another. You can pass additional Quarto preview options, for
-example `./preview-post.sh posts/post-name.md --port 7515`.
+`./hugo/preview.sh posts/post-name.md` opens that post at
+`http://localhost:1313` and re-renders it each time you save (about a second for
+an ordinary post). Run it without an argument to open the home page. Stop it
+with **Ctrl+C** before starting another.
 
 To preview the **currently open post in VS Code** without typing its path, save
 the file, keep its editor tab active, and choose **Terminal → Run Task → Preview
-current post**. The task passes the active file to the same script. The existing
-Quarto Preview button is unchanged.
+current post (Hugo)**.
 
-The equivalent command without the script is:
-
-```bash
-quarto preview posts/post-name.md -M draft-mode:visible
-```
+Search does not work in the preview; it is built by `./hugo/build.sh`.
 
 ## Project Structure
 
 ```
 .
-├── posts/              # Blog posts (.qmd files)
-├── _site/              # Generated site (auto-generated)
-├── _freeze/            # Cached computational results
-├── _quarto.yml         # Site configuration
+├── posts/              # Blog posts (.md, or .qmd for R code)
+│   └── img/            # Post images
 ├── pdfs/               # PDF files
-├── about.qmd           # About page
-├── research.qmd        # Research page
-└── subscribe.qmd       # Subscribe page
+├── about.qmd           # Top-level pages: about, research, subscribe,
+├── research.qmd        #   teaching, media, writing
+├── _redirects          # Manual redirect rules
+├── new-post.sh         # Create a post
+└── hugo/               # The site build
+    ├── hugo.toml           # Site settings
+    ├── layouts/            # Page templates (navbar, home listing, post page)
+    ├── assets/css/main.css # Styles
+    ├── scripts/            # sync-posts.py renders post bodies
+    ├── content-generated/  # Rendered post bodies (committed)
+    ├── static-generated/   # Figures from R posts (committed)
+    ├── preview.sh          # Live preview
+    ├── build.sh            # Full build into hugo/public/
+    └── public/             # Built site (not committed)
 ```
+
+See [hugo/README.md](hugo/README.md) for how the build works.
 
 ## Writing Posts
 
 ### Creating a New Post
-
-Use the `new-post.sh` script to quickly create a new post:
 
 ```bash
 # Create a new .md post
@@ -83,12 +93,10 @@ Use the `new-post.sh` script to quickly create a new post:
 This creates a post file with:
 - Title in sentence case (e.g., "My new article")
 - Current date/time in Sydney timezone
-- `draft: true` and `images: [""]` fields
+- `draft: true`, `toc: false` and an empty `image` field
 - Opens automatically in VS Code
 
-### Manual Post Creation
-
-Alternatively, create a new `.qmd` file manually in the `posts/` directory:
+### Front matter
 
 ```yaml
 ---
@@ -96,23 +104,23 @@ title: "Your Post Title"
 author: "Jason Collins"
 date: 2025-01-24 09:00:00+10:00
 draft: false
-bibliography: references.bib  # Optional
-toc: true                      # Optional
+image: img/your-image.png      # Optional: thumbnail on the home page and social cards
+toc: true                      # Optional: "On this page" list beside the post
+bibliography: references.bib   # Optional
+comments: false                # Optional: turn off comments for this post
 ---
-
-Your content here...
 ```
 
-### Including R Code
+Posts with `draft: true` show in the preview but are left out of the published
+site.
 
-Posts can include R code chunks:
+### Links, images, video and maths
 
-````markdown
-```{r chunk-name, message=FALSE, warning=FALSE}
-library(tidyverse)
-# Your analysis code
-```
-````
+- Link to another post by file name: `[text](other-post.md)`.
+- Images go in `posts/img/` and are referenced as `![caption](img/name.png)`.
+  They are resized automatically for the page.
+- Video: `{{< video https://youtu.be/ID >}}` or `{{< youtube ID >}}`.
+- Maths: `$x^2$` inline, `$$ ... $$` for display.
 
 ### Citations
 
@@ -121,34 +129,52 @@ Reference a bibliography file in the frontmatter and use pandoc citation syntax:
 - In-text: `@author2024`
 - Parenthetical: `[@author2024]`
 
-## Configuration
+Posts with citations take about six seconds to re-render on each save, because
+they go through Quarto.
 
-Key settings in `_quarto.yml`:
+### Including R Code
 
-- **Freeze execution**: Computational results are cached (only re-run when source changes)
-- **Theme**: Cosmo with custom SCSS
-- **Body width**: 600px
-- **Citation style**: Custom APA without ampersands
+Use a `.qmd` post with R code chunks:
+
+````markdown
+```{r chunk-name, message=FALSE, warning=FALSE}
+library(tidyverse)
+# Your analysis code
+```
+````
+
+The R code runs when you preview or build after editing that post, and not
+otherwise, so published figures and numbers stay as they are until you change
+the post.
+
+## Changing the site itself
+
+- Navbar, footer and page layout: `hugo/layouts/`
+- Styles: `hugo/assets/css/main.css`
+- Site title, analytics and comments settings: `hugo/hugo.toml`
+- Top-level pages: edit the `.qmd` files in the repo root
 
 ## Publishing
 
+Cloudflare Pages runs `./hugo/build.sh` on every push to `main` and publishes
+`hugo/public/`. Its settings are: build command `./hugo/build.sh`, output
+directory `hugo/public`, environment variable `HUGO_VERSION` set to the local
+Hugo version.
+
 ### Redirects
 
-The post-render script `scripts/build-redirects.ts` generates HTTP 301 rules from
-Quarto's current rendered file list. Each published `posts/name.html` gets
-`/name` and `/name/` redirects to `/posts/name`. Top-level pages get trailing-slash
-redirects such as `/research/` to `/research`. Real top-level pages take precedence
-over posts with matching names. Unpublished drafts are excluded.
+Redirects are generated on each build. Each published post gets `/name` and
+`/name/` redirects to `/posts/name`, and top-level pages get trailing-slash
+redirects such as `/research/` to `/research`. Renaming a post changes its
+redirects on the next build; old file names are not kept, so update internal
+links when renaming a post.
 
-Renaming a post automatically changes its redirects on the next full render;
-there is no filename map to maintain, and old filenames are not retained.
-Update internal links when renaming a post. Do not add `aliases` to post frontmatter.
+Manual rules, including feed and dated URL redirects, live in `_redirects` in
+the repo root and are added to the generated list.
 
-Manual rules, including feed and dated URL redirects, live in `_redirects` and
-are included in the generated output. The build checks redirect chains,
-conflicts and Cloudflare's rule limits. Preview and single-page renders skip
-redirect generation; use `quarto render` to regenerate the full set.
+## The earlier Quarto site
 
-The rendered site is in `_site/`. Deploy this directory to your web host.
-
-Note: The `_freeze/` directory contains cached results and should be committed to version control.
+The site was built entirely with Quarto until November 2026. `_quarto.yml`,
+`index.qmd`, `_site/`, `preview-post.sh` and `scripts/` are left over from that
+setup and no longer affect the published site. `_quarto.yml`, `_freeze/` and
+`apa-no-ampersand.csl` are still used when a post is rendered through Quarto.
