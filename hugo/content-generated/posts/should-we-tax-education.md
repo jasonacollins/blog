@@ -1,0 +1,17 @@
+---
+title: Should we tax education?
+author: "Jason Collins"
+date: 2010-09-11 03:58:00+00:00
+draft: false
+sync_source: "posts/should-we-tax-education.md"
+sync_route: "pandoc"
+sync_hash: "3fb9e22451f1"
+---
+
+{{< html >}}
+<p>Over the last few weeks, Bryan Caplan of <a href="http://econlog.econlib.org/archives/2010/08/education_and_s.html">Econlog</a> has engaged in a debate with his former teacher Bill Dickens over the social value of education. Bryan’s position is that  education is largely used for signalling rather than skill acquisition. While some signalling is good (matches students and employers), it is privately optimal to far exceed the social optimum. This excessive signalling consumes resources for limited social return, so we should stop subsidising it and possibly consider taxing it. I find myself leaning towards Bryan’s position - particularly in relation to senior high school and university/college education.</p>
+<p>A recent Economist <a href="http://www.economist.com/research/articlesBySubject/displaystory.cfm?subjectid=7933596&amp;story_id=16984636">daily chart</a> reflects the waste from the subsidisation of education, with over 20 per cent of university graduates in the OECD working in low-skilled jobs. In the United States and Canada, it is over 30 per cent. Some of this is choice, and you would expect that group to be the first to cut back on education if they were required to pay the full cost.</p>
+<p>The element of Bryan’s position that interests me is what the signalling environment would look like in the absence of subsidised education. Education is not only costly in terms of money, but it also consumes a large amount of time. Is the time commitment required for an accurate signal? Once education is no longer subsidised, will other signals that are less intensive in the time required emerge? IQ can be determined through tests. How long does someone need to engage in an education to show persistence, courteousness and reliability? Could an intense one-year course substitute?</p>
+<p>I would also expect to see a distinction emerge between those courses with a larger signalling element and those in which skills are genuinely acquired. This would flow on to the costs (salaries) associated with those skills.</p>
+<p>The last thing, and my hope, is that it would give us cheaper plumbers. That is a touch flippant, but if fewer people move into education as the price has increased, perhaps some of them will get those other unsubsidised skills and trades and push the price of them down.</p>
+{{< /html >}}

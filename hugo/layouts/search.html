@@ -1,0 +1,11 @@
+{{ define "head" }}
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css">
+{{ end }}
+{{ define "main" }}
+<main><h1>Search</h1>
+<div id="search"></div>
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>new PagefindUI({element:"#search",showSubResults:false,showImages:false,autofocus:true,
+  processResult:function(r){r.url=r.url.replace(/\.html$/,"");return r}});</script>
+</main>
+{{ end }}

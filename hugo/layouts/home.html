@@ -1,0 +1,25 @@
+{{ define "main" }}
+<header class="banner"><div class="banner-in"><h1>{{ site.Title }}</h1></div></header>
+<main class="wide">
+{{- $pager := .Paginate (where site.RegularPages "Section" "posts") }}
+{{- range $pager.Pages }}
+{{- $url := partial "url.html" . }}
+<div class="post">
+<div class="thumb">
+{{- with .Params.image }}{{ with resources.Get . }}{{ with .Fit "480x320 webp q80" }}
+<a href="{{ $url }}" tabindex="-1"><img loading="lazy" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt=""></a>
+{{- end }}{{ end }}{{ end }}
+</div>
+<h3><a href="{{ $url }}">{{ .Title }}</a></h3>
+<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+</div>
+{{- end }}
+{{- if gt $pager.TotalPages 1 }}
+<ul class="pager" aria-label="Page navigation">
+{{- range $pager.Pagers }}
+<li>{{ if eq . $pager }}<span class="on">{{ .PageNumber }}</span>{{ else }}<a href="{{ cond hugo.IsServer .URL (strings.TrimSuffix ".html" .URL) }}">{{ .PageNumber }}</a>{{ end }}</li>
+{{- end }}
+</ul>
+{{- end }}
+</main>
+{{ end }}

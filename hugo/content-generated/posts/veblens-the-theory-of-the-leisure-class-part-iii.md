@@ -1,0 +1,23 @@
+---
+title: Veblen's The Theory of the Leisure Class, Part III
+author: "Jason Collins"
+date: 2011-05-24 07:11:37+00:00
+draft: false
+sync_source: "posts/veblens-the-theory-of-the-leisure-class-part-iii.md"
+sync_route: "pandoc"
+sync_hash: "47d30a2432cb"
+---
+
+{{< html >}}
+<p><a href="http://en.wikipedia.org/wiki/Thorstein_Veblen">Thorstein Veblen</a> has been <a href="http://econjwatch.org/file_download/487/DavisMay2011.pdf">ranked seventh</a> in a poll of economists on their favourite, dead, 20th century economist. He ranked behind Keynes, Friedman, Samuelson, Hayek, Schumpeter and Galbraith. His supporters were among the least liberal (in the classical sense of the word) of the survey participants. Given his approach to consumerism and the leisure class, as detailed in <a href="/posts/thorstein-veblens-the-theory-of-the-leisure-class.html">The Theory of the Leisure Class</a>, this is no surprise. Following from my earlier posts on the book (<a href="/posts/veblens-the-theory-of-the-leisure-class.html">here</a> and <a href="/posts/veblens-the-theory-of-the-leisure-class-part-ii.html">here</a>), I have finished reading it, with the rest of the book largely  applying Veblen’s framework to sport, religion and education.</p>
+<p>To Veblen, sports reflected the predatory skills of the leisure class and delinquents. He disagreed with the common view that sports build temperament, and instead they involve chicanery, falsehood and browbeating. That is why we need umpires. For the industrial classes, Veblen stated that sport is more a diversion than a habit, although he might want to reassess the role of sport for the industrial class today.</p>
+<p>Veblen considered that the temperament that inclines one to sport inclines one to religion (and vice versa). Religion, and the conspicuous leisure and consumption associated with it, change the patterns of consumption in the community and lowers its vitality. As an example, Veblen referred to the religious Southern United States. He considered that their industry was more handicraft than industrial. Their range of other habits, such as duels, cock-fighting and male sexual incontinence (shown by the presence of mulattoes) were evidence of barbarian traits.</p>
+<p>On education, Veblen saw the alignment of education institutions with sport and religion as evidence of education’s status as a leisure class activity. Higher education has many rituals and ceremonies and encourages proper speech and spelling (conspicuous leisure), while lower schools tend to be more practical. The teaching of the classics and dead languages were, in particular, conspicuous consumption.</p>
+<p>One interesting sideline is Veblen’s view on how industrialisation has affected the status of women. Veblen considers that industrialisation allows women to revert to a more primitive type (Veblen’s primitive type being peaceful and industrial). The leisure class, however, needs to keep women in their place to show vicarious conspicuous leisure. The highest places of education were reluctant to admit women, with the more industrialised countries and institutions seeing this occur first. When the institutions did admit them, women were primarily enrolled in courses with a quasi-artistic quality, which help women in performing vicarious leisure.</p>
+<p>Veblen also had a great shot at the link between religion and higher education:</p>
+<blockquote>
+Their putative familiarity with scientific methods and the scientific point of view should presumably exempt the faculties of these schools from animistic habits of thought; but there is still a considerable proportion of them who profess an attachment to the anthropomorphic beliefs and observances of an earlier culture.
+</blockquote>
+<p>Having finished the book, I enjoyed the interesting and still relevant discussion of signalling, conspicuous consumption and leisure. We should not ignore his assessment that people have motivations beyond maximising utility or consumption in the simplest sense. However, I was disappointed with Veblen’s use of evolutionary theory (discussed more in <a href="/posts/veblens-the-theory-of-the-leisure-class-part-ii.html">my second post</a>), which was a strange mix of group selection and broad statements on inherent traits, without detailed consideration of the selection process that might have occurred. Veblen simply wanted to critique the leisure class and would use whatever tools were at his disposal.</p>
+<p><em>The link to a full review is <a href="/posts/thorstein-veblens-the-theory-of-the-leisure-class.html">here</a>.</em></p>
+{{< /html >}}

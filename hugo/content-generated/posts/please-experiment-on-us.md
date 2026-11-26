@@ -1,0 +1,21 @@
+---
+title: Please experiment on us
+author: "Jason Collins"
+date: 2015-06-23 09:00:19+00:00
+draft: false
+sync_source: "posts/please-experiment-on-us.md"
+sync_route: "pandoc"
+sync_hash: "b73f3bd834fd"
+---
+
+{{< html >}}
+<p><a href="http://www.nytimes.com/2015/06/21/opinion/sunday/please-corporations-experiment-on-us.html">Michelle Meyer and Christopher Chabris write</a>:</p>
+<blockquote>
+<p>Companies — and other powerful actors, including lawmakers, educators and doctors — “experiment” on us without our consent every time they implement a new policy, practice or product without knowing its consequences. When Facebook started, it created a radical new way for people to share emotionally laden information, with unknown effects on their moods. And when OkCupid started, it advised users to go on dates based on an algorithm without knowing whether it worked.</p>
+<p>Why does one “experiment” (i.e., introducing a new product) fail to raise ethical concerns, whereas a true scientific experiment (i.e., introducing a variation of the product to determine the comparative safety or efficacy of the original) sets off ethical alarms?</p>
+<p>In <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2605132">a forthcoming article in the Colorado Technology Law Journal</a>, one of us (Professor Meyer) calls this the “A/B illusion” — the human tendency to focus on the risk, uncertainty and power asymmetries of running a test that compares A to B, while ignoring those factors when A is simply imposed by itself.</p>
+<p>….</p>
+<p>[A]s long as we permit those in power to make unilateral choices that affect us, we shouldn’t thwart low-risk efforts, like those of Facebook and OkCupid, to rigorously determine the effects of those choices. Instead, we should cast off the A/B illusion and applaud them.</p>
+</blockquote>
+<p>Amen.</p>
+{{< /html >}}

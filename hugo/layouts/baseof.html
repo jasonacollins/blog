@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{{- $title := cond .IsHome site.Title (printf "%s – %s" .Title site.Title) }}
+{{- $desc := site.Params.description }}
+{{- $canonical := printf "%s%s" (strings.TrimSuffix "/" site.BaseURL) (strings.TrimSuffix ".html" .RelPermalink) }}
+<title>{{ $title }}</title>
+<meta name="description" content="{{ $desc }}">
+<meta name="author" content="{{ site.Params.author }}">
+<link rel="canonical" href="{{ $canonical }}">
+<link rel="icon" href="/logo.png">
+<link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="/index.xml">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:site_name" content="{{ site.Title }}">
+<meta property="og:url" content="{{ $canonical }}">
+{{- with .Params.image }}{{ with resources.Get . }}
+<meta property="og:image" content="{{ printf "%sposts/%s" site.BaseURL .Name }}">
+<meta property="og:image:width" content="{{ .Width }}">
+<meta property="og:image:height" content="{{ .Height }}">
+<meta name="twitter:image" content="{{ printf "%sposts/%s" site.BaseURL .Name }}">
+{{- end }}{{ end }}
+<meta name="twitter:card" content="{{ cond (isset .Params "image") "summary_large_image" "summary" }}">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $desc }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400&display=swap">
+{{- with resources.Get "css/main.css" | minify }}
+<style>{{ .Content | safeCSS }}</style>
+{{- end }}
+{{- block "head" . }}{{ end }}
+{{- with site.Params.googleAnalytics }}{{ if hugo.IsProduction }}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','{{ . }}');</script>
+{{- end }}{{ end }}
+</head>
+<body>
+<nav class="nav" aria-label="Site"><div class="nav-in">
+<a class="brand" href="/">{{ site.Title }}</a>
+<a href="https://www.jcx.au">About</a>
+<a href="{{ partial "url.html" (site.GetPage "/research") }}">Research</a>
+<a href="{{ partial "url.html" (site.GetPage "/subscribe") }}">Subscribe</a>
+<a href="{{ partial "url.html" (site.GetPage "/teaching") }}">Teaching</a>
+<a href="{{ partial "url.html" (site.GetPage "/search") }}" aria-label="Search"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M11.7 10.3a6.5 6.5 0 1 0-1.4 1.4l3.8 3.9a1 1 0 0 0 1.5-1.5zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0"/></svg></a>
+<a href="/index.xml" aria-label="RSS feed"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm1.5 2.5c5.5 0 10 4.5 10 10a1 1 0 1 1-2 0 8 8 0 0 0-8-8 1 1 0 0 1 0-2m0 4a6 6 0 0 1 6 6 1 1 0 1 1-2 0 4 4 0 0 0-4-4 1 1 0 0 1 0-2m.5 7a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3"/></svg></a>
+</div></nav>
+{{ block "main" . }}{{ end }}
+<footer class="foot"><a href="https://creativecommons.org/licenses/by/4.0/">Copyright: CC-BY</a></footer>
+</body>
+</html>

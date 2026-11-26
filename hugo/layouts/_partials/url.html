@@ -1,0 +1,4 @@
+{{- /* Public URL of a page. Cloudflare Pages serves name.html as /name; the local server does not. */ -}}
+{{- $u := .RelPermalink -}}
+{{- if not hugo.IsServer }}{{ $u = strings.TrimSuffix ".html" $u }}{{ end -}}
+{{- return $u -}}

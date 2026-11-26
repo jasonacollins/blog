@@ -1,0 +1,60 @@
+---
+title: Do students learn less from experts?
+author: "Jason Collins"
+date: 2023-11-02 09:00:00+00:00
+draft: false
+sync_source: "posts/do-students-learn-less-from-experts.qmd"
+sync_route: "quarto"
+sync_hash: "5537f7d8997f"
+---
+
+{{< html >}}
+<p>I firmly believe in going straight to the source before sharing a story I’ve heard elsewhere. Here is another example of why.</p>
+<p>In a recent <a href="https://behavioralscientist.org/a-better-way-to-ask-for-advice-learn-from-the-best/">article in Behavioral Scientist</a>, Adam Grant writes:</p>
+<blockquote class="blockquote">
+<p>In a clever study, economists wanted to find out whether students really learn more from experts. They collected data on every freshman at Northwestern University from 2001 to 2008. They investigated whether freshmen did better in their second course in a subject if their introductory class was taught by more qualified instructors.</p>
+<p>You might assume that students would be better off learning the basics from an expert (a tenure‑track or tenured professor) than a nonexpert (a lecturer with less specialized knowledge). But the data showed the opposite: students who took their initial class with an expert ended up with poorer grades in the next class.</p>
+<p>The pattern was robust across fields: students learned less from introductory classes taught by experts in every subject. It held across years—with over 15,000 students—and in courses with tougher as well as easier grading. And the experts were especially bad at teaching students who were less academically prepared.</p>
+<p>It turns out that if you’re taking a new road, the best experts are often the worst guides.</p>
+</blockquote>
+<p>I’ve been compiling some thoughts on how universities don’t take teaching seriously, so was interested in finding the source of this story.</p>
+<p>There is no link to the paper in the Behavioral Scientist article, but the paper appears to be one by David Figlio, Morton Schapiro and Kevin Soter <span class="citation" data-cites="figlio2015">(<a href="#ref-figlio2015" role="doc-biblioref">2015</a>)</span> from The Review of Economics and Statistics, titled “Are Tenure Track Professors Better Teachers?”. The basic facts match: 15,662 freshman students between fall 2001 and fall 2008.</p>
+<p>Figlio and friends describe the result in the abstract as follows:</p>
+<blockquote class="blockquote">
+<p>We find consistent evidence that students learn relatively more from contingent faculty in their first-term courses.</p>
+</blockquote>
+<p>Under Adam Grant’s interpretation of this paper, the tenure track and tenured faculty are the experts. (I’ll call them “tenured” for brevity.) The contingent faculty are the non-experts.</p>
+<p>But who are these contingent faculty? Given this is Northwestern University, a selective and highly-ranked university, it can attract decent contingent faculty. Further, “a substantial majority of contingent faculty at Northwestern are full-time faculty members with long-term contracts and benefits and therefore may have a stronger commitment to the institution than some of their contingent counterparts at other institutions.” Many of those who are part-time have long-term relationships with the university, teaching in addition to their professional careers. They are not duds and it is questionable to label them as non-experts.</p>
+<p>Then we dig into the details of what is driving the difference. The abstract continues:</p>
+<blockquote class="blockquote">
+<p>This result is driven by the fact that the bottom quarter of tenure track/tenured faculty (as indicated by our measure of teaching effectiveness) has lower “value added” than their contingent counterparts.</p>
+</blockquote>
+<p>The value add distribution is virtually identical for the top three quarters of tenured and contingent faculty.</p>
+<p>What does this mean? We’ve got a subset of tenured faculty who teach poorly. As per Grant’s story, is this a cohort suffering from the curse of expertise? I suppose it’s possible, but this makes the curse somewhat less than general, with most experts able to overcome it. But the authors suggest another explanation:</p>
+<blockquote class="blockquote">
+<p>In some ways, this is exactly what we might have expected: contingent faculty members who are hired to teach and who perform relatively poorly are less likely to be renewed than are those who perform well, while tenure track faculty who are relatively poor teachers may be promoted and retained for reasons other than their teaching ability.</p>
+</blockquote>
+<p>I would have hypothesised the same. They are not duds because they are experts. They are simply poor teachers or don’t care. They aren’t fired as they perform in other dimensions that the university cares about. They face an incentive structure different to the contingent staff.</p>
+<p>Unfortunately, there were no administrative records to confirm this selection effect, although Figlio and friends did find that the relative gap between contingent and tenured staff emerges among teachers who have been teaching for six or more years. That’s consistent with selection. It could also be consistent with Grant’s story of expertise if you assumed that the tenured faculty gained expertise of a different kind from experienced contingent faculty. Still, there’s no direct evidence of this, and even if there were, it only affects the bottom quarter of the faculty.</p>
+<p>Putting it together, there is little evidence in that paper that experts are worse teachers. There may be some underlying curse of knowledge, but this paper doesn’t have the right tests to pick it out.</p>
+<p>I also poked around in some of the cited and citing literature and didn’t see anything there to support the claim. It might exist - I didn’t search thoroughly - but if something decent existed, I would have expected Grant to use that instead. Here are two of the interesting ones:</p>
+<ul>
+<li><span class="citation" data-cites="carrell2010">Carrell and West (<a href="#ref-carrell2010" role="doc-biblioref">2010</a>)</span> find “that less experienced and less qualified professors produce students who perform significantly better in the contemporaneous course being taught, whereas more experienced and highly qualified professors produce students who perform better in the follow-on related curriculum.” Somewhat ambiguous, but I’d put more weight on long-term performance and suggest a tick for expertise.</li>
+<li><span class="citation" data-cites="feld2019">Feld et al. (<a href="#ref-feld2019" role="doc-biblioref">2019</a>)</span> found that “students are almost as effective as senior instructors”, although “exclusively using them will likely negatively affect student outcomes.” Not a big tick to the benefits of expertise, but also not in line with a story that experts are worse teachers.</li>
+</ul>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-carrell2010" class="csl-entry" role="listitem">
+Carrell, Scott&nbsp;E., and West, James&nbsp;E. (2010). Does professor quality matter? Evidence from random assignment of students to professors. <em>Journal of Political Economy</em>, <em>118</em>(3), 409–432. <a href="https://doi.org/10.1086/653808">https://doi.org/10.1086/653808</a>
+</div>
+<div id="ref-feld2019" class="csl-entry" role="listitem">
+Feld, J., Salamanca, N., and Zölitz, U. (2019). Students are almost as effective as professors in university teaching. <em>Economics of Education Review</em>, <em>73</em>, 101912. <a href="https://doi.org/10.1016/j.econedurev.2019.101912">https://doi.org/10.1016/j.econedurev.2019.101912</a>
+</div>
+<div id="ref-figlio2015" class="csl-entry" role="listitem">
+Figlio, D. N., Schapiro, M. O., and Soter, K. B. (2015). Are tenure track professors better teachers? <em>Review of Economics and Statistics</em>, <em>97</em>(4), 715–724. <a href="https://doi.org/10.1162/REST_a_00529">https://doi.org/10.1162/REST_a_00529</a>
+</div>
+</div></section></div>
+{{< /html >}}

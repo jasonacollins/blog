@@ -1,0 +1,25 @@
+---
+author: "Jason Collins"
+
+date: 2013-07-09 12:55:53+00:00
+draft: false
+title: Grandparents affect social mobility
+sync_source: "posts/grandparents-affect-social-mobility.md"
+sync_route: "pandoc"
+sync_hash: "9ae38e77ec0f"
+---
+
+{{< html >}}
+<p>In his research on <a href="/posts/social-mobility-across-the-generations.html">social mobility using surnames</a>, Gregory Clark has found lower levels of social mobility than many other studies. Clark has defended this finding on the basis that analysis of social mobility across a single generation or using a single variable will overestimate it. <a href="http://www.economist.com/blogs/freeexchange/2013/02/mobility-2">Clark writes</a>:</p>
+<blockquote>
+<p>Conventional estimates of social mobility, which look at just single aspects of social status such as income, are contaminated by noise. If we measure mobility on one aspect of status such as income, it will seem rapid.</p>
+But this is because income is a very noisy measure of the underlying status of families. The status of families is a combination of their education, occupation, income, wealth, health, and residence. They will often trade off income for some other aspect of status such as occupation. A child can be as socially successful as a low paid philosophy professor as a high paid car salesman. Thus if we measure just one aspect of status such as income we are going to confuse the random fluctuations of income across generations, influenced by such things as career choices between business and philosophy, with true generalised social mobility.
+</blockquote>
+<p>A <a href="http://doi.org/10.1177/0003122413489130">new paper published in the American Sociological Review</a> by Chan and Boliver provides some evidence in favour of Clark’s argument. Chan and Boliver examined three British birth cohort studies comprising three generations of family members. They found that even after controlling for parental characteristics, grandparents still have a significant effect on their grandchild’s social position. From the abstract:</p>
+<blockquote>
+Net of parents’ social class, the odds of grandchildren entering the professional-managerial class rather than the unskilled manual class are at least two and a half times better if the grandparents were themselves in professional-managerial rather than unskilled manual-class positions. This grandparents effect in social mobility persists even when parents’ education, income, and wealth are taken into account.
+</blockquote>
+<p>Although I am referring to this work in support of Clark’s argument, which Clark suggests likely has a genetic (or something very like genetic) transmission component, Chan and Boliver do not reference inherited characteristics. They point to social factors such as grandparental resources and involvement in childrearing, and the possibility that those who have experienced a single generation of downward mobility may be better positioned or more motivated to bounce back.</p>
+<p>We could take “better positioned” to implicitly refer to Clark’s argument, but we can state it more clearly. At least part of what Chan and Boliver are observing is social mobility minus the single-generation noise. Grandchildren of lower status parents but higher status grandparents are simply moving back toward the level of status that reflects their underlying characteristics. They are “better positioned” due to these characteristics and their higher motivation may well be one of those characteristics.</p>
+<p>Chan and Boliver’s work also received some coverage from <a href="http://www.bbc.co.uk/news/education-23101446">the BBC</a>.</p>
+{{< /html >}}

@@ -1,0 +1,27 @@
+{{ define "main" }}
+<main>
+<article data-pagefind-body>
+<h1>{{ .Title }}</h1>
+{{- if eq .Section "posts" }}
+<dl class="meta" data-pagefind-ignore>
+<div><dt>Author</dt><dd>{{ .Params.author | default site.Params.author }}</dd></div>
+<div><dt>Published</dt><dd><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time></dd></div>
+{{- with index .Params "date-modified" }}
+<div><dt>Modified</dt><dd>{{ time.Format "January 2, 2006" . }}</dd></div>
+{{- end }}
+</dl>
+{{- end }}
+{{- if and .Params.toc (gt (len .TableOfContents) 40) }}
+<div class="toc" data-pagefind-ignore>{{ .TableOfContents }}</div>
+{{- end }}
+<div class="body">
+{{ .Content }}
+</div>
+</article>
+{{- if and (eq .Section "posts") (ne .Params.comments false) }}
+{{- with site.Params.giscus }}
+<script src="https://giscus.app/client.js" data-repo="{{ .repo }}" data-repo-id="{{ .repoId }}" data-category="{{ .category }}" data-category-id="{{ .categoryId }}" data-mapping="pathname" data-reactions-enabled="0" data-emit-metadata="0" data-input-position="bottom" data-theme="light" data-lang="en" data-loading="lazy" crossorigin="anonymous" async></script>
+{{- end }}
+{{- end }}
+</main>
+{{ end }}

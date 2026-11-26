@@ -1,0 +1,21 @@
+---
+title: A model of the quantity-quality trade-off
+author: "Jason Collins"
+date: 2013-02-05 13:30:58+00:00
+draft: false
+sync_source: "posts/a-model-of-the-quantity-quality-trade-off.md"
+sync_route: "pandoc"
+sync_hash: "52609478eed3"
+---
+
+{{< html >}}
+<p>Following <a href="/posts/there-is-no-quantity-quality-trade-off.html">my last post</a> suggesting that there was no quality-quantity trade-off in modern societies (at least to an extent that mattered), I wanted to point to a nice model that makes this argument. The interesting thing about the model is that the purpose of the authors in developing it was not primarily to make that point.</p>
+<p>The model is by Oded Galor and Omer Moav in their article <em>Natural Selection and the Origin of Economic Growth</em>. <a href="/posts/natural-selection-and-economic-growth.html">I’ve posted on the paper before</a> and <a href="https://research-repository.uwa.edu.au/en/publications/economic-growth-and-evolution-parental-preference-for-quality-and-2">my first working paper</a> simulated this model (a post about that <a href="/posts/natural-selection-and-the-collapse-of-economic-growth.html">paper is here</a>).</p>
+<p>The basic idea of the model is as follows. In the population there are two genotypes - those who prefer higher quality children, and those who prefer a greater quantity of children. Those with a preference for higher quality invest more in educating their children.</p>
+<p>In the Malthusian state before the Industrial Revolution, those who invest in their children’s quality have a fitness advantage. Their children are better able to take advantage of the scarce resources. As a result, the quality-preferring types increase in prevalence, increasing the average level of education in the population. Technological progress depends on the level of education in the population, so this also increases.</p>
+<p>This process creates a feedback loop. Faster technological progress increases the return to human capital, so the quality-preferring types further increase their children’s education. Eventually the returns to human capital become so large that even the quantity-preferring types invest in some education. At this point technological progress greatly accelerates and the economy enters into a new modern growth state.</p>
+<p>However, this changes the dynamics of investment in education. With technological progress so high, the quality-preferring types over-invest in educating their children and their prevalence starts to decline. Those with a lower investment in child quality now have the evolutionary advantage.</p>
+<p>The optimal strategy in this new plentiful environment is to put all the resources into having more children, not increasing their quality. Resources are now so plentiful that all children can survive and reproduce in the next generation regardless of the level of investment. <a href="https://research-repository.uwa.edu.au/en/publications/economic-growth-and-evolution-parental-preference-for-quality-and-2">In my working paper</a>, we showed that the less an agent invested in quality in the modern growth state, the greater fitness advantage they had over the other types in the population.</p>
+<p>This particular model implies that, depending on the triggers for investment in children in modern economies, many people may be over-investing, at least if you consider evolutionary success the benchmark. Those types who cut the investment in quality will grow in number.</p>
+<p>Together with evidence that the costs to child quality of having another sibling are small, this model suggests that, from an evolutionary perspective, the trade-off is not one of quantity versus quality. Rather, the trade-off is between quantity and <em>investment in quality</em>. That investment in quality simply does not generate the evolutionary returns that it once did.</p>
+{{< /html >}}

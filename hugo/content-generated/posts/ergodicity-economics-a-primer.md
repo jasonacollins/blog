@@ -1,0 +1,455 @@
+---
+title: "Ergodicity economics: a primer"
+author: "Jason Collins"
+date: 2020-01-22 09:00:00+00:00
+draft: false
+sync_source: "posts/ergodicity-economics-a-primer.qmd"
+sync_route: "quarto"
+sync_hash: "01eaa4ecf1bf"
+---
+
+{{< html >}}
+<p>In my previous posts on loss aversion (<a href="../posts/kahneman-and-tverskys-debatable-loss-aversion-assumption.html">here</a>, <a href="../posts/what-can-we-infer-about-someone-who-rejects-a-5050-bet-to-win-110-or-lose-100-the-rabin-paradox-explored.html">here</a> and <a href="../posts/the-case-against-loss-aversion.html">here</a>), I foreshadowed a post on how “ergodicity economics” might shed some light on whether we need loss aversion to explain people’s choices under uncertainty. This was to be that post, but the background material that I drafted is long enough to be a stand-alone piece. I’ll turn to the application of ergodicity economics to loss aversion in a future post.</p>
+<p>The below is largely drawn from presentations and papers by <a href="https://ergodicityeconomics.com/">Ole Peters</a> and <a href="http://lml.org.uk/research/economics/">friends</a>, with my own evolutionary take at the end. For a deeper dive, see the <a href="https://ergodicityeconomics.com/lecture-notes/">lecture notes by Peters and Alexander Adamou</a>, or a recent <a href="https://doi.org/10.1038/s41567-019-0732-0">Perspective by Peters in Nature Physics</a>.</p>
+<section id="the-choice" class="level2">
+<h2 class="anchored" data-anchor-id="the-choice">1. The choice</h2>
+<p>Suppose you have $100 and are offered a gamble involving a series of coin flips. For each flip, heads will increase your wealth by 50%. Tails will decrease it by 40%. Flip 100 times.</p>
+</section>
+<section id="the-expected-payoff" class="level2">
+<h2 class="anchored" data-anchor-id="the-expected-payoff">2. The expected payoff</h2>
+<p>What will happen? For that first flip, you have a 50% chance of a $50 gain, and a 50% chance of a $40 loss. Your expected gain (each outcome weighted by its probability, 0.5*50 + 0.5*-40) is $5 or 5% of your wealth. The absolute size of the stake for future flips will depend on past flips, but for every flip you have the same expected gain of 5% of your wealth.</p>
+<p>Should you take the bet?</p>
+<p>I simulated 10,000 people who each started with $100 and flipped the coin 100 times each.</p>
+<div class="cell">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Load the required packages</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(ggplot2)</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(scales) <span class="co">#use the percent scale later</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="co"># Create a function for running of the bets.</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>bet <span class="ot">&lt;-</span> <span class="cf">function</span>(p, n, t, <span class="at">start=</span><span class="dv">100</span>, gain, loss, <span class="at">ergodic=</span><span class="cn">FALSE</span>, <span class="at">absorbing=</span><span class="cn">FALSE</span>){</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>  <span class="co">#p is probability of a gain</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>  <span class="co">#n is how many people in the simulation</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>  <span class="co">#t is the number of coin flips simulated for each person</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>  <span class="co">#start is the number of dollars each person starts with</span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>  <span class="co">#if ergodic=FALSE, gain and loss are the multipliers</span></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>  <span class="co">#if ergodic=TRUE, gain and loss are the dollar amounts</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>  <span class="co">#if absorbing=TRUE, zero wealth ends the series of flips for that person</span></span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>  params <span class="ot">&lt;-</span> <span class="fu">as.data.frame</span>(<span class="fu">c</span>(p, n, t, start, gain, loss, ergodic, absorbing))</span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>  <span class="fu">rownames</span>(params) <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="st">"p"</span>, <span class="st">"n"</span>, <span class="st">"t"</span>, <span class="st">"start"</span>, <span class="st">"gain"</span>, <span class="st">"loss"</span>, <span class="st">"ergodic"</span>, <span class="st">"absorbing"</span>)</span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>  <span class="fu">colnames</span>(params) <span class="ot">&lt;-</span> <span class="st">"value"</span></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>  sim <span class="ot">&lt;-</span> <span class="fu">matrix</span>(<span class="at">data =</span> <span class="cn">NA</span>, <span class="at">nrow =</span> t, <span class="at">ncol =</span> n)</span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>  <span class="cf">if</span>(ergodic<span class="sc">==</span><span class="cn">FALSE</span>){</span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>    <span class="cf">for</span> (j <span class="cf">in</span> <span class="dv">1</span><span class="sc">:</span>n) {</span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>      x <span class="ot">&lt;-</span> start</span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>      <span class="cf">for</span> (i <span class="cf">in</span> <span class="dv">1</span><span class="sc">:</span>t) {</span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a>      outcome <span class="ot">&lt;-</span> <span class="fu">rbinom</span>(<span class="at">n=</span><span class="dv">1</span>, <span class="at">size=</span><span class="dv">1</span>, <span class="at">prob=</span>p)</span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>      <span class="fu">ifelse</span>(outcome<span class="sc">==</span><span class="dv">0</span>, x <span class="ot">&lt;-</span> x<span class="sc">*</span>loss, x <span class="ot">&lt;-</span> x<span class="sc">*</span>gain)</span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a>      sim[i,j] <span class="ot">&lt;-</span> x</span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a>      }</span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>    }</span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>  }</span>
+<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a> <span class="cf">if</span>(ergodic<span class="sc">==</span><span class="cn">TRUE</span>){</span>
+<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a>    <span class="cf">for</span> (j <span class="cf">in</span> <span class="dv">1</span><span class="sc">:</span>n) {</span>
+<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a>      x <span class="ot">&lt;-</span> start </span>
+<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a>      <span class="cf">for</span> (i <span class="cf">in</span> <span class="dv">1</span><span class="sc">:</span>t) {</span>
+<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a>      outcome <span class="ot">&lt;-</span> <span class="fu">rbinom</span>(<span class="at">n=</span><span class="dv">1</span>, <span class="at">size=</span><span class="dv">1</span>, <span class="at">prob=</span>p)</span>
+<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a>      <span class="fu">ifelse</span>(outcome<span class="sc">==</span><span class="dv">0</span>, x <span class="ot">&lt;-</span> x<span class="sc">-</span>loss, x <span class="ot">&lt;-</span> x<span class="sc">+</span>gain)</span>
+<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a>      sim[i,j] <span class="ot">&lt;-</span> x</span>
+<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a>      <span class="cf">if</span>(absorbing<span class="sc">==</span><span class="cn">TRUE</span>){</span>
+<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a>        <span class="cf">if</span>(x<span class="sc">&lt;</span><span class="dv">0</span>){</span>
+<span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a>          sim[i<span class="sc">:</span>t,j] <span class="ot">&lt;-</span> <span class="dv">0</span></span>
+<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a>            <span class="cf">break</span></span>
+<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a>        }</span>
+<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a>        }</span>
+<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a>      }</span>
+<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a>    }</span>
+<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a>  }</span>
+<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a>  sim <span class="ot">&lt;-</span> <span class="fu">rbind</span>(<span class="fu">rep</span>(start,n), sim) <span class="co">#placing the starting sum in the first row</span></span>
+<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a>  sim <span class="ot">&lt;-</span> <span class="fu">cbind</span>(<span class="fu">seq</span>(<span class="dv">0</span>,t), sim) <span class="co">#number each period</span></span>
+<span id="cb1-54"><a href="#cb1-54" aria-hidden="true" tabindex="-1"></a>  sim <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(sim)</span>
+<span id="cb1-55"><a href="#cb1-55" aria-hidden="true" tabindex="-1"></a>  <span class="fu">colnames</span>(sim) <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="st">"period"</span>, <span class="fu">paste0</span>(<span class="st">"p"</span>, <span class="dv">1</span><span class="sc">:</span>n))</span>
+<span id="cb1-56"><a href="#cb1-56" aria-hidden="true" tabindex="-1"></a>  sim <span class="ot">&lt;-</span> <span class="fu">list</span>(<span class="at">params=</span>params, <span class="at">sim=</span>sim)</span>
+<span id="cb1-57"><a href="#cb1-57" aria-hidden="true" tabindex="-1"></a>  sim</span>
+<span id="cb1-58"><a href="#cb1-58" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb1-59"><a href="#cb1-59" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-60"><a href="#cb1-60" aria-hidden="true" tabindex="-1"></a><span class="co"># Simulate 10,000 people who accept a series of 1000 50:50 bets to win \$50 or lose \$40 from a starting wealth of \$100.</span></span>
+<span id="cb1-61"><a href="#cb1-61" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-62"><a href="#cb1-62" aria-hidden="true" tabindex="-1"></a><span class="fu">set.seed</span>(<span class="dv">20191215</span>)</span>
+<span id="cb1-63"><a href="#cb1-63" aria-hidden="true" tabindex="-1"></a>nonErgodic <span class="ot">&lt;-</span> <span class="fu">bet</span>(<span class="at">p=</span><span class="fl">0.5</span>, <span class="at">n=</span><span class="dv">10000</span>, <span class="at">t=</span><span class="dv">1000</span>, <span class="at">gain=</span><span class="fl">1.5</span>, <span class="at">loss=</span><span class="fl">0.6</span>, <span class="at">ergodic=</span><span class="cn">FALSE</span>)</span>
+<span id="cb1-64"><a href="#cb1-64" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-65"><a href="#cb1-65" aria-hidden="true" tabindex="-1"></a><span class="co"># Create a function to generate summary statistics.</span></span>
+<span id="cb1-66"><a href="#cb1-66" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-67"><a href="#cb1-67" aria-hidden="true" tabindex="-1"></a>summaryStats <span class="ot">&lt;-</span> <span class="cf">function</span>(sim, <span class="at">t=</span><span class="dv">100</span>){</span>
+<span id="cb1-68"><a href="#cb1-68" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-69"><a href="#cb1-69" aria-hidden="true" tabindex="-1"></a>  meanW <span class="ot">&lt;-</span> <span class="fu">mean</span>(<span class="fu">as.matrix</span>(sim<span class="sc">$</span>sim[(t<span class="sc">+</span><span class="dv">1</span>),<span class="dv">2</span><span class="sc">:</span>(sim<span class="sc">$</span>params[<span class="dv">2</span>,]<span class="sc">+</span><span class="dv">1</span>)])) <span class="co"># mean wealth</span></span>
+<span id="cb1-70"><a href="#cb1-70" aria-hidden="true" tabindex="-1"></a>  medianW <span class="ot">&lt;-</span> <span class="fu">median</span>(<span class="fu">as.matrix</span>(sim<span class="sc">$</span>sim[(t<span class="sc">+</span><span class="dv">1</span>),<span class="dv">2</span><span class="sc">:</span>(sim<span class="sc">$</span>params[<span class="dv">2</span>,]<span class="sc">+</span><span class="dv">1</span>)])) <span class="co"># median wealth</span></span>
+<span id="cb1-71"><a href="#cb1-71" aria-hidden="true" tabindex="-1"></a>  num99 <span class="ot">&lt;-</span> <span class="fu">sum</span>(sim<span class="sc">$</span>sim[(t<span class="sc">+</span><span class="dv">1</span>),<span class="dv">2</span><span class="sc">:</span>(sim<span class="sc">$</span>params[<span class="dv">2</span>,]<span class="sc">+</span><span class="dv">1</span>)]<span class="sc">&lt;</span>(sim<span class="sc">$</span>params[<span class="dv">4</span>,]<span class="sc">/</span><span class="dv">100</span>)) <span class="co">#number who lost more than 99% of their wealth</span></span>
+<span id="cb1-72"><a href="#cb1-72" aria-hidden="true" tabindex="-1"></a>  per99 <span class="ot">&lt;-</span> num99<span class="sc">/</span>sim<span class="sc">$</span>params[<span class="dv">2</span>,]<span class="sc">*</span><span class="dv">100</span> <span class="co">#percentage who lost more than 99% of their wealth</span></span>
+<span id="cb1-73"><a href="#cb1-73" aria-hidden="true" tabindex="-1"></a>  numGain <span class="ot">&lt;-</span> <span class="fu">sum</span>(sim<span class="sc">$</span>sim[(t<span class="sc">+</span><span class="dv">1</span>),<span class="dv">2</span><span class="sc">:</span>(sim<span class="sc">$</span>params[<span class="dv">2</span>,]<span class="sc">+</span><span class="dv">1</span>)]<span class="sc">&gt;</span>sim<span class="sc">$</span>params[<span class="dv">4</span>,]) <span class="co">#number who gain</span></span>
+<span id="cb1-74"><a href="#cb1-74" aria-hidden="true" tabindex="-1"></a>  perGain <span class="ot">&lt;-</span> numGain<span class="sc">/</span>sim<span class="sc">$</span>params[<span class="dv">2</span>,]<span class="sc">*</span><span class="dv">100</span> <span class="co">#percentage who gain</span></span>
+<span id="cb1-75"><a href="#cb1-75" aria-hidden="true" tabindex="-1"></a>  num100 <span class="ot">&lt;-</span> <span class="fu">sum</span>(sim<span class="sc">$</span>sim[(t<span class="sc">+</span><span class="dv">1</span>),<span class="dv">2</span><span class="sc">:</span>(sim<span class="sc">$</span>params[<span class="dv">2</span>,]<span class="sc">+</span><span class="dv">1</span>)]<span class="sc">&gt;</span>(sim<span class="sc">$</span>params[<span class="dv">4</span>,]<span class="sc">*</span><span class="dv">100</span>)) <span class="co">#number who increase their wealth more than 100-fold</span></span>
+<span id="cb1-76"><a href="#cb1-76" aria-hidden="true" tabindex="-1"></a>  winner <span class="ot">&lt;-</span> <span class="fu">max</span>(sim<span class="sc">$</span>sim[(t<span class="sc">+</span><span class="dv">1</span>),<span class="dv">2</span><span class="sc">:</span>(sim<span class="sc">$</span>params[<span class="dv">2</span>,]<span class="sc">+</span><span class="dv">1</span>)]) <span class="co">#wealth of wealthiest person</span></span>
+<span id="cb1-77"><a href="#cb1-77" aria-hidden="true" tabindex="-1"></a>  winnerShare <span class="ot">&lt;-</span> winner <span class="sc">/</span> <span class="fu">sum</span>(sim<span class="sc">$</span>sim[(t<span class="sc">+</span><span class="dv">1</span>),<span class="dv">2</span><span class="sc">:</span>(sim<span class="sc">$</span>params[<span class="dv">2</span>,]<span class="sc">+</span><span class="dv">1</span>)]) <span class="co">#wealth share of wealthiest person</span></span>
+<span id="cb1-78"><a href="#cb1-78" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-79"><a href="#cb1-79" aria-hidden="true" tabindex="-1"></a>  stats <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(<span class="at">meanW =</span> meanW, <span class="at">medianW =</span> medianW, <span class="at">num99 =</span> num99, <span class="at">per99 =</span> per99, <span class="at">numGain =</span> numGain, <span class="at">perGain =</span> perGain, <span class="at">num100 =</span> num100, <span class="at">winner =</span> winner, <span class="at">winnerShare =</span> winnerShare)</span>
+<span id="cb1-80"><a href="#cb1-80" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb1-81"><a href="#cb1-81" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-82"><a href="#cb1-82" aria-hidden="true" tabindex="-1"></a>nonErgodicStats <span class="ot">&lt;-</span> <span class="fu">summaryStats</span>(nonErgodic, <span class="dv">100</span>)</span>
+<span id="cb1-83"><a href="#cb1-83" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-84"><a href="#cb1-84" aria-hidden="true" tabindex="-1"></a><span class="co"># Create a function for plotting the average wealth of the population over a set number of periods.</span></span>
+<span id="cb1-85"><a href="#cb1-85" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-86"><a href="#cb1-86" aria-hidden="true" tabindex="-1"></a>averagePlot <span class="ot">&lt;-</span> <span class="cf">function</span>(sim, <span class="at">t=</span><span class="dv">100</span>){</span>
+<span id="cb1-87"><a href="#cb1-87" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-88"><a href="#cb1-88" aria-hidden="true" tabindex="-1"></a>  basePlot <span class="ot">&lt;-</span> <span class="fu">ggplot</span>(sim<span class="sc">$</span>sim[<span class="fu">c</span>(<span class="dv">1</span><span class="sc">:</span>(t<span class="sc">+</span><span class="dv">1</span>)),], <span class="fu">aes</span>(<span class="at">x=</span>period)) <span class="sc">+</span></span>
+<span id="cb1-89"><a href="#cb1-89" aria-hidden="true" tabindex="-1"></a>    <span class="fu">labs</span>(<span class="at">y =</span> <span class="st">"Average Wealth ($)"</span>)</span>
+<span id="cb1-90"><a href="#cb1-90" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-91"><a href="#cb1-91" aria-hidden="true" tabindex="-1"></a>  averagePlot <span class="ot">&lt;-</span> basePlot <span class="sc">+</span></span>
+<span id="cb1-92"><a href="#cb1-92" aria-hidden="true" tabindex="-1"></a>    <span class="fu">geom_line</span>(<span class="fu">aes</span>(<span class="at">y =</span> <span class="fu">rowMeans</span>(sim<span class="sc">$</span>sim[<span class="fu">c</span>(<span class="dv">1</span><span class="sc">:</span>(t<span class="sc">+</span><span class="dv">1</span>)),<span class="dv">2</span><span class="sc">:</span>(sim<span class="sc">$</span>params[<span class="dv">2</span>,]<span class="sc">+</span><span class="dv">1</span>)])), <span class="at">color =</span> <span class="dv">1</span>, <span class="at">linewidth=</span><span class="dv">1</span>)</span>
+<span id="cb1-93"><a href="#cb1-93" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-94"><a href="#cb1-94" aria-hidden="true" tabindex="-1"></a>  averagePlot</span>
+<span id="cb1-95"><a href="#cb1-95" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb1-96"><a href="#cb1-96" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-97"><a href="#cb1-97" aria-hidden="true" tabindex="-1"></a><span class="fu">averagePlot</span>(nonErgodic, <span class="dv">100</span>)</span></code></pre></div></div>
+</details>
+<div class="cell-output-display">
+<div id="fig-ergodicity-1" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-ergodicity-1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Average wealth of population
+</figcaption>
+<div aria-describedby="fig-ergodicity-1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="ergodicity-economics-a-primer_files/figure-html/fig-ergodicity-1-1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Figure&nbsp;1: Average wealth of population"><img src="ergodicity-economics-a-primer_files/figure-html/fig-ergodicity-1-1.png" class="img-fluid figure-img" width="672"></a>
+</div>
+</figure>
+</div>
+</div>
+</div>
+<p>This line in Figure 1 represents the mean wealth of the 10,000 people. It looks good, increasing roughly in accordance with the expected gain, despite some volatility, and finishing at a mean wealth of $16697.</p>
+<p>Yet people regularly decline gambles of this nature. Are they making a mistake?</p>
+<p>One explanation for declining this gamble is risk aversion. A risk-averse person will value the expected outcome of a gamble lower than the same sum with certainty.</p>
+<p>Risk aversion can be represented through the concept of utility, where each level of wealth gives subjective value (utility) for the gambler. If people maximise utility instead of the value of a gamble, a person would possibly reject the bet.</p>
+<p>For example, one common utility function to represent a risk-averse individual is the logarithm of their wealth. If we apply the log utility function to the gamble above, the gambler will reject the offer of the coin flip. [The maths here is simply that the expected utility of the gamble is {{< math >}}0.5\times \ln(150) + 0.5\times \ln(60)=4.55{{< /math >}}, which is less than the utility of the sure $100, ln(100)=4.61.]</p>
+</section>
+<section id="the-time-average-growth-rate" class="level2">
+<h2 class="anchored" data-anchor-id="the-time-average-growth-rate">3. The time average growth rate</h2>
+<p>For a different perspective, below is the plot for the first 20 of these 10,000 people. Interestingly, only two people do better than break even (represented by the black line at $100). The richest person has less than $1,000 at period 100.</p>
+<div class="cell">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Create a function for plotting the path of individuals in the population over a set number of flips.</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>individualPlot <span class="ot">&lt;-</span> <span class="cf">function</span>(sim, t, people){</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>  basePlot <span class="ot">&lt;-</span> <span class="fu">ggplot</span>(sim<span class="sc">$</span>sim[<span class="fu">c</span>(<span class="dv">1</span><span class="sc">:</span>(t<span class="sc">+</span><span class="dv">1</span>)),], <span class="fu">aes</span>(<span class="at">x=</span>period)) <span class="sc">+</span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>    <span class="fu">labs</span>(<span class="at">y =</span> <span class="st">"Wealth ($)"</span>)</span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>  <span class="cf">for</span> (i <span class="cf">in</span> <span class="dv">1</span><span class="sc">:</span>people) {</span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>    basePlot <span class="ot">&lt;-</span> basePlot <span class="sc">+</span></span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>      <span class="fu">geom_line</span>(<span class="fu">aes</span>(<span class="at">y =</span> <span class="sc">!!</span>sim<span class="sc">$</span>sim[<span class="fu">c</span>(<span class="dv">1</span><span class="sc">:</span>(t<span class="sc">+</span><span class="dv">1</span>)),(i<span class="sc">+</span><span class="dv">1</span>)]), <span class="at">color =</span> <span class="dv">2</span>)</span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>  }</span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>basePlot</span>
+<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a><span class="co"># Plot of the path of the first 20 people over 100 periods (Figure 2).</span></span>
+<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a>nonErgodicIndiv <span class="ot">&lt;-</span> <span class="fu">individualPlot</span>(nonErgodic, <span class="dv">100</span>, <span class="dv">20</span>)</span>
+<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a>nonErgodicIndiv</span></code></pre></div></div>
+</details>
+<div class="cell-output-display">
+<div id="fig-ergodicity-2" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-ergodicity-2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: Path of first 20 people
+</figcaption>
+<div aria-describedby="fig-ergodicity-2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="ergodicity-economics-a-primer_files/figure-html/fig-ergodicity-2-1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Figure&nbsp;2: Path of first 20 people"><img src="ergodicity-economics-a-primer_files/figure-html/fig-ergodicity-2-1.png" class="img-fluid figure-img" width="672"></a>
+</div>
+</figure>
+</div>
+</div>
+</div>
+<p>What is happening here? The first plot shows that the average wealth across all 10,000 people is increasing. When we look at the first 20 individuals, their wealth generally declines. Even those who make money make less than the gain in aggregate wealth would suggest.</p>
+<p>To show this more starkly, here is a plot of the first 20 people on a log scale, together with the average wealth for the full population. They are all below average in final wealth.</p>
+<div class="cell">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Plot both the average outcome and first twenty people on the same plot.</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>jointPlot <span class="ot">&lt;-</span> <span class="cf">function</span>(sim, t, subset) {</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">individualPlot</span>(sim, t, subset) <span class="sc">+</span></span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>    <span class="fu">geom_line</span>(<span class="fu">aes</span>(<span class="at">y =</span> <span class="fu">rowMeans</span>(sim<span class="sc">$</span>sim[<span class="fu">c</span>(<span class="dv">1</span><span class="sc">:</span>(t<span class="sc">+</span><span class="dv">1</span>)),<span class="dv">2</span><span class="sc">:</span>(sim<span class="sc">$</span>params[<span class="dv">2</span>,]<span class="sc">+</span><span class="dv">1</span>)])), <span class="at">color =</span> <span class="dv">1</span>, <span class="at">linewidth=</span><span class="dv">1</span>)<span class="sc">+</span></span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>    <span class="fu">scale_y_log10</span>()</span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>nonErgodicPlot <span class="ot">&lt;-</span> <span class="fu">jointPlot</span>(<span class="at">sim=</span>nonErgodic, <span class="at">t=</span><span class="dv">100</span>, <span class="at">subset=</span><span class="dv">20</span>)</span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>nonErgodicPlot</span></code></pre></div></div>
+</details>
+<div class="cell-output-display">
+<div id="fig-ergodicity-3" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-ergodicity-3-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;3: Plot of first 20 people against average wealth (log scale)
+</figcaption>
+<div aria-describedby="fig-ergodicity-3-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="ergodicity-economics-a-primer_files/figure-html/fig-ergodicity-3-1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="Figure&nbsp;3: Plot of first 20 people against average wealth (log scale)"><img src="ergodicity-economics-a-primer_files/figure-html/fig-ergodicity-3-1.png" class="img-fluid figure-img" width="672"></a>
+</div>
+</figure>
+</div>
+</div>
+</div>
+<p>If we examine the full population of 10,000, we see an interesting pattern. The mean wealth is $16697, but the median wealth after 100 periods is $0.52, a loss of over 99% of the initial wealth. 54% of the population ends up with less than one dollar. 86% finishes with less than the initial wealth of $100. Yet 171 people end up with more than $10,000. The wealthiest person finishes with $117,183,281, which is 70% of the total wealth of the population.</p>
+<p>For most people, the series of bets is a disaster. It looks good only on average, propped up by the extremely good luck and massive wealth of a few people. The expected payoff does not match the experience of most people.</p>
+<section id="four-possible-outcomes" class="level3">
+<h3 class="anchored" data-anchor-id="four-possible-outcomes">3.1 Four possible outcomes</h3>
+<p>One way to think about what is happening is to consider the four possible outcomes over the first two periods.</p>
+<p>The first person gets two heads. They finish with $225. The second and third person get a head and a tail (in different orders) and finish with $90. The fourth person ends up with $36.</p>
+<p>The average across the four is $110.25, reflecting the compound 5% growth. That’s our positive picture. But three of the four lost money. As the number of flips increases, the proportion who lose money increases, with a rarer but more extraordinarily rich cohort propping up the average.</p>
+</section>
+<section id="almost-surely" class="level3">
+<h3 class="anchored" data-anchor-id="almost-surely">3.2 Almost surely</h3>
+<p>Over the very long term, an individual will tend to get around half heads and half tails. As the number of flips goes to infinity, the proportion of heads or tails “<a href="https://en.wikipedia.org/wiki/Almost_surely">almost surely</a>” converges to 0.5.</p>
+<p>This means that each person will tend to get a 50% increase half the time (or 1.5 times the initial wealth), and a 40% decrease half the time (60% of the initial wealth). A bit of maths and the time average growth in wealth for an individual is {{< math >}}(1.5\times 0.6)^{0.5} \sim 0.95{{< /math >}}, or approximately a 5% decline in wealth each period. Every individual’s wealth will tend to decay at that rate.</p>
+<p>To get an intuition for this, a long run of equal numbers of heads and tails is equivalent to flipping a head and a tail every two periods. Suppose that is exactly what you did - flipped a head and then flipped a tail. Your wealth would increase to $150 in the first round (${{< math >}}100\times 1.5{{< /math >}}), and then decline to $90 in the second (${{< math >}}150\times 0.6{{< /math >}}). You get the same result if you change the order. Effectively, you are losing 10% (or getting only {{< math >}}1.5\times 0.6=0.9{{< /math >}}) of your money every two periods.</p>
+<p>A system where the time average converges to the ensemble average (our population mean) is known as an ergodic system. The system of gambles above is non-ergodic as the time average and the ensemble average diverge. And given we cannot individually experience the ensemble average, we should not be misled by it. The focus on ensemble averages, as is typically done in economics, can be misleading if the system is non-ergodic.</p>
+</section>
+<section id="the-longer-term" class="level3">
+<h3 class="anchored" data-anchor-id="the-longer-term">3.3 The longer term</h3>
+<p>How can we reconcile this expectation of loss when looking at the time average growth with the continued growth of the wealth of some people after 100 periods? It does not seem that everyone is “almost surely” on the path to ruin.</p>
+<p>But they are. If we plot the simulation for, say, 1,000 periods rather than 100, there are few winners. Here’s a plot of the average wealth of the population for 1000 periods (the first 100 being as previously shown), plus a log plot of that same growth (Figures 4 and 5).</p>
+<div class="cell">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>nonErgodicStats1000 <span class="ot">&lt;-</span> <span class="fu">summaryStats</span>(nonErgodic, <span class="dv">1000</span>)</span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Plot the average wealth of the non-ergodic simulation over 1000 periods</span></span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a><span class="fu">averagePlot</span>(nonErgodic, <span class="dv">1000</span>)</span></code></pre></div></div>
+</details>
+<div class="cell-output-display">
+<div id="fig-ergodicity-4" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-ergodicity-4-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;4: Plot of average wealth over 1000 periods
+</figcaption>
+<div aria-describedby="fig-ergodicity-4-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="ergodicity-economics-a-primer_files/figure-html/fig-ergodicity-4-1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4" title="Figure&nbsp;4: Plot of average wealth over 1000 periods"><img src="ergodicity-economics-a-primer_files/figure-html/fig-ergodicity-4-1.png" class="img-fluid figure-img" width="672"></a>
+</div>
+</figure>
+</div>
+</div>
+</div>
+<div class="cell">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Plot the average wealth of the non-ergodic simulation over 1000 periods using a log plot</span></span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a><span class="fu">averagePlot</span>(nonErgodic, <span class="dv">1000</span>)<span class="sc">+</span></span>
+<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a>    <span class="fu">scale_y_log10</span>()</span></code></pre></div></div>
+</details>
+<div class="cell-output-display">
+<div id="fig-ergodicity-5" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-ergodicity-5-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5: Plot of average wealth over 1000 periods (log plot)
+</figcaption>
+<div aria-describedby="fig-ergodicity-5-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="ergodicity-economics-a-primer_files/figure-html/fig-ergodicity-5-1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-5" title="Figure&nbsp;5: Plot of average wealth over 1000 periods (log plot)"><img src="ergodicity-economics-a-primer_files/figure-html/fig-ergodicity-5-1.png" class="img-fluid figure-img" width="672"></a>
+</div>
+</figure>
+</div>
+</div>
+</div>
+<p>We can see that despite a large peak in wealth around period 400, wealth ultimately plummets. Average wealth at period 1000 is $24, below the starting average of $100, with a median wealth of 1x10<sup>-21</sup> (rounding to the nearest cent, that is zero). The wealthiest person has $242 thousand dollars, with that being 98.5% of the total wealth. If we followed that wealthy person for another 1000 generations, I would expect them to be wiped out too. [I tested that. At 2000 periods the wealthiest person had $4x10<sup>-7</sup>.] Despite the positive expected value, the wealth of the entire population is wiped out.</p>
+</section>
+</section>
+<section id="losing-wealth-on-a-positive-value-bet" class="level2">
+<h2 class="anchored" data-anchor-id="losing-wealth-on-a-positive-value-bet">4. Losing wealth on a positive value bet</h2>
+<p>The first 100 periods of bets forces us to hold a counterintuitive idea in our minds. While the population as an aggregate experiences outcomes reflecting the positive expected value of the bet, the typical person does not. The increase in wealth across the aggregate population is only due to the extreme wealth of a few lucky people.</p>
+<p>However, the picture over 1000 periods appears even more confusing. The positive expected value of the bet is nowhere to be seen. How could this be the case?</p>
+<p>The answer to this lies in the distribution of bets. After 100 periods, one person had 70% of the wealth. We no longer have 10,000 equally weighted independent bets as we did in the first round. Instead, the path of the wealth of the population is largely subject to the outcome of the bets by this wealthy individual. As we have already shown, the wealth path for an individual almost surely leads to a compound 5% loss of wealth. That individual’s wealth is on borrowed time. The only way for someone to maintain their wealth would be to bet a smaller portion of their wealth, or to diversify their wealth across multiple bets.</p>
+</section>
+<section id="the-kelly-criterion" class="level2">
+<h2 class="anchored" data-anchor-id="the-kelly-criterion">5. The Kelly criterion</h2>
+<p>On the first of these options, the portion of a person’s wealth they should enter as stakes for a positive expected value bet such as this is given by the <a href="https://en.m.wikipedia.org/wiki/Kelly_criterion">Kelly Criterion</a>. The Kelly criterion gives the bet size that would maximise the geometric growth rate in wealth.</p>
+<p>The Kelly criterion formula for a simple bet is as follows:</p>
+<p>{{< math display >}}f=\frac{bp-q}{b}=\frac{p(b+1)-1}{b}{{< /math >}}</p>
+<p>where</p>
+<blockquote class="blockquote">
+<p><em>f</em> is the fraction of the current bankroll to wager</p>
+<p><em>b</em> is the net odds received on the wager (i.e.&nbsp;you receive $b back on top of the $1 wagered for the bet)</p>
+<p><em>p</em> is the probability of winning</p>
+<p><em>q</em> is the probability of losing (1-p)</p>
+</blockquote>
+<p>For the bet above, we have <em>p</em>=0.5 and <em>b</em>=0.5/0.4=1.25. As offered, we are effectively required to bet <em>f</em>=0.4, or 40% of our wealth, for that chance to win a 50% increase.</p>
+<p>However, if we apply the above formula given <em>p</em> and <em>b</em>, a person should bet 10% of their wealth each round to maximise the geometric growth rate.</p>
+<p>{{< math display >}}\frac{(0.5*(1.25+1)-1)}{1.25}=0.1{{< /math >}}</p>
+<p>The Kelly criterion is effectively maximising the expected log utility of the bet through setting the size of the bet. The Kelly criterion will result in someone wanting to take a share of any bet with positive expected value.</p>
+<p>The Kelly bet “almost surely” leads to higher wealth than any other strategy in the long run.</p>
+<p>If we simulate the above scenarios, but risking only 10% of wealth each round rather than 40% (i.e.&nbsp;heads wealth will increase by 12.5%, tails it will decrease by 10%), what happens? The expected value of the Kelly bet is {{< math >}}0.5\times 0.125+0.5\times -0.1=0.0125{{< /math >}} or 1.25% per round. This next figure shows the ensemble average, showing a steady increase.</p>
+<div class="cell">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Calculate the optimum Kelly bet size.</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a>p <span class="ot">&lt;-</span> <span class="fl">0.5</span></span>
+<span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a>q <span class="ot">&lt;-</span> <span class="dv">1</span><span class="sc">-</span>p</span>
+<span id="cb6-5"><a href="#cb6-5" aria-hidden="true" tabindex="-1"></a>b <span class="ot">&lt;-</span> (<span class="fl">1.5</span><span class="dv">-1</span>)<span class="sc">/</span>(<span class="dv">1</span><span class="fl">-0.6</span>)</span>
+<span id="cb6-6"><a href="#cb6-6" aria-hidden="true" tabindex="-1"></a>f <span class="ot">&lt;-</span> (b<span class="sc">*</span>p<span class="sc">-</span>q)<span class="sc">/</span>b</span>
+<span id="cb6-7"><a href="#cb6-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-8"><a href="#cb6-8" aria-hidden="true" tabindex="-1"></a><span class="co"># Run a simulation using the optimum bet size.</span></span>
+<span id="cb6-9"><a href="#cb6-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-10"><a href="#cb6-10" aria-hidden="true" tabindex="-1"></a><span class="fu">set.seed</span>(<span class="dv">20191215</span>)</span>
+<span id="cb6-11"><a href="#cb6-11" aria-hidden="true" tabindex="-1"></a>kelly <span class="ot">&lt;-</span> <span class="fu">bet</span>(<span class="at">p=</span><span class="fl">0.5</span>, <span class="at">n=</span><span class="dv">10000</span>, <span class="at">t=</span><span class="dv">1000</span>, <span class="at">gain=</span><span class="dv">1</span><span class="sc">+</span>f<span class="sc">*</span>b, <span class="at">loss=</span><span class="dv">1</span><span class="sc">-</span>f, <span class="at">ergodic=</span><span class="cn">FALSE</span>)</span>
+<span id="cb6-12"><a href="#cb6-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-13"><a href="#cb6-13" aria-hidden="true" tabindex="-1"></a>kellyStats <span class="ot">&lt;-</span> <span class="fu">summaryStats</span>(kelly, <span class="dv">1000</span>)</span>
+<span id="cb6-14"><a href="#cb6-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-15"><a href="#cb6-15" aria-hidden="true" tabindex="-1"></a><span class="co"># Plot ensemble average of Kelly bets</span></span>
+<span id="cb6-16"><a href="#cb6-16" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-17"><a href="#cb6-17" aria-hidden="true" tabindex="-1"></a>averagePlotKelly <span class="ot">&lt;-</span> <span class="fu">averagePlot</span>(kelly, <span class="dv">1000</span>)</span>
+<span id="cb6-18"><a href="#cb6-18" aria-hidden="true" tabindex="-1"></a>averagePlotKelly</span></code></pre></div></div>
+</details>
+<div class="cell-output-display">
+<div id="fig-ergodicity-6" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-ergodicity-6-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;6: Average wealth of population applying Kelly criterion (1000 periods)
+</figcaption>
+<div aria-describedby="fig-ergodicity-6-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="ergodicity-economics-a-primer_files/figure-html/fig-ergodicity-6-1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-6" title="Figure&nbsp;6: Average wealth of population applying Kelly criterion (1000 periods)"><img src="ergodicity-economics-a-primer_files/figure-html/fig-ergodicity-6-1.png" class="img-fluid figure-img" width="672"></a>
+</div>
+</figure>
+</div>
+</div>
+</div>
+<p>If we look at the individuals in this population, we can also see that their paths more closely resemble that of the population average. Most still under-perform the mean (the system is still non-ergodic - the time average growth rate is {{< math >}}(1.125\times 0.9)^{0.5}=1.006{{< /math >}} or 0.6%), and there is a large wealth disparity with the wealthiest person having 36% of the total wealth after 1000 periods (after 100, they have 0.5% of the wealth). Still, most people are better off, with 70% and 95% of the population experiencing a gain after 100 and 1000 periods respectively. The median wealth is almost $50,000 after 1000 periods.</p>
+<div class="cell">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Plot of the path of the first 20 people over 1000 periods</span></span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a>logPlotKelly <span class="ot">&lt;-</span> <span class="fu">jointPlot</span>(kelly, <span class="dv">1000</span>, <span class="dv">20</span>)</span>
+<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a>logPlotKelly</span></code></pre></div></div>
+</details>
+<div class="cell-output-display">
+<div id="fig-ergodicity-7" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-ergodicity-7-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;7: Plot of first 20 people applying Kelly criterion against average wealth (log scale, 1000 periods)
+</figcaption>
+<div aria-describedby="fig-ergodicity-7-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="ergodicity-economics-a-primer_files/figure-html/fig-ergodicity-7-1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-7" title="Figure&nbsp;7: Plot of first 20 people applying Kelly criterion against average wealth (log scale, 1000 periods)"><img src="ergodicity-economics-a-primer_files/figure-html/fig-ergodicity-7-1.png" class="img-fluid figure-img" width="672"></a>
+</div>
+</figure>
+</div>
+</div>
+</div>
+<p>Unfortunately, given the take-it or leave-it choice we opened with involving 40% of our wealth, we can’t use the Kelly Criterion to optimise the bet size and should refuse the bet.</p>
+<p><em>Update clarifying some comments on this post:</em></p>
+<p>An alternative more general formula for the Kelly criterion that can be used for investment decisions is:</p>
+<p>{{< math display >}}f=\frac{p}{a}-\frac{q}{b}{{< /math >}}</p>
+<p>where</p>
+<blockquote class="blockquote">
+<p><em>f</em> is the fraction of the current bankroll to invest</p>
+<p><em>b</em> is the value by which your investment increases (i.e.&nbsp;you receive $b back on top of each $1 you invested)</p>
+<p><em>a</em> is the value by which your investment decreases if you lose (the first formula above assumes <em>a</em>=1)</p>
+<p><em>p</em> is the probability of winning</p>
+<p><em>q</em> is the probability of losing (1-p)</p>
+</blockquote>
+<p>Applying this formula to the original bet at the beginning of this post, <em>a</em>=0.4 and <em>b</em>=0.5, by which <em>f</em>=0.5/0.4-0.5/0.5=0.25 or 25%. Therefore, you should put up 25% of your wealth, of which you could potentially lose 40% or win 50%.</p>
+<p>This new formulation of the Kelly criterion gives the same recommendation as the former but refers to different baselines. In the first case, the optimal bet is 10% of your wealth, which provides for a potential win of 12.5%. In the second case, you invest 25% of your wealth to possibly get a 50% return (12.5% of your wealth) or lose 40% of your investment (40% of 25% which is 10%). Despite the same effective recommendation, in one case you talk of <em>f</em> being 10%, and in the second 25%.</p>
+</section>
+<section id="evolving-preferences" class="level2">
+<h2 class="anchored" data-anchor-id="evolving-preferences">6. Evolving preferences</h2>
+<p>Suppose two types of agent lived in this non-ergodic world and their <a href="https://en.wikipedia.org/wiki/Fitness_(biology)">fitness</a> was dependent on the outcome of the 50:50 bet for a 50% gain or 40% loss. One type always accepted the bet, the other always rejected it. Which would come to dominate the population?</p>
+<p>An intuitive reaction to the above examples might be that while the accepting type might have a short-term gain, in the long run they are almost surely going to drive themselves extinct. There are a couple of scenarios where that would be the case.</p>
+<p>One is where the children of a particular type were all bound to the same coin flip as their siblings for subsequent bets. Suppose one individual had over 1 million children after 100 periods, comprising around 70% of the population (which is what they would have if we borrowed the above simulations for our evolutionary scenario, with one coin flip per generation). If all had to bet on exactly the same coin flip in period 101 and beyond, they are doomed.</p>
+<p>If, however, each child faces their own coin flip (experiencing, say, idiosyncratic risks), that crash never comes. Instead, the risk of those flips is diversified and the growth of the population more closely resembles the ensemble average, even over the very long term.</p>
+<p>Below is a chart of population for a simulation of 100 generations of the accepting population, starting with a population of 10,000. For this simulation, I have assumed that at the end of each period, the accepting types will have a number of children equal to the proportional increase in their wealth. For example, if they flip heads, they will have 1.5 children. For tails, they will have 0.6 children. They then die. (The simulation works out largely the same if I make the number of children probabilistic in accord with those numbers.) Each child takes their own flip.</p>
+<div class="cell">
+<details class="code-fold">
+<summary>Code</summary>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="fu">set.seed</span>(<span class="dv">20191215</span>)</span>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>evolutionBet <span class="ot">&lt;-</span> <span class="cf">function</span>(p, n, t, gain, loss){</span>
+<span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a>  <span class="co">#p is probability of a gain</span></span>
+<span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a>  <span class="co">#region  is how many people in the simulation</span></span>
+<span id="cb8-6"><a href="#cb8-6" aria-hidden="true" tabindex="-1"></a>  <span class="co">#t is the number of generations simulated</span></span>
+<span id="cb8-7"><a href="#cb8-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-8"><a href="#cb8-8" aria-hidden="true" tabindex="-1"></a>  params <span class="ot">&lt;-</span> <span class="fu">as.data.frame</span>(<span class="fu">c</span>(p, n, t, gain, loss))</span>
+<span id="cb8-9"><a href="#cb8-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">rownames</span>(params) <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="st">"p"</span>, <span class="st">"n"</span>, <span class="st">"t"</span>, <span class="st">"gain"</span>, <span class="st">"loss"</span>)</span>
+<span id="cb8-10"><a href="#cb8-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">colnames</span>(params) <span class="ot">&lt;-</span> <span class="st">"value"</span></span>
+<span id="cb8-11"><a href="#cb8-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-12"><a href="#cb8-12" aria-hidden="true" tabindex="-1"></a>  sim <span class="ot">&lt;-</span> <span class="fu">matrix</span>(<span class="at">data =</span> <span class="cn">NA</span>, <span class="at">nrow =</span> t, <span class="at">ncol =</span> <span class="dv">1</span>)</span>
+<span id="cb8-13"><a href="#cb8-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-14"><a href="#cb8-14" aria-hidden="true" tabindex="-1"></a>  sim <span class="ot">&lt;-</span> <span class="fu">rbind</span>(n, sim) <span class="co">#placing the starting population in the first row</span></span>
+<span id="cb8-15"><a href="#cb8-15" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-16"><a href="#cb8-16" aria-hidden="true" tabindex="-1"></a>  <span class="cf">for</span> (i <span class="cf">in</span> <span class="dv">1</span><span class="sc">:</span>t) {</span>
+<span id="cb8-17"><a href="#cb8-17" aria-hidden="true" tabindex="-1"></a>    <span class="cf">for</span> (j <span class="cf">in</span> <span class="dv">1</span><span class="sc">:</span><span class="fu">round</span>(n)) {</span>
+<span id="cb8-18"><a href="#cb8-18" aria-hidden="true" tabindex="-1"></a>      outcome <span class="ot">&lt;-</span> <span class="fu">rbinom</span>(<span class="at">n=</span><span class="dv">1</span>, <span class="at">size=</span><span class="dv">1</span>, <span class="at">prob=</span>p)</span>
+<span id="cb8-19"><a href="#cb8-19" aria-hidden="true" tabindex="-1"></a>      <span class="fu">ifelse</span>(outcome<span class="sc">==</span><span class="dv">0</span>, x <span class="ot">&lt;-</span> loss, x <span class="ot">&lt;-</span> gain)</span>
+<span id="cb8-20"><a href="#cb8-20" aria-hidden="true" tabindex="-1"></a>      n <span class="ot">&lt;-</span> n <span class="sc">+</span> (x<span class="dv">-1</span>)</span>
+<span id="cb8-21"><a href="#cb8-21" aria-hidden="true" tabindex="-1"></a>    }</span>
+<span id="cb8-22"><a href="#cb8-22" aria-hidden="true" tabindex="-1"></a>    n <span class="ot">&lt;-</span> <span class="fu">round</span>(n)</span>
+<span id="cb8-23"><a href="#cb8-23" aria-hidden="true" tabindex="-1"></a>    sim[i<span class="sc">+</span><span class="dv">1</span>] <span class="ot">&lt;-</span> n <span class="co">#"+1" as have starting population in first row</span></span>
+<span id="cb8-24"><a href="#cb8-24" aria-hidden="true" tabindex="-1"></a>  }</span>
+<span id="cb8-25"><a href="#cb8-25" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-26"><a href="#cb8-26" aria-hidden="true" tabindex="-1"></a>  sim <span class="ot">&lt;-</span> <span class="fu">cbind</span>(<span class="fu">seq</span>(<span class="dv">0</span>,t), sim) <span class="co">#number each period</span></span>
+<span id="cb8-27"><a href="#cb8-27" aria-hidden="true" tabindex="-1"></a>  sim <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(sim, <span class="at">row.names=</span><span class="cn">NULL</span>)</span>
+<span id="cb8-28"><a href="#cb8-28" aria-hidden="true" tabindex="-1"></a>  <span class="fu">colnames</span>(sim) <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="st">"period"</span>, <span class="st">"n"</span>)</span>
+<span id="cb8-29"><a href="#cb8-29" aria-hidden="true" tabindex="-1"></a>  sim <span class="ot">&lt;-</span> <span class="fu">list</span>(<span class="at">params=</span>params, <span class="at">sim=</span>sim)</span>
+<span id="cb8-30"><a href="#cb8-30" aria-hidden="true" tabindex="-1"></a>  sim</span>
+<span id="cb8-31"><a href="#cb8-31" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb8-32"><a href="#cb8-32" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-33"><a href="#cb8-33" aria-hidden="true" tabindex="-1"></a>evolution <span class="ot">&lt;-</span> <span class="fu">evolutionBet</span>(<span class="at">p=</span><span class="fl">0.5</span>, <span class="at">n=</span><span class="dv">10000</span>, <span class="at">t=</span><span class="dv">100</span>, <span class="at">gain=</span><span class="fl">1.5</span>, <span class="at">loss=</span><span class="fl">0.6</span>) <span class="co">#more than 100 periods can take a very long time, simulation slows markedly as population grows</span></span>
+<span id="cb8-34"><a href="#cb8-34" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-35"><a href="#cb8-35" aria-hidden="true" tabindex="-1"></a><span class="co"># Plot the population growth for the evolutionary scenario (Figure 8).</span></span>
+<span id="cb8-36"><a href="#cb8-36" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-37"><a href="#cb8-37" aria-hidden="true" tabindex="-1"></a>basePlotEvo <span class="ot">&lt;-</span> <span class="fu">ggplot</span>(evolution<span class="sc">$</span>sim[<span class="fu">c</span>(<span class="dv">1</span><span class="sc">:</span><span class="dv">101</span>),], <span class="fu">aes</span>(<span class="at">x=</span>period))</span>
+<span id="cb8-38"><a href="#cb8-38" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-39"><a href="#cb8-39" aria-hidden="true" tabindex="-1"></a>expectationPlotEvo <span class="ot">&lt;-</span> basePlotEvo <span class="sc">+</span></span>
+<span id="cb8-40"><a href="#cb8-40" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="fu">aes</span>(<span class="at">y=</span>n), <span class="at">color =</span> <span class="dv">1</span>, <span class="at">linewidth=</span><span class="dv">1</span>) <span class="sc">+</span></span>
+<span id="cb8-41"><a href="#cb8-41" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">y =</span> <span class="st">"Population"</span>)</span>
+<span id="cb8-42"><a href="#cb8-42" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-43"><a href="#cb8-43" aria-hidden="true" tabindex="-1"></a>expectationPlotEvo</span></code></pre></div></div>
+</details>
+<div class="cell-output-display">
+<div id="fig-ergodicity-8" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-ergodicity-8-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;8: Population of accepting types
+</figcaption>
+<div aria-describedby="fig-ergodicity-8-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="ergodicity-economics-a-primer_files/figure-html/fig-ergodicity-8-1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-8" title="Figure&nbsp;8: Population of accepting types"><img src="ergodicity-economics-a-primer_files/figure-html/fig-ergodicity-8-1.png" class="img-fluid figure-img" width="672"></a>
+</div>
+</figure>
+</div>
+</div>
+</div>
+<p>This has an expected population growth rate of 5%.</p>
+<p>This evolutionary scenario differs from the Kelly criterion in that the accepting types are effectively able to take many independent shares of the bet for a tiny fraction of their inclusive fitness.</p>
+<p>In a <a href="https://doi.org/10.1038/s41567-019-0732-0">Nature Physics paper</a> summarising some of his work, Peters writes:</p>
+<blockquote class="blockquote">
+<p>[I]n maximizing the expectation value - an ensemble average over all possible outcomes of the gamble - expected utility theory implicitly assumes that individuals can interact with copies of themselves, effectively in parallel universes (the other members of the ensemble). An expectation value of a non-ergodic observable physically corresponds to pooling and sharing among many entities. That may reflect what happens in a specially designed large collective, but it doesn’t reflect the situation of an individual decision-maker.</p>
+</blockquote>
+<p>For a replicating entity that can diversify future bets across many offspring, they can do just this.</p>
+<p>There are a lot of wrinkles that could be thrown into this simulation. How many bets does someone have to make before they reproduce and effectively diversify their future? The more bets, the higher the chance of a poor end. There is also the question of whether bets by children would be truly independent (Imagine a highly related tribe).</p>
+</section>
+<section id="risk-and-loss-aversion-in-ergodicity-economics" class="level2">
+<h2 class="anchored" data-anchor-id="risk-and-loss-aversion-in-ergodicity-economics">7. Risk and loss aversion in ergodicity economics</h2>
+<p>In my <a href="../posts/risk-and-loss-aversion-in-ergodicity-economics.html">next post on this topic</a> I ask whether, given the above, we need risk and loss aversion to explain our choices.</p>
+
+
+</section>
+{{< /html >}}

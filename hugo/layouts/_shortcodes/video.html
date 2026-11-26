@@ -1,0 +1,15 @@
+{{- /* {{< video src="URL" >}} for YouTube, Vimeo or a media file. */ -}}
+{{- $url := .Get "src" | default (.Get 0) -}}
+{{- $u := urls.Parse $url -}}
+{{- $embed := "" -}}
+{{- if strings.Contains $u.Host "youtu.be" }}{{ $embed = printf "https://www.youtube-nocookie.com/embed%s" $u.Path -}}
+{{- else if strings.Contains $u.Host "youtube" -}}
+  {{- with $u.Query.Get "v" }}{{ $embed = printf "https://www.youtube-nocookie.com/embed/%s" . }}{{ else }}{{ $embed = $url }}{{ end -}}
+{{- else if strings.Contains $u.Host "vimeo.com" }}{{ $embed = printf "https://player.vimeo.com/video%s" $u.Path -}}
+{{- end -}}
+{{- with $u.Query.Get "t" }}{{ if $embed }}{{ $embed = printf "%s?start=%s" $embed (strings.TrimSuffix "s" .) }}{{ end }}{{ end -}}
+{{- if $embed -}}
+<div class="embed"><iframe src="{{ $embed }}" title="Video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+{{- else -}}
+<video controls preload="metadata" src="{{ $url }}"></video>
+{{- end -}}

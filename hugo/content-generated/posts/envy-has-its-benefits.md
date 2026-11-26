@@ -1,0 +1,23 @@
+---
+author: "Jason Collins"
+
+date: 2011-08-17 04:31:20+00:00
+draft: false
+title: Envy has its benefits
+sync_source: "posts/envy-has-its-benefits.md"
+sync_route: "pandoc"
+sync_hash: "ff25aa48a33e"
+---
+
+{{< html >}}
+<p>Bryan Caplan <a href="http://econlog.econlib.org/archives/2011/08/hard-wired_envy.html">writes</a>:</p>
+<blockquote>
+<p>If people envy people richer than themselves, I say we should fight envy, not inequality. A number of people have objected that “Envy is ‘hard-wired.’” They’re right - but it doesn’t matter.</p>
+<p>…</p>
+“[H]ard-wired” does not mean <em>fixed</em>. All humans may feel these emotions to some extent. But there’s plenty of room to maneuver. You <em>can</em> become less envious than you are. Make an effort to monitor your thoughts and behavior. Count your blessings<strong>.</strong> Give credit where credit is due. Focus on improving yourself instead of comparing yourself to other people. Spend more time with less envious people.
+</blockquote>
+<p>We are “hard-wired” to feel envy as, historically, those who felt envy were more reproductively successful. Presumably it is a driver behind the success of some people - they aspire to the levels of status, wealth and power of those they envy – and as a result, they were better able to attract mates. In a post supportive of Caplan’s position, David Henderson <a href="http://econlog.econlib.org/archives/2011/08/how_i_fought_en.html">characterises envy</a>as “self-destructive”. In an evolutionary sense, envy could not have been self-destructive (on average) for it to become “hard‑wired” and so ubiquitous. I am not aware of any evidence that this has changed.</p>
+<p>So what would the world look like if there was less or no envy? It may be a less dynamic, interesting and creative world than the one we live in. How many people have created an invention or business with envy of others a motivating factor? Envy has its benefits.</p>
+<p>If Caplan’s encouragement to be less envious did work (although I consider convincing many people is a lost cause), it may be a temporary result. The less envious person might be happier. But they may also have less status, wealth and power and a reduced ability to attract a mate. To the extent there are less “envy free” people in the next generation, envy will be back.</p>
+<p>Having said the above, I do try to follow Caplan’s advice - but not always successfully.</p>
+{{< /html >}}

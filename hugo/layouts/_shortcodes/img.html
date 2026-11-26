@@ -1,0 +1,10 @@
+{{- /* Local image in a rendered body: serve a resized WebP, keep the other attributes. */ -}}
+{{- $src := strings.TrimPrefix "./" (.Get "src") -}}
+{{- $out := printf "/posts/%s" $src }}{{ $w := "" }}{{ $h := "" -}}
+{{- with resources.Get $src -}}
+  {{- with .Resize (printf "%dx webp q82" (math.Min .Width 1200 | int)) -}}
+    {{- $out = .RelPermalink }}{{ $w = .Width }}{{ $h = .Height -}}
+  {{- end -}}
+{{- end -}}
+<img src="{{ $out }}"{{ with .Get "alt" }} alt="{{ . | htmlUnescape }}"{{ end }}{{ with .Get "class" }} class="{{ . }}"{{ end }}{{ with .Get "style" }} style="{{ . | htmlUnescape | safeCSS }}"{{ end }}{{ with .Get "title" }} title="{{ . | htmlUnescape }}"{{ end }}{{ with $w }} width="{{ . }}" height="{{ $h }}"{{ end }} loading="lazy" decoding="async">
+{{- /**/ -}}

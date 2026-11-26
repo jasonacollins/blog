@@ -1,0 +1,39 @@
+---
+title: 'Human-AI collaboration: is it better when the human is asleep at the wheel?'
+author: "Jason Collins"
+date: 2024-12-05 11:00:00+11:00
+draft: false
+image: "img/asleep-at-the-wheel.webp"
+sync_source: "posts/human-ai-collaboration-is-it-better-when-the-human-is-asleep-at-the-wheel.qmd"
+sync_route: "pandoc"
+sync_hash: "cccd25316df1"
+---
+
+{{< html >}}
+<p>In his book Co-Intelligence: Living and Working with AI, <a href="https://www.oneusefulthing.org/">Ethan Mollick</a> describes an experiment by Fabrizio Dell’Acqua:</p>
+<blockquote>
+<p>In a different paper, Fabrizio Dell’Acqua shows why relying too much on AI can backfire. He found that recruiters who used high-quality AI became lazy, careless, and less skilled in their own judgment. They missed out on some brilliant applicants and made worse decisions than recruiters who used low-quality AI or no AI at all.</p>
+<p>He hired 181 professional recruiters and gave them a tricky task: to evaluate 44 job applications based on their math ability. The data came from an international test of adult skills, so the math scores were not obvious from the résumés. Recruiters were given different levels of AI assistance: some had good or bad AI support, and some had none. He measured how accurate, how fast, how hardworking, and how confident they were.</p>
+<p>Recruiters with higher-quality AI were worse than recruiters with lower-quality AI. They spent less time and effort on each résumé, and blindly followed the AI recommendations. They also did not improve over time. On the other hand, recruiters with lower-quality AI were more alert, more critical, and more independent. They improved their interaction with the AI and their own skills. Dell’Acqua developed a mathematical model to explain the trade-off between AI quality and human effort. When the AI is very good, humans have no reason to work hard and pay attention. They let the AI take over instead of using it as a tool, which can hurt human learning, skill development, and productivity. He called this “falling asleep at the wheel.”</p>
+</blockquote>
+<p>What are the costs of falling asleep at the wheel? We can get a better sense from the as yet <a href="https://www.dropbox.com/scl/fi/c5jdi146erky69csa8gha/Falling_Asleep_at_the_Wheel.pdf?rlkey=ss4vh6bsgzf52xiba8ffx0onc&amp;e=1&amp;st=s0ppis9g&amp;dl=0">unpublished working paper</a>. (I expect it will be published somewhere reasonably prestigious before too long.)</p>
+<p>The “bad AI” had an accuracy of 75%. The “good AI” had an accuracy of 85%. What was the accuracy of the recruiters? My reading of Table 4 of the paper is that, without any AI support, the recruiters had 72.3% accuracy. With the bad AI that was 75.4%, and with good AI was 74.4%. So on the raw outcome, about the same across all three treatments. (I’ve based these calculations on the assumption that the results come from a linear regression for columns (1) and (2). The author could have used a logistic regression given the binary dependent variable, but the magnitude of the coefficients suggests that isn’t the case.)</p>
+<p>But think about what we could achieve if we just eliminated the recruiters. The recruiters with the bad AI add nothing. Their deviations from the AI recommendations are a wash. The recruiters with the good AI intervene enough to degrade the performance from 85% to 74%. If anything, the recruiters with the good AI aren’t asleep enough! If they didn’t do a thing, they’d get 85% accuracy. Instead of thinking about getting recruiters to pay attention, we should remove them from simple prediction tasks like this.</p>
+<p>The underperformance of human-AI combinations is a common theme across the literature on statistical versus human prediction. Combine a human with a good algorithm and you will improve the human’s performance. However, their performance will still be below the level of the algorithm alone. (I’ve written in <a href="https://behavioralscientist.org/dont-touch-computer/">Behavioral Scientist</a> on this previously.)</p>
+<p>Before moving on, I should point out that the measure of decision quality highlighted in the preregistration was not the decision to interview the candidate, but rather a measure of confidence. (I can’t check this as the pre-registration is embargoed.) For each decision, recruiters were asked to rate their confidence on a 1 to 5 scale. Using this confidence measure, the recruiters with the bad AI performed significantly better than those with the good AI (scraping under the 0.05 threshold once some additional controls are added). I can’t confirm from the paper whether the good AI model would outperform on this measure - or even whether it generates measures of confidence - but I’d be very surprised if a model wouldn’t outperform.</p>
+<h2 id="understanding-ai-quality">Understanding AI quality</h2>
+<p>Having said the above, it’s unclear what is driving the headline result and whether it would replicate. The recruiters were given one of the following descriptions. For the good AI:</p>
+<blockquote>
+<p>The AI tool that will support you has been performing very well in prior analysis and we have been very pleased with the candidates selected. However, it made a few mistakes for candidates that were close calls.</p>
+<p>We reviewed the algorithm’s recommendations using performance data, and we found that the vast majority of AI’s recommendations about whether to interview a candidate or not were correct (about 85% of cases).</p>
+</blockquote>
+<p>Those who were given the bad AI read:</p>
+<blockquote>
+<p>The AI tool that will support you has been performing well in prior analysis and we have been pleased with the candidates selected. However, it made some mistakes for candidates that were close calls.</p>
+<p>We reviewed the algorithm’s recommendations using performance data, and we found that the large majority of AI’s recommendations about whether to interview a candidate or not were correct (about 75% of cases).</p>
+</blockquote>
+<p>The differences are performed “very well” versus “well”, “very pleased” versus “pleased”, making “a few” versus “some” mistakes, “vast majority” versus “large majority”, and “85%” versus “75%”.</p>
+<p>Which change or changes are driving the effect? We can’t tell. I lean toward the accuracy numbers having no effect. People tend not to react differently to numbers in those ranges. The words might be doing something, but which ones? The framing of the mistakes? How pleased the developers are?</p>
+<p>Further, is the problem identified in the experiment giving people a good AI or if it is describing it poorly? We could easily have used the bad AI description for the good AI (except the number, which I predict has no effect). Would we see an effect if we gave the bad AI description (except for the number) for the good AI? If not, we’ve solved the asleep at the wheel problem!</p>
+<p>I’d love to see a replication of this experiment, mixing the combinations of words to understand better what people are hooking into. My hunch is that the differences in accuracy wouldn’t replicate. This paper has some of the classic signs: a weak treatment and a p-value scraping under 0.05. (I’m more optimistic about time and effort.)</p>
+{{< /html >}}

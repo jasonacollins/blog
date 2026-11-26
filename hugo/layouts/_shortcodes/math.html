@@ -1,0 +1,3 @@
+{{- /* Used by generated posts: {{< math >}}x^2{{< /math >}} renders MathML at build time. */ -}}
+{{- $opts := dict "output" "mathml" "displayMode" (eq (.Get 0) "display") "throwOnError" false -}}
+{{- transform.ToMath .Inner $opts -}}

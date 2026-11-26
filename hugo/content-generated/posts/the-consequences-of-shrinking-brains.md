@@ -1,0 +1,23 @@
+---
+author: "Jason Collins"
+
+date: 2012-05-30 13:25:24+00:00
+draft: false
+title: The consequences of shrinking brains
+sync_source: "posts/the-consequences-of-shrinking-brains.md"
+sync_route: "pandoc"
+sync_hash: "f2bae1c421e3"
+---
+
+{{< html >}}
+<p><a href="http://www.rationaloptimist.com/blog/evolution-ain&#39;t-what-it-used-to-be.aspx">Matt Ridley writes</a> on the fossil evidence that human brains have shrunk from around 1,500 cubic centimetres to 1,350 cubic centimetres over the last 20,000 years:</p>
+<blockquote>
+This neither worries nor surprises me. We ceased relying upon individual brain power tens of thousands of years ago. Our civilization now gets all its inventive and creative power from the linking of brains into networks. Our future depends on being clever not individually, but collectively.
+</blockquote>
+<p>Ridley’s reason for not worrying is at odds with evidence that the return to an increase in an individual person’s IQ is lower than that for an equivalent increase in average IQ for a population.</p>
+<p>Take this factoid from <a href="http://mason.gmu.edu/~gjonesb/">Garett Jones’s website</a> (I have blogged about work by Jones before, including <a href="/posts/jones-on-iq-and-productivity.html">here</a>):</p>
+<blockquote>
+A two standard deviation rise in an individual person’s IQ predicts only about a 30% increase in her wage.  But the same rise in a country’s average IQ score predicts a 700% increase in the average wage in that country.
+</blockquote>
+<p>There are massive positive externalities to a population having a higher average IQ. Ridley is right to point to the networked nature of intelligence, but those networks result in large benefits to being surrounded by high IQ people. If I considered that intelligence were declining along with brain size (I’m not, which is a subject for a later post), I would be worried.</p>
+{{< /html >}}

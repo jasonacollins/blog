@@ -1,0 +1,19 @@
+---
+title: 'My latest in Behavioral Scientist: Simple heuristics that make algorithms smart'
+author: "Jason Collins"
+date: 2018-12-14 08:00:03+00:00
+draft: false
+sync_source: "posts/my-latest-in-behavioral-scientist-simple-heuristics-that-make-algorithms-smart.md"
+sync_route: "pandoc"
+sync_hash: "ff00cb8db717"
+---
+
+{{< html >}}
+<p>My <a href="http://behavioralscientist.org/simple-heuristics-that-make-algorithms-smart/">latest contribution</a> at Behavioral Scientist is up. Here’s an excerpt:</p>
+<blockquote>
+<p>Modern discussions of whether humans will be replaced by algorithms typically frame the problem as a choice between humans on one hand or complex statistical and machine learning models on the other. For problems such as image recognition, this is probably the right frame. Yet much of the past success of algorithms relative to human judgment points us to a third option: the mechanical application of simple models and heuristics.</p>
+<p>Simple models appear more powerful when removed from the minds of the human and implemented in a consistent way. The chain of evidence that simple heuristics are powerful tools, that humans use these heuristics, and that these heuristics can make us smart does not bring us to a point where these humans are outperforming simple heuristics or models consistently applied by an algorithm.</p>
+<p>Humans are inextricably entwined in developing these algorithms, and in many cases provide the expert knowledge of what cues should be used. But when it comes to execution, taking the outputs of the model gives us a better outcome.</p>
+</blockquote>
+<p>You can read the full article <a href="http://behavioralscientist.org/simple-heuristics-that-make-algorithms-smart/">here</a>.</p>
+{{< /html >}}

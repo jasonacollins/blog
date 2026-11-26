@@ -1,0 +1,30 @@
+{{- /* Mirrors the Quarto feed (same links and GUIDs) so subscribers see no duplicates. */ -}}
+{{- $base := strings.TrimSuffix "/" site.BaseURL -}}
+{{- $posts := where site.RegularPages "Section" "posts" | first site.Config.Services.RSS.Limit -}}
+{{ printf "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" | safeHTML }}
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<channel>
+<title>{{ site.Title }}</title>
+<link>{{ site.BaseURL }}</link>
+<atom:link href="{{ site.BaseURL }}index.xml" rel="self" type="application/rss+xml"/>
+<description>{{ site.Params.description }}</description>
+<generator>Hugo</generator>
+{{- with index $posts 0 }}
+<lastBuildDate>{{ .Date.UTC.Format "Mon, 02 Jan 2006 15:04:05 GMT" }}</lastBuildDate>
+{{- end }}
+{{- range $posts }}
+{{- $content := .Content | replaceRE `(src|href)="/` (printf `$1="%s/` $base) }}
+<item>
+  <title>{{ .Title }}</title>
+  <dc:creator>{{ .Params.author | default site.Params.author }}</dc:creator>
+  <link>{{ .Permalink }}</link>
+  <description>{{ printf "<![CDATA[%s]]>" $content | safeHTML }}</description>
+  <guid>{{ .Permalink }}</guid>
+  <pubDate>{{ .Date.UTC.Format "Mon, 02 Jan 2006 15:04:05 GMT" }}</pubDate>
+  {{- with .Params.image }}{{ with resources.Get . }}
+  <media:content url="{{ $base }}/posts/{{ .Name }}" medium="image" type="{{ .MediaType.Type }}"/>
+  {{- end }}{{ end }}
+</item>
+{{- end }}
+</channel>
+</rss>

@@ -1,0 +1,17 @@
+{{- /* Quarto-style links: [text](other-post.md) resolves to that post's public URL. */ -}}
+{{- $dest := .Destination -}}
+{{- $u := urls.Parse $dest -}}
+{{- $external := false -}}
+{{- if $u.Scheme -}}
+  {{- $external = and (hasPrefix $u.Scheme "http") (ne $u.Host (urls.Parse site.BaseURL).Host) -}}
+{{- else if and (not $u.Host) $u.Path (findRE `^(\.\.?/)?/?(posts/)?[^/]+\.(md|qmd|html)$` $u.Path) -}}
+  {{- $name := replaceRE `\.(md|qmd|html)$` "" (path.Base $u.Path) -}}
+  {{- $inPosts := or (strings.Contains $u.Path "posts/") (and (eq .Page.Section "posts") (not (findRE `^(\.\./|/)` $u.Path))) -}}
+  {{- $dest = printf "%s/%s" (cond $inPosts "/posts" "") $name -}}
+  {{- if hugo.IsServer }}{{ $dest = printf "%s.html" $dest }}{{ end -}}
+  {{- if eq $name "index" }}{{ $dest = "/" }}{{ end -}}
+  {{- with $u.RawQuery }}{{ $dest = printf "%s?%s" $dest . }}{{ end -}}
+  {{- with $u.Fragment }}{{ $dest = printf "%s#%s" $dest . }}{{ end -}}
+{{- end -}}
+<a href="{{ $dest | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if $external }} target="_blank" rel="noopener"{{ end }}>{{ .Text }}</a>
+{{- /**/ -}}

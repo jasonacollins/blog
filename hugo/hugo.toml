@@ -1,0 +1,105 @@
+# Hugo prototype for blog.jcx.au. Run from the repo root with:  hugo --source hugo
+baseURL = "https://blog.jcx.au/"
+title = "Jason Collins blog"
+locale = "en-au"
+timeZone = "Australia/Sydney"
+
+# Keep today's URLs: /posts/name.html on disk, served by Cloudflare Pages as /posts/name.
+uglyURLs = true
+disablePathToLower = true
+# Quarto publishes future-dated posts; match that.
+buildFuture = true
+disableKinds = ["taxonomy", "term", "section"]
+
+[params]
+  description = "Behavioural economics, data science and artificial intelligence."
+  author = "Jason Collins"
+  googleAnalytics = "G-XR5VGQXN14"
+  [params.giscus]
+    repo = "jasonacollins/blog"
+    repoId = "R_kgDOIbjYgQ"
+    category = "Announcements"
+    categoryId = "DIC_kwDOIbjYgc4CSiuB"
+
+[pagination]
+  pagerSize = 50
+
+[services.rss]
+  limit = 20
+
+[outputs]
+  home = ["html", "rss", "redirects"]
+
+[mediaTypes."text/redirects"]
+  delimiter = ""
+
+[outputFormats.redirects]
+  mediaType = "text/redirects"
+  baseName = "_redirects"
+  isPlainText = true
+  notAlternative = true
+
+[markup.goldmark.renderer]
+  unsafe = true          # posts contain raw HTML
+[markup.goldmark.parser]
+  wrapStandAloneImageWithinParagraph = false
+[markup.goldmark.extensions]
+  linkify = false        # Pandoc does not autolink bare URLs
+[markup.highlight]
+  noClasses = true
+  style = "github"
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 3
+
+# Post bodies are rendered by scripts/sync-posts.py into content-generated/.
+# Images, PDFs and the top-level pages are read in place from the Quarto
+# folders; nothing is copied.
+[[module.mounts]]
+  source = "content"
+  target = "content"
+[[module.mounts]]
+  source = "content-generated"
+  target = "content"
+[[module.mounts]]
+  source = "static"
+  target = "static"
+[[module.mounts]]
+  source = "static-generated"
+  target = "static"
+[[module.mounts]]
+  source = "../posts/img"
+  target = "static/posts/img"
+[[module.mounts]]
+  source = "../pdfs"
+  target = "static/pdfs"
+[[module.mounts]]
+  source = "assets"
+  target = "assets"
+[[module.mounts]]
+  source = "../posts/img"
+  target = "assets/img"
+[[module.mounts]]
+  source = "../_redirects"
+  target = "assets/manual-redirects.txt"
+[[module.mounts]]
+  source = "../logo.png"
+  target = "static/logo.png"
+[[module.mounts]]
+  source = "../about.qmd"
+  target = "content/about.md"
+[[module.mounts]]
+  source = "../research.qmd"
+  target = "content/research.md"
+[[module.mounts]]
+  source = "../subscribe.qmd"
+  target = "content/subscribe.md"
+[[module.mounts]]
+  source = "../teaching.qmd"
+  target = "content/teaching.md"
+[[module.mounts]]
+  source = "../media.qmd"
+  target = "content/media.md"
+[[module.mounts]]
+  source = "../writing.qmd"
+  target = "content/writing.md"

@@ -1,0 +1,23 @@
+---
+author: "Jason Collins"
+
+date: 2012-04-09 12:46:23+00:00
+draft: false
+title: The three stages of evolutionary economics
+sync_source: "posts/the-three-stages-of-evolutionary-economics.md"
+sync_route: "pandoc"
+sync_hash: "91c0ae99930c"
+---
+
+{{< html >}}
+<p>Many of the suggested additions to my <a href="/posts/economics_and_evolutionary_biology_reading_list.html">reading list</a> in evolution and economics came from the fields of evolutionary economics and complexity theory.</p>
+<p>While my area of interest is sometimes described as “evolutionary economics”, evolutionary economics is a label generally applied to the study of the interactions of firms, institutions and agents in the economy using an evolutionary methodology. Businesses search the landscape for technology and other sources of competitive advantage, and those business modules (technologies, plans) with higher fitness are replicated and spread. Much research in evolutionary economics also has strong links to complexity theory. However, evolutionary economics is not directly concerned with evolutionary biology.</p>
+<p>I tend to argue for the intersection of evolution and economics at a deeper level than that generally examined in evolutionary economics. I suggest there are three stages of evolutionary economics.</p>
+<ol type="1">
+<li><p>The metaphor: Economies are like evolutionary systems. The metaphor is the domain of popular books, magazine articles and conversation at the pub.</p></li>
+<li><p>Economies and biological systems are both <a href="http://en.wikipedia.org/wiki/Complex_adaptive_system">complex adaptive systems</a>. This is where the field of evolutionary economics tends to operate. Economic activity occurs in an evolutionary system, as opposed to being just like one in Stage 1. Selection in the system is often at the level of businesses and the modules of their business plans.</p></li>
+<li><p>Economies and biological systems are the same system. Economic activity is undertaken by evolved (and evolving) people, with traits and preferences reflecting their evolutionary past. As an extension to Stage 2, businesses are made up of parties with biological interests (shareholders, creditors, employees) and interact in social orders that emerged from interactions between those parties.</p></li>
+</ol>
+<p>There is much useful research being undertaken at Stage 2, and in many cases it is the most useful level of analysis, but economics will only be an evolutionary science when it incorporates Stage 3.</p>
+<p>Following the feedback, I have added a couple of evolutionary economics and complexity theory books and articles to the <a href="/posts/economics_and_evolutionary_biology_reading_list.html">reading list</a>.</p>
+{{< /html >}}

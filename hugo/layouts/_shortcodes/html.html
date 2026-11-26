@@ -1,0 +1,7 @@
+{{- /* Wraps a body already rendered by Pandoc or Quarto (see scripts/sync-posts.py). */ -}}
+{{- $body := .Inner -}}
+{{- if not hugo.IsServer -}}
+  {{- /* Cloudflare Pages serves name.html as /name. */ -}}
+  {{- $body = replaceRE `(href="/(?:posts/)?[\w-]+)\.html(["#])` "$1$2" $body -}}
+{{- end -}}
+{{ $body | safeHTML }}

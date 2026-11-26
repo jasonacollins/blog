@@ -1,0 +1,20 @@
+{{- /* Local images are resized to WebP and linked to the original; a caption becomes a figure. */ -}}
+{{- $src := .Destination -}}
+{{- $full := $src -}}
+{{- $w := "" }}{{ $h := "" -}}
+{{- if not (urls.Parse $src).Scheme -}}
+  {{- with resources.Get (strings.TrimPrefix "posts/" (strings.TrimPrefix "/" $src)) -}}
+    {{- $full = printf "/posts/%s" .Name -}}
+    {{- $src = $full -}}
+    {{- if in (slice "png" "jpeg") .MediaType.SubType -}}
+      {{- with .Resize (printf "%dx webp q82" (math.Min .Width 1200 | int)) -}}
+        {{- $src = .RelPermalink }}{{ $w = .Width }}{{ $h = .Height -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $caption := and .IsBlock (ne .PlainText "") -}}
+{{- if $caption }}<figure><figcaption>{{ .Text }}</figcaption>{{ end -}}
+{{- if .IsBlock }}{{ if not $caption }}<p>{{ end }}{{ end -}}
+<a href="{{ $full | safeURL }}"><img src="{{ $src | safeURL }}" alt="{{ .PlainText }}"{{ with $w }} width="{{ . }}" height="{{ $h }}"{{ end }}{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy" decoding="async"></a>
+{{- if $caption }}</figure>{{ else if .IsBlock }}</p>{{ end -}}
