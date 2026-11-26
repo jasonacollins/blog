@@ -5,7 +5,10 @@
 <main><h1>Search</h1>
 <div id="search"></div>
 <script src="/pagefind/pagefind-ui.js"></script>
-<script>new PagefindUI({element:"#search",showSubResults:false,showImages:false,autofocus:true,
-  processResult:function(r){r.url=r.url.replace(/\.html$/,"");return r}});</script>
+<script>
+var ui=new PagefindUI({element:"#search",showSubResults:false,showImages:false,autofocus:true,
+  processResult:function(r){r.url=r.url.replace(/\.html$/,"");return r}});
+var q=new URLSearchParams(location.search).get("q");if(q)ui.triggerSearch(q);
+</script>
 </main>
 {{ end }}

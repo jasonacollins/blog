@@ -14,6 +14,9 @@
 {{- if and .Params.toc (gt (len .TableOfContents) 40) }}
 <div class="toc" data-pagefind-ignore>{{ .TableOfContents }}</div>
 {{- end }}
+{{- with .Params.about }}{{ with .links }}
+<p class="about-links">{{ range . }}<a href="{{ .href }}" rel="me">{{ .text }}</a>{{ end }}</p>
+{{- end }}{{ end }}
 <div class="body">
 {{ .Content }}
 </div>

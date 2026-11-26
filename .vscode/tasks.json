@@ -15,6 +15,21 @@
         "reveal": "always",
         "panel": "dedicated"
       }
+    },
+    {
+      "label": "Preview current post (Hugo)",
+      "type": "process",
+      "command": "${workspaceFolder}/hugo/preview.sh",
+      "args": ["${file}"],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "isBackground": true,
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated"
+      }
     }
   ]
 }

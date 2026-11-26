@@ -41,13 +41,25 @@ serves as `/posts/name`. `_redirects` is generated with the same rules as
 `scripts/build-redirects.ts`, plus the manual rules from the root `_redirects`.
 Feed item links and GUIDs match the Quarto feed.
 
+## Search
+
+`build.sh` indexes the built posts with Pagefind (`npx pagefind`, so Node is
+needed). The index is loaded only on `/search`, in small pieces as you type.
+`/search?q=words` links straight to a result list. Search is not available in
+`preview.sh`.
+
+## Cloudflare Pages
+
+Build command `./hugo/build.sh`, output directory `hugo/public`, and the
+environment variable `HUGO_VERSION` set to the version in use locally
+(`hugo version`). Quarto is not needed there: the post bodies in
+`content-generated/` are committed, so commit them along with the post.
+
 ## Not done yet
 
-- Search: the page at `/search` expects a Pagefind index, which `build.sh`
-  creates if `pagefind` or `npx` is installed. This has not been run.
-- The About page's Quarto `about:` template (links and layout) is not
-  reproduced; the page shows its text only.
+- The About page shows its links as plain buttons, not Quarto's `about:`
+  template.
 - Images inside the 28 Quarto-rendered posts are served at original size
   unless they sit in `posts/img/` with no extra attributes.
-- Syntax colouring for R code blocks.
-- Deployment. `hugo/public/` is the folder to publish.
+- The 8 R posts take their bodies from `_site/`, so that folder has to stay
+  until they get a home of their own.
