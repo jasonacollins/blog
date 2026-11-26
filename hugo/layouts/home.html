@@ -1,23 +1,32 @@
 {{ define "main" }}
-<header class="banner"><div class="banner-in"><h1>{{ site.Title }}</h1></div></header>
+<header class="banner"><div class="banner-in"><h1 class="title">{{ site.Title }}</h1></div></header>
 <main class="wide">
+<div class="listing">
 {{- $pager := .Paginate (where site.RegularPages "Section" "posts") }}
 {{- range $pager.Pages }}
 {{- $url := partial "url.html" . }}
 <div class="post">
 <div class="thumb">
-{{- with .Params.image }}{{ with resources.Get . }}{{ with .Fit "480x320 webp q80" }}
-<a href="{{ $url }}" tabindex="-1"><img loading="lazy" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt=""></a>
+{{- with .Params.image }}{{ with resources.Get . }}{{ with .Resize (printf "%dx webp q80" (math.Min .Width 540 | int)) }}
+<a href="{{ $url }}" tabindex="-1" aria-hidden="true"><img loading="lazy" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt=""></a>
 {{- end }}{{ end }}{{ end }}
 </div>
-<h3><a href="{{ $url }}">{{ .Title }}</a></h3>
+<h3><a href="{{ $url }}">{{ .Title | markdownify }}</a></h3>
 <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
 </div>
 {{- end }}
+</div>
 {{- if gt $pager.TotalPages 1 }}
 <ul class="pager" aria-label="Page navigation">
+{{- $current := $pager.PageNumber }}
+{{- $last := $pager.TotalPages }}
 {{- range $pager.Pagers }}
-<li>{{ if eq . $pager }}<span class="on">{{ .PageNumber }}</span>{{ else }}<a href="{{ cond hugo.IsServer .URL (strings.TrimSuffix ".html" .URL) }}">{{ .PageNumber }}</a>{{ end }}</li>
+{{- $n := .PageNumber }}
+{{- if or (eq $n 1) (eq $n $last) (and (ge $n (sub $current 2)) (le $n (add $current 2))) }}
+<li>{{ if eq $n $current }}<span class="on">{{ $n }}</span>{{ else }}<a href="{{ cond hugo.IsServer .URL (replaceRE `(index)?\.html$` "" .URL) }}">{{ $n }}</a>{{ end }}</li>
+{{- else if or (eq $n (sub $current 3)) (eq $n (add $current 3)) }}
+<li><span class="gap">…</span></li>
+{{- end }}
 {{- end }}
 </ul>
 {{- end }}
